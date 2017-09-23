@@ -1,0 +1,15 @@
+.logo__link {
+	text-transform: capitalize;
+}
+
+.container {
+	max-width: 98%;
+}
+
+.content {
+	width: 76%;
+}
+
+.sidebar {
+	width: 20%;
+}
