@@ -27,3 +27,8 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
+
+### Notes ###
+
+git clone https://github.com/vimux/mainroad ./themes/mainroad
+hugo server --theme=mainroad
