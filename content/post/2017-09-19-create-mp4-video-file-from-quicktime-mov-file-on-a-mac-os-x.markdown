@@ -14,6 +14,7 @@ tags:
 title: Create MP4 video file from Quicktime Mov file on a Mac OS X
 url: /2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/
 wordpress_id: 1559
+thumbnail: "/img/logo/macosx_blogarticle_100px.png"
 ---
 
 ![macosx_blogarticle_100px](/img/2016/11/macosx_blogarticle_100px.png)If you do a screen recording on a Mac, you are most likely using the free Quicktime player that comes with Mac OS X. If you are lucky enough to own a Quicktime Pro then you can simply do an Export > Save-As MP4. For those of you that do not have a Quicktime Pro, then you can use this option.

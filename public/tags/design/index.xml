@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on MyThinkPond</title>
+    <link>/tags/design/</link>
+    <description>Recent content in Design on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Sep 2017 23:42:33 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Converted Wordpress.com Hosted Blog to Hugo Static Blog :-)</title>
+      <link>/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      
+      <guid>/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</guid>
+      <description>Summary Thanks to Hugo Static Site generator written in GoLang and Mainroad Theme, I was able to port over my personal blog MyThinkPond.
+Before and After Here is a screenshot of the belore site:
+MyThinkPond under Wordpress hosting
+Here is a screenshot of the belore site:
+MyThinkPond under Wordpress hosting
+I think it&amp;rsquo;s a move in the right direction. Putting me in complete control of the content, images and all artifacts that goes into bundling the site.</description>
+    </item>
+    
+    <item>
+      <title>Elements of JavaScript Style – JavaScript Scene – Medium</title>
+      <link>/2017/05/03/elements-of-javascript-style-javascript-scene-medium/</link>
+      <pubDate>Wed, 03 May 2017 19:07:30 +0000</pubDate>
+      
+      <guid>/2017/05/03/elements-of-javascript-style-javascript-scene-medium/</guid>
+      <description>Great article focusing on Javascript style. Provides some good examples of JavaScript coding styles, practices, and things to avoid.
+The examples includes:
+    1. Make the function the unit of composition. One job for each function.   2. Omit needless code.   3. Use active voice.   4. Avoid a succession of loose statements.   5. Keep related code together.   6. Put statements and expressions in positive form.</description>
+    </item>
+    
+  </channel>
+</rss>

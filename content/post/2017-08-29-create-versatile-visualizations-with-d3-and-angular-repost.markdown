@@ -14,6 +14,7 @@ tags:
 title: Create versatile visualizations with D3 and Angular (repost) 
 url: /2017/08/29/create-versatile-visualizations-with-d3-and-angular-repost/
 wordpress_id: 1555
+thumbnail: "/img/logo/webdevelopment1.png"
 ---
 
 ![D3-Visualization-Example](/img/2017/08/d3-visualization-example.jpg)

@@ -14,45 +14,26 @@ tags:
 title: 'Mind Map: A Method To x100 Your Productivity | Robin Sharma'
 url: /2017/09/20/mind-map-a-method-to-x100-your-productivity-robin-sharma/
 wordpress_id: 1563
+thumbnail: "/img/logo/mindmap_sml.png"
 ---
 
-![MindMap](/img/2017/09/mindmap.png)Based on this YouTube video: [https://youtu.be/cshVfS2LXm0](https://youtu.be/cshVfS2LXm0)
+{{<img src="/img/2017/09/mindmap.png" alt="Mind Map" width="80"  align="left" class="imgframe">}}
+Based on this YouTube video: [https://youtu.be/cshVfS2LXm0](https://youtu.be/cshVfS2LXm0)
 
 By Robin Sharma on "A Method To x100 Your Productivity".
 
 Great video on how to improve your productivity by hundred fold. Mind map provided below for the busy folks.
 
-[![minemap-x100_productivity_by_robinsharma](/img/2017/09/minemap-x100_productivity_by_robinsharma2.png)](/img/2017/09/minemap-x100_productivity_by_robinsharma.png)
+{{<img src="/img/2017/09/minemap-x100_productivity_by_robinsharma2.png" alt="Mind Map: A Method To x100 Your Productivity by Robin Sharma" width="800"  align="center" class="imgframe">}}
 
 Cheers!
-<table width="605" style="height:155px;" >
-<tbody >
-<tr >
 
-<td colspan="2" bgcolor="#C2C9CC" >_Today's inspirational quote:_
-</td>
-</tr>
-<tr >
+<h3>Today's Insprirational Quote</h3>
+{{%img src="/img/2017/09/avvaiyar.jpg" alt="avvaiyar" width="50"  align="left" class="imgframe" %}}
+** Tamil **: கற்றது கைமண் அளவு, கட்காதது உலகளவு.<br>
+** English Pronounciation **: Katrathu Kaiman Alavu Kallathathu Ulagalavu<br>
+** English Translation **: Known is a drop, unknown is an ocean.<br>
 
-<td valign="middle" >[![](/img/2017/09/avvaiyar.jpg)](/img/2017/09/avvaiyar.jpg)
-</td>
+[Avvaiyar](https://en.wikipedia.org/wiki/Avvaiyar)
 
-<td valign="middle" >
-
-
-###### Tamil: கற்றது கைமண் அளவு, கட்காதது உலகளவு.
-English Pronounciation_: Katrathu Kaiman Alavu Kallathathu Ulagalavu_
-English Translation: Known is a drop, unknown is an ocean.
-
-
-
-
-###### - [Avvaiyar](https://en.wikipedia.org/wiki/Avvaiyar)
-
-
-
-</td>
-</tr>
-</tbody>
-</table>
 

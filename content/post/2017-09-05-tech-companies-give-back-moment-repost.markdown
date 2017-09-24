@@ -11,10 +11,12 @@ slug: tech-companies-give-back-moment-repost
 title: Tech Companies Give Back Moment (repost) 
 url: /2017/09/05/tech-companies-give-back-moment-repost/
 wordpress_id: 1558
+thumbnail: "/img/logo/give.png"
 ---
 
-![ConnectedWorld](/img/2017/09/connectedworld.jpg)
 
+
+{{<img src="/img/2017/09/connectedworld.jpg" alt="ConnectedWorld" width="250"  align="left" class="authorbox__avatar">}}
 
 <blockquote>We now exist an interesting interstitial moment, one defined by big corporations producing much of the innovation and some of the world’s richest companies – Apple, Amazon, Uber, Facebook – trying to solve big hairy problems. These are the problems that startups would have once solved but because they are so expensive – I’m talking about commercial VR, self-driving trucks, gene editing, and the like – there are no startups capitalized to tackle them.
 

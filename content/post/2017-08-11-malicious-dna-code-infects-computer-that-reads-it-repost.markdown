@@ -7,7 +7,10 @@ slug: malicious-dna-code-infects-computer-that-reads-it-repost
 title: Malicious DNA Code Infects Computer That Reads It (repost) 
 url: /2017/08/11/malicious-dna-code-infects-computer-that-reads-it-repost/
 wordpress_id: 1542
+thumbnail: "/img/logo/hackericon2.png"
 ---
+
+![Hacker](/img/logo/hackericon1.png)
 
 Malicious DNA Code Infects Computer That Reads It (repost)
 

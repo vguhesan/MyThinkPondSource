@@ -14,9 +14,10 @@ tags:
 title: YouTube has a new look and, for the first time, a new logo (repost) 
 url: /2017/08/29/youtube-has-a-new-look-and-for-the-first-time-a-new-logo-repost/
 wordpress_id: 1556
+thumbnail: "/img/logo/webdevelopment3.png"
 ---
 
-![GraphicDesignAtWork](/img/2017/08/graphicdesignatwork.jpg)
+{{<img src="/img/2017/08/graphicdesignatwork.jpg" alt="GraphicDesignAtWork" width="150"  align="left" class="imgframe">}}
 
 YouTube has a new look and, for the first time, a new logo (repost)
 

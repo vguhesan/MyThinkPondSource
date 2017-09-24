@@ -7,7 +7,11 @@ slug: super-thin-semiconductors-delay-the-death-of-silicon
 title: Super-thin semiconductors delay the 'death' of silicon
 url: /2017/08/13/super-thin-semiconductors-delay-the-death-of-silicon/
 wordpress_id: 1546
+thumbnail: "/img/logo/silicon.png"
 ---
 
+![Semiconductor](/img/logo/silicon.png)
+
 Super-thin semiconductors delay the 'death' of silicon
+
 [https://www.engadget.com/2017/08/13/super-thin-semiconductors/](https://www.engadget.com/2017/08/13/super-thin-semiconductors/)

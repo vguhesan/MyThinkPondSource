@@ -1,0 +1,42 @@
+<!--
+    Can be positional or named
+
+    position 0, src: path
+        Can pass in the following values:
+            title: will use /img/LinkTitle as the path
+            date: will use /img/Year/Month as the path
+            /path/to/img: can pass in explicit path to the image
+
+    position 1, alt: file
+        alt of the file including the file extension
+
+    position 2, width: width
+
+    position 3, height: height
+    
+    position 4, align: center|left|right
+
+    Example:
+    \{\{< img src="/img/2009/05/2015-07-08-15-09-07-993.jpg" alt="Venkatt Guhesan" width="100" height="100" align="left" class="imgframe">\}\}
+
+-->
+<img 
+    {{ if isset .Params "src" }}
+        src="{{ .Get `src`}}" 
+    {{ end }}
+    {{ if isset .Params "alt" }}
+        alt="{{ .Get `alt`}}"
+    {{ end }}
+    {{ if isset .Params "width" }} 
+        width="{{ .Get `width`}}" 
+    {{ end }}
+    {{ if isset .Params "height" }}
+        height="{{ .Get `height`}}"
+    {{ end }}
+    {{ if isset .Params "align" }} 
+        align="{{ .Get `align`}}" 
+    {{ end }}
+    {{ if isset .Params "class" }}
+        class="{{ .Get `class`}}" 
+    {{ end }}
+    >

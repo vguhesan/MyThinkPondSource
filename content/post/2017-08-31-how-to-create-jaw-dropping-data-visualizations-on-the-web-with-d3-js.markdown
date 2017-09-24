@@ -18,6 +18,7 @@ tags:
 title: How to create jaw dropping Data Visualizations on the web with D3.js?
 url: /2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/
 wordpress_id: 1557
+thumbnail: "/img/logo/webdevelopment1.png"
 ---
 
 ![D3-Visualization-Example](/img/2017/08/d3-visualization-example.jpg)
@@ -29,45 +30,17 @@ Thus article goes into the details of creating great visuals leveraging D3 JavaS
 Some of the steps includes:
 
 
-<blockquote>
-
-> 
-> 
-	
->   1. Refreshing previous concepts of D3.js
-> 
-	
->   2. A glance at advanced concepts: Scales, Axes and Reading data from external sources
-> 
-	
->   3. Building basic charts and code reusability
-
-	
->     1. Line Chart
-> 
-	
->     2. Area Chart
-> 
-	
->     3. Chart as a modular structure
-> 
-	
->     4. Case Study
-> 
-
-
-> 
-	
->   4. Visualizing Game of Thrones Social Network  – Force Directed Graph in action!
-> 
-	
->   5. Case Studies – Some interesting charts built using D3.js
-> 
-	
->   6. Introduction to Dimple.js – D3 made easy!
-> 
-
-</blockquote>
+1. Refreshing previous concepts of D3.js
+2. A glance at advanced concepts: Scales, Axes and Reading data from external sources
+3. Building basic charts and code reusability
+	1. Line Chart
+	2. Area Chart
+	3. Chart as a modular structure
+	4. Case Study
+4. Visualizing Game of Thrones Social Network  – Force Directed Graph in action!
+5. Case Studies – Some interesting charts built using D3.js
+6. Introduction to Dimple.js – D3 made easy!
+ 
 
 
 Definitely a great read if you are trying to learn the D3.js library or if you're trying to learn some basics on creating stunning visuals speaking volumes on numbers.

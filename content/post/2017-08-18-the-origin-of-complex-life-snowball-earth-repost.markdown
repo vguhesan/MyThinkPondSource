@@ -7,6 +7,7 @@ slug: the-origin-of-complex-life-snowball-earth-repost
 title: The origin of complex life (snowball earth) (repost) 
 url: /2017/08/18/the-origin-of-complex-life-snowball-earth-repost/
 wordpress_id: 1548
+thumbnail: "/img/logo/dna.png"
 ---
 
 ![iceage](/img/2017/08/iceage.jpg)

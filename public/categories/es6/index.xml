@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Es6 on MyThinkPond</title>
+    <link>/categories/es6/</link>
+    <description>Recent content in Es6 on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 May 2017 19:23:37 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/es6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Javascript: Embrace Arrow Functions</title>
+      <link>/2017/05/03/javascript-embrace-arrow-functions/</link>
+      <pubDate>Wed, 03 May 2017 19:23:37 +0000</pubDate>
+      
+      <guid>/2017/05/03/javascript-embrace-arrow-functions/</guid>
+      <description>Great article on JavaScript currying and arrow functions.
+Here is an example of a function in Javascript: const secret = function (msg) { return function () { return msg; }; }; 
+The same function as currying or arrow function: const secret = msg =&amp;gt; () =&amp;gt; msg; 
+To learn more about the basics, visit the link below. Source: Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions</description>
+    </item>
+    
+    <item>
+      <title>Angular Modules vs ES6 Modules - DZone Web Dev</title>
+      <link>/2017/03/13/angular-modules-vs-es6-modules-dzone-web-dev/</link>
+      <pubDate>Mon, 13 Mar 2017 14:19:53 +0000</pubDate>
+      
+      <guid>/2017/03/13/angular-modules-vs-es6-modules-dzone-web-dev/</guid>
+      <description>In this post, you&amp;rsquo;ll find a quick tutorial explaining the difference between Angular Module and ESG Modules, and how to best use each of these platforms.
+Here is a quick summary:
+ES6 Module Example:
+import { sqrt } from &#39;math-utils&#39;; const addition = (val1, val2) =&amp;gt; val1 + val2; const subtraction = (val1, val2) =&amp;gt; val1 - val2; const multiplication = (val1, val2) =&amp;gt; val1 * val2; const calculateSquareRoot = (val) =&amp;gt; sqrt(val); export { addition, multiplication }  Angular Module Example:</description>
+    </item>
+    
+  </channel>
+</rss>

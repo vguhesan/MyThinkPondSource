@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on MyThinkPond</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Apr 2010 18:07:06 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>.Net</title>
+      <link>/categories/.net/</link>
+      <pubDate>Thu, 08 Apr 2010 18:07:06 +0000</pubDate>
+      
+      <guid>/categories/.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>/categories/angular/</link>
+      <pubDate>Mon, 13 Mar 2017 14:19:53 +0000</pubDate>
+      
+      <guid>/categories/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Api</title>
+      <link>/categories/api/</link>
+      <pubDate>Mon, 13 Mar 2017 14:21:54 +0000</pubDate>
+      
+      <guid>/categories/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bash</title>
+      <link>/categories/bash/</link>
+      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      
+      <guid>/categories/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>/categories/blockchain/</link>
+      <pubDate>Wed, 23 Aug 2017 01:15:28 +0000</pubDate>
+      
+      <guid>/categories/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      
+      <guid>/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brix Cms</title>
+      <link>/categories/brix-cms/</link>
+      <pubDate>Tue, 09 Mar 2010 20:02:55 +0000</pubDate>
+      
+      <guid>/categories/brix-cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>/categories/business/</link>
+      <pubDate>Sun, 19 Feb 2017 02:25:41 +0000</pubDate>
+      
+      <guid>/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C   C&#43;&#43;   Gcc   Cpp</title>
+      <link>/categories/c---c&#43;&#43;---gcc---cpp/</link>
+      <pubDate>Mon, 07 Sep 2015 02:02:54 +0000</pubDate>
+      
+      <guid>/categories/c---c&#43;&#43;---gcc---cpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centos 6.x</title>
+      <link>/categories/centos-6.x/</link>
+      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      
+      <guid>/categories/centos-6.x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centos7</title>
+      <link>/categories/centos7/</link>
+      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      
+      <guid>/categories/centos7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charting Amp Visualization</title>
+      <link>/categories/charting-amp-visualization/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      
+      <guid>/categories/charting-amp-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code Analysis</title>
+      <link>/categories/code-analysis/</link>
+      <pubDate>Thu, 14 Jul 2011 11:50:57 +0000</pubDate>
+      
+      <guid>/categories/code-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cubieboard2 Amp Cubietruck</title>
+      <link>/categories/cubieboard2-amp-cubietruck/</link>
+      <pubDate>Sun, 03 Nov 2013 20:43:57 +0000</pubDate>
+      
+      <guid>/categories/cubieboard2-amp-cubietruck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>/categories/design/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      
+      <guid>/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>/categories/django/</link>
+      <pubDate>Thu, 01 Mar 2012 17:53:35 +0000</pubDate>
+      
+      <guid>/categories/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El6</title>
+      <link>/categories/el6/</link>
+      <pubDate>Wed, 03 May 2017 19:07:30 +0000</pubDate>
+      
+      <guid>/categories/el6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedded Systems</title>
+      <link>/categories/embedded-systems/</link>
+      <pubDate>Fri, 24 Mar 2017 02:41:52 +0000</pubDate>
+      
+      <guid>/categories/embedded-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Es6</title>
+      <link>/categories/es6/</link>
+      <pubDate>Wed, 03 May 2017 19:23:37 +0000</pubDate>
+      
+      <guid>/categories/es6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>/categories/general/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      
+      <guid>/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>/categories/golang/</link>
+      <pubDate>Thu, 16 Mar 2017 00:49:33 +0000</pubDate>
+      
+      <guid>/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradle</title>
+      <link>/categories/gradle/</link>
+      <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
+      
+      <guid>/categories/gradle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grails</title>
+      <link>/categories/grails/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      
+      <guid>/categories/grails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greasemonkey</title>
+      <link>/categories/greasemonkey/</link>
+      <pubDate>Wed, 21 Apr 2010 13:09:27 +0000</pubDate>
+      
+      <guid>/categories/greasemonkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Great Ideas</title>
+      <link>/categories/great-ideas/</link>
+      <pubDate>Mon, 24 Apr 2017 15:27:56 +0000</pubDate>
+      
+      <guid>/categories/great-ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groovy</title>
+      <link>/categories/groovy/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      
+      <guid>/categories/groovy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gwt</title>
+      <link>/categories/gwt/</link>
+      <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
+      
+      <guid>/categories/gwt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>/categories/history/</link>
+      <pubDate>Sat, 19 Aug 2017 17:13:47 +0000</pubDate>
+      
+      <guid>/categories/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html5</title>
+      <link>/categories/html5/</link>
+      <pubDate>Sat, 25 Feb 2012 18:36:56 +0000</pubDate>
+      
+      <guid>/categories/html5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>/categories/hugo/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      
+      <guid>/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanity</title>
+      <link>/categories/humanity/</link>
+      <pubDate>Fri, 28 Apr 2017 21:39:10 +0000</pubDate>
+      
+      <guid>/categories/humanity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypervisior Images</title>
+      <link>/categories/hypervisior-images/</link>
+      <pubDate>Thu, 16 Mar 2017 01:19:15 +0000</pubDate>
+      
+      <guid>/categories/hypervisior-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In the News</title>
+      <link>/categories/in-the-news/</link>
+      <pubDate>Sat, 19 Aug 2017 17:13:47 +0000</pubDate>
+      
+      <guid>/categories/in-the-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspirational</title>
+      <link>/categories/inspirational/</link>
+      <pubDate>Wed, 20 Sep 2017 22:21:11 +0000</pubDate>
+      
+      <guid>/categories/inspirational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intellij</title>
+      <link>/categories/intellij/</link>
+      <pubDate>Fri, 18 Feb 2011 16:37:46 +0000</pubDate>
+      
+      <guid>/categories/intellij/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iot</title>
+      <link>/categories/iot/</link>
+      <pubDate>Thu, 11 May 2017 23:31:56 +0000</pubDate>
+      
+      <guid>/categories/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jackrabbit</title>
+      <link>/categories/jackrabbit/</link>
+      <pubDate>Wed, 21 Apr 2010 13:09:27 +0000</pubDate>
+      
+      <guid>/categories/jackrabbit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>/categories/java/</link>
+      <pubDate>Thu, 16 Feb 2017 16:21:23 +0000</pubDate>
+      
+      <guid>/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>/categories/javascript/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      
+      <guid>/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jboss As6</title>
+      <link>/categories/jboss-as6/</link>
+      <pubDate>Thu, 26 Aug 2010 19:22:16 +0000</pubDate>
+      
+      <guid>/categories/jboss-as6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jquery</title>
+      <link>/categories/jquery/</link>
+      <pubDate>Mon, 31 Oct 2011 23:52:28 +0000</pubDate>
+      
+      <guid>/categories/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel</title>
+      <link>/categories/kernel/</link>
+      <pubDate>Sat, 05 Nov 2016 16:45:30 +0000</pubDate>
+      
+      <guid>/categories/kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life 101</title>
+      <link>/categories/life-101/</link>
+      <pubDate>Sun, 01 Jan 2017 15:11:33 +0000</pubDate>
+      
+      <guid>/categories/life-101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>/categories/linux/</link>
+      <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
+      
+      <guid>/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac Os X</title>
+      <link>/categories/mac-os-x/</link>
+      <pubDate>Tue, 19 Sep 2017 02:06:43 +0000</pubDate>
+      
+      <guid>/categories/mac-os-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>/categories/maven/</link>
+      <pubDate>Sat, 02 Oct 2010 18:28:00 +0000</pubDate>
+      
+      <guid>/categories/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>/categories/miscellaneous/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      
+      <guid>/categories/miscellaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mod_python</title>
+      <link>/categories/mod_python/</link>
+      <pubDate>Thu, 29 Dec 2011 03:09:12 +0000</pubDate>
+      
+      <guid>/categories/mod_python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/categories/music/</link>
+      <pubDate>Mon, 05 Jul 2010 18:45:35 +0000</pubDate>
+      
+      <guid>/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node Js</title>
+      <link>/categories/node-js/</link>
+      <pubDate>Fri, 14 Oct 2016 18:42:15 +0000</pubDate>
+      
+      <guid>/categories/node-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outdoors Amp Nature</title>
+      <link>/categories/outdoors-amp-nature/</link>
+      <pubDate>Thu, 11 May 2017 01:41:43 +0000</pubDate>
+      
+      <guid>/categories/outdoors-amp-nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle Photon</title>
+      <link>/categories/particle-photon/</link>
+      <pubDate>Thu, 11 May 2017 23:31:56 +0000</pubDate>
+      
+      <guid>/categories/particle-photon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pomodoro</title>
+      <link>/categories/pomodoro/</link>
+      <pubDate>Thu, 14 Jul 2011 12:43:51 +0000</pubDate>
+      
+      <guid>/categories/pomodoro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>/categories/programming/</link>
+      <pubDate>Thu, 11 May 2017 01:35:19 +0000</pubDate>
+      
+      <guid>/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pycharm</title>
+      <link>/categories/pycharm/</link>
+      <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
+      
+      <guid>/categories/pycharm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/categories/python/</link>
+      <pubDate>Sat, 01 Apr 2017 16:26:27 +0000</pubDate>
+      
+      <guid>/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>/categories/raspberry-pi/</link>
+      <pubDate>Fri, 24 Mar 2017 02:41:52 +0000</pubDate>
+      
+      <guid>/categories/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revel Web Framework</title>
+      <link>/categories/revel-web-framework/</link>
+      <pubDate>Tue, 26 Jan 2016 01:05:42 +0000</pubDate>
+      
+      <guid>/categories/revel-web-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scala</title>
+      <link>/categories/scala/</link>
+      <pubDate>Mon, 16 Nov 2009 15:51:05 +0000</pubDate>
+      
+      <guid>/categories/scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>/categories/science/</link>
+      <pubDate>Fri, 28 Apr 2017 21:39:10 +0000</pubDate>
+      
+      <guid>/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science and Technology</title>
+      <link>/categories/science-and-technology/</link>
+      <pubDate>Tue, 05 Sep 2017 00:47:04 +0000</pubDate>
+      
+      <guid>/categories/science-and-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scripting</title>
+      <link>/categories/scripting/</link>
+      <pubDate>Wed, 03 May 2017 19:07:30 +0000</pubDate>
+      
+      <guid>/categories/scripting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>/categories/security/</link>
+      <pubDate>Mon, 13 Mar 2017 14:10:41 +0000</pubDate>
+      
+      <guid>/categories/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sourcecontrol   Git</title>
+      <link>/categories/sourcecontrol---git/</link>
+      <pubDate>Sun, 17 Nov 2013 02:16:15 +0000</pubDate>
+      
+      <guid>/categories/sourcecontrol---git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparkcore   Arduino</title>
+      <link>/categories/sparkcore---arduino/</link>
+      <pubDate>Wed, 18 Jun 2014 02:51:11 +0000</pubDate>
+      
+      <guid>/categories/sparkcore---arduino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>/categories/spring/</link>
+      <pubDate>Tue, 14 Mar 2017 02:26:09 +0000</pubDate>
+      
+      <guid>/categories/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Framework</title>
+      <link>/categories/spring-framework/</link>
+      <pubDate>Tue, 14 Mar 2017 02:26:09 +0000</pubDate>
+      
+      <guid>/categories/spring-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage</title>
+      <link>/categories/storage/</link>
+      <pubDate>Thu, 16 Mar 2017 14:38:03 +0000</pubDate>
+      
+      <guid>/categories/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tear Down</title>
+      <link>/categories/tear-down/</link>
+      <pubDate>Mon, 04 Jan 2016 23:37:50 +0000</pubDate>
+      
+      <guid>/categories/tear-down/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>/categories/technology/</link>
+      <pubDate>Thu, 06 Apr 2017 19:01:57 +0000</pubDate>
+      
+      <guid>/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomcat</title>
+      <link>/categories/tomcat/</link>
+      <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
+      
+      <guid>/categories/tomcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travels</title>
+      <link>/categories/travels/</link>
+      <pubDate>Fri, 14 Oct 2016 20:54:33 +0000</pubDate>
+      
+      <guid>/categories/travels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trending</title>
+      <link>/categories/trending/</link>
+      <pubDate>Tue, 05 Sep 2017 00:47:04 +0000</pubDate>
+      
+      <guid>/categories/trending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/categories/twitter/</link>
+      <pubDate>Thu, 29 Jul 2010 20:53:26 +0000</pubDate>
+      
+      <guid>/categories/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaadin</title>
+      <link>/categories/vaadin/</link>
+      <pubDate>Wed, 15 Sep 2010 18:50:21 +0000</pubDate>
+      
+      <guid>/categories/vaadin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertx</title>
+      <link>/categories/vertx/</link>
+      <pubDate>Thu, 15 Nov 2012 23:31:21 +0000</pubDate>
+      
+      <guid>/categories/vertx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>/categories/web-development/</link>
+      <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
+      
+      <guid>/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weblogic</title>
+      <link>/categories/weblogic/</link>
+      <pubDate>Tue, 21 Sep 2010 18:08:52 +0000</pubDate>
+      
+      <guid>/categories/weblogic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Websockets</title>
+      <link>/categories/websockets/</link>
+      <pubDate>Tue, 13 Nov 2012 19:26:39 +0000</pubDate>
+      
+      <guid>/categories/websockets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wicket</title>
+      <link>/categories/wicket/</link>
+      <pubDate>Tue, 09 Mar 2010 04:37:11 +0000</pubDate>
+      
+      <guid>/categories/wicket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiki</title>
+      <link>/categories/wiki/</link>
+      <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
+      
+      <guid>/categories/wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>/categories/windows/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      
+      <guid>/categories/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wordpress</title>
+      <link>/categories/wordpress/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      
+      <guid>/categories/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeromq</title>
+      <link>/categories/zeromq/</link>
+      <pubDate>Mon, 07 Sep 2015 02:02:54 +0000</pubDate>
+      
+      <guid>/categories/zeromq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

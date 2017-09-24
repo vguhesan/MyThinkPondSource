@@ -13,6 +13,7 @@ slug: three-shadows-during-the-eclipse-science-behind-it
 title: Three shadows during the eclipse. Science behind it. 
 url: /2017/08/19/three-shadows-during-the-eclipse-science-behind-it/
 wordpress_id: 1550
+thumbnail: "/img/logo/eclipse.png"
 ---
 
 ![eclipse2](/img/2017/08/eclipse2.jpg)

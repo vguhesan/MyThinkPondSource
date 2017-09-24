@@ -1,0 +1,55 @@
+baseurl = "/"
+title = "MyThinkPond"
+languageCode = "en-us"
+paginate = "20" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "mythinkpond" # Enable comments by entering your Disqus shortname
+googleAnalytics = "UA-106933850-1" # Enable Google Analytics by entering your tracking id
+
+[Author] # Used in authorbox
+    name = "Venkatt Guhesan"
+    bio = "Enterprise Software Architect currently working at Data Direct Networks developing a highly scalable monitoring solution called DDN Insight. My passions include all things Open Source including Linux (CentOS, Red Hat, Gentoo, Open Stack, Docker & Ubuntu), embedded ARM processors and microcontrollers (Arduino, UDOO, Cubieboard, BeagleBoard, OnionIO, TI's Zigbee). Coming from an Electrical and Computer Engineering background, working in developing and designing enterprise - distributed, highly scalable software requires a unique set of software skills with a good understanding of the hardware. This makes his work challenging and interesting. In his free time, he spends his time with his family and two children. He also enjoys researching on topics including - world ancient history and yoga. Visit the 'About' section for more details."
+    avatar = "/img/common/VenkattGuhesan_Aug2017.jpg"
+
+[[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -100
+    identifier = "about"
+    url = "/about/"
+
+[[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -110
+    url = "/"
+
+
+
+
+[Params]
+    subtitle = "On Java, Python, Groovy, Grails, Spring, Node.js, Linux, Arduino, ARM, Embedded Devices & Web" # Subtitle of your site. Used in site header
+    description = " Venkatt Guhesan's personal blog on all things interesting." # Description of your site. Used in meta description
+    opengraph = true # Enable OpenGraph if true
+    readmore = false # Show "Read more" button in list if true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true # Show authorbox at bottom of pages if true
+    post_navigation = true # Show post navigation at bottom of pages if true
+    postSections = ["post"] # the section pages to show on home page and the "Recent articles" widget
+    #postSections = ["blog", "news"] # alternative that shows more than one section's pages
+    #dateformat = "2006-01-02" # change the format of dates
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent articles" widget
+    recent_articles_num = 5 # Set the number of articles in the "Recent articles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+    # Enable "Social" widget, if any of "social_*" set a value
+    social_facebook = "venkattg"
+    social_twitter = "vguhesan"
+    social_linkedin = "venkatt-guhesan-6956431"
+    #social_github = "username"
+    social_email = "vguhesan+mtp@gmail.com"

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring Framework on MyThinkPond</title>
+    <link>/tags/spring-framework/</link>
+    <description>Recent content in Spring Framework on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Sep 2010 02:05:51 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/spring-framework/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GWT and Spring Integration - java.net.InetAddress is a restricted class</title>
+      <link>/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</link>
+      <pubDate>Mon, 13 Sep 2010 02:05:51 +0000</pubDate>
+      
+      <guid>/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</guid>
+      <description>When trying to integrate both Spring and GWT, one might encounter the following error in the Spring Eclipse IDE:
+&amp;ldquo;java.net.InetAddress is a restricted class&amp;rdquo;. The problem happens when you try to use Spring configuration for your database. In my case, I was using Spring to update data back to a H2 database.
+Well, here&amp;rsquo;s one way to deal with this issue. Disable the &amp;ldquo;Google App Engine&amp;rdquo;. Yes, based on my research, if you&amp;rsquo;re using GWT, you can disable Google App Engine and still continue your development with GWT.</description>
+    </item>
+    
+  </channel>
+</rss>
