@@ -48,8 +48,9 @@ MyThinkPond is developed as a static website using [Hugo](https://gohugo.io/). I
   * Syntax Highlighting : provided by [highlight.js](https://highlightjs.org/)
   * Search: provided by Google Site Search
   * Analytics: provided by Google Analytics
-  * Comments System is built using Disqus
-  * BlueHost hosting is used for hosting the static website
+  * Comments System is built using [Disqus](https://disqus.com/)
+  * [BlueHost](https://www.bluehost.com/) hosting is used for hosting the static website
+  * Email Subscription provided by [SpecificFeeds.com](https://www.specificfeeds.com/)
 
 
 
