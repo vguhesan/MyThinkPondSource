@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Record Commands in Ssh on MyThinkPond</title>
-    <link>/tags/record-commands-in-ssh/</link>
+    <link>http://MyThinkPond.com/tags/record-commands-in-ssh/</link>
     <description>Recent content in Record Commands in Ssh on MyThinkPond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Mar 2017 19:27:16 +0000</lastBuildDate>
     
-	<atom:link href="/tags/record-commands-in-ssh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://MyThinkPond.com/tags/record-commands-in-ssh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How To Record Everything You Do In Terminal - OSTechNix</title>
-      <link>/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</link>
+      <link>http://MyThinkPond.com/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</link>
       <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
       
-      <guid>/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</guid>
+      <guid>http://MyThinkPond.com/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</guid>
       <description>Synopsis:
 script -a my_history mkdir test cd test touch hello_world.txt echo &#39;Hello World&#39;  ./hello_world.txt # This closes the &#34;script -a my_history&#34; file exit  Source: How To Record Everything You Do In Terminal - OSTechNix</description>
     </item>

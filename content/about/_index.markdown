@@ -41,4 +41,16 @@ What is this symbol used in my profile?
 
 It represents one of the "unique" alphabets in the [Tamil language](http://en.wikipedia.org/wiki/Tamil_language) (one of the oldest surviving classical languages of the world) pronounced as "la" with "za" sound. It is a special 'distinguished' alphabet and pronunciation that's only found in the Tamil language (among the five languages that share a common ancestry). The Tamil language belongs to the [Dravidian family of languages](http://en.wikipedia.org/wiki/Dravidian_languages). I chose this alphabet to represent my Gravatar because it holds a special place for me.
 
+## About this blog (MyThinkPond.com) 
+
+MyThinkPond is developed as a static website using [Hugo](https://gohugo.io/). It easy to use and is built on one of my favorite languages - [GoLang](https://golang.org/). The theme used on this website is based on [Mainroad](https://github.com/Vimux/Mainroad/). [Markdown](https://en.wikipedia.org/wiki/Markdown) is the markup language used to edit and generate this website content.
+
+  * Syntax Highlighting : provided by [highlight.js](https://highlightjs.org/)
+  * Search: provided by Google Site Search
+  * Analytics: provided by Google Analytics
+  * Comments System is built using Disqus
+  * BlueHost hosting is used for hosting the static website
+
+
+
 

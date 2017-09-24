@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grails on MyThinkPond</title>
-    <link>/categories/grails/</link>
+    <link>http://MyThinkPond.com/categories/grails/</link>
     <description>Recent content in Grails on MyThinkPond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Dec 2016 01:53:04 +0000</lastBuildDate>
     
-	<atom:link href="/categories/grails/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://MyThinkPond.com/categories/grails/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Developing email applications on Windows, targeted for Linux environment - email, mailx, sendmail</title>
-      <link>/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</link>
+      <link>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</link>
       <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
       
-      <guid>/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</guid>
+      <guid>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</guid>
       <description>If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.
 Let us begin by understand the problem.
 Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
@@ -24,10 +24,10 @@ Problem If you are a Java/Spring developer, (developing in Java is platform inde
     
     <item>
       <title>Grails No profile found for name [web] illegalstateexception</title>
-      <link>/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</link>
+      <link>http://MyThinkPond.com/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</link>
       <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
       
-      <guid>/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</guid>
+      <guid>http://MyThinkPond.com/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</guid>
       <description>Most likely you&amp;rsquo;ve landed on this page because you&amp;rsquo;ve searched for the error in a search engine and it brought you here.
 Symptom: When you run &amp;ldquo;grails&amp;rdquo; under an existing project that you previously had (either on a different PC or from a source-control like GIT or SVN and you&amp;rsquo;ve mistakenly included the &amp;ldquo;build&amp;rdquo; directory).
 The associated error would have been one of the following:
@@ -36,20 +36,20 @@ Grails No profile found for name [web] or java.</description>
     
     <item>
       <title>Gradle Spring Woes: Issues in creating single jar bundle with all dependency jars nested within</title>
-      <link>/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</link>
+      <link>http://MyThinkPond.com/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</link>
       <pubDate>Thu, 03 Nov 2016 20:47:00 +0000</pubDate>
       
-      <guid>/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</guid>
+      <guid>http://MyThinkPond.com/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</guid>
       <description>If you&amp;rsquo;re implementing any projects with Spring and Gradle (for build), as your project grows you may run into this issue. Or you&amp;rsquo;ve landed on this page by searching on Google for &amp;ldquo;Unable to locate Spring NamespaceHandler for XML schema namespace&amp;rdquo; (your actual XML that it&amp;rsquo;s error-ing out may vary).
 Either way, you&amp;rsquo;re in luck! Most likely, you&amp;rsquo;re using the fatjar gradle plugin to create a single JAR for executing as &amp;ldquo;java -jar one-big-bundle.</description>
     </item>
     
     <item>
       <title>Grails 2.3.5 - grails stop-app - does not stop the app running via run-app</title>
-      <link>/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</link>
+      <link>http://MyThinkPond.com/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</link>
       <pubDate>Sun, 02 Feb 2014 19:40:57 +0000</pubDate>
       
-      <guid>/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</guid>
+      <guid>http://MyThinkPond.com/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</guid>
       <description>If you&amp;rsquo;re using Grails 2.3.X and you&amp;rsquo;re developing, most likely you&amp;rsquo;re running your app like this:
 [sourcecode language=&amp;ldquo;jscript&amp;rdquo;] grails run-app #in one command-prompt/shell-terminal and grails stop-app #in another command-prompt/shell-terminal [/sourcecode]
 With the latest version of Grails (version 2.3.5), the stop-app say:
@@ -61,10 +61,10 @@ Here&amp;rsquo;s an undocumented fix that can come in handy:
     
     <item>
       <title>Grails - Adding JavaScript to bottom of page</title>
-      <link>/2014/02/02/grails-adding-javascript-bottom-page/</link>
+      <link>http://MyThinkPond.com/2014/02/02/grails-adding-javascript-bottom-page/</link>
       <pubDate>Sun, 02 Feb 2014 17:10:04 +0000</pubDate>
       
-      <guid>/2014/02/02/grails-adding-javascript-bottom-page/</guid>
+      <guid>http://MyThinkPond.com/2014/02/02/grails-adding-javascript-bottom-page/</guid>
       <description>In Grails using the templating (Sitemesh) if you were to include per-page JavaScript resources then it shows up much earlier in the layout content as part of the 
 Here is an example illustrating the problem:
 SamplePage.gsp [sourcecode language=&amp;ldquo;html&amp;rdquo;] &amp;lt;!DOCTYPE html&amp;gt;   MyThinkPond.com Custom Page &amp;hellip;   Some this page content   
@@ -74,28 +74,28 @@ and the layout page (layoutPage.gsp) [sourcecode language=&amp;ldquo;html&amp;rd
     
     <item>
       <title>Grails 2.X .gitignore file</title>
-      <link>/2013/11/17/grails-2-x-gitignore-file/</link>
+      <link>http://MyThinkPond.com/2013/11/17/grails-2-x-gitignore-file/</link>
       <pubDate>Sun, 17 Nov 2013 02:16:15 +0000</pubDate>
       
-      <guid>/2013/11/17/grails-2-x-gitignore-file/</guid>
+      <guid>http://MyThinkPond.com/2013/11/17/grails-2-x-gitignore-file/</guid>
       <description>With a new Grails 2.X project you run into challenges on which folders to check-in into a GIT repository. You want to remove any non-essential files that Grails can rebuild at run-time. And if you are using either GITHub or BitBucket for your GIT repo&amp;rsquo;s the default .gitignore file created or provided by GITHub is setup for configured for a Grails 1.X project and not a Grails 2.X project.</description>
     </item>
     
     <item>
       <title>Grails - Groovy - Alternative to HttpBuilder - adding headers to your HTTP request</title>
-      <link>/2011/10/24/grails-groovy-alternative-to-httpbuilder-adding-headers-to-your-http-request/</link>
+      <link>http://MyThinkPond.com/2011/10/24/grails-groovy-alternative-to-httpbuilder-adding-headers-to-your-http-request/</link>
       <pubDate>Mon, 24 Oct 2011 16:37:56 +0000</pubDate>
       
-      <guid>/2011/10/24/grails-groovy-alternative-to-httpbuilder-adding-headers-to-your-http-request/</guid>
+      <guid>http://MyThinkPond.com/2011/10/24/grails-groovy-alternative-to-httpbuilder-adding-headers-to-your-http-request/</guid>
       <description>Developing with Grails and Groovy can be a blessing and and pain all at the same time. The development moves at a rapid rate but when you decide to include libraries that depend on other libraries, your pain starts to build up. For example, when you include the module &amp;ldquo;HttpBuilder&amp;rdquo;in your project you may run into issues with Xerces and xml-apis, especially when you attempt to deploy the WAR file under Tomcat.</description>
     </item>
     
     <item>
       <title>Grails H2 Database 1.4.M1 Issue</title>
-      <link>/2011/08/28/grails-h2-database-1-4-m1-issue/</link>
+      <link>http://MyThinkPond.com/2011/08/28/grails-h2-database-1-4-m1-issue/</link>
       <pubDate>Sun, 28 Aug 2011 22:14:37 +0000</pubDate>
       
-      <guid>/2011/08/28/grails-h2-database-1-4-m1-issue/</guid>
+      <guid>http://MyThinkPond.com/2011/08/28/grails-h2-database-1-4-m1-issue/</guid>
       <description>I&amp;rsquo;ve noticed a peculiar behavior that I&amp;rsquo;m documenting here for others. I&amp;rsquo;m using Grails 1.4.M1 and it bundles with it H2 database version [H2 1.2.147 (2010-11-21)]
 If you decide to run H2 in a server mode, you would most likely download the latest version of H2 Database from the website. As of writing this article, the stable version of H2 is [H2 1.3.158 (2011-07-17)].
 Issue: If you run your Grails application using 1.</description>
@@ -103,10 +103,10 @@ Issue: If you run your Grails application using 1.</description>
     
     <item>
       <title>Not all Tomcat 6 classloaders must be equal</title>
-      <link>/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</link>
+      <link>http://MyThinkPond.com/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</link>
       <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
       
-      <guid>/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</guid>
+      <guid>http://MyThinkPond.com/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</guid>
       <description>Today, while doing some Grails development I came across a peculiar issue that perplexed me and I&amp;rsquo;m documenting it for all others to benefit. (Also see my other blog from today for the issue that started this journey).
 Here are my specifications:
 Development Machine
@@ -118,10 +118,10 @@ Development Machine
     
     <item>
       <title>Tomcat 6&#43;: Infamous &#34;SEVERE: Error listenerStart&#34; message - How-To debug this error?</title>
-      <link>/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
+      <link>http://MyThinkPond.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
       <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
       
-      <guid>/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
+      <guid>http://MyThinkPond.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
       <description>I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.
 SEVERE: Error listenerStart
 You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.</description>
@@ -129,10 +129,10 @@ You will most likely start Googling it trying to find out what the heck is going
     
     <item>
       <title>How-To: Change Grails User work and cache directory under windows</title>
-      <link>/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</link>
+      <link>http://MyThinkPond.com/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</link>
       <pubDate>Fri, 10 Jun 2011 21:14:22 +0000</pubDate>
       
-      <guid>/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</guid>
+      <guid>http://MyThinkPond.com/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</guid>
       <description>The directions below will help you move the Grails user work and cache directory to a different location.
 Why?
 Sometimes your default &amp;ldquo;primary drive&amp;rdquo; may be running out of space and you need to move your workspace else where.

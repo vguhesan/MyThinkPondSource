@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visualization on MyThinkPond</title>
-    <link>/tags/visualization/</link>
+    <link>http://MyThinkPond.com/tags/visualization/</link>
     <description>Recent content in Visualization on MyThinkPond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Aug 2017 23:22:26 +0000</lastBuildDate>
     
-	<atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://MyThinkPond.com/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to create jaw dropping Data Visualizations on the web with D3.js?</title>
-      <link>/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</link>
+      <link>http://MyThinkPond.com/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</link>
       <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
       
-      <guid>/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</guid>
+      <guid>http://MyThinkPond.com/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</guid>
       <description>Story telling using great visualizations.
 Thus article goes into the details of creating great visuals leveraging D3 JavaScript library. It introduces the user into concepts provided by the D3 library.
 Some of the steps includes:
@@ -25,10 +25,10 @@ Some of the steps includes:
     
     <item>
       <title>Create versatile visualizations with D3 and Angular (repost) </title>
-      <link>/2017/08/29/create-versatile-visualizations-with-d3-and-angular-repost/</link>
+      <link>http://MyThinkPond.com/2017/08/29/create-versatile-visualizations-with-d3-and-angular-repost/</link>
       <pubDate>Tue, 29 Aug 2017 21:05:58 +0000</pubDate>
       
-      <guid>/2017/08/29/create-versatile-visualizations-with-d3-and-angular-repost/</guid>
+      <guid>http://MyThinkPond.com/2017/08/29/create-versatile-visualizations-with-d3-and-angular-repost/</guid>
       <description>Create versatile visualizations with D3 and Angular
 Learn how to combine the D3 data visualization tool and the Angular cross-platform application development platform to create interactive visualizations. https://opensource.com/article/17/8/d3-angular</description>
     </item>

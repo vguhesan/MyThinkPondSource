@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work Directory on MyThinkPond</title>
-    <link>/tags/work-directory/</link>
+    <link>http://MyThinkPond.com/tags/work-directory/</link>
     <description>Recent content in Work Directory on MyThinkPond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jun 2011 21:14:22 +0000</lastBuildDate>
     
-	<atom:link href="/tags/work-directory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://MyThinkPond.com/tags/work-directory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How-To: Change Grails User work and cache directory under windows</title>
-      <link>/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</link>
+      <link>http://MyThinkPond.com/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</link>
       <pubDate>Fri, 10 Jun 2011 21:14:22 +0000</pubDate>
       
-      <guid>/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</guid>
+      <guid>http://MyThinkPond.com/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</guid>
       <description>The directions below will help you move the Grails user work and cache directory to a different location.
 Why?
 Sometimes your default &amp;ldquo;primary drive&amp;rdquo; may be running out of space and you need to move your workspace else where.

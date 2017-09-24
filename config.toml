@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://MyThinkPond.com/"
 title = "MyThinkPond"
 languageCode = "en-us"
 paginate = "20" # Number of posts per page
@@ -46,10 +46,11 @@ googleAnalytics = "UA-106933850-1" # Enable Google Analytics by entering your tr
     categories = true # Enable "Categories" widget
     tags = true # Enable "Tags" widget
     tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+    getnotified = true # Enable specificfeeds.com email notification
 
     # Enable "Social" widget, if any of "social_*" set a value
     social_facebook = "venkattg"
     social_twitter = "vguhesan"
     social_linkedin = "venkatt-guhesan-6956431"
     #social_github = "username"
-    social_email = "vguhesan+mtp@gmail.com"
+    #social_email = "vguhesan+mtp@gmail.com"

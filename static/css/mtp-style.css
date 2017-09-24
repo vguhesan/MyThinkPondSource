@@ -7,7 +7,7 @@
 }
 
 .logo__title {
-	color: #AB0000;
+	color: #FFFFFF;
 }
 
 .header {
@@ -32,6 +32,18 @@
 
 p {
     margin-bottom: 10px;
+}
+
+a {
+	color: #9c3838;
+}
+
+.post__title a {
+	color: #000000;
+}
+
+.post__title a:hover {
+	color: #ab0000;
 }
 
 /* highlight.js with line numbers */
@@ -71,3 +83,47 @@ code {
 	margin: 0 auto;
 }
 
+@media screen and (max-width: 768px) {
+	.container {
+		max-width: 98%;
+	}
+
+	.content {
+		width: 98%;
+	}
+
+	.sidebar {
+		width: 98%;
+	}
+
+}
+
+@media screen and (max-width: 620px) {
+	.container {
+		max-width: 98%;
+	}
+
+	.content {
+		width: 98%;
+	}
+
+	.sidebar {
+		width: 98%;
+	}
+
+}
+
+@media screen and (max-width: 800px) {
+	.container {
+		max-width: 98%;
+	}
+
+	.content {
+		width: 65%;
+	}
+
+	.sidebar {
+		width: 32%;
+	}
+
+}

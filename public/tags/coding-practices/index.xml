@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding Practices on MyThinkPond</title>
-    <link>/tags/coding-practices/</link>
+    <link>http://MyThinkPond.com/tags/coding-practices/</link>
     <description>Recent content in Coding Practices on MyThinkPond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 May 2017 19:07:30 +0000</lastBuildDate>
     
-	<atom:link href="/tags/coding-practices/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://MyThinkPond.com/tags/coding-practices/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Elements of JavaScript Style – JavaScript Scene – Medium</title>
-      <link>/2017/05/03/elements-of-javascript-style-javascript-scene-medium/</link>
+      <link>http://MyThinkPond.com/2017/05/03/elements-of-javascript-style-javascript-scene-medium/</link>
       <pubDate>Wed, 03 May 2017 19:07:30 +0000</pubDate>
       
-      <guid>/2017/05/03/elements-of-javascript-style-javascript-scene-medium/</guid>
+      <guid>http://MyThinkPond.com/2017/05/03/elements-of-javascript-style-javascript-scene-medium/</guid>
       <description>Great article focusing on Javascript style. Provides some good examples of JavaScript coding styles, practices, and things to avoid.
 The examples includes:
     1. Make the function the unit of composition. One job for each function.   2. Omit needless code.   3. Use active voice.   4. Avoid a succession of loose statements.   5. Keep related code together.   6. Put statements and expressions in positive form.</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mod_python Setup on MyThinkPond</title>
-    <link>/tags/mod_python-setup/</link>
+    <link>http://MyThinkPond.com/tags/mod_python-setup/</link>
     <description>Recent content in Mod_python Setup on MyThinkPond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Dec 2011 03:09:12 +0000</lastBuildDate>
     
-	<atom:link href="/tags/mod_python-setup/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://MyThinkPond.com/tags/mod_python-setup/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How-To Install mod_python and the compile error - apxs:Error: Command failed with rc=65536</title>
-      <link>/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</link>
+      <link>http://MyThinkPond.com/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</link>
       <pubDate>Thu, 29 Dec 2011 03:09:12 +0000</pubDate>
       
-      <guid>/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</guid>
+      <guid>http://MyThinkPond.com/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</guid>
       <description>Below are my steps to installing mod_python under Apache HTTPD in CentOS 6.2.
 Download mod_python-3.3.1.tgz or a later version of mod_python available here: http://archive.apache.org/dist/httpd/modpython/
 [sourcecode] curl -O http://archive.apache.org/dist/httpd/modpython/mod_python-3.3.1.tgz tar zxvf mod_python-3.3.1.tgz cd mod_python-3.3.1 ./configure make [/sourcecode]

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Development on MyThinkPond</title>
-    <link>/categories/web-development/</link>
+    <link>http://MyThinkPond.com/categories/web-development/</link>
     <description>Recent content in Web Development on MyThinkPond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jul 2011 17:34:46 +0000</lastBuildDate>
     
-	<atom:link href="/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://MyThinkPond.com/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Not all Tomcat 6 classloaders must be equal</title>
-      <link>/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</link>
+      <link>http://MyThinkPond.com/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</link>
       <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
       
-      <guid>/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</guid>
+      <guid>http://MyThinkPond.com/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</guid>
       <description>Today, while doing some Grails development I came across a peculiar issue that perplexed me and I&amp;rsquo;m documenting it for all others to benefit. (Also see my other blog from today for the issue that started this journey).
 Here are my specifications:
 Development Machine
@@ -28,10 +28,10 @@ Development Machine
     
     <item>
       <title>Tomcat 6&#43;: Infamous &#34;SEVERE: Error listenerStart&#34; message - How-To debug this error?</title>
-      <link>/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
+      <link>http://MyThinkPond.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
       <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
       
-      <guid>/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
+      <guid>http://MyThinkPond.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
       <description>I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.
 SEVERE: Error listenerStart
 You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.</description>
@@ -39,10 +39,10 @@ You will most likely start Googling it trying to find out what the heck is going
     
     <item>
       <title>How-To: Turn off Firefox browser cache during development</title>
-      <link>/2011/06/22/how-to-turn-off-firefox-browser-cache-during-development/</link>
+      <link>http://MyThinkPond.com/2011/06/22/how-to-turn-off-firefox-browser-cache-during-development/</link>
       <pubDate>Wed, 22 Jun 2011 14:13:36 +0000</pubDate>
       
-      <guid>/2011/06/22/how-to-turn-off-firefox-browser-cache-during-development/</guid>
+      <guid>http://MyThinkPond.com/2011/06/22/how-to-turn-off-firefox-browser-cache-during-development/</guid>
       <description>Sometimes (when your are developing) you may want to force fetching all content fresh all the time including images, resources such as style sheet etc. To facilitate this you can do the following:
  Open a new window or tab in Firefox.
  Type about:configin the address bar.
@@ -52,10 +52,10 @@ You will most likely start Googling it trying to find out what the heck is going
     
     <item>
       <title>Add custom jars under &#34;\WEB-INF\lib&#34; in a Maven project</title>
-      <link>/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</link>
+      <link>http://MyThinkPond.com/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</link>
       <pubDate>Sat, 02 Oct 2010 18:28:00 +0000</pubDate>
       
-      <guid>/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</guid>
+      <guid>http://MyThinkPond.com/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</guid>
       <description>The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is not what is recommended by Maven. Maven builds upon consistency and structure and this process goes away from that methodology. In Maven, you can take each of your jars\libraries and add them to your local repository and then include them as needed in your projects. If you want to go the proper route here’s how you do it.</description>
     </item>
     

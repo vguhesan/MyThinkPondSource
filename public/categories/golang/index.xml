@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on MyThinkPond</title>
-    <link>/categories/golang/</link>
+    <link>http://MyThinkPond.com/categories/golang/</link>
     <description>Recent content in Golang on MyThinkPond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Mar 2017 00:49:33 +0000</lastBuildDate>
     
-	<atom:link href="/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://MyThinkPond.com/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A URL Shortener Service using Go, Iris and Bolt – Medium</title>
-      <link>/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</link>
+      <link>http://MyThinkPond.com/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</link>
       <pubDate>Thu, 16 Mar 2017 00:49:33 +0000</pubDate>
       
-      <guid>/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</guid>
+      <guid>http://MyThinkPond.com/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</guid>
       <description>Go (cross-platform language/compiler)
 + Iris (web framework in Go) + Bolt (embedded key-value DB) = one powerful combination
 Read more at
@@ -25,10 +25,10 @@ https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f
     
     <item>
       <title>Go lang - Revel Web Framework - .gitignore file starter sample</title>
-      <link>/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</link>
+      <link>http://MyThinkPond.com/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</link>
       <pubDate>Tue, 26 Jan 2016 01:05:42 +0000</pubDate>
       
-      <guid>/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</guid>
+      <guid>http://MyThinkPond.com/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</guid>
       <description>For those of you trying to create a new Go Language - Revel Web Framework based project, here is a sample .gitignore file.
 But before I provide you with the information, we need to discuss the project structure. If you visit the Revel site here, you will see their organization structure of a Revel project. In my case, their my_gocode/ folder is much deeper in what I store in my BitBucket account (or GitHub for that matter).</description>
     </item>

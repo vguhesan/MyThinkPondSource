@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qbit Prgrammer on MyThinkPond</title>
-    <link>/tags/qbit-prgrammer/</link>
+    <link>http://MyThinkPond.com/tags/qbit-prgrammer/</link>
     <description>Recent content in Qbit Prgrammer on MyThinkPond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 May 2017 01:35:19 +0000</lastBuildDate>
     
-	<atom:link href="/tags/qbit-prgrammer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://MyThinkPond.com/tags/qbit-prgrammer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quantum Computing Demands a Whole New Kind of Programmer</title>
-      <link>/2017/05/11/quantum-computing-demands-a-whole-new-kind-of-programmer/</link>
+      <link>http://MyThinkPond.com/2017/05/11/quantum-computing-demands-a-whole-new-kind-of-programmer/</link>
       <pubDate>Thu, 11 May 2017 01:35:19 +0000</pubDate>
       
-      <guid>/2017/05/11/quantum-computing-demands-a-whole-new-kind-of-programmer/</guid>
+      <guid>http://MyThinkPond.com/2017/05/11/quantum-computing-demands-a-whole-new-kind-of-programmer/</guid>
       <description>[![](/img/2017/05/quantum-computing-whole-new-kind-of-programmer-1-1068x601.jpg)](https://singularityhub.com/2017/05/09/quantum-computing-demands-a-whole-new-kind-of-programmer/)Quantum computers finally seem to be coming of age with promises of “quantum supremacy” by the end of the year. But there’s a problem—very few people know how to work them. The bold claim of achieving &#34;quantum supremacy&#34; came on the back of Google unveiling a new quantum chip design. The hyperbolic phrase essentially means building a quantum device that can perform a calculation impossible for any conventional computer. The technology has a major challenge to overcome.</description>
     </item>
     

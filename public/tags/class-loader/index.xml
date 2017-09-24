@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Class Loader on MyThinkPond</title>
-    <link>/tags/class-loader/</link>
+    <link>http://MyThinkPond.com/tags/class-loader/</link>
     <description>Recent content in Class Loader on MyThinkPond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jul 2011 17:34:46 +0000</lastBuildDate>
     
-	<atom:link href="/tags/class-loader/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://MyThinkPond.com/tags/class-loader/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Not all Tomcat 6 classloaders must be equal</title>
-      <link>/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</link>
+      <link>http://MyThinkPond.com/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</link>
       <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
       
-      <guid>/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</guid>
+      <guid>http://MyThinkPond.com/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</guid>
       <description>Today, while doing some Grails development I came across a peculiar issue that perplexed me and I&amp;rsquo;m documenting it for all others to benefit. (Also see my other blog from today for the issue that started this journey).
 Here are my specifications:
 Development Machine

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Route on MyThinkPond</title>
-    <link>/tags/route/</link>
+    <link>http://MyThinkPond.com/tags/route/</link>
     <description>Recent content in Route on MyThinkPond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 May 2017 23:39:48 +0000</lastBuildDate>
     
-	<atom:link href="/tags/route/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://MyThinkPond.com/tags/route/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to Add Route in Linux?</title>
-      <link>/2017/05/11/how-to-add-route-in-linux/</link>
+      <link>http://MyThinkPond.com/2017/05/11/how-to-add-route-in-linux/</link>
       <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
       
-      <guid>/2017/05/11/how-to-add-route-in-linux/</guid>
+      <guid>http://MyThinkPond.com/2017/05/11/how-to-add-route-in-linux/</guid>
       <description>Examples of Route Command and it&amp;rsquo;s usage.
 Source: 7 Linux Route Command Examples (How to Add Route in Linux)
 To learn the fundamentals of Routing, please visit the link below:
@@ -25,10 +25,10 @@ Fundamentals of Routing</description>
     
     <item>
       <title>CentOS7 missing Net-Tools Package and why you should not install it moving forward</title>
-      <link>/2016/12/09/centos7-missing-net-tools-package-and-why-you-should-not-install-it-moving-forward/</link>
+      <link>http://MyThinkPond.com/2016/12/09/centos7-missing-net-tools-package-and-why-you-should-not-install-it-moving-forward/</link>
       <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
       
-      <guid>/2016/12/09/centos7-missing-net-tools-package-and-why-you-should-not-install-it-moving-forward/</guid>
+      <guid>http://MyThinkPond.com/2016/12/09/centos7-missing-net-tools-package-and-why-you-should-not-install-it-moving-forward/</guid>
       <description>In CentOS 7, a lot of the command-line utilities for configuring and troubleshooting network properties like arp, ifconfig, iptunnel, iwconfig, nameif, netstat, route - are no longer there in the new CentOS 7 version. While still included in many Linux Distributions, (and you may be tempted to run - &amp;lsquo;yum install net-tools&amp;rsquo; - to get them back into your Linux footprint). But they are considered deprecated and therefore should be phased out in favor of more modern replacements.</description>
     </item>
     
