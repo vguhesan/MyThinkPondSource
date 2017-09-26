@@ -61,7 +61,7 @@ systemctl stop ntpd && systemctl start ntpd
 
 </code></pre>
 
-You may also be interested in NTP Service blog article [here](https://mythinkpond.com/2016/11/05/how-to-sync-your-date-when-you-restore-a-virtualbox-snapshot/).
+You may also be interested in NTP Service blog article [here](/2016/11/05/how-to-sync-your-date-when-you-restore-a-virtualbox-snapshot/).
 <table >
 <tbody >
 <tr >

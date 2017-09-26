@@ -32,3 +32,7 @@ This README would normally document whatever steps are necessary to get your app
 
 git clone https://github.com/vimux/mainroad ./themes/mainroad
 hugo server --theme=mainroad
+
+To generate static public content run:
+hugo
+Copy /public/** to static hosting website
