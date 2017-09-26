@@ -1,0 +1,17 @@
+{
+  "name": "mythinkpond-blog",
+  "version": "1.0.0",
+  "description": "MyThinkPond Hugo generated static blog website maintained by Venkatt Guhesan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "hugo-lunr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vguhesan@bitbucket.org/vguhesan/mythinkpond.git"
+  },
+  "author": "Venkatt Guhesan <vguhesan@gmail.com> (http://MyThinkPond.com/about/)",
+  "license": "UNLICENSED",
+  "homepage": "https://bitbucket.org/vguhesan/mythinkpond#readme"
+}

@@ -36,3 +36,8 @@ hugo server --theme=mainroad
 To generate static public content run:
 hugo
 Copy /public/** to static hosting website
+
+To Index the Site for Search run:
+npm run index
+Generates public/lunr.json file
+
