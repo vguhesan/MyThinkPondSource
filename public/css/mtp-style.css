@@ -83,6 +83,21 @@ code {
 	margin: 0 auto;
 }
 
+@media screen and (max-width: 800px) {
+	.container {
+		max-width: 98%;
+	}
+
+	.content {
+		width: 65%;
+	}
+
+	.sidebar {
+		width: 32%;
+	}
+
+}
+
 @media screen and (max-width: 768px) {
 	.container {
 		max-width: 98%;
@@ -113,17 +128,18 @@ code {
 
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 320px) {
 	.container {
 		max-width: 98%;
 	}
 
 	.content {
-		width: 65%;
+		width: 98%;
 	}
 
 	.sidebar {
-		width: 32%;
+		width: 98%;
 	}
 
 }
+
