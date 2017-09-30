@@ -1,0 +1,9 @@
+{{- if .Site.Params.widgets.search }}
+<div class="widget-search widget">
+	<!--BEGIN FORM-->
+	<form action="" id="site-search" class="search-form" role="search">
+	    <input type="search" id="search-input" aria-label="Search the {{ .Site.Title }} website..." class="site-search" autocomplete="off" placeholder="Search MyThinkPond Blog" required>
+	</form>
+	<!--END FORM-->
+</div>
+{{- end }}
