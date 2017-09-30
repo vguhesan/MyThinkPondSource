@@ -21,7 +21,7 @@ thumbnail = "/img/logo/webdevelopment3.png"
 
 ## Summary
 
-Thanks to [Hugo](https://gohugo.io/) Static Site generator written in GoLang and [Mainroad](https://github.com/Vimux/Mainroad/) Theme, I was able to port over my personal blog [MyThinkPond](http://www.mythinkpond.com).
+Thanks to [Hugo](https://gohugo.io/) Static Site generator written in GoLang and [Mainroad](https://github.com/Vimux/Mainroad/) Theme, I was able to port over my personal blog [MyThinkPond](http://www.mythinkpond.com) as a static generated website.
 
 ## Before and After
 

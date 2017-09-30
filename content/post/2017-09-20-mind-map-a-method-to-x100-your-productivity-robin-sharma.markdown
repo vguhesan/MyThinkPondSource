@@ -8,7 +8,7 @@ date: 2017-09-20T22:21:11Z
 link: http://mythinkpond.com/2017/09/20/mind-map-a-method-to-x100-your-productivity-robin-sharma/
 slug: mind-map-a-method-to-x100-your-productivity-robin-sharma
 tags:
-- perfromance
+- performance
 - productivity
 - self-improvement
 title: 'Mind Map: A Method To x100 Your Productivity | Robin Sharma'

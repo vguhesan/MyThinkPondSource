@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Log4jconfiglistener on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/log4jconfiglistener/</link>
+    <description>Recent content in Log4jconfiglistener on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2011 17:34:46 +0000</lastBuildDate>
+    
+	<atom:link href="http://MyThinkPond.com/tags/log4jconfiglistener/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Not all Tomcat 6 classloaders must be equal</title>
+      <link>http://MyThinkPond.com/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</link>
+      <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
+      
+      <guid>http://MyThinkPond.com/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</guid>
+      <description>Today, while doing some Grails development I came across a peculiar issue that perplexed me and I&amp;rsquo;m documenting it for all others to benefit. (Also see my other blog from today for the issue that started this journey).
+Here are my specifications:
+Development Machine
+ Windows-7, 64-bit
+ java version &amp;ldquo;1.6.0_24&amp;rdquo; Java&amp;trade; SE Runtime Environment (build 1.6.0_24-b07) Java HotSpot&amp;trade; 64-Bit Server VM (build 19.1-b02, mixed mode)
+ Grails 1.4.0.M1
+ Tomcat - apache-tomcat64-6.</description>
+    </item>
+    
+  </channel>
+</rss>
