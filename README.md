@@ -41,3 +41,8 @@ To Index the Site for Search run:
 npm run index
 Generates public/lunr.json file
 
+Google Hosting:
+gcloud init
+cd /Users/vguhesan/Documents/incubation/MTP
+
+gsutil rsync -m -o -d -r public gs://mythinkpond.com/
