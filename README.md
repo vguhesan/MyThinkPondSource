@@ -46,3 +46,5 @@ gcloud init
 cd /Users/vguhesan/Documents/incubation/MTP
 
 gsutil rsync -m -o -d -r public gs://mythinkpond.com/
+# Make all objects in a bucket - publicly readable
+gsutil iam ch allUsers:objectViewer gs://mythinkpond.com
