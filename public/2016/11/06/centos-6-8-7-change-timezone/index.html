@@ -7,7 +7,7 @@
 <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
 <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
 <meta name="description" content=" Venkatt Guhesan&#39;s personal blog on all things interesting.">
-<meta name="generator" content="Hugo 0.27.1" />
+<meta name="generator" content="Hugo 0.29" />
 <meta property="og:title" content="CentOS 6.8 &amp; 7 - Change Timezone" />
 <meta property="og:description" content="Here is a cheat sheet on changing the timezone in a linux system (CentOS 6.8 or 7):
 # Remove the current timezone file rm /etc/localtime # Create a symbolic link to the new timezone you want # ls -la /usr/share/zoneinfo/ # ls -la /usr/share/zoneinfo/US/ # For GMT ln -s /usr/share/zoneinfo/GMT /etc/localtime # For EST ln -s /usr/share/zoneinfo/EST /etc/localtime # For UTC ln -s /usr/share/zoneinfo/UTC /etc/localtime # For GMT ln -s /usr/share/zoneinfo/GMT /etc/localtime # For New York (Eastern) ln -s /usr/share/zoneinfo/US/Eastern /etc/localtime # For Central ln -s /usr/share/zoneinfo/US/Central /etc/localtime # For Mountain time ln -s /usr/share/zoneinfo/US/Mountain /etc/localtime # For Pacific time ln -s /usr/share/zoneinfo/US/Pacific /etc/localtime # Set Date and Time (as needed) # MMDDHHmmYYYY date 072522172010 hwclock --systohc # If you&#39;re using NTPD Service # CentOS 6." />

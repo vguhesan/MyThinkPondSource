@@ -7,7 +7,7 @@
 <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
 <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
 <meta name="description" content=" Venkatt Guhesan&#39;s personal blog on all things interesting.">
-<meta name="generator" content="Hugo 0.27.1" />
+<meta name="generator" content="Hugo 0.29" />
 <meta property="og:title" content="Forwarding to a URL from Wicket" />
 <meta property="og:description" content="Sometimes we need to forward to a servlet or resource that&rsquo;s outside of Wicket such as a servlet. Here&rsquo;s how:
  Modify your web.xml to define your servlet as well as your Wicket application &ldquo;ignorePaths&rdquo; init-param:  [sourcecode language=&ldquo;xml&rdquo;] &lt;?xml version=&ldquo;1.0&rdquo; encoding=&ldquo;UTF-8&rdquo;?&gt; &lt;!DOCTYPE web-app PUBLIC &ldquo;-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN&rdquo; &ldquo;http://java.sun.com/dtd/web-app_2_3.dtd&quot;&gt;  Wicket Example  MyApplication org.apache.wicket.protocol.http.WicketFilter  applicationClassName com.gu.MyApplication   wicket.configuration deployment   ignorePaths images/,s/    MyApplication /*   SomeServlet com." />

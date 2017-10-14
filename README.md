@@ -37,11 +37,10 @@ To generate static public content run:
 hugo
 Copy /public/** to static hosting website
 
-To Index the Site for Search run:
-npm run index
-Generates public/lunr.json file
-
 Google Hosting:
+To download gcloud-tools:
+https://cloud.google.com/sdk/docs/quickstart-windows
+
 gcloud init
 cd /Users/vguhesan/Documents/incubation/MTP
 
