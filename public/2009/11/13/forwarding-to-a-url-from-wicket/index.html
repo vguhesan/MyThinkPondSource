@@ -7,7 +7,7 @@
 <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
 <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
 <meta name="description" content=" Venkatt Guhesan&#39;s personal blog on all things interesting.">
-<meta name="generator" content="Hugo 0.29" />
+<meta name="generator" content="Hugo 0.27.1" />
 <meta property="og:title" content="Forwarding to a URL from Wicket" />
 <meta property="og:description" content="Sometimes we need to forward to a servlet or resource that&rsquo;s outside of Wicket such as a servlet. Here&rsquo;s how:
  Modify your web.xml to define your servlet as well as your Wicket application &ldquo;ignorePaths&rdquo; init-param:  [sourcecode language=&ldquo;xml&rdquo;] &lt;?xml version=&ldquo;1.0&rdquo; encoding=&ldquo;UTF-8&rdquo;?&gt; &lt;!DOCTYPE web-app PUBLIC &ldquo;-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN&rdquo; &ldquo;http://java.sun.com/dtd/web-app_2_3.dtd&quot;&gt;  Wicket Example  MyApplication org.apache.wicket.protocol.http.WicketFilter  applicationClassName com.gu.MyApplication   wicket.configuration deployment   ignorePaths images/,s/    MyApplication /*   SomeServlet com." />
@@ -279,11 +279,11 @@ class xyz extends WebPage{
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/2017-10-16-enabling-jumbo-packets-for-your-devices/">Configure Jumbo Packets for all your devices including Windows/Linux/Mac OS X on your network</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/">Converted Wordpress.com Hosted Blog to Hugo Static Blog :-)</a></li>
 			<li class="widget__item"><a class="widget__link" href="/2017/09/20/mind-map-a-method-to-x100-your-productivity-robin-sharma/">Mind Map: A Method To x100 Your Productivity | Robin Sharma</a></li>
 			<li class="widget__item"><a class="widget__link" href="/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/">Create MP4 video file from Quicktime Mov file on a Mac OS X</a></li>
 			<li class="widget__item"><a class="widget__link" href="/2017/09/05/tech-companies-give-back-moment-repost/">Tech Companies Give Back Moment (repost) </a></li>
-			<li class="widget__item"><a class="widget__link" href="/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/">How to create jaw dropping Data Visualizations on the web with D3.js?</a></li>
 		</ul>
 	</div>
 </div>
@@ -382,11 +382,14 @@ class xyz extends WebPage{
 			<li class="widget__item"><a class="widget__link" href="/categories/kernel">Kernel</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/life-101">Life-101</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/linux">Linux</a></li>
+			<li class="widget__item"><a class="widget__link" href="/categories/linux-tips">Linux-Tips</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/mac-os-x">Mac-Os-X</a></li>
+			<li class="widget__item"><a class="widget__link" href="/categories/mac-os-x-tips">Mac-Os-X-Tips</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/maven">Maven</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/miscellaneous">Miscellaneous</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/mod_python">Mod_python</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/music">Music</a></li>
+			<li class="widget__item"><a class="widget__link" href="/categories/networking-tips">Networking-Tips</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/node-js">Node-Js</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/outdoors-amp-nature">Outdoors-Amp-Nature</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/particle-photon">Particle-Photon</a></li>
@@ -420,6 +423,7 @@ class xyz extends WebPage{
 			<li class="widget__item"><a class="widget__link" href="/categories/wicket">Wicket</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/wiki">Wiki</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/windows">Windows</a></li>
+			<li class="widget__item"><a class="widget__link" href="/categories/windows-tips">Windows-Tips</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/wordpress">Wordpress</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/zeromq">Zeromq</a></li>
 		</ul>
@@ -635,6 +639,8 @@ class xyz extends WebPage{
 		<a class="widget__link widget__link--taglist" href="/tags/javax.servlet" title="javax.servlet">javax.servlet</a>
 		<a class="widget__link widget__link--taglist" href="/tags/joke" title="joke">joke</a>
 		<a class="widget__link widget__link--taglist" href="/tags/js" title="js">js</a>
+		<a class="widget__link widget__link--taglist" href="/tags/jumbo" title="jumbo">jumbo</a>
+		<a class="widget__link widget__link--taglist" href="/tags/jumbo-packets" title="jumbo-packets">jumbo-packets</a>
 		<a class="widget__link widget__link--taglist" href="/tags/jupiter" title="jupiter">jupiter</a>
 		<a class="widget__link widget__link--taglist" href="/tags/jzmq" title="jzmq">jzmq</a>
 		<a class="widget__link widget__link--taglist" href="/tags/kairosdb" title="kairosdb">kairosdb</a>
@@ -656,6 +662,7 @@ class xyz extends WebPage{
 		<a class="widget__link widget__link--taglist" href="/tags/logo" title="logo">logo</a>
 		<a class="widget__link widget__link--taglist" href="/tags/lugern" title="lugern">lugern</a>
 		<a class="widget__link widget__link--taglist" href="/tags/mac" title="mac">mac</a>
+		<a class="widget__link widget__link--taglist" href="/tags/mac-os-x" title="mac-os-x">mac-os-x</a>
 		<a class="widget__link widget__link--taglist" href="/tags/mailx" title="mailx">mailx</a>
 		<a class="widget__link widget__link--taglist" href="/tags/malaria" title="malaria">malaria</a>
 		<a class="widget__link widget__link--taglist" href="/tags/manufacturing-graphene" title="manufacturing-graphene">manufacturing-graphene</a>
@@ -701,6 +708,7 @@ class xyz extends WebPage{
 		<a class="widget__link widget__link--taglist" href="/tags/osx" title="osx">osx</a>
 		<a class="widget__link widget__link--taglist" href="/tags/pack-dependencies" title="pack-dependencies">pack-dependencies</a>
 		<a class="widget__link widget__link--taglist" href="/tags/package" title="package">package</a>
+		<a class="widget__link widget__link--taglist" href="/tags/packet-size" title="packet-size">packet-size</a>
 		<a class="widget__link widget__link--taglist" href="/tags/paid-prioritization" title="paid-prioritization">paid-prioritization</a>
 		<a class="widget__link widget__link--taglist" href="/tags/paradox-of-our-time" title="paradox-of-our-time">paradox-of-our-time</a>
 		<a class="widget__link widget__link--taglist" href="/tags/parametric-fonts" title="parametric-fonts">parametric-fonts</a>

@@ -31,7 +31,7 @@ So here are a few simple steps to help you create the correct .gitignore file fo
 
 Step-1: Create the following .gitignore file under the root Grails project folder:
 
-[sourcecode language="jscript"]
+<pre><code language="javascript">
 *.iws
 *Db.properties
 *Db.script
@@ -48,13 +48,13 @@ target-eclipse
 /web-app/WEB-INF/classes
 web-app/WEB-INF/tld/c.tld
 web-app/WEB-INF/tld/fmt.tld
-[/sourcecode]
+</code></pre>
 
 Step-2: Git does not allow you to check in empty (but essential folders). To avoid this you can run the following command:
 
-[sourcecode language="jscript"]
+<pre><code language="javascript">
 find . -type d -empty -exec touch {}/.gitignore \;
-[/sourcecode]
+</code></pre>
 
 The above command creates a empty ".gitignore" file below all folders. And since you now have non-empty folders, you can now check them in into Git so that if you check-out/clone the project in the future, you will have those essential but empty folders.
 

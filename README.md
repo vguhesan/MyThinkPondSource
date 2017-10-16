@@ -40,13 +40,12 @@ Copy /public/** to static hosting website
 To write a new blog post:
 hugo new post/2017-10-28-{title}.md
 
-Google Hosting:
-To download gcloud-tools:
-https://cloud.google.com/sdk/docs/quickstart-windows
+Google Firebase Hosting:
+https://firebase.google.com/docs/hosting/quickstart
 
-gcloud init
-cd /Users/vguhesan/Documents/incubation/MTP
+$ firebase init
 
-gsutil rsync -m -o -d -r public gs://mythinkpond.com/
-# Make all objects in a bucket - publicly readable
-gsutil iam ch allUsers:objectViewer gs://mythinkpond.com
+# Generated updated version of public directory
+$ hugo
+# Deploys content under public
+$ firebase deploy

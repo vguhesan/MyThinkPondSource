@@ -28,12 +28,10 @@ Great video on how to improve your productivity by hundred fold. Mind map provid
 
 Cheers!
 
-<h3>Today's Insprirational Quote</h3>
+<h3>Today's Inspirational Quote</h3>
 {{%img src="/img/2017/09/avvaiyar.jpg" alt="avvaiyar" width="50"  align="left" class="imgframe" %}}
 ** Tamil **: கற்றது கைமண் அளவு, கட்காதது உலகளவு.<br>
 ** English Pronounciation **: Katrathu Kaiman Alavu Kallathathu Ulagalavu<br>
 ** English Translation **: Known is a drop, unknown is an ocean.<br>
 
 [Avvaiyar](https://en.wikipedia.org/wiki/Avvaiyar)
-
-

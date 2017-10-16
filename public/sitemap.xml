@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://MyThinkPond.com/post/2017-10-16-enabling-jumbo-packets-for-your-devices/</loc>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://MyThinkPond.com/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url>
@@ -1296,14 +1301,14 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/bash/</loc>
-    <lastmod>2017-03-13T19:29:22+00:00</lastmod>
+    <loc>http://MyThinkPond.com/tags/bash/</loc>
+    <lastmod>2017-03-13T19:27:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/bash/</loc>
-    <lastmod>2017-03-13T19:27:16+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/bash/</loc>
+    <lastmod>2017-03-13T19:29:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1344,25 +1349,25 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/blockchain/</loc>
-    <lastmod>2017-08-23T01:15:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://MyThinkPond.com/tags/blockchain/</loc>
     <lastmod>2017-01-02T01:17:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/blog/</loc>
-    <lastmod>2017-09-23T23:42:33+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/blockchain/</loc>
+    <lastmod>2017-08-23T01:15:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://MyThinkPond.com/tags/blog/</loc>
+    <lastmod>2017-09-23T23:42:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://MyThinkPond.com/categories/blog/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1710,13 +1715,13 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/design/</loc>
+    <loc>http://MyThinkPond.com/tags/design/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/design/</loc>
+    <loc>http://MyThinkPond.com/categories/design/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1764,13 +1769,13 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/django/</loc>
+    <loc>http://MyThinkPond.com/tags/django/</loc>
     <lastmod>2012-03-01T17:53:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/django/</loc>
+    <loc>http://MyThinkPond.com/categories/django/</loc>
     <lastmod>2012-03-01T17:53:35+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2004,13 +2009,13 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/general/</loc>
+    <loc>http://MyThinkPond.com/tags/general/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/general/</loc>
+    <loc>http://MyThinkPond.com/categories/general/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2190,14 +2195,14 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/history/</loc>
-    <lastmod>2017-08-19T17:13:47+00:00</lastmod>
+    <loc>http://MyThinkPond.com/tags/history/</loc>
+    <lastmod>2017-03-13T19:27:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/history/</loc>
-    <lastmod>2017-03-13T19:27:16+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/history/</loc>
+    <lastmod>2017-08-19T17:13:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2226,13 +2231,13 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/hugo/</loc>
+    <loc>http://MyThinkPond.com/tags/hugo/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/hugo/</loc>
+    <loc>http://MyThinkPond.com/categories/hugo/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2364,14 +2369,14 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/intellij/</loc>
-    <lastmod>2011-02-18T16:37:46+00:00</lastmod>
+    <loc>http://MyThinkPond.com/tags/intellij/</loc>
+    <lastmod>2011-04-27T18:42:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/intellij/</loc>
-    <lastmod>2011-04-27T18:42:58+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/intellij/</loc>
+    <lastmod>2011-02-18T16:37:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2442,14 +2447,14 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/java/</loc>
-    <lastmod>2017-02-16T16:21:23+00:00</lastmod>
+    <loc>http://MyThinkPond.com/tags/java/</loc>
+    <lastmod>2017-03-14T02:26:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/java/</loc>
-    <lastmod>2017-03-14T02:26:09+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/java/</loc>
+    <lastmod>2017-02-16T16:21:23+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2472,14 +2477,14 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/javascript/</loc>
-    <lastmod>2017-08-31T23:22:26+00:00</lastmod>
+    <loc>http://MyThinkPond.com/tags/javascript/</loc>
+    <lastmod>2014-02-02T17:10:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/javascript/</loc>
-    <lastmod>2014-02-02T17:10:04+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/javascript/</loc>
+    <lastmod>2017-08-31T23:22:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2522,6 +2527,18 @@
   <url>
     <loc>http://MyThinkPond.com/tags/js/</loc>
     <lastmod>2017-05-03T19:23:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://MyThinkPond.com/tags/jumbo/</loc>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://MyThinkPond.com/tags/jumbo-packets/</loc>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2604,14 +2621,20 @@
   </url>
   
   <url>
+    <loc>http://MyThinkPond.com/tags/linux/</loc>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://MyThinkPond.com/categories/linux/</loc>
     <lastmod>2017-05-11T23:39:48+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/linux/</loc>
-    <lastmod>2013-06-25T03:36:43+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/linux-tips/</loc>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2670,8 +2693,20 @@
   </url>
   
   <url>
+    <loc>http://MyThinkPond.com/tags/mac-os-x/</loc>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://MyThinkPond.com/categories/mac-os-x/</loc>
     <lastmod>2017-09-19T02:06:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://MyThinkPond.com/categories/mac-os-x-tips/</loc>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2785,7 +2820,7 @@
   
   <url>
     <loc>http://MyThinkPond.com/</loc>
-    <lastmod>2017-09-23T23:42:33+00:00</lastmod>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2834,6 +2869,12 @@
   <url>
     <loc>http://MyThinkPond.com/tags/networking/</loc>
     <lastmod>2017-05-11T23:39:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://MyThinkPond.com/categories/networking-tips/</loc>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2988,6 +3029,12 @@
   </url>
   
   <url>
+    <loc>http://MyThinkPond.com/tags/packet-size/</loc>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://MyThinkPond.com/tags/paid-prioritization/</loc>
     <lastmod>2016-06-14T15:36:28+00:00</lastmod>
     <priority>0</priority>
@@ -3109,7 +3156,7 @@
   
   <url>
     <loc>http://MyThinkPond.com/post/</loc>
-    <lastmod>2017-09-23T23:42:33+00:00</lastmod>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3126,14 +3173,14 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/programming/</loc>
-    <lastmod>2017-05-11T01:35:19+00:00</lastmod>
+    <loc>http://MyThinkPond.com/tags/programming/</loc>
+    <lastmod>2017-03-13T14:10:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/programming/</loc>
-    <lastmod>2017-03-13T14:10:41+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/programming/</loc>
+    <lastmod>2017-05-11T01:35:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3162,14 +3209,14 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/python/</loc>
-    <lastmod>2017-04-01T16:26:27+00:00</lastmod>
+    <loc>http://MyThinkPond.com/tags/python/</loc>
+    <lastmod>2016-10-04T18:12:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/python/</loc>
-    <lastmod>2016-10-04T18:12:22+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/python/</loc>
+    <lastmod>2017-04-01T16:26:27+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3474,19 +3521,13 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/spring/</loc>
-    <lastmod>2017-03-14T02:26:09+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://MyThinkPond.com/tags/spring/</loc>
     <lastmod>2010-09-13T02:05:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/spring-framework/</loc>
+    <loc>http://MyThinkPond.com/categories/spring/</loc>
     <lastmod>2017-03-14T02:26:09+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3494,6 +3535,12 @@
   <url>
     <loc>http://MyThinkPond.com/tags/spring-framework/</loc>
     <lastmod>2010-09-13T02:05:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://MyThinkPond.com/categories/spring-framework/</loc>
+    <lastmod>2017-03-14T02:26:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3546,14 +3593,14 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/storage/</loc>
-    <lastmod>2017-03-16T14:38:03+00:00</lastmod>
+    <loc>http://MyThinkPond.com/tags/storage/</loc>
+    <lastmod>2016-06-13T14:54:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/storage/</loc>
-    <lastmod>2016-06-13T14:54:00+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/storage/</loc>
+    <lastmod>2017-03-16T14:38:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3636,14 +3683,14 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/technology/</loc>
-    <lastmod>2017-04-06T19:01:57+00:00</lastmod>
+    <loc>http://MyThinkPond.com/tags/technology/</loc>
+    <lastmod>2017-03-12T18:38:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/technology/</loc>
-    <lastmod>2017-03-12T18:38:39+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/technology/</loc>
+    <lastmod>2017-04-06T19:01:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3708,14 +3755,14 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/travels/</loc>
-    <lastmod>2016-10-14T20:54:33+00:00</lastmod>
+    <loc>http://MyThinkPond.com/tags/travels/</loc>
+    <lastmod>2014-08-21T22:14:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/travels/</loc>
-    <lastmod>2014-08-21T22:14:56+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/travels/</loc>
+    <lastmod>2016-10-14T20:54:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3906,25 +3953,25 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/weblogic/</loc>
-    <lastmod>2010-09-21T18:08:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://MyThinkPond.com/tags/weblogic/</loc>
     <lastmod>2010-05-20T15:40:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/websockets/</loc>
-    <lastmod>2012-11-13T19:26:39+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/weblogic/</loc>
+    <lastmod>2010-09-21T18:08:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://MyThinkPond.com/tags/websockets/</loc>
+    <lastmod>2012-11-13T19:26:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://MyThinkPond.com/categories/websockets/</loc>
     <lastmod>2012-11-13T19:26:39+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3942,14 +3989,14 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/wicket/</loc>
-    <lastmod>2010-03-09T04:37:11+00:00</lastmod>
+    <loc>http://MyThinkPond.com/tags/wicket/</loc>
+    <lastmod>2010-03-09T20:02:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/wicket/</loc>
-    <lastmod>2010-03-09T20:02:55+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/wicket/</loc>
+    <lastmod>2010-03-09T04:37:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3972,25 +4019,31 @@
   </url>
   
   <url>
+    <loc>http://MyThinkPond.com/tags/windows/</loc>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://MyThinkPond.com/categories/windows/</loc>
     <lastmod>2016-12-12T01:53:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/windows/</loc>
-    <lastmod>2012-04-20T19:32:53+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://MyThinkPond.com/categories/wordpress/</loc>
-    <lastmod>2017-09-23T23:42:33+00:00</lastmod>
+    <loc>http://MyThinkPond.com/categories/windows-tips/</loc>
+    <lastmod>2017-10-16T13:22:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://MyThinkPond.com/tags/wordpress/</loc>
+    <lastmod>2017-09-23T23:42:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://MyThinkPond.com/categories/wordpress/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4044,13 +4097,13 @@
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/categories/zeromq/</loc>
+    <loc>http://MyThinkPond.com/tags/zeromq/</loc>
     <lastmod>2015-09-07T02:02:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://MyThinkPond.com/tags/zeromq/</loc>
+    <loc>http://MyThinkPond.com/categories/zeromq/</loc>
     <lastmod>2015-09-07T02:02:54+00:00</lastmod>
     <priority>0</priority>
   </url>
