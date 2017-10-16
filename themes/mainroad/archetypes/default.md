@@ -1,7 +1,7 @@
 +++
 title = ""
 description = ""
-date = ""
+date = "{{ .Date }}"
 categories = []
 tags = []
 thumbnail = ""
