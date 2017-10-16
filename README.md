@@ -37,6 +37,9 @@ To generate static public content run:
 hugo
 Copy /public/** to static hosting website
 
+To write a new blog post:
+hugo new post/2017-10-28-{title}.md
+
 Google Hosting:
 To download gcloud-tools:
 https://cloud.google.com/sdk/docs/quickstart-windows
