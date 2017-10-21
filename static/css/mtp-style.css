@@ -83,6 +83,14 @@ code {
 	margin: 0 auto;
 }
 
+.widget__list {
+	list-style: none;
+}
+
+ol, ul {
+    list-style: inside;
+}
+
 @media screen and (max-width: 800px) {
 	.container {
 		max-width: 98%;
@@ -142,4 +150,5 @@ code {
 	}
 
 }
+
 
