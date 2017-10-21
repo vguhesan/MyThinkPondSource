@@ -46,11 +46,12 @@ It represents one of the "unique" alphabets in the [Tamil language](http://en.wi
 MyThinkPond is developed as a static website using [Hugo](https://gohugo.io/). It easy to use and is built on one of my favorite languages - [GoLang](https://golang.org/). The theme used on this website is based on [Mainroad](https://github.com/Vimux/Mainroad/). [Markdown](https://en.wikipedia.org/wiki/Markdown) is the markup language used to edit and generate this website content.
 
   * Syntax Highlighting provided by [highlight.js](https://highlightjs.org/)
-  * Search provided by Google Site Search
+  * Search provided by FreeFind Search
   * Analytics provided by Google Analytics
   * Comments System is built using [Disqus](https://disqus.com/)
-  * [BlueHost](https://www.bluehost.com/) hosting is used for hosting the static website
+  * Google Firebase is used for hosting the static website
   * Email Subscription provided by [SpecificFeeds.com](https://www.specificfeeds.com/)
+  * GIT source for MyThinkPond is hosted on BitBucket.
 
 
 
