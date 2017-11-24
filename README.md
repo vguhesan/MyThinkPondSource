@@ -57,3 +57,7 @@ https://gohugo.io/content-management/syntax-highlighting/
 {{<highlight java "linenos=table" >}}
 YOUR_CODE_GOES_HERE
 {{</highlight >}}
+
+# Manage Social Postings using Hootsuite
+https://hootsuite.com/dashboard#/publisher
+
