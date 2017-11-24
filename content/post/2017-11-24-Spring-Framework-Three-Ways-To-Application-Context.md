@@ -1,26 +1,36 @@
----
-author: vguhesan
-categories:
-- Programming
-- Spring
-comments: true
-date: 2010-03-22T17:09:21Z
-excerpt: 'Spring 3.0 - Application Context - two ways to get the context '
-link: http://mythinkpond.com/2010/03/22/spring-application-context/
-slug: spring-application-context
-title: 'Spring 3.0 - Application Context - three ways to get the context '
-url: /2010/03/22/spring-application-context/
-wordpress_id: 90
----
++++
+title = "Spring Framework - Application Context - three ways to get to the application context"
+description = "Three ways to get to the application context in Spring Framework"
+date = "2017-11-24T13:28:10-05:00"
+categories = [
+  "Programming",
+  "Spring Framework"
+]
+tags = [
+  "Spring Framework",
+  "Spring",
+  "application context",
+  "Context",
+  "applicationContext",
+  "Spring Boot"
+]
+thumbnail = "/img/logo/spring.png"
++++
 
-In searching Google for "Spring [ApplicationContextAware](http://static.springframework.org/spring/docs/2.0.x/api/org/springframework/context/ApplicationContextAware.html)", you come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I'm blogging a few notes in hope that it helps clarify a few things.
+![Semiconductor](/img/logo/springframework.png)
 
-Two Ways to Get Application Context:
+This article shows you three different ways how to get to the Spring Framework Application Context in your code. 
 
-**Method #1**:  In your class you implement [ApplicationContextAware](http://static.springframework.org/spring/docs/2.0.x/api/org/springframework/context/ApplicationContextAware.html) class like this:
+## Summary
 
-[sourcecode language="jscript"]
+(This is a repost of an older article I wrote in 2010). 
+In searching Google for "Spring [ApplicationContextAware](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContextAware.html)", you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I'm blogging a few notes in hope that it helps clarify how the context works.
 
+## Method-1
+
+In your class you implement [ApplicationContextAware](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContextAware.html) class like this:
+
+{{<highlight java "linenos=table" >}}
 public class MyClass implements ApplicationContextAware {
 
     static final long serialVersionUID = 02L;
@@ -43,13 +53,14 @@ public class MyClass implements ApplicationContextAware {
     }
 
 }
+{{</highlight >}}
 
-[/sourcecode]
+## Method-2
 
-**Method #2**: If you are in a Java Servlet, you can do the following:
+If you are in a Java Servlet, you can do the following:
 
-[sourcecode language="jscript"]
 
+{{<highlight java "linenos=table" >}}
 public class gzservlet extends HttpServlet {
     static final long serialVersionUID = 02L;
 
@@ -71,16 +82,15 @@ public class gzservlet extends HttpServlet {
     }
 
 }
-
-[/sourcecode]
+{{</highlight >}}
 
 So the question one would ask is when to use what? And the answer is. Depends on how you are invoking Spring.
 
 What works for Method #1: when you invoke Spring you are using the DispatcherServlet link this. Then Method #1 will resolve the implementation of ApplicationContextAware and call the setApplicationContext() method to set the context.
 
-[sourcecode language="jscript"]
-In web.xml.
+In web.xml:
 
+{{<highlight xml "linenos=table" >}}
 <servlet>
 	<servlet-name>dispatchservlet</servlet-name>
 	<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
@@ -91,13 +101,12 @@ In web.xml.
 	<servlet-name>dispatchservlet</servlet-name>
 	<url-pattern>/*</url-pattern>
 </servlet-mapping>
+{{</highlight >}}
 
-[/sourcecode]
 
 If you are not using the DispatcherServlet and you are initializing Spring using a Listener and you have your own Servlet that's driving the Request\Response scope then use Method #2. Below is an example of how the web.xml will look like in this case.
 
-[sourcecode language="jscript"]
-
+{{<highlight xml "linenos=table" >}}
 <listener>
    <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
 </listener>
@@ -112,8 +121,8 @@ If you are not using the DispatcherServlet and you are initializing Spring using
   <servlet-name>MyOwnServlet</servlet-name>
   <url-pattern>*.do</url-pattern>
 </servlet-mapping>
+{{</highlight >}}
 
-[/sourcecode]
 
 I hope this clarifies why sometimes even though you have implemented the ApplicationContextAware interface, your setter does not get invoked.
 
@@ -121,30 +130,27 @@ I hope this clarifies why sometimes even though you have implemented the Applica
 
 Create the following class with a static method to get your context:
 
-[sourcecode language="jscript"]
-
+{{<highlight java "linenos=table" >}}
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 
 public class ApplicationContextProvider implements ApplicationContextAware{
- private static ApplicationContext ctx = null;
- public static ApplicationContext getApplicationContext() {
-return ctx;
- }
- public void setApplicationContext(ApplicationContext ctx) throws BeansException {
-this.ctx = ctx;
- }
+	private static ApplicationContext ctx = null;
+ 	public static ApplicationContext getApplicationContext() {
+		return ctx;
+ 	}
+ 	public void setApplicationContext(ApplicationContext ctx) throws BeansException {
+		this.ctx = ctx;
+ 	}
 }
-[/sourcecode]
+{{< / highlight >}}
 
 and in your spring bean configuration xml file add the following:
 
-[sourcecode language="jscript"]
-
+{{<highlight xml "linenos=table" >}}
 <bean id="applicationContextProvider" class="ApplicationContextProvider"></bean>
-
-[/sourcecode]
+{{</highlight >}}
 
 And now in your classes, you can do the following:
 
@@ -156,5 +162,8 @@ That's it!!!
 
 Cheers.
 
+<blockquote>If you find this article useful, consider signing up for my email or repost this on your favorite social site. See links on the right navigation.</blockquote>
 
-<blockquote>If you find this article useful, consider signing up for my RSS feed or Email Newsletter. See links on the right side.</blockquote>
+**Now for Today's Inspiration** 
+<blockquote>To be innovative, we can't look to what others have done. The whole idea of blazing a path is that there was no path there before. Be innovative today!</blockquote>
+
