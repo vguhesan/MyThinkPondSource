@@ -20,19 +20,6 @@
   src="https://code.jquery.com/jquery-3.2.1.min.js"
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
   crossorigin="anonymous"></script>
-<!-- highlight-js library -->
-<link rel="stylesheet" href="/css/highlight-js.css">
-<script src="/js/highlight.js"></script>
-<script src="/js/highlight-with-line-numbers.js"></script>
-<script>
-$(document).ready(function() {
-  $('pre code').each(function(i, block) {
-    hljs.highlightBlock(block);
-    hljs.lineNumbersBlock(block);
-  });
-});
-</script>
-<!-- highlight-js library -->
 <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
 {{ template "_internal/google_analytics_async.html" . }}
 </head>

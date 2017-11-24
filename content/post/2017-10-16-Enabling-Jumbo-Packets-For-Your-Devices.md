@@ -55,7 +55,8 @@ The Jumbo Frames support or Jumbo Packets are controlled at your network card le
 
 ### CentOS/Red Hat/Ubuntu variety of Linux
 
-<pre><code language="shell">
+{{<highlight shell "linenos=table" >}}
+
 # To check your MTU size
 $ ip link show | grep mtu
 
@@ -65,24 +66,28 @@ $ ip link set eth0 mtu 9000
 # Above change is *only* temporary, when you reboot your computer you
 # will be back to 1500.
 # To make the above change permanent add this as part of your startup script
-</code></pre>
+
+{{< / highlight >}}
 
 ### Pre-CentOS 7 versions of Linux (that supports ifconfig)
 
-<pre><code language="shell">
+{{<highlight shell "linenos=table" >}}
+
 ifconfig eth0 mtu 9000 up
-</code></pre>
+
+{{< / highlight >}}
 
 ### Mac OS X
 
-<pre><code language="shell">
+{{<highlight shell "linenos=table" >}}
+
 # To check your MTU size
 $ networksetup -getMTU en0
 
 # To Set a new mtu size
 $ networksetup -setMTU en0 9000
 
-</code></pre>
+{{< / highlight >}}
 
 Also follow this article on how to do this using your Network setting GUI:
 [Changing it on the Mac GUI](https://www.codeotaku.com/journal/2010-02/mac-os-x-jumbo-frames/index)
@@ -91,7 +96,8 @@ Also follow this article on how to do this using your Network setting GUI:
 
 > Have Windows, let me know if this works
 
-<pre><code language="shell">
+{{<highlight shell "linenos=table" >}}
+
 # Open command-prompt in Administrative mode
 
 # To check your MTU size
@@ -104,7 +110,7 @@ $ netsh interface ipv4 set subinterface "Local Area Connection" mtu=nnnn store=p
 #     computer, from the list obtained above.
 #   nnnn is the desired value for MTU.
 
-</code></pre>
+{{< / highlight >}}
 
 Cheers!
 

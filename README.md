@@ -39,6 +39,8 @@ Copy /public/** to static hosting website
 
 To write a new blog post:
 hugo new post/2017-10-28-{title}.md
+EXAMPLE:
+$ hugo new post/2017-10-28-Spring-Framework-Three-Ways-To-Application-Context.md
 
 Google Firebase Hosting:
 https://firebase.google.com/docs/hosting/quickstart
@@ -49,3 +51,9 @@ $ firebase init
 $ hugo
 # Deploys content under public
 $ firebase deploy
+
+# Syntax Highlioghting
+https://gohugo.io/content-management/syntax-highlighting/
+{{<highlight java "linenos=table" >}}
+YOUR_CODE_GOES_HERE
+{{</highlight >}}
