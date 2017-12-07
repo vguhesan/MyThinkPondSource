@@ -1,21 +1,19 @@
----
-author: vguhesan
-categories:
-- EL6
-- Javascript
-- Scripting
-comments: true
-date: 2017-05-03T19:07:30Z
-link: http://mythinkpond.com/2017/05/03/elements-of-javascript-style-javascript-scene-medium/
-slug: elements-of-javascript-style-javascript-scene-medium
-tags:
-- Coding Practices
-- design
-- JS
-title: Elements of JavaScript Style – JavaScript Scene – Medium
-url: /2017/05/03/elements-of-javascript-style-javascript-scene-medium/
-wordpress_id: 1477
----
++++
+title = "Elements of JavaScript Style – JavaScript Scene – Medium"
+description = "Elements of JavaScript Style – JavaScript Scene – Medium"
+date = "2017-05-03T19:07:30Z"
+categories = [
+	"JavaScript",
+	"Programming",
+	"Software Development"
+]
+tags = [
+	"JavaScript",
+	"Arrow Functions",
+	"Software Development"
+]
+thumbnail = "/img/logo/javascripticon2.png"
++++
 
 [![](/img/2017/05/javascripticon.png)](/img/2017/03/javascripticon.png)Great article focusing on Javascript style. Provides some good examples of JavaScript coding styles, practices, and things to avoid.
 

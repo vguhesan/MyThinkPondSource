@@ -1,22 +1,25 @@
----
-author: vguhesan
-categories:
-- Science
-- Technology
-comments: true
-date: 2017-04-06T19:01:57Z
-link: http://mythinkpond.com/2017/04/06/how-ai-algorithms-could-help-design-new-drugs-futurity/
-slug: how-ai-algorithms-could-help-design-new-drugs-futurity
-tags:
-- AI
-- one-shot
-- one-shot learning
-title: How AI algorithms could help design new drugs - Futurity
-url: /2017/04/06/how-ai-algorithms-could-help-design-new-drugs-futurity/
-wordpress_id: 1465
----
++++
+title = "How AI algorithms could help design new drugs? - Futurity"
+description = "How AI algorithms could help design new drugs - Futurity"
+date = "2017-04-06T19:01:57Z"
+categories = [
+	"AI",
+	"Technology",
+	"Software Development"
+]
+tags = [
+	"AI",
+	"Artificial Intelligence",
+	"Technology",
+	"One-Shot",
+	"One-Shot Learning"
+]
+thumbnail = "/img/logo/ai.jpg"
++++
 
-<blockquote>[![](/img/2017/04/ai.jpg)](/img/2017/04/ai.jpg)A new kind of AI algorithm—designed to work with a small amount of data—may be able to assist in the early stages of drug development. Artificial intelligence doesn’t work all that well in situations where there is very little data, such as drug development.
+[![](/img/2017/04/ai.jpg)](/img/2017/04/ai.jpg)
+
+<blockquote>A new kind of AI algorithm—designed to work with a small amount of data—may be able to assist in the early stages of drug development. Artificial intelligence doesn’t work all that well in situations where there is very little data, such as drug development.
 
 A new technique called one-shot learning, that requires only a small number of data points might be a solution to that low-data problem.
 

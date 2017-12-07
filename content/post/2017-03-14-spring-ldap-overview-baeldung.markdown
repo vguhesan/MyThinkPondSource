@@ -16,6 +16,7 @@ tags:
 title: Spring LDAP Overview | Baeldung
 url: /2017/03/14/spring-ldap-overview-baeldung/
 wordpress_id: 1377
+thumbnail: /img/logo/spring.png
 ---
 
 [![](/img/2017/03/springframework.png)](/img/2016/11/springframework.png)Learn how to use the Spring LDAP APIs to authenticate and search for users, as well as to create and modify users in the directory server.

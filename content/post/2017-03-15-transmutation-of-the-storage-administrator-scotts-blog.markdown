@@ -19,6 +19,7 @@ tags:
 title: 'Transmutation of the Storage Administrator : Scott''s Blog'
 url: /2017/03/15/transmutation-of-the-storage-administrator-scotts-blog/
 wordpress_id: 1380
+thumbnail: /img/logo/sharedstorageicon.png
 ---
 
 ![StorageIcon](/img/2017/03/storageicon.png)This article discusses the evolution of the storage administrator in the era of cloud storage.

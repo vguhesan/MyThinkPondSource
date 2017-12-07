@@ -13,6 +13,7 @@ tags:
 title: A URL Shortener Service using Go, Iris and Bolt – Medium
 url: /2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/
 wordpress_id: 1439
+thumbnail: /img/logo/goframework.png
 ---
 
 ![](http://i0.wp.com/mythinkpond.files.wordpress.com/2016/11/goframework.png?w=1056)

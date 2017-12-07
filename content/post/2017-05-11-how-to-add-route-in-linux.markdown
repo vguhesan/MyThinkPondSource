@@ -1,18 +1,20 @@
----
-author: vguhesan
-categories:
-- Linux
-comments: true
-date: 2017-05-11T23:39:48Z
-link: http://mythinkpond.com/2017/05/11/how-to-add-route-in-linux/
-slug: how-to-add-route-in-linux
-tags:
-- networking
-- route
-title: How to Add Route in Linux?
-url: /2017/05/11/how-to-add-route-in-linux/
-wordpress_id: 1514
----
++++
+title = "Linux Routes - How to use them?"
+description = "Linux Routes - How to use them?"
+date = "2017-05-11T23:39:48Z"
+categories = [
+	"Networking",
+	"Linux",
+	"How-To"
+]
+tags = [
+	"Networking",
+	"Linux",
+	"Route"
+]
+thumbnail = "/img/logo/network.png"
++++
+
 
 [![](/img/2017/05/route-command.png)](http://www.thegeekstuff.com/2012/04/route-examples/)
 

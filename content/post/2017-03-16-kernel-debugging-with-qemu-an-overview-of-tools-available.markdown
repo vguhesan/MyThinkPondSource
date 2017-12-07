@@ -14,6 +14,7 @@ tags:
 title: 'Kernel debugging with QEMU: An overview of tools available'
 url: /2017/03/16/kernel-debugging-with-qemu-an-overview-of-tools-available/
 wordpress_id: 1441
+thumbnail: /img/logo/script1.png
 ---
 
 ![](http://i0.wp.com/mythinkpond.files.wordpress.com/2017/03/script1.png?w=1056)
