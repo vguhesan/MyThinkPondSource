@@ -12,7 +12,7 @@ tags = [
 	"In-The-News",
 	"Innovation"
 ]
-thumbnail = "/img/logo/innovation.png"
+thumbnail = "/img/logo/innovation2.png"
 +++
 
 ![Inspire](/img/article/inspiration-banner.png "Inspiration")
