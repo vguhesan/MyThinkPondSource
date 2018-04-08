@@ -3,7 +3,7 @@ categories = ["maven", "maven-shade-plugin", "spring", "uber-jar"]
 date = "2018-04-08T16:55:46+00:00"
 description = "shows you how to handle the Spring schema and handler files when creating a single uber jar"
 tags = ["maven", "maven-shade-plugin", "spring", "spring.handlers", "spring.schemas", "uber", "uber-jar", "jar"]
-thumbnail = ""
+thumbnail = "/static/img/logo/spring.png"
 title = "spring.schemas and spring.handlers when creating Uber-Jar"
 
 +++
