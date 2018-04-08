@@ -11,7 +11,7 @@ When creating an uber-jar with all dependencies in one single-jar file, each of 
 
 The following shows you how to leverage the Maven-Shade-Plugin in Maven to retain all versions of the file by appending the content into one single file for both spring.handlers and spring.schemas.
 
-<pre><code language="xml">
+<pre><code language="bash">
 
     <plugin>
         <groupId>org.apache.maven.plugins</groupId>
