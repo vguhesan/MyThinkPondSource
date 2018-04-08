@@ -1,4 +1,6 @@
 ---
+pages:
+- post/spring.schemas-and-spring.handlers-when-creating-uber-jar.md
 hide_body: false
 fields:
 - name: title
