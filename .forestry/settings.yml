@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections: 
 upload_dir: static/img
-public_path: "/uploads"
+public_path: "/img"
 front_matter_path: "/uploads"
 use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
