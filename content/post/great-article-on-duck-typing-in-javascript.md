@@ -8,7 +8,7 @@ thumbnail = ""
 title = "Great article on Duck Typing in JavaScript"
 
 +++
-Found a great article that explains what duck typing is and how it is used in JavaScript. Author makes it very simple to understand with examples.
+![](/uploads/2018/05/23/DuckTyping.png)Found a great article that explains what duck typing is and how it is used in JavaScript. Author makes it very simple to understand with examples.
 
 > A style of typing in which an object's methods and properties determine the valid semantics, rather than it's inheritance from a particular class or implementation of an explicit interface.
 
