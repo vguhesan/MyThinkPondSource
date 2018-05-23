@@ -1,7 +1,6 @@
 ---
-pages:
-- post/spring.schemas-and-spring.handlers-when-creating-uber-jar.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -33,3 +32,6 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- post/great-article-on-duck-typing-in-javascript.md
+- post/spring.schemas-and-spring.handlers-when-creating-uber-jar.md
