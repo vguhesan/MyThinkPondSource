@@ -27,11 +27,10 @@ fields:
   type: tag_list
   hidden: false
   default: []
-- name: thumbnail
-  label: Thumbnail
-  type: text
-  hidden: false
-  default: ''
+- type: file
+  name: thumbnail
+  label: thumbnail
+  hidden: true
 pages:
 - post/great-article-on-duck-typing-in-javascript.md
 - post/spring.schemas-and-spring.handlers-when-creating-uber-jar.md
