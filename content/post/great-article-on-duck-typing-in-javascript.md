@@ -3,7 +3,7 @@ categories = ["JavaScript", "JS"]
 date = "2018-05-23T14:37:18+00:00"
 description = "Found a great article that explains what duck typing is and how it is used in JavaScript. Author makes it very simple to understand with examples."
 tags = ["JavaScript", "JS"]
-thumbnail = "/img/logo/javascripticon.png"
+thumbnail = "/img/logo/javascripticon_100x100.png"
 title = "Great article on Duck Typing in JavaScript"
 
 +++
