@@ -30,7 +30,7 @@ fields:
 - type: file
   name: thumbnail
   label: thumbnail
-  hidden: true
+  hidden: false
 pages:
 - post/great-article-on-duck-typing-in-javascript.md
 - post/spring.schemas-and-spring.handlers-when-creating-uber-jar.md
