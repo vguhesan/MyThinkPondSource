@@ -5,13 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/about
-  label: About
+  path: content/post
+  label: Post
   create: all
   match: "**/*"
 - type: directory
-  path: content/post
-  label: Post
+  path: content/about
+  label: About
   create: all
   match: "**/*"
 upload_dir: static/img
