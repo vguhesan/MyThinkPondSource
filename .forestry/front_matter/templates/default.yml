@@ -33,5 +33,6 @@ fields:
   label: thumbnail
   hidden: false
 pages:
+- content/post/components-within-components.md
 - content/post/great-article-on-duck-typing-in-javascript.md
 - content/post/spring.schemas-and-spring.handlers-when-creating-uber-jar.md
