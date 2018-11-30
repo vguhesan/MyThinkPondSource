@@ -2,7 +2,6 @@
 categories = []
 date = "2018-11-30T17:23:34+00:00"
 description = "How-To create nested Components within Components?"
-draft = true
 tags = []
 thumbnail = "/img/logo/angularicon1.png"
 title = "Angular - Components within Components"
