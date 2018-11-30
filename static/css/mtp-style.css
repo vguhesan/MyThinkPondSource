@@ -141,4 +141,7 @@ ul.tags__list {
 	list-style: none;
 }
 
+.list__thumbnail img {
+    max-width: 100px !important;
+}
 
