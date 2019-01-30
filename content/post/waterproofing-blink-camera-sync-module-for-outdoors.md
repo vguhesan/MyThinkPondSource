@@ -37,3 +37,5 @@ More finished pictures coming up soon.
 If you have your own versions on how you have water-proofed your Blink Sync module, share them here on this wiki.
 
 Cheers.
+
+\--
