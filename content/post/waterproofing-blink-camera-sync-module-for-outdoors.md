@@ -14,11 +14,12 @@ Water-Proof the Blink Sync module such that it can be powered at each location l
 
 I searched (on Amazon and in other places) for a mount that is water-tight such as the Blink Camera's but I was running out of options. And so I decided to retrofit my own design. And here it is:
 
-\**Parts:  
-\**Polycase ([**SL-64FMBT**](https://www.polycase.com/sl-64f)) ...... x 1  
-Velcro... to suit your needs  
-3/8 inch metallic push in connector ........  x 1 (optional)  
-Silicone Sealant Tube .............................. x 1
+**Parts:**
+
+* Polycase ([**SL-64FMBT**](https://www.polycase.com/sl-64f)) ...... x 1
+* Velcro... to suit your needs
+* 3/8 inch metallic push in connector ........  x 1 (optional)
+* Silicone Sealant Tube .............................. x 1
 
 **Instructions:**
 
