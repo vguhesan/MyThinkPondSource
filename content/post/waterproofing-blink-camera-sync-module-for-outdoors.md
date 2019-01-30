@@ -1,6 +1,6 @@
 +++
 categories = ["Hardware", "embedded", "Blink", "Blink Sync", "Sync", "Camera", "water-proof"]
-date = "Jan 29, 2018"
+date = "2019-01-29T17:23:34+00:00"
 description = "This article goes over an idea on how to water-proof the Blink Sync Module for outdoors."
 tags = ["Hardware", "embedded", "Blink", "Blink Sync", "Sync", "Camera", "water-proof"]
 thumbnail = "/img/2019/01/30/Blink-Camera-Sync-Module.jpg"
