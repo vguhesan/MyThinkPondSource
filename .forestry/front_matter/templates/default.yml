@@ -32,6 +32,7 @@ fields:
   label: thumbnail
   hidden: false
 pages:
+- content/post/foo.md
 - content/post/spring.schemas-and-spring.handlers-when-creating-uber-jar.md
 - content/post/waterproofing-blink-camera-sync-module-for-outdoors.md
 - content/post/components-within-components.md
