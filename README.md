@@ -40,7 +40,7 @@ Copy /public/** to static hosting website
 To write a new blog post:
 hugo new post/2017-10-28-{title}.md
 EXAMPLE:
-$ hugo new post/2017-10-28-Spring-Framework-Three-Ways-To-Application-Context.md
+$ hugo new post/2019-09-06-Spring-Framework-Three-Ways-To-Application-Context.md
 
 Google Firebase Hosting:
 https://firebase.google.com/docs/hosting/quickstart

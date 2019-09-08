@@ -2,7 +2,7 @@ baseurl = "http://MyThinkPond.com/"
 disqusShortname = "mythinkpond"
 googleAnalytics = "UA-106933850-1"
 languageCode = "en-us"
-paginate = "20"
+paginate = "25"
 theme = "mainroad"
 title = "MyThinkPond"
 [Author]
@@ -11,7 +11,7 @@ bio = "Enterprise Software Architect currently working at DataDirect Networks de
 name = "Venkatt Guhesan"
 [Params]
 authorbox = true
-description = " Venkatt Guhesan's personal blog on all things interesting."
+description = "Venkatt Guhesan's personal blog on all things interesting."
 leftsidebar = false
 opengraph = true
 postSections = ["post"]

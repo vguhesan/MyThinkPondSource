@@ -9,41 +9,69 @@ title: About
 wordpress_id: 2
 ---
 
+> This is without a doubt the greatest time in all of human history to be alive! We’ve never had more information, knowledge, opportunity, possibilities, resources, or wealth than we do now. I hope that we can each make a mark in history as the greatest generation that have ever lived! [B+]
+
+&nbsp;
+
+> This blog is a "labor of love" for all things beautiful and interesting WRT technology, curiosity & learning. It is a neverending work in progress... Always improved, always refined, ever growing... It is my journal! 
+
+<br>
 
 {{<img src="/img/common/VenkattGuhesan_Aug2017.jpg" alt="Venkatt Guhesan" width="150"  align="left" class="authorbox__avatar">}}
-Welcome to 'MyThinkPond". My name is Venkatt Guhesan. This pond is a collection of some useful, some useless knowledge I have collected over the years. And hence, "MyThinkPond". It contains my thoughts, ideas, comments and understanding of technology - especially Java, Scala, JVM, J2EE and some about random thoughts.
 
+**Name:** Venkatt Guhesan
 
-Some of my interests in Java and Scala are in finding the best ways to effectively couple various servlet-filter technologies with the new front-end web2.0 style front-ends and various back-end persistent storage/databases/repositories. Some of the servlet-filter technologies I work with are Spring Framework, Groovy, Grails, Vaadin, GWT, Struts2, Wicket, WebWork, XWork, Portal and plain old J2EE Servlet implementations. Some of the back-end persistent storage/databases/repositories that I focus on are SQL Server, MySQL (MariaDB), Postgresql, H2 Database, MongoDB, CouchDB, Hadoop (HDFS) and Memcached. Some of the front-end technologies that interest me are - JQuery, Dojo, ExtJS, GWT, Yahoo UI, Prototype and plain old HTML. I have always found it fascinating and challenging to find the right balance in use of these technologies to create a robust, scalable, secure solution that meets the needs of a web based application.
+**Residence:** Maryland, USA
 
+**Interests:** Live and Love Technology. My tag cloud or categories in this blog speaks for itself.
 
-Some of my other passions are in Linux (CentOS, Red Hat, Gentoo, Open Stack, Docker & Ubuntu) and embedded processors (ARM processors and Microcontrollers). One of my favorite embedded projects includes the - [Arduino](http://www.arduino.cc/), [UDOO](http://www.udoo.org/),  [Cubieboard](http://cubieboard.org/), [CuBox](http://www.solid-run.com/cubox), [BeagleBoard ](http://beagleboard.org/), TI's [Zigbee](https://www.sparkfun.com/categories/111) and TI's [Piccolo Controlstick](http://focus.ti.com/mcu/docs/mcuprodtoolsw.tsp?sectionId=95&tabId=1222&familyId=916&toolTypeId=1). Coming from a Electrical and Computer Engineering background - all I can say is that "we are now living in the best times in human innovation and there is so much to learn and so little time."
+**Ideals To Live By:** Live Life, Love What You Do, Never Stop Learning, Share Knowledge & Stay Thirsty!
 
+**Background:** **Electrical & Computer Engineering** by education | **Enterprise Architect & Software Developer** by trade
 
-I moved from Tamilnadu, India about twenty some years ago and I currently live in Maryland, USA with my family. At present, I work as an Enterprise UI Architect for [DataDirect Networks](http://www.ddn.com). I have been developing [DirectMon](http://www.ddn.com/products/storage-management-directmon), an Enterprise Monitoring and Management Solution for all of the DDN products. Before that I worked at [DrFirst](http://www.drfirst.com/e-prescribing-for-controlled-substances.jsp) engineering an e-prescribing platform for controlled substances. And before that I had spent over thirteen years at [Aon-Hewitt](http://www.aon.com/human-capital-consulting/benefits-admin/default.jsp) developing a premier suite of solutions for Human Resource and Benefits Management under the name RealLifeBenefits. I have worked in Finance, Investing, Mutual Fund Management, Insurance, Health Care, Rx Management, Publishing and High Performance Computing, Storage and File Systems (GPFS & Lustre) Management.
+**Passions:** Linux (CentOS, Red Hat, Gentoo, Open Stack, Docker & Ubuntu) and embedded processors (ARM processors and Microcontrollers)
 
+**Favorite Embedded Projects:** [Arduino](http://www.arduino.cc/), [UDOO](http://www.udoo.org/), [Cubieboard](http://cubieboard.org/), [CuBox](http://www.solid-run.com/cubox), [BeagleBoard ](http://beagleboard.org/), TI's [Zigbee](https://www.sparkfun.com/categories/111) and TI's [Piccolo Controlstick](http://focus.ti.com/mcu/docs/mcuprodtoolsw.tsp?sectionId=95&tabId=1222&familyId=916&toolTypeId=1)
 
-{{<img src="/img/2009/05/imag0202-smile-2.jpg" alt="Family Pic 1" width="450"  align="center">}}
+**Work History:**
+
+- Enterprise Architect & Engineer at [Leidos](https://www.leidos.com/) (working as a contractor at the "Modern Software Services" Group at [Social Security Administration - SSA](https://www.ssa.gov/))
+- Software Engineer & Architect at **ASC Tickets** - developed some unique tools and frameworks for transforming the ticket broker industry.
+- Enterprise UI Architect for [DataDirect Networks](http://www.ddn.com). Developed [DDNInsight](https://www.ddn.com/products/storage-monitoring-ddn-insight/), an Enterprise Monitoring and Management Solution for all of the DDN products. 
+- Enterprise Managing Architect [DrFirst](http://www.drfirst.com/e-prescribing-for-controlled-substances.jsp) engineering an e-prescribing platform for controlled substances. 
+- Thirteen years at [Aon-Hewitt](http://www.aon.com/human-capital-consulting/benefits-admin/default.jsp) developed a premier suite of solutions for Human Resource and Benefits Management under the name RealLifeBenefits.<br/><br/>
+
+I have been lucky and blessed to be diversified in a wide variety of sectors including Finance, Investing, Mutual Fund Management, Insurance, Health Care, Rx Management, Ticket Broker Network, Publishing, High Performance Computing, Storage, File Systems (GPFS & Lustre) Management and last but more recently - Software Development Analytics and Reporting.
+<br>
+
+**Family:** wife, two daughters and a puppy (very blessed indeed)
 
 {{<img src="/img/2009/05/guhesan_family_photo_sml.jpg" alt="Family Pic 2" width="250" align="center">}}
 
+{{<img src="/img/2019/09/05/IMG_5496.jpg" alt="daughter-2 & puppy" width="250" align="center" class="imgframe">}}
+
+{{<img src="/img/2019/09/05/IMG_4224.jpg" alt="daughter-1" width="450" align="center" class="imgframe">}}
+
+**Blog Mascot:** 
+{{<img src="/img/common/owl-mascot.png" alt="Blog Mascot - Owl" width="50" align="center" class="imgframe">}} **Mr.Owl** Owls are considered to be one of the most mysterious of all birds. They are believed to be part of the spirit world that brings both men and the gods together as one. Greek mythology often talks about the goddess Athena who was an owl. Athena is talked about in a good light with the ideals of art, wisdom, beauty, and skillfulness. In some other cultures, owls represent as keepers of wisdom and knowledge and so I felt that Mr.Owl suits best to be the macot of this website (as the "keeper of the knowledge contained within My-Think-Pond") So as you bookmark this website and when you revist - you will be reminded of Mr.Owl :-) (Mr.Owl is always hiding in plain sight between the lines in this blog - if you find him - wish him well!) 
 
 
-I hope you find my collections of thoughts useful. Send me a note, if you have any questions or if you would like to share your thoughts on my thoughts. :-)
+
+
+I hope you find my collections of thoughts, ideas and journal useful. Don't forget to subscribe to my email on the right side :-)
+
+> Always Remember ... **Confidence** gives you Life, **Fear** brings you closer to Death! (- _my grandfather_)<br>
+> and know that all things are possible with perseverance and willpower!
+
+<br/>
 
 Cheers...
 
--- June 17th, 2014
-
-{{<img src="/img/2009/05/la-green-bold2.jpg" alt="la-green-bold2" width="70"  align="center">}}
-
-What is this symbol used in my profile?
-
-It represents one of the "unique" alphabets in the [Tamil language](http://en.wikipedia.org/wiki/Tamil_language) (one of the oldest surviving classical languages of the world) pronounced as "la" with "za" sound. It is a special 'distinguished' alphabet and pronunciation that's only found in the Tamil language (among the five languages that share a common ancestry). The Tamil language belongs to the [Dravidian family of languages](http://en.wikipedia.org/wiki/Dravidian_languages). I chose this alphabet to represent my Gravatar because it holds a special place for me.
+-- Last updated on September 8th, 2019
 
 ## About this blog (MyThinkPond.com) 
 
-MyThinkPond is developed as a static website using [Hugo](https://gohugo.io/). It easy to use and is built on one of my favorite languages - [GoLang](https://golang.org/). The theme used on this website is based on [Mainroad](https://github.com/Vimux/Mainroad/). [Markdown](https://en.wikipedia.org/wiki/Markdown) is the markup language used to edit and generate this website content.
+MyThinkPond is developed as a static website using [Hugo](https://gohugo.io/) (static site generator). It is easy to use and is built on one of my favorite languages - [GoLang](https://golang.org/). The theme used on this website is based on [Mainroad](https://github.com/Vimux/Mainroad/). [Markdown](https://en.wikipedia.org/wiki/Markdown) is the markup language used to edit and generate this website content.
 
   * Syntax Highlighting provided by [highlight.js](https://highlightjs.org/)
   * Search provided by FreeFind Search
