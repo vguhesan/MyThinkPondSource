@@ -25,7 +25,7 @@ Here is a sample of one of my favorite cartoons from the book on the topic of "S
 
 {{<img src="/img/2019/09/07/SeatOfMyPants.jpg" alt="Seat of my pants" width="400" align="center" class="imgframe">}}
 
-In summary, I would hightly recommend this book to anyone seeking to learn about Statistics in a fun way. If you want to check out the book on Amazon, here is a link:
+In summary, I would highly recommend this book to anyone seeking to learn about Statistics in a fun way. If you want to check out the book on Amazon, here is a link:
 
 <a href="https://www.amazon.com/dp/0062731025/ref=cm_sw_em_r_mt_dp_U_8liDDb3KG62MY" target="_blank" alt="The Cartoon Guide to Statistics">The Cartoon Guide to Statistics</a>
 
