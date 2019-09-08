@@ -23,11 +23,11 @@ Let's get to it:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ygSMG6Ta80UgNI" width="1024" height="768" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/vguhesan/understanding-microservices-169744078" title="Understanding Microservices" target="_blank">Understanding Microservices</a> </strong> from <strong><a href="https://www.slideshare.net/vguhesan" target="_blank">Venkatt Guhesan</a></strong> </div>
 
-#### Bitbucket Links to sample implementation & original slidedeck
+#### Bitbucket Links to sample implementation & original slide-deck
 
 [Bitbucket - Understanding Microservices](https://bitbucket.org/vguhesan/understanding-microservices-demo/)
 
-I will try to record a video-blog soon on the slidedeck so that you can follow along with the slidedeck.
+I will try to record a video-blog soon on the slide-deck so that you can follow along with the slide-deck.
 
 If you find this article useful, consider bookmarking, subscribing and/or sharing it on your favorite social channels so that others can also find and read these articles. I do this out of love and passion to share my ideas, thoughts, findings and knowledge with others. So the more you help me share the more my content can reach others. Thank you for helping spread the word!
 

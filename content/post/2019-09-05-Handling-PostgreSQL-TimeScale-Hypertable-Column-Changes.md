@@ -1,13 +1,13 @@
 +++
-title = "Handling PostgreSQL TimeScale Hypertable Column Changes Efficiently"
-description = "This article shows you how to efficiently alter column datatypes that leverages PostgreSQL TimeScale hypertables."
+title = "Handling PostgreSQL TimeScale Hyper-table Column Changes Efficiently"
+description = "This article shows you how to efficiently alter column data-types that leverages PostgreSQL TimeScale hyper-tables."
 date = "2019-09-05T21:04:14-04:00"
 categories = ["PostgreSQL"]
 tags = ["PostgreSQL","TimeScale","hypertable","time-series","ALTER"]
 thumbnail = "/img/logo/postgresql.png"
 +++
 
-> **tl;dr** This article shows you how to efficiently alter column datatypes that leverages PostgreSQL TimeScale hypertables.
+> **tl;dr** This article shows you how to efficiently alter column data-types that leverages PostgreSQL TimeScale hyper-tables.
 
 {{<img src="/img/2019/09/05/img_5503.jpg" alt="Beautiful Skies Over Baltimore" align="center" class="imgframe">}}
 
@@ -20,7 +20,7 @@ Let's dive into the problem!
 
 {{<img src="/img/logo/postgresql.png" alt="PostgreSQL TimeScale hypertable" align="left" class="imgframe">}}  When you work with PostgreSQL tables with time-series data, you may end up choosing [TimeScale](https://www.timescale.com/) as a product for storing time-series data in a relational database. You other options to consider will be - <a href="https://kairosdb.github.io/" target="_blank" alt="kairosdb">KairosDB</a> on top of <a href="http://cassandra.apache.org/" target="_blank" alt="Cassandra - Big Data">Cassandra</a>, <a href="https://www.influxdata.com/" target="_blank" alt="InfluxDB">InfluxDB</a>, <a href="https://graphiteapp.org/" target="_blank" alt="Graphite">Graphite</a>, or to build your own using <a href="https://hbase.apache.org/" target="_blank" alt="HBase">HBase</a> or <a href="https://github.com/facebook/rocksdb" target="_blank" alt="RocksDB">RocksDB</a> or <a href="https://github.com/google/leveldb" target="_blank" alt="LevelDB">LevelDB</a>, etc. But each option you consider has various implications on the <a href="https://en.wikipedia.org/wiki/CAP_theorem" target="_blank" alt="CAP Theorem">CAP Theorem</a> (WRT to Consistency/Availability/Partition Tolerance). But that's another article for a later date. Back to the story...
 
-As your schema design evolves, you will need to modify the table-columns to support the changes. TimeScale uses hypertables to shard/chunk the time-series data into smaller tables that uses your time column as an index. This has a penalty when you save the data (WRITE) but has very good READ benefits. There may be cases where you need to modify a column type from one type to another. Example in this case is that you created one of the time columns as type TIMESTAMP (timestamp with no timezone data) and then realize later on that you need to convert it to TIMESTAMPZ (timestamp with timezone data).  
+As your schema design evolves, you will need to modify the table-columns to support the changes. TimeScale uses hyper-tables to shard/chunk the time-series data into smaller tables that uses your time column as an index. This has a penalty when you save the data (WRITE) but has very good READ benefits. There may be cases where you need to modify a column type from one type to another. Example in this case is that you created one of the time columns as type TIMESTAMP (timestamp with no timezone data) and then realize later on that you need to convert it to TIMESTAMPZ (timestamp with timezone data).  
 
 Here is a clean way you can make that modification.
 
@@ -43,7 +43,7 @@ CREATE TABLE tmp_SmartDiskMetrics AS
 TRUNCATE TABLE SmartDiskMetrics;
 
 # This will be free of any constraints
-# When you run "\d+ SmartDiskMetrics", your table will not have any Child table references to hypertables  
+# When you run "\d+ SmartDiskMetrics", your table will not have any Child table references to hyper-tables  
 {{</highlight >}}
 
 #### Step-3: Convert table column
@@ -61,12 +61,12 @@ ALTER TABLE SmartDiskMetrics ALTER COLUMN time SET NOT NULL;
 {{<highlight sql "linenos=table" >}}
 INSERT INTO SmartDiskMetrics SELECT * FROM tmp_SmartDiskMetrics;
 
-# When you run "\d+ SmartDiskMetrics" now, your table ** will have ** Child table with references pointing to hypertables 
+# When you run "\d+ SmartDiskMetrics" now, your table ** will have ** Child table with references pointing to hyper-tables 
 # like _timescaledb_internal._hyper_1_245_chunk 
 {{</highlight >}}
 
 
-That's it! You have now modified a PostgreSQL table with time-series (with timezone) data backed by TimeScale hypertable.
+That's it! You have now modified a PostgreSQL table with time-series (with timezone) data backed by TimeScale hyper-table.
 
 If you find this article useful, consider bookmarking, subscribing and/or sharing it on your favorite social channels so that others can also find and read these articles. I do this out of love and passion to share my ideas, thoughts, findings and knowledge with others. So the more you help me share the more my content can reach others. Thank you for helping spread the word!
 

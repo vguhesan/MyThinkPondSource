@@ -13,7 +13,7 @@ wordpress_id: 2
 
 &nbsp;
 
-> This blog is a "labor of love" for all things beautiful and interesting WRT technology, curiosity & learning. It is a neverending work in progress... Always improved, always refined, ever growing... It is my journal! 
+> This blog is a "labor of love" for all things beautiful and interesting WRT technology, curiosity & learning. It is a never ending work in progress... Always improved, always refined, ever growing... It is my journal! 
 
 <br>
 
@@ -53,7 +53,7 @@ I have been lucky and blessed to be diversified in a wide variety of sectors inc
 {{<img src="/img/2019/09/05/IMG_4224.jpg" alt="daughter-1" width="450" align="center" class="imgframe">}}
 
 **Blog Mascot:** 
-{{<img src="/img/common/owl-mascot.png" alt="Blog Mascot - Owl" width="50" align="center" class="imgframe">}} **Mr.Owl** Owls are considered to be one of the most mysterious of all birds. They are believed to be part of the spirit world that brings both men and the gods together as one. Greek mythology often talks about the goddess Athena who was an owl. Athena is talked about in a good light with the ideals of art, wisdom, beauty, and skillfulness. In some other cultures, owls represent as keepers of wisdom and knowledge and so I felt that Mr.Owl suits best to be the macot of this website (as the "keeper of the knowledge contained within My-Think-Pond") So as you bookmark this website and when you revist - you will be reminded of Mr.Owl :-) (Mr.Owl is always hiding in plain sight between the lines in this blog - if you find him - wish him well!) 
+{{<img src="/img/common/owl-mascot.png" alt="Blog Mascot - Owl" width="50" align="center" class="imgframe">}} **Mr.Owl** Owls are considered to be one of the most mysterious of all birds. They are believed to be part of the spirit world that brings both men and the gods together as one. Greek mythology often talks about the goddess Athena who was an owl. Athena is talked about in a good light with the ideals of art, wisdom, beauty, and skillfulness. In some other cultures, owls represent as keepers of wisdom and knowledge and so I felt that Mr.Owl suits best to be the mascot of this website (as the "keeper of the knowledge contained within My-Think-Pond") So as you bookmark this website and when you revisit - you will be reminded of Mr.Owl :-) (Mr.Owl is always hiding in plain sight between the lines in this blog - if you find him - wish him well!) 
 
 
 
