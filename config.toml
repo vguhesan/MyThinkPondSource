@@ -5,38 +5,50 @@ languageCode = "en-us"
 paginate = "25"
 theme = "mainroad"
 title = "MyThinkPond"
+
 [Author]
-avatar = "/img/common/VenkattGuhesan_Aug2017.jpg"
-bio = "Enterprise Software Architect currently working at DataDirect Networks developing a highly scalable monitoring solution called DDN Insight. My passions include all things Open Source including Linux (CentOS, Red Hat, Gentoo, Open Stack, Docker & Ubuntu), embedded ARM processors and microcontrollers (Arduino, UDOO, Cubieboard, BeagleBoard, OnionIO, TI's Zigbee). Coming from an Electrical and Computer Engineering background, working in developing and designing enterprise - distributed, highly scalable software requires a unique set of software skills with a good understanding of the hardware. This makes his work challenging and interesting. In his free time, he spends his time with his family and two children. He also enjoys researching on topics including - world ancient history and yoga. Visit the 'About' section for more details."
-name = "Venkatt Guhesan"
+	avatar = "/img/common/VenkattGuhesan_Aug2017.jpg"
+	bio = "Enterprise Software Architect currently working at DataDirect Networks developing a highly scalable monitoring solution called DDN Insight. My passions include all things Open Source including Linux (CentOS, Red Hat, Gentoo, Open Stack, Docker & Ubuntu), embedded ARM processors and microcontrollers (Arduino, UDOO, Cubieboard, BeagleBoard, OnionIO, TI's Zigbee). Coming from an Electrical and Computer Engineering background, working in developing and designing enterprise - distributed, highly scalable software requires a unique set of software skills with a good understanding of the hardware. This makes his work challenging and interesting. In his free time, he spends his time with his family and two children. He also enjoys researching on topics including - world ancient history and yoga. Visit the 'About' section for more details."
+	name = "Venkatt Guhesan"
+
 [Params]
-authorbox = true
-description = "Venkatt Guhesan's personal blog on all things interesting."
-leftsidebar = false
-opengraph = true
-postSections = ["post"]
-post_navigation = true
-readmore = false
-subtitle = "On Java, Python, Groovy, Grails, Spring, Node.js, Linux, Arduino, ARM, Embedded Devices & Web"
+	authorbox = true
+	description = "Venkatt Guhesan's personal blog on all things interesting."
+	leftsidebar = false
+	opengraph = true
+	postSections = ["post"]
+	post_navigation = true
+	readmore = false
+	subtitle = "On Java, Python, Groovy, Grails, Spring, Node.js, Linux, Arduino, ARM, Embedded Devices & Web"
+
+[Params.sidebar]
+  	home = "right" # Configure layout for home page
+  	list = "left"  # Configure layout for list pages
+  	single = false # Configure layout for single pages
+  	# Enable widgets in given order
+  	widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
 [Params.widgets]
-categories = true
-getnotified = true
-recent_articles = true
-recent_articles_num = 5
-search = true
-social_facebook = "venkattg"
-social_linkedin = "venkatt-guhesan-6956431"
-social_twitter = "vguhesan"
-tags = true
-tags_counter = false
+	categories = true
+	getnotified = true
+	recent_articles = true
+	recent_articles_num = 5
+	search = true
+	social_facebook = "venkattg"
+	social_linkedin = "venkatt-guhesan-6956431"
+	social_twitter = "vguhesan"
+	tags = true
+	tags_counter = false
+
 [[menu.main]]
-name = "Home"
-pre = "<i class='fa fa-road'></i>"
-url = "/"
-weight = 1
+	name = "Home"
+	pre = "<i class='fa fa-road'></i>"
+	url = "/"
+	weight = 1
+
 [[menu.main]]
-identifier = "about"
-name = "About"
-pre = "<i class='fa fa-heart'></i>"
-url = "/about/"
-weight = 2
+	identifier = "about"
+	name = "About"
+	pre = "<i class='fa fa-heart'></i>"
+	url = "/about/"
+	weight = 2

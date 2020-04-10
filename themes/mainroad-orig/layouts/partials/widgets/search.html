@@ -1,0 +1,17 @@
+{{- if .Site.Params.widgets.search }}
+<div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="https://search.freefind.com/find.html" target="mtpsearch">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input class="widget-search__field" type="search" placeholder="SEARCH..." value="" name="query">
+			<input type="hidden" name="si" value="81099687">
+			<input type="hidden" name="pid" value="r">
+			<input type="hidden" name="n" value="0">
+			<input type="hidden" name="_charset_" value="">
+			<input type="hidden" name="bcd" value="&#247;">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}" />
+	</form>
+</div>
+{{- end }}

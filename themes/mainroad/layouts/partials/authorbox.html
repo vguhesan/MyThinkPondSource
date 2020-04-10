@@ -1,7 +1,9 @@
-{{- if .Site.Params.authorbox }}
+{{- if .Param "authorbox" }}
 <div class="authorbox clearfix">
 	{{- if and (not .Site.Author.avatar) (not .Site.Author.name) (not .Site.Author.bio) }}
-	<p class="authorbox__warning"><strong>WARNING:</strong> Authorbox is activated, but [Author] parameters are not specified.</p>
+	<p class="authorbox__warning">
+		<strong>WARNING:</strong> Authorbox is activated, but [Author] parameters are not specified.
+	</p>
 	{{- end }}
 	{{- with .Site.Author.avatar }}
 	<figure class="authorbox__avatar">
@@ -10,7 +12,7 @@
 	{{- end }}
 	{{- with .Site.Author.name }}
 	<div class="authorbox__header">
-		<span class="authorbox__name">About {{ . }}</span>
+		<span class="authorbox__name">{{ T "authorbox_name" . }}</span>
 	</div>
 	{{- end }}
 	{{- with .Site.Author.bio }}
