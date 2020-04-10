@@ -145,3 +145,6 @@ ul.tags__list {
     max-width: 100px !important;
 }
 
+.icon-time, .icon-category {
+    fill: #c4c4c4;
+}
