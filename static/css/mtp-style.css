@@ -36,11 +36,6 @@ body {
 	width: 20%;
 }
 
-.imgframe {
-	margin: 10px;
-	margin-right: 30px;
-}
-
 p {
     margin-bottom: 10px;
 }
@@ -159,3 +154,22 @@ ul.tags__list {
 .icon-time, .icon-category {
     fill: #c4c4c4;
 }
+
+/* Images Styling */
+.imgframe {
+	margin: 40px !important;
+}
+
+.imgframe-right-pad {
+	margin: 10px !important;
+	margin-right: 30px !important;
+}
+
+.imgframe-left-pad {
+	margin: 10px !important;
+	margin-left: 30px !important;
+}
+.round-img-border > img {
+	border-radius: 8px;
+}
+
