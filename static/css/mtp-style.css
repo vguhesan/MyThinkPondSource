@@ -1,3 +1,13 @@
+body {
+	/*font-family: 'Montserrat', sans-serif;*/
+	/*font-family: 'Roboto', sans-serif;*/
+	/*font-family: 'Raleway', sans-serif;*/
+	/*font-family: 'Oswald', sans-serif;*/
+	/*font-family: 'Lato', sans-serif;*/
+	/*font-family: 'Open Sans', sans-serif;*/
+	font-size: 1rem;
+}
+
 .logo__link {
 	text-transform: capitalize;
 }
@@ -18,9 +28,9 @@
 	max-width: 98%;
 }
 
-.content {
+/*.content {
 	width: 76%;
-}
+}*/
 
 .sidebar {
 	width: 20%;
@@ -28,6 +38,7 @@
 
 .imgframe {
 	margin: 10px;
+	margin-right: 30px;
 }
 
 p {

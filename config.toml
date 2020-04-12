@@ -8,7 +8,7 @@ title = "MyThinkPond"
 
 [Author]
 	avatar = "/img/common/VenkattGuhesan_Aug2017.jpg"
-	bio = "Enterprise Software Architect currently working at DataDirect Networks developing a highly scalable monitoring solution called DDN Insight. My passions include all things Open Source including Linux (CentOS, Red Hat, Gentoo, Open Stack, Docker & Ubuntu), embedded ARM processors and microcontrollers (Arduino, UDOO, Cubieboard, BeagleBoard, OnionIO, TI's Zigbee). Coming from an Electrical and Computer Engineering background, working in developing and designing enterprise - distributed, highly scalable software requires a unique set of software skills with a good understanding of the hardware. This makes his work challenging and interesting. In his free time, he spends his time with his family and two children. He also enjoys researching on topics including - world ancient history and yoga. Visit the 'About' section for more details."
+	bio = "Enterprise Software Architect and Developer currently working at Leidos as a consultant for the Modern Development Environment Group at SSA.gov developing the next generation of DevOps solutions and services. My passions include all things Open Source including Java, Python, GoLang, JavaScript, Linux, Arduino, ARM, Embedded Devices, Web Development and micro controllers. Coming from an Electrical and Computer Engineering background, working in developing and designing enterprise grade distributed, highly scalable software requires a unique set of software skills with a good understanding of the hardware. This makes my work challenging and interesting each and every day. I enjoy spending my free time with my family, friends and our pet dog. I enjoy researching on topics including - world ancient history, yoga, science, biology, chemistry and all things interesting. Visit the 'About' section up top for more details."
 	name = "Venkatt Guhesan"
 
 [Params]
@@ -19,14 +19,14 @@ title = "MyThinkPond"
 	postSections = ["post"]
 	post_navigation = true
 	readmore = false
-	subtitle = "On Software Development & Architecture : with a flavor of Java, Python, Groovy, Grails, Spring, Node.js, Linux, Arduino, ARM, Embedded Devices and Web"
+	subtitle = "On Software Development & Architecture - with a flavor of Java, Python, GoLang, JavaScript, Linux, Arduino, ARM, Embedded Devices and Web Development"
 
 [markup.goldmark.renderer]
 unsafe= true
 
 [Params.sidebar]
   	home = "right" # Configure layout for home page
-  	list = "left"  # Configure layout for list pages
+  	list = "right"  # Configure layout for list pages
   	single = false # Configure layout for single pages
   	# Enable widgets in given order
   	widgets = ["search", "recent", "blogroll", "social", "getnotified", "categories", "taglist",  "languages"]

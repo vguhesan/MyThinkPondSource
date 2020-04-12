@@ -27,7 +27,7 @@ wordpress_id: 2
 
 **Ideals To Live By:** Live Life, Love What You Do, Never Stop Learning, Share Knowledge & Stay Thirsty!
 
-**Background:** **Electrical & Computer Engineering** by education | **Enterprise Architect & Software Developer** by trade
+**Electrical & Computer Engineering** by education | **Enterprise Architect & Software Developer** by trade
 
 **Passions:** Linux (CentOS, Red Hat, Gentoo, Open Stack, Docker & Ubuntu) and embedded processors (ARM processors and Microcontrollers)
 
@@ -35,13 +35,13 @@ wordpress_id: 2
 
 **Work History:**
 
-- Enterprise Architect & Engineer at [Leidos](https://www.leidos.com/) (working as a contractor at the "Modern Software Services" Group at [Social Security Administration - SSA](https://www.ssa.gov/))
+- Enterprise Architect & Engineer at [Leidos](https://www.leidos.com/) (working as a consultant at the "Modern Software Services" Group at [Social Security Administration - SSA](https://www.ssa.gov/) working to develop the next generation of tools and services to support the modern DevOps pipeline at SSA)
 - Software Engineer & Architect at **ASC Tickets** - developed some unique tools and frameworks for transforming the ticket broker industry.
 - Enterprise UI Architect for [DataDirect Networks](http://www.ddn.com). Developed [DDNInsight](https://www.ddn.com/products/storage-monitoring-ddn-insight/), an Enterprise Monitoring and Management Solution for all of the DDN products. 
 - Enterprise Managing Architect [DrFirst](http://www.drfirst.com/e-prescribing-for-controlled-substances.jsp) engineering an e-prescribing platform for controlled substances. 
 - Thirteen years at [Aon-Hewitt](http://www.aon.com/human-capital-consulting/benefits-admin/default.jsp) developed a premier suite of solutions for Human Resource and Benefits Management under the name RealLifeBenefits.<br/><br/>
 
-I have been lucky and blessed to be diversified in a wide variety of sectors including Finance, Investing, Mutual Fund Management, Insurance, Health Care, Rx Management, Ticket Broker Network, Publishing, High Performance Computing, Storage, File Systems (GPFS & Lustre) Management and last but more recently - Software Development Analytics and Reporting.
+I have been lucky and blessed to be diversified in a wide variety of sectors including DevOps, Finance, Investing, Mutual Fund Management, Insurance, Health Care, Rx Management, Ticket Broker Network, Publishing, High Performance Computing, Storage, File Systems (GPFS & Lustre) Management and last but more recently - Software Development Analytics and Reporting.
 <br>
 
 **Family:** wife, two daughters and a puppy (very blessed indeed)
@@ -50,13 +50,12 @@ I have been lucky and blessed to be diversified in a wide variety of sectors inc
 
 {{<img src="/img/2019/09/05/IMG_5496.jpg" alt="daughter-2 & puppy" width="250" align="center" class="imgframe">}}
 
-{{<img src="/img/2019/09/05/IMG_4224.jpg" alt="daughter-1" width="450" align="center" class="imgframe">}}
+{{<img src="/img/2019/09/05/IMG_4224.jpg" alt="daughter-1" width="400" align="center" class="imgframe">}}
+
+{{<img src="/img/common/OurDog.jpg" alt="Our Puppy Dog" width="450" align="center" class="imgframe">}}
 
 **Blog Mascot:** 
 {{<img src="/img/common/owl-mascot.png" alt="Blog Mascot - Owl" width="50" align="center" class="imgframe">}} **Mr.Owl** Owls are considered to be one of the most mysterious of all birds. They are believed to be part of the spirit world that brings both men and the gods together as one. Greek mythology often talks about the goddess Athena who was an owl. Athena is talked about in a good light with the ideals of art, wisdom, beauty, and skillfulness. In some other cultures, owls represent as keepers of wisdom and knowledge and so I felt that Mr.Owl suits best to be the mascot of this website (as the "keeper of the knowledge contained within My-Think-Pond") So as you bookmark this website and when you revisit - you will be reminded of Mr.Owl :-) (Mr.Owl is always hiding in plain sight between the lines in this blog - if you find him - wish him well!) 
-
-
-
 
 I hope you find my collections of thoughts, ideas and journal useful. Don't forget to subscribe to my email on the right side :-)
 
@@ -78,7 +77,7 @@ MyThinkPond is developed as a static website using [Hugo](https://gohugo.io/) (s
   * Analytics provided by Google Analytics
   * Comments System is built using [Disqus](https://disqus.com/)
   * Google Firebase is used for hosting the static website
-  * Email Subscription provided by [SpecificFeeds.com](https://www.specificfeeds.com/)
+  * Email Subscription provided by [SendGrid.com](https://sendgrid.com)
   * GIT source for MyThinkPond is hosted on BitBucket.
 
 
