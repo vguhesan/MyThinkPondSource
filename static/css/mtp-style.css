@@ -177,4 +177,19 @@ ul.tags__list {
 .round-img-border > img {
 	border-radius: 8px;
 }
+/* Images Styling */
 
+.emailsignupbox {
+
+    padding: 5px 0;
+    margin-bottom: 5px;
+    line-height: 1.5;
+    border-top: 1px solid #ebebeb;
+    /*border-bottom: 1px solid #ebebeb;*/
+
+}
+
+.fa-envelope {
+	color: #e22d30;
+	font-size: 48px;
+}

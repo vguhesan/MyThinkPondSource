@@ -13,6 +13,7 @@ title = "MyThinkPond"
 
 [Params]
 	authorbox = true
+	emailsignup = true
 	description = "Venkatt Guhesan's personal blog on all things interesting."
 	leftsidebar = false
 	opengraph = true
