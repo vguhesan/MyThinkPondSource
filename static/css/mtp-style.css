@@ -161,14 +161,19 @@ ul.tags__list {
 }
 
 .imgframe-right-pad {
-	margin: 10px !important;
 	margin-right: 30px !important;
 }
 
 .imgframe-left-pad {
-	margin: 10px !important;
 	margin-left: 30px !important;
 }
+
+.imgframe-center-pad {
+	margin-left: 30px !important;
+	margin-right: 30px !important;
+	margin-bottom: 30px !important;
+}
+
 .round-img-border > img {
 	border-radius: 8px;
 }
