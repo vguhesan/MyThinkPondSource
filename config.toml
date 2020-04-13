@@ -27,9 +27,9 @@ unsafe= true
 [Params.sidebar]
   	home = "right" # Configure layout for home page
   	list = "right"  # Configure layout for list pages
-  	single = false # Configure layout for single pages
+  	single = true # Configure layout for single pages
   	# Enable widgets in given order
-  	widgets = ["search", "recent", "blogroll", "social", "getnotified", "categories", "taglist",  "languages"]
+  	widgets = ["getnotified", "search", "recent", "blogroll", "social", "categories", "taglist",  "languages"]
 
 [Params.widgets]
 	categories = true

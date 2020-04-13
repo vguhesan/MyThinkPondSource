@@ -1,4 +1,6 @@
 <div class="widget-search widget">
+	<h4 class="widget__title">Search</h4>
+	<div class="widget__content" style="text-align: center;">
 	<form class="widget-search__form" role="search" method="get" action="https://search.freefind.com/find.html" target="mtpsearch">
 		<label>
 			<span class="screen-reader-text">Search for:</span>
@@ -12,4 +14,5 @@
 		<input class="widget-search__submit" type="submit" value="Search">
 		<input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}" />
 	</form>
+	</div>
 </div>
