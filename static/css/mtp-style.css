@@ -193,3 +193,13 @@ ul.tags__list {
 	color: #e22d30;
 	font-size: 48px;
 }
+
+#mc_embed_signup input.email {
+	width: 200px !important;
+	margin-bottom: 15px !important;
+}
+
+#mc_embed_signup .button {
+	/*margin-top: 10px !important;*/
+	max-width: 200px;
+}
