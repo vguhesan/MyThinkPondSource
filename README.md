@@ -48,7 +48,7 @@ https://firebase.google.com/docs/hosting/quickstart
 $ firebase init
 
 # Generated updated version of public directory
-$ hugo
+$ hugo --theme=mainroad
 # Deploys content under public
 $ firebase deploy
 

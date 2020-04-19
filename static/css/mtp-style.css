@@ -208,3 +208,10 @@ ul.tags__list {
 	/*margin-top: 10px !important;*/
 	max-width: 200px;
 }
+
+.mtp-align-center {
+	display: block;
+	margin: 1.25rem auto;
+	width: max-content;
+
+}

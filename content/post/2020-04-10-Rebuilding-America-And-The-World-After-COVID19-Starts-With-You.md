@@ -1,7 +1,7 @@
 +++
 title = "After COVID-19: Rebuilding America (and the World) - Starts With You Today"
 description = "How do we rebuild America and the World after COVID-19? It starts with you today."
-date = "2019-09-07T23:33:31-04:00"
+date = "2020-04-10"
 categories = ["statistics"]
 tags = ["COVID-19", "recovery", "rebuilding America", "Jump-start America", "rebuilding the world", "Jump-start the World"]
 thumbnail = "/img/2020/04/10/covid-19_2Rs.png"
@@ -40,6 +40,13 @@ Someday in the near future, either the entire population would have gone through
 We can start by addressing the needs of the poor and the hungry today. Did you know that one in nine people on earth do not have enough food to lead a healthy active life? That's 795 million people in the world or 12.9 percent of the World population. And with the recent displacement due to wars, famine, political unrest and not to mention the biggest factor - COVID-19, that number has grown significantly in the recent days. The demand to provide for a simple meal for the poor, the hungry and the needy has become difficult at local food banks. The need for basic necessities have increased due to the high unemployment rates and joblessness in America and around the world. The restaurants that used to provide the left over surplus meals are shutdown. And this has increased the demand for food.
 
 So to start, you can make a difference in someones life by contributing and donating towards a local food bank or shelter near you. If you live in America, find a local food bank near you or visit <a href='https://www.feedingamerica.org' target='_blank' alt='FeedingAmerica.org'>FeedingAmerica.org</a>. If you live at some other part of the world, contribute to organizations like <a href='https://www.unicef.org/' target='_blank' alt='unicef.org'>UNICEF</a> or the <a href='https://www.redcross.org' target='_blank' alt='redcross.org'>Redcross</a>. Help feed a hungry person today! I did and that is what gave me this inspiration to write this article in hopes that I can convince one more soul to donate now! So stop here and make a donation and return back to continue reading this article. :-) 
+
+
+> **Food Banks across America are experiencing more than usual high volume and food shortages due to COVID-19 and unemployment. You can make a difference. Find a Food Bank local to your area and consider making a contribution.**
+
+<hr>
+<a href='https://www.feedingamerica.org/find-your-local-foodbank' target='_blank' class='mtp-align-center'><img src='/img/2020/04/10/FindAFoodBankNearYou.png' alt='Search for a Food Bank Near You'/></a>
+<hr> 
 
  ### The future is in our hands
 
