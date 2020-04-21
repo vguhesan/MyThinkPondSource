@@ -72,7 +72,7 @@ Cheers...
 
 MyThinkPond is developed as a static website using [Hugo](https://gohugo.io/) (static site generator). It is easy to use and is built on one of my favorite languages - [GoLang](https://golang.org/). The theme used on this website is based on [Mainroad](https://github.com/Vimux/Mainroad/). [Markdown](https://en.wikipedia.org/wiki/Markdown) is the markup language used to edit and generate this website content.
 
-  * Syntax Highlighting provided by [highlight.js](https://highlightjs.org/)
+  * Syntax Highlighting provided by [prism.js](https://prismjs.com)
   * Search provided by FreeFind Search
   * Analytics provided by Google Analytics
   * Comments System is built using [Disqus](https://disqus.com/)

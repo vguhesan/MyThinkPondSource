@@ -21,7 +21,7 @@ Let's say we have a "Shopping" feature (as shown in this example below) and we w
 
 Here is how you will create the nested components under Angular (using the Angular-cli)
 
-{{<highlight javascript "linenos=table" >}}
+<pre><code class="language-javascript line-numbers">
 // long-form, generates shopping component artifacts
 ng generate component shopping
 // short-form
@@ -40,7 +40,7 @@ ng g c shopping/shopping-list
 ng g c shopping/about-us --module=app.module
 ng g c left-nav/about-us --module=leftnav.module
 // This will add the newly created components as a member of that particular module.
-{{</highlight >}}
+</code></pre>
     
     
     

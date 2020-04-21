@@ -55,9 +55,7 @@ The Jumbo Frames support or Jumbo Packets are controlled at your network card le
 
 ### CentOS/Red Hat/Ubuntu variety of Linux
 
-{{<highlight shell "linenos=table" >}}
-
-# To check your MTU size
+<pre><code class="language-bash line-numbers"># To check your MTU size
 $ ip link show | grep mtu
 
 # To Set a new mtu size
@@ -67,27 +65,23 @@ $ ip link set eth0 mtu 9000
 # will be back to 1500.
 # To make the above change permanent add this as part of your startup script
 
-{{< / highlight >}}
+</code></pre>
 
 ### Pre-CentOS 7 versions of Linux (that supports ifconfig)
 
-{{<highlight shell "linenos=table" >}}
+<pre><code class="language-bash line-numbers">ifconfig eth0 mtu 9000 up
 
-ifconfig eth0 mtu 9000 up
-
-{{< / highlight >}}
+</code></pre>
 
 ### Mac OS X
 
-{{<highlight shell "linenos=table" >}}
-
-# To check your MTU size
+<pre><code class="language-bash line-numbers"># To check your MTU size
 $ networksetup -getMTU en0
 
 # To Set a new mtu size
 $ networksetup -setMTU en0 9000
 
-{{< / highlight >}}
+</code></pre>
 
 Also follow this article on how to do this using your Network setting GUI:
 [Changing it on the Mac GUI](https://www.codeotaku.com/journal/2010-02/mac-os-x-jumbo-frames/index)
@@ -96,9 +90,7 @@ Also follow this article on how to do this using your Network setting GUI:
 
 > Have Windows, let me know if this works
 
-{{<highlight shell "linenos=table" >}}
-
-# Open command-prompt in Administrative mode
+<pre><code class="language-bash line-numbers"># Open command-prompt in Administrative mode
 
 # To check your MTU size
 $ netsh interface ipv4 show subinterfaces
@@ -109,8 +101,7 @@ $ netsh interface ipv4 set subinterface "Local Area Connection" mtu=nnnn store=p
 #   Local Area Connection is the name of the network connection on your
 #     computer, from the list obtained above.
 #   nnnn is the desired value for MTU.
-
-{{< / highlight >}}
+</code></pre>
 
 Cheers!
 

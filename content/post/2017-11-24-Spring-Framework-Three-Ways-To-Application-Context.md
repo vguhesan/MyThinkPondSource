@@ -30,8 +30,7 @@ In searching Google for "Spring [ApplicationContextAware](https://docs.spring.io
 
 In your class you implement [ApplicationContextAware](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContextAware.html) class like this:
 
-{{<highlight java "linenos=table" >}}
-public class MyClass implements ApplicationContextAware {
+<pre><code class="language-java line-numbers">public class MyClass implements ApplicationContextAware {
 
     static final long serialVersionUID = 02L;
 
@@ -53,15 +52,14 @@ public class MyClass implements ApplicationContextAware {
     }
 
 }
-{{</highlight >}}
+</code></pre>
 
 ## Method-2
 
 If you are in a Java Servlet, you can do the following:
 
 
-{{<highlight java "linenos=table" >}}
-public class gzservlet extends HttpServlet {
+<pre><code class="language-java line-numbers">public class gzservlet extends HttpServlet {
     static final long serialVersionUID = 02L;
 
     ApplicationContext applicationContext = null;
@@ -82,7 +80,7 @@ public class gzservlet extends HttpServlet {
     }
 
 }
-{{</highlight >}}
+</code></pre>
 
 So the question one would ask is when to use what? And the answer is. Depends on how you are invoking Spring.
 
@@ -90,7 +88,7 @@ What works for Method #1: when you invoke Spring you are using the DispatcherSer
 
 In web.xml:
 
-{{<highlight xml "linenos=table" >}}
+<pre><code class="language-xml line-numbers">
 <servlet>
 	<servlet-name>dispatchservlet</servlet-name>
 	<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
@@ -101,12 +99,12 @@ In web.xml:
 	<servlet-name>dispatchservlet</servlet-name>
 	<url-pattern>/*</url-pattern>
 </servlet-mapping>
-{{</highlight >}}
+</code></pre>
 
 
 If you are not using the DispatcherServlet and you are initializing Spring using a Listener and you have your own Servlet that's driving the Request\Response scope then use Method #2. Below is an example of how the web.xml will look like in this case.
 
-{{<highlight xml "linenos=table" >}}
+<pre><code class="language-xml line-numbers">
 <listener>
    <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
 </listener>
@@ -121,7 +119,7 @@ If you are not using the DispatcherServlet and you are initializing Spring using
   <servlet-name>MyOwnServlet</servlet-name>
   <url-pattern>*.do</url-pattern>
 </servlet-mapping>
-{{</highlight >}}
+</code></pre>
 
 
 I hope this clarifies why sometimes even though you have implemented the ApplicationContextAware interface, your setter does not get invoked.
@@ -130,7 +128,7 @@ I hope this clarifies why sometimes even though you have implemented the Applica
 
 Create the following class with a static method to get your context:
 
-{{<highlight java "linenos=table" >}}
+<pre><code class="language-java line-numbers">
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
@@ -144,19 +142,19 @@ public class ApplicationContextProvider implements ApplicationContextAware{
 		this.ctx = ctx;
  	}
 }
-{{< / highlight >}}
+</code></pre>
 
 and in your spring bean configuration xml file add the following:
 
-{{<highlight xml "linenos=table" >}}
+<pre><code class="language-xml line-numbers">
 <bean id="applicationContextProvider" class="ApplicationContextProvider"></bean>
-{{</highlight >}}
+</code></pre>
 
 And now in your classes, you can do the following:
 
-    
+<pre><code class="language-java line-numbers">    
     ApplicationContext ctx = ApplicationContextProvider.getApplicationContext();
-
+</code></pre>
 
 That's it!!!
 

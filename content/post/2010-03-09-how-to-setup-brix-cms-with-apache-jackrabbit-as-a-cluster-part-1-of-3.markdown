@@ -94,7 +94,7 @@ Here's my Tomcat context:
 <Context path="/brix" docBase="C:\A_OpenSource\brix\2_brix_demo-unzip" reloadable="false" />
 
 And when I start Tomcat, here's a sample of the output:
-____________
+<pre><code class="language-bash line-numbers">
 
 INFO: Starting Servlet Engine: Apache Tomcat/6.0.24
 INFO  - AbstractWicketApplication  - **Using JCR repository url: file://C:\Apps\apache-tomcat-6.0.24\temp\brix.demo.repository**
@@ -150,7 +150,7 @@ INFO  - RequestListenerInterface   - registered listener interface [RequestLi
 INFO  - RequestListenerInterface   - registered listener interface [RequestListenerInterface name=IActivePageBehaviorListener, method=public abstract void org.apache.wicket.behavior.IBehaviorListener.onRequest()]
 INFO  - WebApplication             - [WicketApplication] Started Wicket version 1.4.1 in deployment mode
 
-____________
+</code></pre>
 
 I've highlighted some of the parts of application. When you point to the application at
 [http://locahost:8080/brixdemo](http://locahost:8080/brixdemo) you get this:
@@ -171,8 +171,8 @@ Within brix-demo, when you fire up it creates a Jackrabbit repository and two wo
 
 If you go to that folder on your file system, you will find the following structure:
 
-<C:\Apps\apache-tomcat-6.0.24\temp\brix.demo.repository>
-|   **repository.xml**
+[C:\Apps\apache-tomcat-6.0.24\temp\brix.demo.repository]
+<pre><code class="language-bash line-numbers">|   **repository.xml**
 |
 +---repository
 |   +---index
@@ -187,5 +187,5 @@ If you go to that folder on your file system, you will find the following struct
 |
 \---**default**
 **workspace.xml**
-
+</code></pre>
 And in particular if you examine the "repository.xml" file, you will begin to see a pattern beginning to evolve. This file will be the key in setting up and configuring our Jackrabbit repository. In our next discussion, we will begin by examining the parts that make up Jackrabbit repository and how we can move the repository to a H2 database. This should give us a better understanding on how one would move the repository to a database like "MySQL" or "Oracle" or "SQL Server". And in the third installment of this discussion, we will look at clustering the applications such that we have two instances of Brix-cms talking to a centralized H2 database and how modifying a content on one instance is reflected in the other instance.

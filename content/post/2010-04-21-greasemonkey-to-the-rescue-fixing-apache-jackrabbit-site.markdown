@@ -29,15 +29,11 @@ So basically all examples on the site fails to show up.
 Example:
 Upon view-source, you will find artifacts like this:
 
-[sourcecode language="html"]
-
-<code>
+<pre><code class="language-html line-numbers">
 <script class="toolbar: false; theme: default; brush: java; gutter: false" type="syntaxhighlighter">// <![CDATA[
  public class FirstHop { // Some Code... }
 // ]]></script>
-</code>
-
-[/sourcecode]
+</code></pre>
 
 None of the artifacts that are using "syntaxhighlighter" gets displayed. Which leaves the site almost useless when it comes to documentation.
 
@@ -56,7 +52,7 @@ Let's first look at the problem:
 
 Apache Jackrabbit site needs to include the following in their header tag:
 
-[sourcecode language="html"]
+<pre><code class="language-html line-numbers">
 
 <link href='http://alexgorbatchev.com/pub/sh/current/styles/shCore.css' rel='stylesheet' type='text/css'/>
 <link href='http://alexgorbatchev.com/pub/sh/current/styles/shThemeDefault.css' rel='stylesheet' type='text/css'/>
@@ -68,12 +64,11 @@ SyntaxHighlighter.config.bloggerMode = true;
 SyntaxHighlighter.config.clipboardSwf = 'http://alexgorbatchev.com/pub/sh/current/scripts/clipboard.swf';
 SyntaxHighlighter.all();
 </script>
-
-[/sourcecode]
+</code></pre>
 
 Using GreaseMonkey, you can insert any script at any point in the document or site (from the browsers perspective). So here's the script that does that:
 
-[sourcecode language="jscript"]
+<pre><code class="language-javascript line-numbers">
 
 // ==UserScript==
 // @name           Apache JackRabbit Script
@@ -120,7 +115,7 @@ function addHeaderForSyntaxHighlighter(){
 
 addHeaderForSyntaxHighlighter();
 
-[/sourcecode]
+</code></pre>
 
 The above greesemonkey script adds the styles and necessary javascript to the page so that all the artifacts that use the SyntaxHighlighter are displayed. I'm attaching the file here for anyone who wants to use it in their greesemonkey script in FireFox.
 

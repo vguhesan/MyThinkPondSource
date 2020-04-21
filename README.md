@@ -31,7 +31,7 @@ This README would normally document whatever steps are necessary to get your app
 ### Notes ###
 
 git clone https://github.com/vimux/mainroad ./themes/mainroad
-hugo server --theme=mainroad
+hugo server -D --bind=0.0.0.0 --baseURL=http://0.0.0.0:1313 --disableFastRender
 
 To generate static public content run:
 hugo
@@ -52,7 +52,7 @@ $ hugo --theme=mainroad
 # Deploys content under public
 $ firebase deploy
 
-# Syntax Highlioghting
+# Syntax Highlighting
 https://gohugo.io/content-management/syntax-highlighting/
 {{<highlight java "linenos=table" >}}
 YOUR_CODE_GOES_HERE

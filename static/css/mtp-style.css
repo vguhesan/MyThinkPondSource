@@ -215,3 +215,7 @@ ul.tags__list {
 	width: max-content;
 
 }
+
+.content.list__excerpt.post__content.clearfix {
+    margin-left: 120px;
+}

@@ -29,41 +29,41 @@ Here is a clean way you can make that modification.
 
 #### Step-1: Create a temporary table that will hold the real table data
 
-{{<highlight sql "linenos=table" >}}
+<pre><code class="language-sql line-numbers">
 CREATE TABLE tmp_SmartDiskMetrics AS
     SELECT * FROM SmartDiskMetrics;
 
 # This creates a tmp_* table with no constraints or foreign key maps 
 # tmp table will be owned by the user you are currently logged in into psql    
-{{</highlight >}}
+</code></pre>
 
 #### Step-2: Truncate table that requires column change
 
-{{<highlight sql "linenos=table" >}}
+<pre><code class="language-sql line-numbers">
 TRUNCATE TABLE SmartDiskMetrics;
 
 # This will be free of any constraints
 # When you run "\d+ SmartDiskMetrics", your table will not have any Child table references to hyper-tables  
-{{</highlight >}}
+</code></pre>
 
 #### Step-3: Convert table column
 
-{{<highlight sql "linenos=table" >}}
+<pre><code class="language-sql line-numbers">
 ALTER TABLE SmartDiskMetrics ALTER COLUMN time TYPE timestamp with time zone;
 ALTER TABLE SmartDiskMetrics ALTER COLUMN time SET DEFAULT now();
 ALTER TABLE SmartDiskMetrics ALTER COLUMN time SET NOT NULL;
 
 # When you run "\d+ SmartDiskMetrics" now, your table schema will have "timestamp with time zone", not-null, now() 
-{{</highlight >}}
+</code></pre>
 
 #### Step-4: Move back the data from tmp_ table to the real table
 
-{{<highlight sql "linenos=table" >}}
+<pre><code class="language-sql line-numbers">
 INSERT INTO SmartDiskMetrics SELECT * FROM tmp_SmartDiskMetrics;
 
 # When you run "\d+ SmartDiskMetrics" now, your table ** will have ** Child table with references pointing to hyper-tables 
 # like _timescaledb_internal._hyper_1_245_chunk 
-{{</highlight >}}
+</code></pre>
 
 
 That's it! You have now modified a PostgreSQL table with time-series (with timezone) data backed by TimeScale hyper-table.
