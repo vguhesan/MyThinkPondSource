@@ -88,7 +88,7 @@ What works for Method #1: when you invoke Spring you are using the DispatcherSer
 
 In web.xml:
 
-<pre><code class="language-xml line-numbers">
+<script type="text/plain" class="language-markup">
 <servlet>
 	<servlet-name>dispatchservlet</servlet-name>
 	<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
@@ -99,12 +99,12 @@ In web.xml:
 	<servlet-name>dispatchservlet</servlet-name>
 	<url-pattern>/*</url-pattern>
 </servlet-mapping>
-</code></pre>
+</script>
 
 
 If you are not using the DispatcherServlet and you are initializing Spring using a Listener and you have your own Servlet that's driving the Request\Response scope then use Method #2. Below is an example of how the web.xml will look like in this case.
 
-<pre><code class="language-xml line-numbers">
+<script type="text/plain" class="language-markup">
 <listener>
    <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
 </listener>
@@ -119,7 +119,7 @@ If you are not using the DispatcherServlet and you are initializing Spring using
   <servlet-name>MyOwnServlet</servlet-name>
   <url-pattern>*.do</url-pattern>
 </servlet-mapping>
-</code></pre>
+</script>
 
 
 I hope this clarifies why sometimes even though you have implemented the ApplicationContextAware interface, your setter does not get invoked.
@@ -146,14 +146,14 @@ public class ApplicationContextProvider implements ApplicationContextAware{
 
 and in your spring bean configuration xml file add the following:
 
-<pre><code class="language-xml line-numbers">
+<script type="text/plain" class="language-markup">
 <bean id="applicationContextProvider" class="ApplicationContextProvider"></bean>
-</code></pre>
+</script>
 
 And now in your classes, you can do the following:
 
 <pre><code class="language-java line-numbers">    
-    ApplicationContext ctx = ApplicationContextProvider.getApplicationContext();
+ApplicationContext ctx = ApplicationContextProvider.getApplicationContext();
 </code></pre>
 
 That's it!!!

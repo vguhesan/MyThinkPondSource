@@ -106,7 +106,8 @@ $ netsh interface ipv4 set subinterface "Local Area Connection" mtu=nnnn store=p
 Cheers!
 
 ### Today's Quote
-{{%img src="/img/logo/zen.png" alt="Zen" width="100"  align="left" valign="center" class="imgframe" %}}
+
+{{<figure src="/img/logo/zen.png" caption="" width="100" class="alignleft round-img-border imgframe-left-pad" >}}
 <br/>
 Before Enlightenment - chop wood, carry water.<br/>
 After enlightenment - chop wood, carry water.<br/>

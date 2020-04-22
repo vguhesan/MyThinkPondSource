@@ -1,5 +1,5 @@
 /* PrismJS 1.20.0
-https://prismjs.com/download.html#themes=prism-okaidia&languages=markup+css+clike+javascript+bash+git+go+graphql+groovy+haml+handlebars+java+javadoc+javadoclike+javastacktrace+jsdoc+js-extras+js-templates+json+jsonp+json5+julia+markdown+markup-templating+plsql+properties+python+ruby+shell-session+sql+typescript+yaml&plugins=line-numbers+toolbar+copy-to-clipboard */
+https://prismjs.com/download.html#themes=prism-okaidia&languages=markup+css+clike+javascript+bash+batch+coffeescript+css-extras+docker+git+go+groovy+haml+handlebars+java+javadoc+javadoclike+javastacktrace+js-extras+js-templates+json+jsonp+json5+markdown+markup-templating+plsql+properties+python+jsx+tsx+regex+rest+ruby+sql+typescript+yaml&plugins=line-numbers+unescaped-markup+toolbar+copy-to-clipboard */
 /**
  * okaidia theme for JavaScript, CSS and HTML
  * Loosely based on Monokai textmate theme by http://www.monokai.nl/
@@ -165,6 +165,17 @@ pre[class*="language-"].line-numbers > code {
 			padding-right: 0.8em;
 			text-align: right;
 		}
+
+/* Fallback, in case JS does not run, to ensure the code is at least visible */
+[class*='lang-'] script[type='text/plain'],
+[class*='language-'] script[type='text/plain'],
+script[type='text/plain'][class*='lang-'],
+script[type='text/plain'][class*='language-'] {
+	display: block;
+	font: 100% Consolas, Monaco, monospace;
+	white-space: pre;
+	overflow: auto;
+}
 
 div.code-toolbar {
 	position: relative;
