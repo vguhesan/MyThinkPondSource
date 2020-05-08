@@ -8,7 +8,7 @@ It is my personal journal!
 
 ### Screenshot ###
 
-[screenshot](https://github.com/vguhesan/MyThinkPond/blob/develop/static/img/common/screenshot1-sml.jpg)
+[screenshot](https://github.com/vguhesan/MyThinkPond/blob/develop/static/img/common/screenshot1-sml.png)
 
 --
 
