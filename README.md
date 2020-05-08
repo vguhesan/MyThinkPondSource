@@ -1,6 +1,6 @@
 # README #
 
-This is a repository powers https://MyThinkPond.com/
+This is the repository that powers https://MyThinkPond.com/
 
 This blog is a "labor of love" for all things beautiful and interesting with respect to technology, curiosity & learning. It is a never ending work in progress... Always improved, always refined, ever growing... 
 
@@ -8,7 +8,7 @@ It is my personal journal!
 
 ### Screenshot ###
 
-[screenshot](https://github.com/vguhesan/MyThinkPond/blob/develop/static/img/common/screenshot1-sml.png)
+![screenshot](https://github.com/vguhesan/MyThinkPond/blob/develop/static/img/common/screenshot1-sml.png)
 
 --
 
