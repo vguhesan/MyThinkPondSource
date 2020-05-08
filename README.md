@@ -1,35 +1,19 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is a repository powers https://MyThinkPond.com/
 
-### What is this repository for? ###
+This blog is a "labor of love" for all things beautiful and interesting with respect to technology, curiosity & learning. It is a never ending work in progress... Always improved, always refined, ever growing... 
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+It is my personal journal! 
 
-### How do I get set up? ###
+### Screenshot ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+[screenshot](https://bitbucket.org/tutorials/markdowndemo)
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+--
 
 ### Notes ###
-
+```
 git clone https://github.com/vimux/mainroad ./themes/mainroad
 hugo server -D --bind=0.0.0.0 --baseURL=http://0.0.0.0:1313 --disableFastRender
 
@@ -57,6 +41,7 @@ https://gohugo.io/content-management/syntax-highlighting/
 {{<highlight java "linenos=table" >}}
 YOUR_CODE_GOES_HERE
 {{</highlight >}}
+```
 
 # Manage Social Postings using Hootsuite
 https://hootsuite.com/dashboard#/publisher
