@@ -1,9 +1,8 @@
 <div class="widget-search widget">
-	<h4 class="widget__title">Search</h4>
-	<div class="widget__content" style="text-align: center;">
+	<h4 class="widget__title" id="searchwrappertitle">Search</h4>
+	<div class="widget__content" id="searchwrapper" style="text-align: center;">
 	<form class="widget-search__form" role="search" method="get" action="https://search.freefind.com/find.html" target="mtpsearch">
 		<label>
-			<span class="screen-reader-text">Search for:</span>
 			<input class="widget-search__field" type="search" placeholder="{{ T "search_placeholder" }}" value="" name="query" aria-label="{{ T "search_placeholder" }}">
 			<input type="hidden" name="si" value="81099687">
 			<input type="hidden" name="pid" value="r">

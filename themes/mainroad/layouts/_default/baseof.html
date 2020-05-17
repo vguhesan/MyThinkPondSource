@@ -65,6 +65,9 @@
 	<link href="/js/prism/prism.css" rel="stylesheet" />
 	<script src="/js/prism/clipboard.min.js"></script>
 	<script src="/js/prism/prism.js"></script>
+	<link rel="stylesheet" type="text/css" href="/js/cookieconsent/cookieconsent.min.css" />
+	<script src="/js/cookieconsent/cookieconsent.min.js" data-cfasync="false"></script>
+
 </head>
 <body class="body">
 	<div class="container container--outer">
@@ -88,6 +91,20 @@
 <script src="{{ . | relURL }}"></script>
 {{- end }}
 {{- partial "mathjax.html" . -}}
-
+	<script>
+	window.onload = function() {
+		window.cookieconsent.initialise({
+		  "palette": {
+		    "popup": {
+		      "background": "#252e39"
+		    },
+		    "button": {
+		      "background": "#14a7d0"
+		    }
+		  },
+		  "position": "bottom-right"
+		});
+	}
+	</script>
 </body>
 </html>

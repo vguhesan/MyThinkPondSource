@@ -219,3 +219,22 @@ ul.tags__list {
 .content.list__excerpt.post__content.clearfix {
     margin-left: 120px;
 }
+
+/* Search Widget Restyle */
+#searchwrappertitle {
+	margin-bottom: 0px;
+}
+
+#searchwrapper > form {
+	padding: 0px;
+}
+.widget-search__field {
+	width: 100%;
+}
+
+/* awards */
+.awards {
+	margin: 0px !important;
+	margin-right: 10px !important;
+
+}
