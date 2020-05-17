@@ -1,5 +1,7 @@
 # README #
 
+[![HitCount](http://hits.dwyl.com/vguhesan/MyThinkPond.svg)](http://hits.dwyl.com/vguhesan/MyThinkPond)
+
 This is the repository that powers https://MyThinkPond.com/
 
 This blog is a "labor of love" for all things beautiful and interesting with respect to technology, curiosity & learning. It is a never ending work in progress... Always improved, always refined, ever growing... 
