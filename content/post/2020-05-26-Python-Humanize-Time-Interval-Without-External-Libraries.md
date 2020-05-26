@@ -1,6 +1,6 @@
 +++
-title = "Python humanize time-interval without Arrow or Humanize additional libraries"
-description = "Python humanize time interval without Arrow or Humanize additional libraries"
+title = "Python humanize time-interval without Arrow or Humanize libraries"
+description = "Python humanize time interval without Arrow or Humanize libraries"
 date = "2020-05-26"
 categories = ["Python"]
 tags = ["Python", "DateTime", "timedelta", "Interval", "Humanize", "Arrow", "time difference"]
