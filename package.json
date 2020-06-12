@@ -13,8 +13,5 @@
   },
   "author": "Venkatt Guhesan <vguhesan@gmail.com> (http://MyThinkPond.com/about/)",
   "license": "UNLICENSED",
-  "homepage": "https://bitbucket.org/vguhesan/mythinkpond#readme",
-  "dependencies": {
-    "hugo-lunr": "0.0.4"
-  }
+  "homepage": "https://bitbucket.org/vguhesan/mythinkpond#readme"
 }
