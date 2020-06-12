@@ -20,7 +20,7 @@ title = "MyThinkPond"
 	postSections = ["post"]
 	post_navigation = true
 	readmore = false
-	subtitle = "On Software Development & Architecture - with a flavor of Java, Python, GoLang, JavaScript, Linux, Arduino, ARM, Embedded Devices and Web Development"
+	subtitle = "On Software Development & Architecture - with a flavor of GitOps, Cloud, Java, Python, GoLang, JavaScript, Linux, Arduino, ARM, Embedded Devices and Web Development"
 
 [markup.goldmark.renderer]
 unsafe= true
