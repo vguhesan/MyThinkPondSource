@@ -16,6 +16,21 @@ function init() {
         // Parse JSON string into object
         var actual_JSON = JSON.parse(response);
     });
+    return actual_JSON;
 }
 
-init();
+var idx;
+
+jQuery(document).ready(function($) {
+    data = init();
+
+    idx = lunr(function () {
+      this.ref('name')
+      this.field('text')
+
+      documents.forEach(function (doc) {
+        this.add(doc)
+      }, this)
+    });
+    
+});

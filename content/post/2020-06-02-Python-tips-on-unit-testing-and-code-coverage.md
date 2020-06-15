@@ -9,7 +9,7 @@ thumbnail = "/img/logo/python_logo2.png"
 
 > **tl;dr** Here is a collection of useful Python tips, a starter "Hello World" Python template for both web (using Flask) and stand-alone script. And additional tips in writing effective Python code, getting started, Unit Tests and using the Coverage tool to improve code. 
 
-{{<figure src="/img/2020/06/02/fabian-grohs-XMFZqrGyV-Q-unsplash.jpg" caption="Photo by <a href='https://unsplash.com/@grohsfabian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Fabian Grohs</a> on <a href='https://unsplash.com/s/photos/programming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Unsplash</a>" class="aligncenter round-img-border imgframe-left-pad" >}}
+{{<figure src="/img/2020/06/02/fabian-grohs-XMFZqrGyV-Q-unsplash.jpg" caption="Photo by <a href='https://unsplash.com/@grohsfabian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Fabian Grohs</a> on <a href='https://unsplash.com/' target='_blank'>Unsplash</a>" class="aligncenter round-img-border imgframe-left-pad" >}}
 
 ## Getting Started - Introducing "Python Hello World" Template ##
 
