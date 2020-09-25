@@ -15,20 +15,22 @@ url: /2012/02/25/minimal-maintainable-html5-page-template-index-html/
 wordpress_id: 323
 ---
 
-Sometimes I keep searching for a starter HTML5 "hello-world" - index.html page. So I thought I'd blog about it so that others who need it can also take advantage of it.
+"Hello-world" HTML5 starter template.
 
-[sourcecode language="jscript"]
-<!DOCTYPE html>
-<html lang=en>
-<head>
-<meta charset=utf-8>
-<title>Sample HTML5 index.html from MyThinkPond</title>
-</head>
-<body>
-<p>Sample HTML5 index.html from MyThinkPond.wordpress.com</p>
-</body>
-</html>
-[/sourcecode]
+<pre>
+<code class="language-html line-numbers">
+&lt;!DOCTYPE html&gt;
+&lt;html lang=en&gt;
+&lt;head&gt;
+&lt;meta charset=utf-8&gt;
+&lt;title&gt;Sample HTML5 index.html from MyThinkPond&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p&gt;Sample HTML5 index.html from MyThinkPond.wordpress.com&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code>
+</pre>
 
 Feel free to copy and use as needed.
 

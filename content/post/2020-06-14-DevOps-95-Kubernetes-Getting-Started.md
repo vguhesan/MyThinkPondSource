@@ -5,9 +5,8 @@ date = "2020-06-14"
 categories = ["DevOps","GitOps","Kubernetes"]
 tags = ["DevOps","GitOps","Kubernetes","Docker","Containers","minikube","openkube"]
 thumbnail = "/img/logo/kubernetes-1.png"
+lead = "Summary of the teck-talk given on 'Getting Started with Kubernetes' by Tiffany Jernigan. Gives you an overview of the fundamentals and latest tips on where the DevOps/GitOps world is evolving with respect to 'Kubernetes' "
 +++
-
-> **tl;dr** Summary of the teck-talk given on "Getting Started with Kubernetes" by Tiffany Jernigan. Gives you an overview of the fundamentals and latest tips on where the DevOps/GitOps world is evolving with respect to "Kubernetes".  
 
 {{<figure src="/img/2020/06/14/getting-started-with-kubernetes.jpg" caption="Design by - Venkatt Guhesan" class="aligncenter round-img-border imgframe-left-pad" >}}
 
