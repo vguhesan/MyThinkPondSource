@@ -39,10 +39,11 @@ $ hugo --theme=mainroad
 $ firebase deploy
 
 # Syntax Highlighting
-https://gohugo.io/content-management/syntax-highlighting/
-{{<highlight java "linenos=table" >}}
+<pre><code class="language-bash line-numbers">
 YOUR_CODE_GOES_HERE
-{{</highlight >}}
+</code></pre> 
+
+HTML code needs to be escaped.
 
 ### Manage Social Postings using Hootsuite ###
 https://hootsuite.com/dashboard#/publisher

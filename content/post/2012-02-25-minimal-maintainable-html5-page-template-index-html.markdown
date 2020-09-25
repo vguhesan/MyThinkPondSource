@@ -15,7 +15,7 @@ url: /2012/02/25/minimal-maintainable-html5-page-template-index-html/
 wordpress_id: 323
 ---
 
-"Hello-world" HTML5 starter template.
+Sometimes I keep searching for a starter HTML5 "hello-world" - index.html page. So I thought I'd blog about it so that others who need it can also take advantage of it.
 
 <pre>
 <code class="language-html line-numbers">

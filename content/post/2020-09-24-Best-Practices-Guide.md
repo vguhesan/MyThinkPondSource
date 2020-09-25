@@ -2,6 +2,7 @@
 title = "Best Practices and Guide To Work-life Balance"
 description = "Balancing Work and Life, Best Practices Guide To Optimal Work"
 date = "2020-09-24"
+draft = "true"
 categories = ["Inspiration"]
 tags = ["Life","Spirituality","Work", "Balance"]
 thumbnail = "/img/logo/buddha.png"
