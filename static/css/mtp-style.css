@@ -138,14 +138,14 @@ ol, ul {
 }
 
 /* code highlight linenumber border */
-div.highlight div table tbody tr td:first-child pre {
+/*div.highlight div table tbody tr td:first-child pre {
 	border-right: 1px solid #ebebeb;
-}
+}*/
 /* Add a new line after highlight div tag*/
-div.highlight:after {
+/*div.highlight:after {
 	content: '\A';
 	white-space: pre;
-}
+}*/
 
 /* Tags in a blog article - bottom */
 ul.tags__list {
@@ -242,4 +242,36 @@ ul.tags__list {
 	margin: 0px !important;
 	margin-right: 10px !important;
 
+}
+
+div.highlight {
+	box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+	border-radius: 7px;
+	border: 2px solid black;
+}
+
+/*div.highlight:after {
+	content: '\A';
+	white-space: pre;
+}*/
+
+pre {
+	box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+	border-radius: 7px;
+	border: 2px solid black;
+}
+
+@media screen {
+	pre {
+		max-height: 30em;
+		scrollbar-color: dark #272822;
+	}
+}
+
+div.code-toolbar > .toolbar {
+    right: 2.2em !important;
+}
+
+div.widget-getnotified{
+	margin-bottom: 0px !important;
 }

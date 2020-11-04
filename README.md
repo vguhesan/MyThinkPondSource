@@ -38,10 +38,14 @@ $ hugo --theme=mainroad
 # Deploys content under public
 $ firebase deploy
 
-# Syntax Highlighting
-<pre><code class="language-bash line-numbers">
+# Syntax Highlighting by Prism (client-side)
+https://prismjs.com/index.html#basic-usage
+
+<pre id="play"><code class="lang-js line-numbers" data-line="2,4-5">
 YOUR_CODE_GOES_HERE
 </code></pre> 
+
+<a href="plugins/line-highlight/#play.3-5,7">Linking example</a>
 
 HTML code needs to be escaped.
 

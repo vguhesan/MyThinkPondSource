@@ -9,6 +9,23 @@ thumbnail = "/img/logo/buddha.png"
 lead = "Compiled lessons from my life's journey, reflections and finding your balance and harmony."
 +++
 
+### Using prismjs
+
+<pre id="codeblk1" class="line-numbers" data-line="2,4-5"><code class="lang-shell-session">start = datetime.now()
+# Then call some long running code or function here
+end = datetime.now()
+diff = end - start
+print type(diff)
+print diff
+days = diff.days # Get Day 
+hours,remainder = divmod(diff.seconds,3600) # Get Hour
+minutes,seconds = divmod(remainder,60) # Get Minute & Second
+
+print(f'Elapsed Time: {days} Days, {hours} Hours, {minutes} Minutes, {seconds} Seconds.') 
+</code></pre>
+
+<a href="#codeblk1.3-5,7">Section-1</a>
+
 ### Why am I doing this?
 
 My manager at work asked me to compile a list of tips and best practices that can be given to a fellow consultant to help guide them on the journey of successful consulting. And so I began writing this article as my way to compile the list of things I have learnt over the years and to distill them into an article.

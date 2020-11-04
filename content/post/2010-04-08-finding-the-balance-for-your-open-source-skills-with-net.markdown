@@ -1,7 +1,7 @@
 ---
 author: vguhesan
 categories:
-- .NET
+- ASP.NET
 - Programming
 comments: true
 date: 2010-04-08T18:07:06Z

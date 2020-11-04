@@ -23,6 +23,10 @@
 	<div class="content list__excerpt post__content clearfix">
 		{{ .Summary }}
 	</div>
+	{{else}}
+	<div class="content list__excerpt post__content clearfix">
+		&nbsp;
+	</div>
 	{{- end }}
 	{{- if .Site.Params.readmore }}
 	{{- if .Truncated }}

@@ -38,6 +38,8 @@
 		{{ template "_internal/google_analytics_async.html" . }}
 	{{- end }}
 	<link rel="stylesheet" href="/css/mtp-style.css">
+	<!-- <link rel="stylesheet" href="/css/chroma-syntax-dracula.css"> -->
+	<!-- <link rel="stylesheet" href="/css/chroma-syntax-rrt.css"> -->
 	<style>
 		/* MailChimp Form Embed Code - Horizontal Super Slim - 12/16/2015 v10.7
 			Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
@@ -65,6 +67,7 @@
 	<link href="/js/prism/prism.css" rel="stylesheet" />
 	<script src="/js/prism/clipboard.min.js"></script>
 	<script src="/js/prism/prism.js"></script>
+	
 	<script src="/js/lunr.js"></script>
 	<script src="/js/lunr-support-script.js"></script>
 	<link rel="stylesheet" type="text/css" href="/js/cookieconsent/cookieconsent.min.css" />
@@ -107,6 +110,52 @@
 		  "position": "bottom-right"
 		});
 	}
+	</script>
+	<script>
+	// Converts UL > LI list under Categories section to a drop-down	
+	$('div.widget-categories.widget > div.widget__content > ul.widget__list').each(function() {
+	    var list = $(this), select = $(document.createElement('select')).insertBefore($(this).hide());
+
+	    $('>li.widget__item > a.widget__link', this).each(function() {
+	        var target = $(this).attr('target'),
+	        option = $(document.createElement('option'))
+	            .appendTo(select)
+	            .val(this.href)
+	            .html($(this).html())
+	            .click(function(){
+	                if(target==='_blank') {
+	                    window.open($(this).val());
+	                }
+	                else {
+	                    window.location.href = $(this).val();
+	                }
+	            });
+	    });
+	    list.remove();
+	});
+	</script>
+	<script>
+	// Converts UL > LI list under TAGS to a drop-down	
+	$('div.widget-taglist.widget > div.widget__content').each(function() {
+	    var list = $(this), select = $(document.createElement('select')).insertBefore($(this).hide());
+
+	    $('> a.widget-taglist__link.widget__link.btn', this).each(function() {
+	        var target = $(this).attr('target'),
+	        option = $(document.createElement('option'))
+	            .appendTo(select)
+	            .val(this.href)
+	            .html($(this).html())
+	            .click(function(){
+	                if(target==='_blank') {
+	                    window.open($(this).val());
+	                }
+	                else {
+	                    window.location.href = $(this).val();
+	                }
+	            });
+	    });
+	    list.remove();
+	});
 	</script>
 </body>
 </html>

@@ -27,7 +27,7 @@ First step, choose your poison:
 - [For GitHub Users]({{<ref "#for-github-account-holders-">}})
 
 ### For nix&ast; (Linux) environment: ###
-<pre><code class="language-bash line-numbers">cd your_project_directory
+<pre><code class="language-python line-numbers">cd your_project_directory
 git clone https://github.com/vguhesan/python-hello-world-with-unit-test.git ./myprojectname
 cd ./myprojectname
 
@@ -45,7 +45,7 @@ cd ./myprojectname
 </code></pre>  
 
 ### For Windows environment: (work pending) ###
-<pre><code class="language-bash line-numbers">cd your_project_directory
+<pre><code class="language-python line-numbers">cd your_project_directory
 git clone https://github.com/vguhesan/python-hello-world-with-unit-test.git .\myprojectname
 cd .\myprojectname
 
@@ -63,14 +63,14 @@ cd .\myprojectname
 </code></pre>  
 
 ### For GitHub account holders: ###
-<pre><code class="language-bash line-numbers">Simply visit:
+<pre><code class="language-python line-numbers">Simply visit:
 https://github.com/vguhesan/python-hello-world-with-unit-test
 
 And click on "Use this template" (green) button and follow instructions on GitHub.
 </code></pre>
 
 What is in the 'Hello World' project (File Structure):
-<pre><code class="language-bash line-numbers">.
+<pre><code class="language-shell line-numbers">.
 ├── LICENSE
 ├── Pipfile
 ├── Pipfile.lock
@@ -94,7 +94,7 @@ What is in the 'Hello World' project (File Structure):
 </code></pre>
 
 Output from Tests and Coverage script:
-<pre><code class="language-bash line-numbers">.....
+<pre><code class="language-shell line-numbers">.....
 ----------------------------------------------------------------------
 Ran 5 tests in 0.012s
 
