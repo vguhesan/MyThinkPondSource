@@ -21,6 +21,7 @@ enableEmoji = true
 	postSections = ["post"]
 	post_navigation = true
 	readmore = false
+	copyright = "MyThinkPond.com | Blog Owned and Maintained By: Venkatt Guhesan"
 	subtitle = "On Software Development & Architecture - with a flavor of GitOps, Cloud, Java, Python, GoLang, JavaScript, Linux, Arduino, ARM, Embedded Devices and Web Development"
 
 [markup.goldmark.renderer]
