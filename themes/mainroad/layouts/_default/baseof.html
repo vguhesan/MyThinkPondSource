@@ -72,6 +72,7 @@
 	<script src="/js/lunr-support-script.js"></script>
 	<link rel="stylesheet" type="text/css" href="/js/cookieconsent/cookieconsent.min.css" />
 	<script src="/js/cookieconsent/cookieconsent.min.js" data-cfasync="false"></script>
+	<script src="/js/anchor.min.js"></script>
 
 </head>
 <body class="body">
@@ -156,6 +157,15 @@
 	    });
 	    list.remove();
 	});
+	</script>
+	<script type="text/javascript">
+	anchors.options = {
+	  visible: 'hover',
+	  placement: 'left',
+	  icon: '§'
+	};
+	anchors.add();
+	anchors.add('p');
 	</script>
 </body>
 </html>
