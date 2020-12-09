@@ -1,10 +1,16 @@
 <header class="header">
 	<div class="container">
 		<div class="logo">
-			<a class="logo__link" href="{{ "" | relLangURL }}" title="{{ .Site.Title }}" rel="home">
-				<div class="logo__title">{{ .Site.Title }}</div>
-				{{ with .Site.Params.subtitle }}<div class="logo__tagline">{{ . }}</div>{{ end }}
-			</a>
+			<table>
+				<tr>
+					<td width="100"><a href="/"><img src="/img/logo/MyThinkPond_logo.png" width="100"/></a></td>
+					<td align="top">
+					<a class="logo__link" href="{{ "" | relLangURL }}" title="{{ .Site.Title }}" rel="home">
+						<div class="logo__title">{{ .Site.Title }}</div>
+						{{ with .Site.Params.subtitle }}<div class="logo__tagline">{{ . }}</div>{{ end }}
+					</a>	
+					</td>
+			</table>
 		</div>
 		{{ partial "menu.html" . }}
 	</div>

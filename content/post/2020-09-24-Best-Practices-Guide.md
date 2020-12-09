@@ -41,7 +41,7 @@ In the Eastern philosophy, it is believed that life is a process through which t
 - It then creates fruits in a wide variety of colors, taste and sweetness to attract a particular type of birds and animals that would eat the fruits and help the seeds to be dropped further away from the source to help pass on the next generation and diversity.
 - It then moves into the next cycle of shedding it's leaves to shift the energy collection to the roots for the winter season when the sun is less visible.
 
-_Just as the tree adapts and shifts it's course through the seasons, as consultants, we must also adapt to the growing needs of our customer._
+_Just as the tree adapts and shifts it's course through the seasons (and it's life), as consultants, we must also adapt to the growing needs of our customer._
 
 As the needs change, we need to be able to learn new skills, forge new opportunities and adapt to the demands.
 

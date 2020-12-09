@@ -29,15 +29,15 @@
 	  src="https://code.jquery.com/jquery-3.2.1.min.js"
 	  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
 	  crossorigin="anonymous"></script>
-	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}?rnd=12082020">
 	{{ range .Site.Params.customCSS -}}
-	<link rel="stylesheet" href="{{ . | relURL }}">
+	<link rel="stylesheet" href="{{ . | relURL }}?rnd=12082020">
 	{{- end }}
-	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
+	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}?rnd=12082020">
 	{{- if not .Site.IsServer }}
 		{{ template "_internal/google_analytics_async.html" . }}
 	{{- end }}
-	<link rel="stylesheet" href="/css/mtp-style.css">
+	<link rel="stylesheet" href="/css/mtp-style.css?rnd=12082020">
 	<!-- <link rel="stylesheet" href="/css/chroma-syntax-dracula.css"> -->
 	<!-- <link rel="stylesheet" href="/css/chroma-syntax-rrt.css"> -->
 	<style>

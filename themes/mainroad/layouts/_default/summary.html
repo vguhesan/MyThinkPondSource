@@ -14,6 +14,8 @@
 		</h3>
 		{{- with .Params.lead }}
 		<p class="list__lead post__lead">{{ . }}</p>
+		{{else}}
+		<p class="list__lead post__lead">{{ .Summary }}</p>
 		{{- end }}
 		{{ with partial "post_meta.html" . -}}
 		<div class="list__meta meta">{{ . }}</div>
@@ -21,7 +23,7 @@
 	</header>
 	{{- if (not .Params.lead) }}
 	<div class="content list__excerpt post__content clearfix">
-		{{ .Summary }}
+		
 	</div>
 	{{else}}
 	<div class="content list__excerpt post__content clearfix">

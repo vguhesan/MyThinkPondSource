@@ -7,6 +7,17 @@ body {
 	/*font-family: 'Open Sans', sans-serif;*/
 	font-size: 1rem;
 }
+.logo > table {
+	border: transparent !important;
+}
+
+.logo > table > tr,td {
+	border: transparent !important;
+}
+
+.logo {
+	padding: 0px !important;
+}
 
 .logo__link {
 	text-transform: capitalize;
@@ -223,6 +234,7 @@ ul.tags__list {
 
 .content.list__excerpt.post__content.clearfix {
     margin-left: 120px;
+    width: 80%;
 }
 
 /* Search Widget Restyle */
@@ -275,3 +287,12 @@ div.code-toolbar > .toolbar {
 div.widget-getnotified{
 	margin-bottom: 0px !important;
 }
+
+.unsplashcredit {
+	margin-left: 37px;
+	position: relative;
+	top: -29px;
+	font-size: 10px;
+}
+
+
