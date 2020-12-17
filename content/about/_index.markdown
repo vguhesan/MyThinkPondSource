@@ -56,7 +56,7 @@ wordpress_id: 2
 
 **Work History:**
 
-- Enterprise Architect & Engineer at [Leidos](https://www.leidos.com/) (working as a developer/consultant at a "Modern Services" Group within the Federal Government Space working to develop the next generation of tools and services to support the modern DevOps/GitOps pipeline for the organization.)
+- Enterprise Architect & Engineer at [Leidos](https://www.leidos.com/) (working as a developer/consultant at a "Modern Services" Group within the Federal Government space working to develop the next generation of tools and services to support the modern DevOps/GitOps pipeline for the organization.)
 - Software Engineer & Architect at **ASC Tickets** - developed some unique tools and frameworks for transforming the ticket broker industry.
 - Enterprise UI Architect for [DataDirect Networks](http://www.ddn.com). Developed [DDNInsight](https://www.ddn.com/products/storage-monitoring-ddn-insight/), an Enterprise Monitoring and Management Solution for all of the DDN products. 
 - Enterprise Managing Architect [DrFirst](http://www.drfirst.com/e-prescribing-for-controlled-substances.jsp) engineering an e-prescribing platform for controlled substances. 
