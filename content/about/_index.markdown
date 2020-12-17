@@ -62,7 +62,7 @@ wordpress_id: 2
 - Enterprise Managing Architect [DrFirst](http://www.drfirst.com/e-prescribing-for-controlled-substances.jsp) engineering an e-prescribing platform for controlled substances. 
 - Thirteen years at [Aon-Hewitt](http://www.aon.com/human-capital-consulting/benefits-admin/default.jsp) developed a premier suite of solutions for Human Resource and Benefits Management under the name RealLifeBenefits.<br/>
 
-I have been lucky and blessed to be diversified in a wide variety of sectors including DevOps, Finance, Investing, Mutual Fund Management, Insurance, Health Care, Rx Management, Ticket Broker Network, Publishing, High Performance Computing, Storage, File Systems (GPFS & Lustre) Management and last but more recently - Software Development Analytics and Reporting.
+I have been lucky and blessed to be diversified in a wide variety of sectors including GitOps, DevOps, Finance, Investing, Mutual Fund Management, Insurance, Health Care, Rx Management, Ticket Broker Network, Publishing, High Performance Computing, Storage, File Systems (GPFS & Lustre) Management and last but more recently - Software Development Analytics and Reporting.
 <br>
 
 **Family:** wife, two daughters and a puppy (very blessed indeed)
