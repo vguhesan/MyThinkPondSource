@@ -12,26 +12,47 @@ wordpress_id: 2
 ## In A Nutshell
 
 <table class='tablenoborder'>
-	<tr>
-		<td align="center"><img width='80' src='/img/logo/familyicon.png' 			alt='Family'/></td>
-		<td align="center"><img width='80' src='/img/logo/tamil.png'      			alt='Tamil'/></td>
-		<td align="center"><img width='220' src='/img/logo/IEEE.png'      			alt='Electrical and Computer Engineer by Education'/></td>
-		<td align="center"><img width="180" src='/img/logo/developer-logo.png' 		alt='Software Developer by Trade'/></td>
-		<td align="center"><img width="200" src='/img/logo/graphic-designer.png' 	alt='Graphic Designer by Trade'/></td>
-		<td align="center"><img width="75" src='/img/logo/linuxpenguin.png'              		alt='Linux'/></td>
-		<td align="center"><img width="100" src='/img/logo/opensource.png'			alt='Open Source Initiative'/></td>
-		<td align="center"><img width="100" src='/img/logo/openhardware.png'     	alt='Open Hardware'/></td>
-		<td align="center"><img width="100" src='/img/logo/embeddedlogo.png'           			alt='Embedded Developer'/></td>
-	</tr>
+<tr>
+	<td align="center"><img width='80' src='/img/logo/familyicon.png' 			alt='Family'/></td>
+	<td align="center"><img width='80' src='/img/logo/tamil.png'      			alt='Tamil'/></td>
+	<td align="center"><img width='220' src='/img/logo/IEEE.png'      			alt='Electrical and Computer Engineer by Education'/></td>
+	<td align="center"><img width="180" src='/img/logo/developer-logo.png' 		alt='Software Developer by Trade'/></td>
+	<td align="center"><img width="200" src='/img/logo/graphic-designer.png' 	alt='Graphic Designer by Trade'/></td>
+	<td align="center"><img width="75" src='/img/logo/linuxpenguin.png'              		alt='Linux'/></td>
+	<td align="center"><img width="100" src='/img/logo/opensource.png'			alt='Open Source Initiative'/></td>
+	<td align="center"><img width="100" src='/img/logo/openhardware.png'     	alt='Open Hardware'/></td>
+	<td align="center"><img width="100" src='/img/logo/embeddedlogo.png'           			alt='Embedded Developer'/></td>
+</tr>
+</table>
+
+## Current Focus
+
+<table class='tablenoborder' style='width: auto;'>
+<tr>
+	<td align="center"><img width='100' src='/img/logo/gitops.png' 			alt='GitOps'/></td>
+	<td align="center"><img width='100' src='/img/logo/k8s.png' 			alt='Kubernetes'/></td>
+	<td align="center"><img width='100' src='/img/logo/GoLangLogo1.png' 	alt='GoLang Programming'/></td>
+	<td align="center"><img width='100' src='/img/logo/rust.png' 			alt='Rust Programming'/></td>
+	<td align="center"><img width='100' src='/img/logo/python_logo2.png' 	alt='Python Programming'/></td>
+	<td align="center"><img width='100' src='/img/logo/springframework2.png' alt='Java Spring Framework'/></td>
+	<td align="center"><img width='100' src='/img/logo/argo.png' 			alt='Argo'/></td>
+	<td align="center"><img width='100' src='/img/logo/aws.png' 			alt='Amazon AWS'/></td>
+	<td align="center"><img width='100' src='/img/logo/googlecloud.png' 	alt='Google Cloud'/></td>
+</tr>
 </table>
 
 > This is without a doubt the greatest time in all of human history to be alive! We’ve never had more information, knowledge, opportunity, possibilities, resources, or wealth than we do now. I hope that we can each make a mark in history as the greatest generation that have ever lived! [B+]
 
-> This blog is a "labor of love" for all things beautiful and interesting WRT technology, curiosity & learning. It is a never ending work in progress... Always improved, always refined, ever growing... It is my journal! 
+> This blog is a "labor of love" for all things beautiful and interesting with respect to technology, curiosity & learning. It is a never ending work in progress... Always improved, always refined, ever growing... It is my journal! 
 
 ## In-depth
 
-{{<img src="/img/common/VenkattGuhesan_Aug2017.jpg" alt="Venkatt Guhesan" width="150"  align="left" class="authorbox__avatar">}}
+<table class='tablenoborder' style='width: auto;'>
+<tr>
+	<td valign='top'>
+	{{<img src="/img/common/VenkattGuhesan_Aug2017.jpg" alt="Venkatt Guhesan" width="150"  align="left" class="authorbox__avatar">}}
+	</td>
+	<td align="left">
 
 **Name:** Venkatt Guhesan
 
@@ -45,6 +66,12 @@ wordpress_id: 2
 - Never Stop Learning
 - Share Knowledge
 - Stay Thirsty!
+
+	</td>
+</tr>
+</table>
+
+
 
 **Electrical & Computer Engineer** by education | **Enterprise Architect & Software Developer** by trade
 
