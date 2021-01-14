@@ -77,7 +77,7 @@ wordpress_id: 2
 
 **Passions:** 
 - Linux (CentOS, Red Hat, Gentoo, Open Stack, Docker & Ubuntu) and embedded processors (ARM processors and Microcontrollers).
-- Always learning and appreciating the beauty of the Tamil language as well as the cultural, linguistics aspects of the language.
+- Always learning and appreciating the beauty of the Thamizh (Tamil/தமிழ்) language as well as the cultural, linguistics aspects of the language.
 
 **Favorite Embedded Projects:** [Arduino](http://www.arduino.cc/), [UDOO](http://www.udoo.org/), [Cubieboard](http://cubieboard.org/), [CuBox](http://www.solid-run.com/cubox), [BeagleBoard ](http://beagleboard.org/), TI's [Zigbee](https://www.sparkfun.com/categories/111) and TI's [Piccolo Controlstick](http://focus.ti.com/mcu/docs/mcuprodtoolsw.tsp?sectionId=95&tabId=1222&familyId=916&toolTypeId=1)
 
@@ -93,6 +93,11 @@ I have been lucky and blessed to be diversified in a wide variety of sectors inc
 <br>
 
 **Family:** wife, two daughters and a puppy (very blessed indeed)
+
+**Cultural Heritage and Ancestry:**
+- First and foremost - the why? Being the first-generation immigrant to be transplanted abroad, preserving the cultural identity and heritage is important to me and my future generations to come. But <u>I stand against</u> any social-cutural-racial-liguistic-caste-religious zealotry or divide that exists within all cultures. I am with the founders of this country when they said - “_We hold these truths to be self-evident, that all men (and women) are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness._” (With a slight modification to include women for now and hoping that one day we can grow as a society to say "all life"). We are all beautiful people - unique in our abilities and talents, each worthy of praise and recognition on our own. And we also stand on the giant shoulders of our ancestors continually lifting us and propeling us forward to where we are today!
+- Language: Thamizh (Tamil/தமிழ்) - (proud to be speaking) one among the longest-surviving, continuously written and spoken "classical" languages from the antiquity era. Etymologically speaking, it is interesting and surprising to note that words like "candy" (கண்டு - kandu), "cry" (கரை - karai), "cash" (காசு - kasu), "eight" (எட்டு - ettu), "victory" (வெற்றி - vetri), "terra" (தரை - tharai), "name" (நாமம் - naamam) and many more have originated from the Thamizh (தமிழ்) language.
+- Family from வேட்டைக்காரன்புதூர் - உடுமலை - கணியூர் மாவட்டம் (From Vetaikaranputhur - Udamalpet - Kanuyur circle/location/geolocation) - பாண்டிய வேளாளர் பிள்ளை சங்கம் (descendant from this group). It will be an interesting project to see a Geneology map overlaid with liguistics, clutural and geolocation data to see movement of people, beliefs and cultures.
 
 {{<img src="/img/2009/05/guhesan_family_photo_sml.jpg" alt="Family Pic 2" width="250" align="center">}}
 
