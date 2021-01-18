@@ -27,7 +27,7 @@ wordpress_id: 2
 
 ## Current Focus
 
-<table class='tablenoborder' style='width: auto;'>
+<table class='tablenoborder mtpfocus' style='width: auto;'>
 <tr>
 	<td align="center"><img width='100' src='/img/logo/gitops.png' 			alt='GitOps'/></td>
 	<td align="center"><img width='100' src='/img/logo/k8s.png' 			alt='Kubernetes'/></td>
