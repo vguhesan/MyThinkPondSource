@@ -18,32 +18,49 @@ wordpress_id: 2
 	<td align="center"><img width='220' src='/img/logo/IEEE.png'      			alt='Electrical and Computer Engineer by Education'/></td>
 	<td align="center"><img width="180" src='/img/logo/developer-logo.png' 		alt='Software Developer by Trade'/></td>
 	<td align="center"><img width="200" src='/img/logo/graphic-designer.png' 	alt='Graphic Designer by Trade'/></td>
-	<td align="center"><img width="75" src='/img/logo/linuxpenguin.png'              		alt='Linux'/></td>
+	<td align="center"><img width="75" src='/img/logo/linuxpenguin.png'         alt='Linux'/></td>
 	<td align="center"><img width="100" src='/img/logo/opensource.png'			alt='Open Source Initiative'/></td>
 	<td align="center"><img width="100" src='/img/logo/openhardware.png'     	alt='Open Hardware'/></td>
-	<td align="center"><img width="100" src='/img/logo/embeddedlogo.png'           			alt='Embedded Developer'/></td>
-</tr>
-</table>
-
-## Current Focus
-
-<table class='tablenoborder mtpfocus' style='width: auto;'>
-<tr>
-	<td align="center"><img width='100' src='/img/logo/gitops.png' 			alt='GitOps'/></td>
-	<td align="center"><img width='100' src='/img/logo/k8s.png' 			alt='Kubernetes'/></td>
-	<td align="center"><img width='100' src='/img/logo/GoLangLogo1.png' 	alt='GoLang Programming'/></td>
-	<td align="center"><img width='100' src='/img/logo/rust.png' 			alt='Rust Programming'/></td>
-	<td align="center"><img width='100' src='/img/logo/python_logo2.png' 	alt='Python Programming'/></td>
-	<td align="center"><img width='100' src='/img/logo/springframework2.png' alt='Java Spring Framework'/></td>
-	<td align="center"><img width='100' src='/img/logo/argo.png' 			alt='Argo'/></td>
-	<td align="center"><img width='100' src='/img/logo/aws.png' 			alt='Amazon AWS'/></td>
-	<td align="center"><img width='100' src='/img/logo/googlecloud.png' 	alt='Google Cloud'/></td>
+	<td align="center"><img width="100" src='/img/logo/embeddedlogo.png'        alt='Embedded Developer'/></td>
 </tr>
 </table>
 
 > This is without a doubt the greatest time in all of human history to be alive! We’ve never had more information, knowledge, opportunity, possibilities, resources, or wealth than we do now. I hope that we can each make a mark in history as the greatest generation that have ever lived! [B+]
 
 > This blog is a "labor of love" for all things beautiful and interesting with respect to technology, curiosity & learning. It is a never ending work in progress... Always improved, always refined, ever growing... It is my journal! 
+
+## What am I doing these days?
+
+(The list below does not reflect my day-to-day office work but rather my personal pet projects, etc.)
+
+### From a Software Development Perspective
+
+<table class='tablenoborder mtpfocus' style='width: auto;'>
+<tr>
+	<td align="center"><img width='100' src='/img/logo/GoLangLogo1.png' 	 alt='GoLang Programming'/></td>
+	<td align="center"><img width='100' src='/img/logo/rust.png' 			 alt='Rust Programming'/></td>
+	<td align="center"><img width='100' src='/img/logo/svelte-logo.png' 	 alt='Svelte Web Development'/></td>
+	<td align="center"><img width='100' src='/img/logo/sapper-logo.png' 	 alt='Sapper SPA Web Development'/></td>
+	<td align="center"><img width='100' src='/img/logo/tailwindcss-logo.png' alt='Tailwind CSS'/></td>
+	<td align="center"><img width='100' src='/img/logo/python_logo2.png' 	 alt='Python Programming'/></td>
+	<td align="center"><img width='100' src='/img/logo/springframework2.png' alt='Java Spring Framework'/></td>
+</tr>
+</table>
+
+### From a Git/Ops, CI/CD, Deployment, Cloud Perspective
+
+<table class='tablenoborder mtpfocus' style='width: auto;'>
+<tr>
+	<td align="center"><img width='100' src='/img/logo/gitops.png' 			 alt='GitOps'/></td>
+	<td align="center"><img width='100' src='/img/logo/k8s.png' 			 alt='Kubernetes'/></td>
+	<td align="center"><img width='100' src='/img/logo/serverless-logo.png'  alt='Serverless'/></td>
+	<td align="center"><img width='100' src='/img/logo/argo.png' 			 alt='Argo'/></td>
+	<td align="center"><img width='100' src='/img/logo/architect-logo.png'   alt='Architect'/></td>
+	<td align="center"><img width='100' src='/img/logo/aws.png' 			 alt='Amazon AWS'/></td>
+	<td align="center"><img width='100' src='/img/logo/aws-sam-logo.png' 	 alt='Amazon SAM - Lambda'/></td>
+	<td align="center"><img width='100' src='/img/logo/googlecloud.png' 	 alt='Google Cloud'/></td>
+</tr>
+</table>
 
 ## In-depth
 
