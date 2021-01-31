@@ -83,11 +83,11 @@ wordpress_id: 2
 - Never Stop Learning
 - Share Knowledge
 - Stay Thirsty!
+- _"Nullum Relinquam Post Virum"_ or _"Nemo Resideo"_ ("No One Left Behind" or "No Man Left Behind")
 
 	</td>
 </tr>
 </table>
-
 
 
 **Electrical & Computer Engineer** by education | **Enterprise Architect & Software Developer** by trade
