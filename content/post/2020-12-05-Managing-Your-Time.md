@@ -1,7 +1,7 @@
 +++
-title = "Managing your time - Time-Block Method with PDF Templates"
+title = "Managing your time - Time-Block Method with free Templates (revised)"
 description = "Article explores the time-block method as a way to manage your daily expenditure of time and presents a revised template that works best for me."
-date = "2020-12-05"
+date = "2022-01-07"
 draft = "false"
 categories = ["Time Management"]
 tags = ["time","time mgt"]
@@ -9,7 +9,7 @@ thumbnail = "/img/logo/time-mgt-logo.png"
 lead = "Article explores the time-block method as a way to manage your daily expenditure of time and presents a revised template that works best for me. See if this template works for you and adapt it if you find it useful. My latest technique is based on a revised method from what Cal Newport has called - The Time-Block Planner."
 +++
 
-{{<figure src="/img/2020/12/TimeManagementTemplates.jpg" width="640" class="aligncenter round-img-border imgframe-left-pad" >}}
+{{<figure src="/img/2020/12/TimeManagementTemplates.png" width="640" class="aligncenter round-img-border imgframe-left-pad" >}}
 
 ### What is this article about?
 
@@ -45,7 +45,7 @@ At this juncture, a few months ago I came across <a href="https://www.calnewport
 Here are my challenges with this technique:
 
 1. My typical work day consisted of 12-hrs and so I needed a bit more room for the daily time-block template.
-2. I am a minimalist at heart. I don't link to carry a bag full of junk to manage my day. (although I end up carrying more junk for other reasons. Let's not get into it now). With the book format, I felt that I will be carrying a lot of baggage on daily basis. Not to mention the cost to refill from Cal Newport's system ($22.50 on Amazon for approx. 3.5 months of a planner - little pricey for my taste.)
+2. I am a minimalist at heart. I don't think to carry a bag full of junk to manage my day. (although I end up carrying more junk for other reasons. Let's not get into it now). With the book format, I felt that I will be carrying a lot of baggage on daily basis. Not to mention the cost to refill from Cal Newport's system ($22.50 on Amazon for approx. 3.5 months of a planner - little pricey for my taste.)
 3. In his technique, he starts out with the premise that you time-block and plan your day before you use any devices such as computer or phone. For me, my planning details come from multiple sources. I have an secure office computer where my external meetings for that day come in. (I cannot access them from my home computer). I have a personal computer where my volunteer and personal, family activities, appointments comes from. I also have my evenings where I plan my continuous education and exploring new ideas and projects. So I need to incorporate from all of my sources to compile a plan for the day. 
 4. As an engineer, I am a strong believer in the concept of a <a href="https://en.wikibooks.org/wiki/Control_Systems/Feedback_Loops/" target="_blank">feedback-loop</a>. And so I like to plan my next day using the time designated for "Daily Reflection and Journal" as well as "Daily Metrics". (By the way, the "Daily Metrics" is a great idea.)
 
@@ -128,6 +128,7 @@ Templates are in PDF format. You can download them individually (or as one bundl
 - <a href="/docs/Time-Block_v2_Template_MyThinkPond_com.pdf" alt="Daily Template" target="_blank">Time-Block Daily Template</a> : for capturing your daily activities (One-Page, two-sided, front & back)
 - <a href="/docs/Monthly-Calendar-Template-MyThinkPond_com.pdf" alt="Monthly Template" target="_blank">Monthly Calendar Template</a> : for capturing your monthly goals & activities (One-Page per Month). I typically carry last month, this month, and next month in my folio.
 - <a href="/docs/Habit-Tracker-Template-MyThinkPond_com.pdf" alt="Habit Tracking Template" target="_blank">Habit Tracking Template</a> : for tracking your habits and goals (One-Page per Month). I typically carry this month habit tracker in my folio.
+- <a href="/docs/Habit-Tracker-Half-Page-Template-MyThinkPond_com.pdf" alt="Habit Tracking Half-Page Template" target="_blank">Habit Tracking Half-Page Template</a> : for tracking your habits and goals (One-Page per Month).
 
 Here are two earlier versions I created to track time:
 
@@ -135,7 +136,7 @@ Here are two earlier versions I created to track time:
 - <a href="/docs/Daily-ToDo-List-Template-MyThinkPond_com.pdf" alt="To-Do List Template" target="_blank">To-Do List Template</a> : (OLD - NOT USED) for capturing your Daily To-Do Items layered on top of the <a href="https://www.eisenhower.me/eisenhower-matrix/" alt="Eisenhower four-quadrant matrix" target="_blank">Eisenhower four-quadrant matrix</a>  (One-Page)
 
 **Just Give Me The Whole Bundle** :-)
-- <a href="//docs/MyThinkPond-TimeMgt-Bundle.zip" alt="Whole Bundle as ZIP" target="_blank">Complete Bundle</a> (as zip)
+- <a href="/docs/MyThinkPond-TimeMgt-Bundle.zip" alt="Whole Bundle as ZIP" target="_blank">Complete Bundle</a> (as zip)
 
 <table style="background-color: #000; ">
 <tr>
@@ -146,9 +147,59 @@ Here are two earlier versions I created to track time:
 </tr>
 </table>	
 
+<table style="background-color: #000; ">
+<tr>
+	<td align="center">{{<figure src="/docs/Habit-Tracker-Half-Page-Template-MyThinkPond_com.png" caption="Habit Tracker Half-Page" width="250" class="aligncenter round-img-border imgframe-left-pad" >}}</td>
+</tr>
+</table>
+
 If you find these templates useful, then consider sharing a link on your social group and/or <a href="https://www.buymeacoffee.com/vguhesan" target="_blank">buy me some coffee</a>. Contact me via Disqus on this page, if you would like me to add some features that you feel will benefit others. I will consider all requests. Thanks for visiting!
 
 Cheers!
+
+<hr>
+
+**Reader's Questions and Answers - Update #1 (1/8/2022)**
+
+> **How do you specifically use the Monthly template? For example, what goes for each day of the month?**
+
+The <a href="/docs/Monthly-Planner.jpg" target="_blank">Monthly Template</a> is designed with three focus areas. They are as follows:
+
+1. Capturing important events that come up on a certain day that you don't want to miss. Birthday's, Appointments, Oil Changes, etc. (under each day). Use different colors to highlight based on importance. I use this area to examine my Google Calendar/Office-Calendar at the beginning of the month and transfer any key meetings and appointments. The underline on the left is there to write down the Day (M,Tu,W, Th,F,Sa,Su...) as reflected for that month.
+
+2. Monthly Goals (bottom-left), to jot down any overarching goals. Read a particular book. Learn a new art style, etc. (numbered - G1, G2, G3). These are then noted down to be done on certain days up top. Example. G1 - Read Book (The Docker Handbook). I would assign G1 every Thursday of the month so as to not overwhelm yourselves with tasks.
+
+3. The right area is left open for either additional goals or as the "feed-back loop" (aka - reflection). Out of all the goals you set aside during the month. How much of them did you accomplish and if you did not - why? By reflecting you gain a better understanding of yourself and your demons you need to learn to slay to get back on track.
+
+(Also - if you print in a Laser Printer, it should print the dots to help guide your lines without being too distracting).
+
+> **Do you add things to tasks as new things come up during the day? I have been trying to do that as things come up and eventually make it to my time-block to take care of it.**
+
+This question is regarding the <a href="/docs/Time-Block_Front_Page.jpg" target="_blank">Day Scheduler</a>.
+
+If your schedule is too rigid, then you will not follow the guide/template for more than a day (or more than a few hours) because it no longer reflects your path. So flexibility is the key. And that is why I have given you four-columns under the "Day Scheduler". Just replace that time slot with what took priority and shift that one appointment to a new block. Try not to reschedule the entire day because you know you will not keep up to it. I also use the last-column to the right to jot down what I really did so as to study and reflect on what happened that day. (For an example, see <a href="/img/2020/12/my-system-laid-out.jpg" target="_blank">this image</a>). 
+
+If on the other hand you find yourself needing more than four columns, it's time to reevaluate how you allow distractors to come into your day to day activities. At this point you are allowing external factors impacting your schedule too much. You need to engage in delegating your tasks to others or pushing back your distractors saying, "I can accomodate you but not today because my plate is overwhelmed for today already. How about we meet sometime tomorrow (or down the week) at a mutually convenient time?" (Notice my choice of words - "at a mutually convenient time" and not "at a time of your convenience").
+
+The overarching goal of all of this exercise is to identify what I call "distractors" and "time-wasters" that robs you of your time and life! Without a daily, monthly, or yearly reflection - we are simply a leaf flowing with the ebb of the currents in a river with no course or destination in sight.
+
+> **How to eat an elephant? One bite at a time. :-)**
+
+Example: Blog reader emailed me saying that they have added a goal to their monthly to read a book 300+ pages long.
+
+If you set your goal to read the book - it's too wide and it will never get completed. According to James Clear in <a href="https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0593189647/" target="_blank">Atomic Habits</a>. Set your goals as small as possible (bite-sized - hence "Atomic").
+
+Set your monthly goal to be to read chapters 1-4. And then work that over the next week into your daily schedule. When you reach that small goal, then add a secondary goal to your monthly to read chapters 5-8. This way, you are only chewing a small bite but at the end of the month (or months), you have eaten a whole elephant. (figuratively speaking). 
+
+Physiologically speaking; your mind plays tricks on you and wants to always take the easy road. The guy in your head is always talking back saying - "watching TV, drinking a glass of wine and relaxing over a movie is always better" over a long/big goal so you get side-tracked easily. So think ATOMIC and think DO THE ATOMIC NOW because it's easy to knock it off your list.
+
+But as soon as you reach that ATOMIC GOAL, reward yourself with some entertainment. Make sure you check-off the item on your list so that you are emphasizing to your mind that you can do this (hand-body-mind emphasis) and then immediately jot down the next ATOMIC GOAL with the when and where and how. This is the "secret" on how it's done. And by repetition of this practice comes the "Habit" in "Atomic Habits". :-)
+
+> **I have missed doing it for 2 days and I can already notice the difficulties of not time blocking! Once work started normally, and demands on my time got more reactive, its been harder to do stuff. But I know I need to plan for reactive days as well.**
+
+Remember that the templates are only as good as you use them on a daily basis. Until you make them part of your daily life, they are no good. In my case, I use them and then stop using them and then come back to them when my life's chaos indicator goes high. It goes in cycles. And all of that is part of learning! One day you will come back to this and hold it as dear as your body and then it will stick. It will become your habit! :-)
+
+<hr>
 
 <a href="https://www.buymeacoffee.com/vguhesan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 

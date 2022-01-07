@@ -1,3 +1,7 @@
 /public/*
 firebase-debug.log
 /node_modules/*
+.DS_Store
+._.DS_Store
+.firebase/*
+.hugo_build.lock
