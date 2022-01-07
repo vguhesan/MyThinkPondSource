@@ -18,7 +18,7 @@
     "glob-parent": ">=5.1.2",
     "trim-newlines": ">=3.0.1",
     "trim": ">=0.0.3",
-    "lodash": ">=4.17.21"
+    "lodash": ">=4.17.21" 
   },
   "scripts": {
     "lint:css": "stylelint static/css/*.css",
