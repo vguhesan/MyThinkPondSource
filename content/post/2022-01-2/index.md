@@ -69,7 +69,7 @@ Or follow the link <a href="https://support.microsoft.com/en-us/windows/a-driver
 {{<figure src="/img/logo/thiruvalluvar.png" caption="" width="100" class="alignleft round-img-border imgframe-left-pad" >}}
 <br/>
 Those who pretend to know what they don't, will be thought ignorant of even what they know.<br/>
-**- Thiruvalluvar**
+**- <a href="https://en.wikipedia.org/wiki/Thiruvalluvar" target="_blank">Thiru Valluvar</a>** ( <a href="https://en.wikipedia.org/wiki/Kural" target="_blank">His Work</a> )
 
 
 &nbsp;
