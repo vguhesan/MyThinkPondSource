@@ -15,6 +15,7 @@ lead = "Article shows you how to remove all occurrences of files .DS_Store and .
 
 When you move from a Mac OSX onto Windows, the file system will contain two files under every directory labeled ".DS_Store" and "._.DS_Store". These files are not useful especially if you're trying to commit code under a Git source control. It can sometime get very annoying and to eliminate this "noise" from your day to day development, you may want to remove these artifacts from your Windows system. This article will walk you through the simple steps of removing those files.
 
+### Performing the steps
 
 Windows "find" utility works differently than Linux "find". I highly recommend you use <a href="" target="_blank">Cygwin</a> (free). Cygwin provides you with Linux utilities under Windows. (Examples includes ls, rm, xargs, etc.) Once you have Cygwin, you can navigate to the base directory of you choice:
 
