@@ -43,6 +43,7 @@ unsafe= true
 	social_facebook = "venkattg"
 	social_linkedin = "venkatt-guhesan-6956431"
 	social_twitter = "vguhesan"
+	social_mastodon = "@vguhesan"
 	tags = true
 	tags_counter = false
 
