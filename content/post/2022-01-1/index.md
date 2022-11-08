@@ -205,6 +205,10 @@ But as soon as you reach that ATOMIC GOAL, reward yourself with some entertainme
 
 Remember that the templates are only as good as you use them on a daily basis. Until you make them part of your daily life, they are no good. In my case, I use them and then stop using them and then come back to them when my life's chaos indicator goes high. It goes in cycles. And all of that is part of learning! One day you will come back to this and hold it as dear as your body and then it will stick. It will become your habit! :-)
 
+> **Can you share a sample habit tracker?**
+
+{{<figure src="img/Habit-Tracker-Sample.png" width="640" class="aligncenter round-img-border imgframe-left-pad" >}}
+
 <hr>
 
 <a href="https://www.buymeacoffee.com/vguhesan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
