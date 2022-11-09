@@ -132,6 +132,8 @@ Cheers
 {{<figure src="/img/logo/thiruvalluvar.png" caption="" width="100" class="alignleft round-img-border imgframe-left-pad" >}}
 <br/>
 All the wealth acquired with perseverance (hard-work) by the worthy is for the exercise of benevolence (kindness).<br/>
-**- <a href="https://en.wikipedia.org/wiki/Thiruvalluvar" target="_blank">Thiru Valluvar</a>** ( <a href="https://en.wikipedia.org/wiki/Kural" target="_blank">His Work</a> )
+
+- Kural 212
+  **- <a href="https://en.wikipedia.org/wiki/Thiruvalluvar" target="_blank">Thiru Valluvar</a>** ( <a href="https://en.wikipedia.org/wiki/Kural" target="_blank">His Work</a> )
 
 &nbsp;
