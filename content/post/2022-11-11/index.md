@@ -52,12 +52,6 @@ I have created a one-page illustration to help guide the process.
 9. Clean the drain valve (bottom) of any debris.
 10. Drop in the new canister and reverse the process above.
 
-### Detailed instructions
-
-Before you turn on the heat this fall, they recommend that you change the canister each year. According to the manual, and I quote:
-"Cylinder light [o] : This yellow LED will illuminate when the humidifier has determined that the cylinder is nearing the end of its life, due to scale accumulation on the electrodes. The LED will flash on and off, during which time the humidifier will continue to operate as normal. After 7 days of flashing, the LED will remain on solid, and the humidifier will not generate steam. The cylinder must be replaced. See "Cylinder Replacement KIT" on page 19. of the manual."
-Probably best to replace it before you turn ON the heat. Otherwise, you need to drain first to release the steam to avoid burns.
-
 Cheers
 
 <hr>
