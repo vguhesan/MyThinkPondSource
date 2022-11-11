@@ -22,6 +22,7 @@ Article shows you how to change your humidifier canister for Honeywell HM750A100
 I have created a one-page illustration to help guide the process.
 
 {{<figure src="img/How-To-Change-Humidifier-Canister-Honeywell-HM750A1000.png" width="100%" class="aligncenter round-img-border imgframe-left-pad" >}}
+<a href="img/How-To-Change-Humidifier-Canister-Honeywell-HM750A1000.png" target="_blank">Open image in full-screen</a>
 
 ### Step-By-Step instructions
 
