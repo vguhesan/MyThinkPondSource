@@ -1,6 +1,6 @@
 baseurl = "http://MyThinkPond.com/"
 disqusShortname = "mythinkpond"
-googleAnalytics = "UA-106933850-1"
+googleAnalytics = "G-DB3YV9JEG7"
 languageCode = "en-us"
 paginate = "25"
 theme = "mainroad"

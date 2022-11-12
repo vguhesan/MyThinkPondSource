@@ -34,9 +34,18 @@
 	<link rel="stylesheet" href="{{ . | relURL }}?rnd=12102020">
 	{{- end }}
 	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}?rnd=12102020">
-	{{- if not .Site.IsServer }}
+	<!-- {{- if not .Site.IsServer }}
 		{{ template "_internal/google_analytics_async.html" . }}
-	{{- end }}
+	{{- end }} -->
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-DB3YV9JEG7"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-DB3YV9JEG7');
+	</script>
 	<link rel="stylesheet" href="/css/mtp-style.css?rnd=12102020">
 	<!-- <link rel="stylesheet" href="/css/chroma-syntax-dracula.css"> -->
 	<!-- <link rel="stylesheet" href="/css/chroma-syntax-rrt.css"> -->
