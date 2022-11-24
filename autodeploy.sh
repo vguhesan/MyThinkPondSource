@@ -4,8 +4,13 @@ hugo --theme=mainroad
 npm run index
 firebase deploy
 git add .
-outfile="Latest Site Updated Commit From: $(date +%Y%m%d)"
-git commit -m "${outfile}"
+# echo "Please provide a brief message for the commit:"
+# read commitmessage
+# outfile="Latest Site Updated Commit From: $(date +%Y%m%d)
+# $commitmessage
+# "
+# git commit -m "${outfile}"
+git commit
 git push -u origin develop
 pwd
 
