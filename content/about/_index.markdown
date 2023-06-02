@@ -9,7 +9,7 @@ title: About Me
 wordpress_id: 2
 ---
 
-## In A Nutshell (values & principles I stand upon)
+## In A Nutshell (My values & principles I stand upon)
 
 <style>
 .inanutshell {
@@ -22,22 +22,22 @@ wordpress_id: 2
 <table class='tablenoborder'>
     <tr>
         <td align="center">
-            <div title="Family"><img width='80' src='/img/logo/familyicon.png' alt='Family' /></div>
+            <div><img width='80' src='/img/logo/familyicon.png' title="Family Comes First" /></div>
         </td>
         <td align="center">
-            <div title="Language: Tamil/Thamizh"><img width='80' src='/img/logo/tamil.png' alt='Tamil' /></div>
+            <div><img width='80' src='/img/logo/tamil.png' title="My love for the language: Tamil/Thamizh [தமிழ்]" /></div>
+        </td>
+        <td align="center">
+            <div><img width='80' src='/img/logo/self-determination-respect.png' title="Self Determination + Self Respect [சுயஉழைப்பு + சுயமரியாதை]" /></div>
         </td>
 		<td align="center">
-            <div title="Be Kind to Animals">
-				<img width='100' src='/img/logo/cruelty-free-logo.png' alt='Be Kind to Animals' />
-			</div>
+            <div><img width='100' src='/img/logo/cruelty-free-logo.png' title="Be Kind to All Life (especially animals)" /></div>
         </td>
 		<td align="center">
-            <div title="Electrical and Computer Engineer by Education"><img width='220' src='/img/logo/IEEE.png'
-                    alt='Electrical and Computer Engineer by Education' /></div>
+            <div><img width='100' src='/img/logo/IEEE-v2.png' title="Electrical and Computer Engineer by Education"/></div>
         </td>
 		<td align="center">
-            <div title="&#128153; Linux"><img width="75" src='/img/logo/linuxpenguin.png' alt='Linux' /></div>
+            <div><img width="75" src='/img/logo/linuxpenguin.png' title="&#128153; for Linux" /></div>
         </td>
     </tr>
 </table>
@@ -45,23 +45,19 @@ wordpress_id: 2
 <table class='tablenoborder'>
     <tr>
         <td align="center">
-            <div title="Software Developer by Trade"><img width="180" src='/img/logo/developer-logo.png'
-                    alt='Software Developer by Trade' /></div>
+            <div><img width="180" src='/img/logo/developer-logo.png' title="Software Developer by Trade" /></div>
         </td>
         <td align="center">
-            <div title="Graphic Designer by Trade"><img width="200" src='/img/logo/graphic-designer.png'
-                    alt='Graphic Designer by Trade' /></div>
+            <div><img width="200" src='/img/logo/graphic-designer.png' title="Graphic Designer by Passion" /></div>
         </td>
         <td align="center">
-            <div title="Open Source Initiative"><img width="100" src='/img/logo/opensource.png'
-                    alt='Open Source Initiative' /></div>
+            <div><img width="100" src='/img/logo/opensource.png' title="Supporter of Open Source Initiative" /></div>
         </td>
         <td align="center">
-            <div title="Open Hardware"><img width="100" src='/img/logo/openhardware.png' alt='Open Hardware' /></div>
+            <div><img width="100" src='/img/logo/openhardware.png' title="Supporter of Open Hardware" /></div>
         </td>
         <td align="center">
-            <div title="Embedded Developer"><img width="100" src='/img/logo/embeddedlogo.png'
-                    alt='Embedded Developer' /></div>
+            <div><img width="100" src='/img/logo/embeddedlogo.png' title="Passion for Embedded Development" /></div>
         </td>
     </tr>
 </table>
@@ -71,6 +67,8 @@ wordpress_id: 2
 > Let us strive each day to move a little forward and closer towards - Peace, Love, Empathy, and Caring for each other!
 
 > This blog is a "labor of love" for all things beautiful, creative and interesting with respect to technology, curiosity & learning. It is an never ending work in progress... Always improved, always refined, crafted towards perfection, ever growing... This is my journal!
+
+> One question I ask myself each day: <b>What is holding me back from being the best version of ME today?</b>
 
 ## What am I doing these days?
 
@@ -104,7 +102,7 @@ wordpress_id: 2
         <td align="center">
             <div title="SvelteKit SPA Web Development">
                 <a href='https://kit.svelte.dev/' target='_blank' alt='SvelteKit SPA Web Development'>
-                    <img width='100' src='/img/logo/sapper-logo.png' alt='SvelteKit' />
+                    <img width='100' src='/img/logo/sveltekit-logo.png' alt='SvelteKit' />
                 </a>
             </div>
         </td>
@@ -182,6 +180,13 @@ wordpress_id: 2
 <b>Residence:</b> Maryland, USA
 
 <b>Interests:</b> &#128151; Live and Love Technology
+
+<b>My Identity, Roots & Values:</b>
+
+- Tamilan : belonging to the people who speaks Tamil.
+- Rationalist : a person who bases their opinions and actions on reason and knowledge rather than on religious belief or emotional response.
+- Self-Respect : pride and confidence in oneself; a feeling that one is behaving with honor and dignity.
+- Self-Determination : the process by which a person controls their own life.
 
 <b>Ideals To Live By:</b>
 
