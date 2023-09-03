@@ -236,13 +236,12 @@ I have been lucky and blessed to be diversified in a wide variety of sectors inc
 
 ## Family
 
-{{<img src="/img/2009/05/guhesan_family_photo_sml.jpg" alt="Family Pic 2" width="250" align="center">}}
-
-{{<img src="/img/2019/09/05/IMG_5496.jpg" alt="daughter-2 & puppy" width="250" align="center" class="imgframe">}}
-
-{{<img src="/img/2019/09/05/IMG_4224.jpg" alt="daughter-1" width="400" align="center" class="imgframe">}}
-
-{{<img src="/img/common/OurDog.jpg" alt="Our Puppy Dog" width="450" align="center" class="imgframe">}}
+<table>
+<tr>
+    <td>{{<img src="img/InG-IsG-ViG-VeG-400w.jpg" alt="Family 2023" width="400" align="center">}}</td>
+    <td>{{<img src="img/Myla-06-2023-c.jpg" alt="Our Puppy Dog" width="250" align="center" class="imgframe">}}</td>
+</tr>
+</table>
 
 **Blog Mascot:**
 {{<img src="/img/common/owl-mascot.png" alt="Blog Mascot - Owl" width="50" align="center" class="imgframe">}} **Mr.Owl**
