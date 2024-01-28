@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoLang on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/golang/</link>
+    <description>Recent content in GoLang on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoLang: Reader-Writer implemented via bufio library to copy file</title>
+      <link>http://MyThinkPond.com/post/2020-12-03-golang-reader-writer-copyfile-using-bufio-library/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2020-12-03-golang-reader-writer-copyfile-using-bufio-library/</guid>
+      <description>How to copy a file in small portions into a target file? Let&amp;rsquo;s talk about the why?&#xA;When you copy large files, you want to ensure that you are copying it piece by piece to avoid out-of-memory errors. As a good practice, it&amp;rsquo;s best to consider optimizations during development to avoid edge cases that might creep up in production.&#xA;Imagine a scenario where your copy file has been working flawlessly until one fine day when a 5GB file is thrown at it to be copied from one location to another.</description>
+    </item>
+    <item>
+      <title>A URL Shortener Service using Go, Iris and Bolt – Medium</title>
+      <link>http://MyThinkPond.com/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</link>
+      <pubDate>Thu, 16 Mar 2017 00:49:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</guid>
+      <description>Go (cross-platform language/compiler)&#xA;Iris (web framework in Go) + Bolt (embedded key-value DB) = one powerful combination Read more at&#xA;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf</description>
+    </item>
+    <item>
+      <title>Go lang - Revel Web Framework - .gitignore file starter sample</title>
+      <link>http://MyThinkPond.com/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</link>
+      <pubDate>Tue, 26 Jan 2016 01:05:42 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</guid>
+      <description>For those of you trying to create a new Go Language - Revel Web Framework based project, here is a sample .gitignore file.&#xA;But before I provide you with the information, we need to discuss the project structure. If you visit the Revel site here, you will see their organization structure of a Revel project. In my case, their my_gocode/ folder is much deeper in what I store in my BitBucket account (or GitHub for that matter).</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vert.io on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/vert.io/</link>
+    <description>Recent content in Vert.io on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Nov 2012 18:12:15 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/vert.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting started with vertx (vert.io) - an alternative to node.js</title>
+      <link>http://MyThinkPond.com/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</link>
+      <pubDate>Thu, 15 Nov 2012 18:12:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</guid>
+      <description>Lately there has been a lot of synergy and publicity around node.js (especially if you want to utilize the robust features of a JavaScript language on the server-side). If you are not familiar with this, I would suggest you look at the following link:&#xA;Node.js - Event-driven I/O server-side JavaScript environment based on V8.&#xA;If you are a Java developer and as you try out the examples, you will notice how this will be a great addition into your infrastructure.</description>
+    </item>
+  </channel>
+</rss>

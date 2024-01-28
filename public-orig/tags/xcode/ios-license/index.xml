@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xcode/iOS license on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/xcode/ios-license/</link>
+    <description>Recent content in Xcode/iOS license on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://MyThinkPond.com/tags/xcode/ios-license/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solved: git status failed with code 69 error when opening SourceTree in Mac OS X</title>
+      <link>http://MyThinkPond.com/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</link>
+      <pubDate>Thu, 24 Sep 2015 19:10:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</guid>
+      <description>If you receive the following error when opening SourceTree or other applications installed in your Mac OS X, then here is how you can solve it. Sometimes people make things more cryptic than it needs to be.&#xA;Error encountered &amp;lsquo;git status&amp;rsquo; failed with code 69:&amp;rsquo;&#xA;Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.&#xA;and here is the example of the screenshot:&#xA;Solution:&#xA;What that message is telling you is that you need to open the application XCode on your Mac OS X and since it hasn&amp;rsquo;t run since the last update, you need to accept the new license EULA agreement that&amp;rsquo;s part of the updated XCode.</description>
+    </item>
+  </channel>
+</rss>

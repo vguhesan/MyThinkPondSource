@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>contextPath on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/contextpath/</link>
+    <description>Recent content in contextPath on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Nov 2009 17:31:07 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/contextpath/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ContextPath in Apache Wicket</title>
+      <link>http://MyThinkPond.com/2009/11/05/contextpath-in-apache-wicket/</link>
+      <pubDate>Thu, 05 Nov 2009 17:31:07 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2009/11/05/contextpath-in-apache-wicket/</guid>
+      <description>One of the first things I found as I was getting familiar with Wicket is how do you point to resources that are part of a page. Well I did some digging around to find out so I&amp;rsquo;m documenting it here for others who might be facing the same challenges as they discover Apache Wicket.&#xA;Problem: You have pages in Wicket that are HTML with &amp;ldquo;Wicket&amp;rdquo; tags. But then you might want to point to resources such as CSS style sheets or JavaScript that&amp;rsquo;s part of a page.</description>
+    </item>
+  </channel>
+</rss>

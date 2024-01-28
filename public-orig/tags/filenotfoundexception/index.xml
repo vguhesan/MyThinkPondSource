@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FileNotFoundException on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/filenotfoundexception/</link>
+    <description>Recent content in FileNotFoundException on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Nov 2016 19:15:50 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/filenotfoundexception/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac OS X iDRAC7 FileNotFoundException .java/deployment/security/trusted.certs</title>
+      <link>http://MyThinkPond.com/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</link>
+      <pubDate>Thu, 17 Nov 2016 19:15:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</guid>
+      <description>When you connect with a Dell iDRAC virtual console you may encounter the following exception on a Mac OS X&#xA;FileNotFoundException ~/.java/deployment/security/trusted.certs&#xA;Here is a simple fix for this:&#xA;mkdir -p ~/.java/deployment/security cp ~/Library/Application\ Support/Oracle/Java/Deployment/security/trusted.certs ~/.java/deployment/security/ Cheers.</description>
+    </item>
+  </channel>
+</rss>

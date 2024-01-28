@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/java/</link>
+    <description>Recent content in Java on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Feb 2017 16:21:23 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Going off-heap to improve latency and reduce AWS bill</title>
+      <link>http://MyThinkPond.com/2017/02/16/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</link>
+      <pubDate>Thu, 16 Feb 2017 16:21:23 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/02/16/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</guid>
+      <description>Great read - shows you the power of Java and Chronicle Map.&#xA;Describing how going off-heap with the help of Chronicle Map helped us to get rid of the latency hiccups and cut our Amazon AWS bill in half.&#xA;Source: Going off-heap to improve latency and reduce AWS bill – Plumbr&#xA;Caution: Before you go diving into using the open source version of Chronicle Map, there are some gotchas to be aware of from a features point-of-view.</description>
+    </item>
+    <item>
+      <title>Developing email applications on Windows, targeted for Linux environment - email, mailx, sendmail</title>
+      <link>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</guid>
+      <description>If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.&#xA;Let us begin by understand the problem.&#xA;Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
+    </item>
+    <item>
+      <title>Grails No profile found for name [web] illegalstateexception</title>
+      <link>http://MyThinkPond.com/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</link>
+      <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</guid>
+      <description>Most likely you&amp;rsquo;ve landed on this page because you&amp;rsquo;ve searched for the error in a search engine and it brought you here.&#xA;Symptom: When you run &amp;ldquo;grails&amp;rdquo; under an existing project that you previously had (either on a different PC or from a source-control like GIT or SVN and you&amp;rsquo;ve mistakenly included the &amp;ldquo;build&amp;rdquo; directory).&#xA;The associated error would have been one of the following:&#xA;Grails No profile found for name [web] or java.</description>
+    </item>
+    <item>
+      <title>Grails 2.3.5 - grails stop-app - does not stop the app running via run-app</title>
+      <link>http://MyThinkPond.com/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</link>
+      <pubDate>Sun, 02 Feb 2014 19:40:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</guid>
+      <description>If you&amp;rsquo;re using Grails 2.3.X and you&amp;rsquo;re developing, most likely you&amp;rsquo;re running your app like this:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;] grails run-app #in one command-prompt/shell-terminal and grails stop-app #in another command-prompt/shell-terminal [/sourcecode]&#xA;With the latest version of Grails (version 2.3.5), the stop-app say:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;] grails stop-app | Server Stopped&#xA;But nothing happens and the server-process continues to run# [/sourcecode]&#xA;Here&amp;rsquo;s an undocumented fix that can come in handy:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;On terminal/command-prompt #1 Run the way you do today grails run-app</description>
+    </item>
+    <item>
+      <title>Grails - Adding JavaScript to bottom of page</title>
+      <link>http://MyThinkPond.com/2014/02/02/grails-adding-javascript-bottom-page/</link>
+      <pubDate>Sun, 02 Feb 2014 17:10:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/02/02/grails-adding-javascript-bottom-page/</guid>
+      <description>In Grails using the templating (Sitemesh) if you were to include per-page JavaScript resources then it shows up much earlier in the layout content as part of the &amp;lt;g:layoutBody&amp;gt;&#xA;Here is an example illustrating the problem:&#xA;SamplePage.gsp [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; MyThinkPond.com Custom Page ... Some this page content [/sourcecode]&#xA;and the layout page (layoutPage.gsp) [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; ... Some template (header) content [/sourcecode]&#xA;results in the following page in browser [sourcecode language=&amp;ldquo;html&amp;rdquo;]</description>
+    </item>
+    <item>
+      <title>Grails 2.X .gitignore file</title>
+      <link>http://MyThinkPond.com/2013/11/17/grails-2-x-gitignore-file/</link>
+      <pubDate>Sun, 17 Nov 2013 02:16:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2013/11/17/grails-2-x-gitignore-file/</guid>
+      <description>With a new Grails 2.X project you run into challenges on which folders to check-in into a GIT repository. You want to remove any non-essential files that Grails can rebuild at run-time. And if you are using either GITHub or BitBucket for your GIT repo&amp;rsquo;s the default .gitignore file created or provided by GITHub is setup for configured for a Grails 1.X project and not a Grails 2.X project.</description>
+    </item>
+    <item>
+      <title>Working with zeromq (0mq), Java, JZMQ on a CentOS platform</title>
+      <link>http://MyThinkPond.com/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</link>
+      <pubDate>Tue, 25 Jun 2013 03:36:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</guid>
+      <description>Recently I decided to port some of my development using ZeroMQ onto my CentOS development machine and I ran into some challenges. I&amp;rsquo;m documenting those challenges so that if someone else runs into the same pitfalls I did, they can avoid it.&#xA;In this example today, we will work with the first &amp;ldquo;HelloWorld&amp;rdquo; examples in the ZeroMQ guide found here. I added a few modifications to the sample such as a package name and a try-catch around the Thread and an exception.</description>
+    </item>
+    <item>
+      <title>Java Tools for Source Code Optimization and Analysis</title>
+      <link>http://MyThinkPond.com/2011/07/14/java-tools-for-source-code-optimization-and-analysis/</link>
+      <pubDate>Thu, 14 Jul 2011 11:50:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/07/14/java-tools-for-source-code-optimization-and-analysis/</guid>
+      <description>Below is a list of some tools that can help you examine your Java source code for potential problems:&#xA;1. PMD from http://pmd.sourceforge.net/ License: PMD is licensed under a &amp;ldquo;BSD-style&amp;rdquo; license&#xA;PMD scans Java source code and looks for potential problems like:&#xA;Possible bugs - empty try/catch/finally/switch statements Dead code - unused local variables, parameters and private methods Suboptimal code - wasteful String/StringBuffer usage Overcomplicated expressions - unnecessary if statements, for loops that could be while loops Duplicate code - copied/pasted code means copied/pasted bugs You can download everything from here, and you can get an overview of all the rules at the rulesets index page.</description>
+    </item>
+    <item>
+      <title>Not all Tomcat 6 classloaders must be equal</title>
+      <link>http://MyThinkPond.com/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</link>
+      <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</guid>
+      <description>Today, while doing some Grails development I came across a peculiar issue that perplexed me and I&amp;rsquo;m documenting it for all others to benefit. (Also see my other blog from today for the issue that started this journey).&#xA;Here are my specifications:&#xA;Development Machine&#xA;Windows-7, 64-bit&#xA;java version &amp;ldquo;1.6.0_24&amp;rdquo; Java(TM) SE Runtime Environment (build 1.6.0_24-b07) Java HotSpot(TM) 64-Bit Server VM (build 19.1-b02, mixed mode)&#xA;Grails 1.4.0.M1&#xA;Tomcat - apache-tomcat64-6.0.32&#xA;Local Deployment Server</description>
+    </item>
+    <item>
+      <title>Tomcat 6&#43;: Infamous &#34;SEVERE: Error listenerStart&#34; message - How-To debug this error?</title>
+      <link>http://MyThinkPond.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
+      <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
+      <description>I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.&#xA;SEVERE: Error listenerStart&#xA;You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.</description>
+    </item>
+    <item>
+      <title>How-To: Change Grails User work and cache directory under windows</title>
+      <link>http://MyThinkPond.com/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</link>
+      <pubDate>Fri, 10 Jun 2011 21:14:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</guid>
+      <description>The directions below will help you move the Grails user work and cache directory to a different location.&#xA;Why?&#xA;Sometimes your default &amp;ldquo;primary drive&amp;rdquo; may be running out of space and you need to move your workspace else where.&#xA;How?&#xA;Create a file called &amp;ldquo;settings.groovy&amp;rdquo; under &amp;ldquo;C:/Users/.grails&amp;rdquo; directory.&#xA;Edit this file and add the following line: [sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;grails.work.dir=&amp;ldquo;D:/grailswork&amp;rdquo;&#xA;[/sourcecode]&#xA;Make sure that the defined folder exists.&#xA;Remove all other content, files and folders in the &amp;ldquo;.</description>
+    </item>
+    <item>
+      <title>Understanding Tomcat Configuration</title>
+      <link>http://MyThinkPond.com/2010/12/22/understanding-tomcat-configuration/</link>
+      <pubDate>Wed, 22 Dec 2010 20:05:20 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/12/22/understanding-tomcat-configuration/</guid>
+      <description>Case #1: When the Tomcat config is this: [sourcecode language=&amp;ldquo;jscript&amp;rdquo;] [/sourcecode] Observe the &amp;ldquo;path&amp;rdquo; element in the &amp;ldquo;Context&amp;rdquo;. Then… http://localhost/index.jsp yields to the “index.jsp” under HelloWorld folder. http://localhost/HelloWorld/index.jsp yields to a “404 Page”.&#xA;Case #2: When the Tomcat setup is this: [sourcecode language=&amp;ldquo;jscript&amp;rdquo;] [/sourcecode]&#xA;Once again observe the &amp;ldquo;path&amp;rdquo; element in the &amp;ldquo;Context&amp;rdquo;. Then… http://localhost/index.jsp yields to a “blank page”. http://localhost/HelloWorld/index.jsp yields to a “blank page”. http://localhost/hw/index.jsp yields to the “index.</description>
+    </item>
+    <item>
+      <title>Add custom jars under &#34;\WEB-INF\lib&#34; in a Maven project</title>
+      <link>http://MyThinkPond.com/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</link>
+      <pubDate>Sat, 02 Oct 2010 18:28:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</guid>
+      <description>The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is not what is recommended by Maven. Maven builds upon consistency and structure and this process goes away from that methodology. In Maven, you can take each of your jars\libraries and add them to your local repository and then include them as needed in your projects. If you want to go the proper route here’s how you do it.</description>
+    </item>
+    <item>
+      <title>Weblogic 10.3 Heap Size (does not allow 3072mb)</title>
+      <link>http://MyThinkPond.com/2010/09/21/weblogic-10-3-heap-size-does-not-allow-3072mb/</link>
+      <pubDate>Tue, 21 Sep 2010 18:08:52 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/09/21/weblogic-10-3-heap-size-does-not-allow-3072mb/</guid>
+      <description>Has anyone experienced a similar issue? In tuning Weblogic 10.3 R27.6.0-50 for Windows, we were trying various values for the heap size.&#xA;Startup jRockit options:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;] -Xms1024m -Xmx1024m [/sourcecode]&#xA;We were setting both values to the same.&#xA;1024m = worked 2048m = worked 3072m = did not work 4096m = worked&#xA;Did anyone experience a similar problem in allocating? Is there something special about 3072MB?&#xA;Update from Sept. 28th, 2010: When we tried this additional property in the start-up parameter the 3GB option works: -XxcompressedRefs=0</description>
+    </item>
+    <item>
+      <title>Maven - GWT - Vaadin - including additional custom jars in a maven project under &#34;\web-inf\lib&#34;</title>
+      <link>http://MyThinkPond.com/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</link>
+      <pubDate>Wed, 15 Sep 2010 18:50:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</guid>
+      <description>With a lot of folks trying Google Web Toolkit (GWT) and\or Vaadin (combined with Maven), one of the problems that they might encounter is this:&#xA;How do I get my custom Vaadin themes or GWT jar files included under my &#34;\web-inf\lib&#34; folder inside the war Here&amp;rsquo;s a link to the such a question in detail.&#xA;The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is going away from what Maven would like you to do.</description>
+    </item>
+    <item>
+      <title>GWT and Spring Integration - java.net.InetAddress is a restricted class</title>
+      <link>http://MyThinkPond.com/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</link>
+      <pubDate>Mon, 13 Sep 2010 02:05:51 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</guid>
+      <description>When trying to integrate both Spring and GWT, one might encounter the following error in the Spring Eclipse IDE:&#xA;&amp;ldquo;java.net.InetAddress is a restricted class&amp;rdquo;. The problem happens when you try to use Spring configuration for your database. In my case, I was using Spring to update data back to a H2 database.&#xA;Well, here&amp;rsquo;s one way to deal with this issue. Disable the &amp;ldquo;Google App Engine&amp;rdquo;. Yes, based on my research, if you&amp;rsquo;re using GWT, you can disable Google App Engine and still continue your development with GWT.</description>
+    </item>
+    <item>
+      <title>JBoss AS6 - Failed to resolve schema nsURI= location=persistence</title>
+      <link>http://MyThinkPond.com/2010/08/26/jboss-failed-to-resolve-schema-nsuri-locationpersistence/</link>
+      <pubDate>Thu, 26 Aug 2010 19:22:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/08/26/jboss-failed-to-resolve-schema-nsuri-locationpersistence/</guid>
+      <description>If you encounter the following error when deploying under JBoss AS6: &amp;ldquo;Failed to resolve schema nsURI= location=persistence&amp;rdquo;&#xA;The chances are that you are missing the name-space for the persistence.xml file. So examine your persistence.xml file and replace the tag with the following:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;[/sourcecode]&#xA;And this should help you get rid of the above error.&#xA;cheers.</description>
+    </item>
+    <item>
+      <title>Weblogic 10.3 - Using clear passwords while in production mode</title>
+      <link>http://MyThinkPond.com/2010/07/23/weblogic-10-3-using-clear-passwords-while-in-production-mode/</link>
+      <pubDate>Fri, 23 Jul 2010 20:39:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/07/23/weblogic-10-3-using-clear-passwords-while-in-production-mode/</guid>
+      <description>In Weblogic, (on your development server or workstation), you might want to run it in &amp;ldquo;production mode&amp;rdquo; but you don&amp;rsquo;t want to go through and encrypt all the database passwords in the JDBC files for your development database servers.&#xA;Well, this article shows you how. Before you do this, make sure you are NOT doing this in a production environment. By doing this in a real-production environment, you may be compromising the security of your production infrastructure.</description>
+    </item>
+    <item>
+      <title>Notable difference between Apache Ant 1.7.x and 1.8.x - path and pathelement</title>
+      <link>http://MyThinkPond.com/2010/07/21/notable-difference-between-apache-ant-1-7-x-and-1-8-x-path-and-pathelement/</link>
+      <pubDate>Wed, 21 Jul 2010 21:28:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/07/21/notable-difference-between-apache-ant-1-7-x-and-1-8-x-path-and-pathelement/</guid>
+      <description>On key notable difference I&amp;rsquo;m observing between Apache Ant 1.7.1 and 1.8.1 is with the path and pathelement.&#xA;a build.xml file before&#xA;=========================== If you had a path-id set in a target that may never get executed, Ant will make an attempt to find that path and use it. Whereas with 1.8.1, you will need to move those &amp;ldquo;Init&amp;rdquo; properties to the main level so that they will be properly found and used.</description>
+    </item>
+    <item>
+      <title>Spring Framework Samples and Reference Implementations online in svn</title>
+      <link>http://MyThinkPond.com/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</link>
+      <pubDate>Mon, 19 Apr 2010 14:30:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</guid>
+      <description>Sometimes it&amp;rsquo;s good to look at the svn repository for the reference sample that Spring Framework provides.&#xA;Here&amp;rsquo;s a quick link for that URL:&#xA;https://src.springframework.org/svn/spring-samples/&#xA;You can traverse through it via a HTTP(s) browser or you can download the latest samples via tools like TortiseSVN.&#xA;Here is a list of some of the projects samples that are available today:&#xA;spring-samples - Revision 431: /&#xA;* configuration-basic/ * jpetstore/ * mvc-ajax/ * mvc-basic/ * petcare/ * petclinic/ * petclinic-groovy/ * spring-travel/ * task-basic/ * templates/ * tutorials/ Hopefully this article will be beneficial for someone who is trying to get familiar with Spring Framework.</description>
+    </item>
+    <item>
+      <title>Java 6 Gems: Spash Screen for your application</title>
+      <link>http://MyThinkPond.com/2010/04/12/java-6-gems-spash-screen-for-your-application/</link>
+      <pubDate>Mon, 12 Apr 2010 16:19:55 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/04/12/java-6-gems-spash-screen-for-your-application/</guid>
+      <description>In my coverage of all the new features that are part of Java SE 6, there is a new gem added that makes the user experience very clean and concise when you bring up a web-start or applet or desktop based Java application. Namely, the splash screen.&#xA;When you load up a native application, it&amp;rsquo;s very traditional to display a &amp;ldquo;splash screen&amp;rdquo; with the company logo and branding of the particular product.</description>
+    </item>
+    <item>
+      <title>Java 6 Gems: Scripting Framework to support Rhino Javascript and Groovy (natively)</title>
+      <link>http://MyThinkPond.com/2010/04/06/java-6-gems-scripting-framework-to-support-rhino-javascript-and-groovy-natively/</link>
+      <pubDate>Tue, 06 Apr 2010 20:15:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/04/06/java-6-gems-scripting-framework-to-support-rhino-javascript-and-groovy-natively/</guid>
+      <description>What is it? With Java 6 there is a new addition (package: javax.script) that allows you to work with scripting languages like Javascript (using Rhino) and Groovy. Although there is built in support for adding scripting engines like Groovy, PHP, Perl, etc - what&amp;rsquo;s bundled in this release is Mozilla&amp;rsquo;s Rhino Javascript Engine.&#xA;Why embed a scripting language? Most scripting languages out there are dynamically typed. Meaning, your code does not need to know what type of value you will be storing in a particular field at compile time.</description>
+    </item>
+    <item>
+      <title>Speeding up your load time for your Java applets and webstart applications</title>
+      <link>http://MyThinkPond.com/2010/03/31/speeding-up-your-load-time-for-your-java-applets-and-webstart-applications/</link>
+      <pubDate>Wed, 31 Mar 2010 21:39:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/03/31/speeding-up-your-load-time-for-your-java-applets-and-webstart-applications/</guid>
+      <description>Today we are going to look at a new feature available in Java 5 and above that can speed up your load time of your jar&amp;rsquo;s within your applets and web start (provided you have a web server that&amp;rsquo;s hosting the jar that&amp;rsquo;s HTTP/1.1 compatible server).&#xA;Let&amp;rsquo;s first take a look at what happens on the back-end:&#xA;In a typical applet (same applies to a web-start application), you have a src/source tag that points to a JAR file like this:</description>
+    </item>
+    <item>
+      <title>Commonly overlooked feature in Java 5 - varargs</title>
+      <link>http://MyThinkPond.com/2010/03/30/commonly-overlooked-feature-in-java-5-varargs/</link>
+      <pubDate>Tue, 30 Mar 2010 14:16:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/03/30/commonly-overlooked-feature-in-java-5-varargs/</guid>
+      <description>Today I&amp;rsquo;ll comment on a commonly overlooked feature now available in Java (since Java 5.0) called &amp;ldquo;varargs&amp;rdquo;.&#xA;How many times have you done this?&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;public ConstructorOne(String personFullName){ // Does something }&#xA;//and later on added another constructor that took another parameter&#xA;public ConstructorOne(String personFirstName, String personLastName){ // Now breaks down the name to pass along two strings instead of one. }&#xA;// and so on&amp;hellip;&#xA;[/sourcecode]&#xA;Well, not anymore.</description>
+    </item>
+    <item>
+      <title>Forwarding to a URL from Wicket</title>
+      <link>http://MyThinkPond.com/2009/11/13/forwarding-to-a-url-from-wicket/</link>
+      <pubDate>Fri, 13 Nov 2009 18:21:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2009/11/13/forwarding-to-a-url-from-wicket/</guid>
+      <description>Sometimes we need to forward to a servlet or resource that&amp;rsquo;s outside of Wicket such as a servlet. Here&amp;rsquo;s how:&#xA;Modify your web.xml to define your servlet as well as your Wicket application &amp;ldquo;ignorePaths&amp;rdquo; init-param: [sourcecode language=&amp;ldquo;xml&amp;rdquo;]&#xA;&lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34;?&gt; &lt;!DOCTYPE web-app PUBLIC &#34;-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN&#34; &#34;http://java.sun.com/dtd/web-app_2_3.dtd&#34;&gt; Wicket Example MyApplication org.apache.wicket.protocol.http.WicketFilter applicationClassName com.gu.MyApplication wicket.configuration deployment ignorePaths images/,s/ MyApplication /* SomeServlet com.gu.SomeServlet SomeServlet /s/koolkat.do [/sourcecode] The first observation is that Wicket is running as a Filter and not a Servlet.</description>
+    </item>
+    <item>
+      <title>ContextPath in Apache Wicket</title>
+      <link>http://MyThinkPond.com/2009/11/05/contextpath-in-apache-wicket/</link>
+      <pubDate>Thu, 05 Nov 2009 17:31:07 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2009/11/05/contextpath-in-apache-wicket/</guid>
+      <description>One of the first things I found as I was getting familiar with Wicket is how do you point to resources that are part of a page. Well I did some digging around to find out so I&amp;rsquo;m documenting it here for others who might be facing the same challenges as they discover Apache Wicket.&#xA;Problem: You have pages in Wicket that are HTML with &amp;ldquo;Wicket&amp;rdquo; tags. But then you might want to point to resources such as CSS style sheets or JavaScript that&amp;rsquo;s part of a page.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensor on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/sensor/</link>
+    <description>Recent content in Sensor on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 May 2017 23:31:56 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/sensor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Synthetic Sensors Is a Sensor That Could Soon Make Homes Scary-Smart | WIRED</title>
+      <link>http://MyThinkPond.com/2017/05/11/synthetic-sensors-is-a-sensor-that-could-soon-make-homes-scary-smart-wired/</link>
+      <pubDate>Thu, 11 May 2017 23:31:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/05/11/synthetic-sensors-is-a-sensor-that-could-soon-make-homes-scary-smart-wired/</guid>
+      <description>**Synthetic Sensors** : a simple device that plugs into an electrical outlet and connects everything in the room. It can capture all of the the environmental data needed to transform a wide variety of ordinary household objects into smart devices. Plug the module into an electrical outlet and it becomes the eyes and ears of the room, its 10 embedded sensors logging information like sound, humidity, electromagnetic noise, motion, and light (the researchers excluded a camera for privacy reasons).</description>
+    </item>
+    <item>
+      <title>First Alert Carbon Monoxide Alarm - tear-down</title>
+      <link>http://MyThinkPond.com/2016/01/04/first-alert-carbon-monoxide-alarm-tear-down/</link>
+      <pubDate>Mon, 04 Jan 2016 23:37:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/01/04/first-alert-carbon-monoxide-alarm-tear-down/</guid>
+      <description>One of my First Alert Carbon Monoxide Alarm&amp;rsquo;s expired. This gave me an opportunity to look inside and see what&amp;rsquo;s inside this little gadget.&#xA;Here is a picture of the tear-down for those who are interested:&#xA;First Alert - Single Station Carbon Monoxide Alarm - model #: CO614&#xA;The specification for the carbon-monoxide sensor used in this model can be found here.&#xA;Here is a list of alternative carbon-monoxide sensors from Figaro.</description>
+    </item>
+  </channel>
+</rss>

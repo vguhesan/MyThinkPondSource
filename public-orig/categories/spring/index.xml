@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/spring/</link>
+    <description>Recent content in Spring on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Apr 2018 16:55:46 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/spring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>spring.schemas and spring.handlers when creating Uber-Jar</title>
+      <link>http://MyThinkPond.com/post/2018-04-08-spring.schemas-and-spring.handlers-when-creating-uber-jar/</link>
+      <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2018-04-08-spring.schemas-and-spring.handlers-when-creating-uber-jar/</guid>
+      <description>When creating an uber-jar with all dependencies in one single-jar file, each of the spring dependency jar may contain schema and handlers that have the same name but different content. When you combine them into creating a single uber-jar, the uber-library will perform an overwrite since each of the Spring files for schema and handlers are the exact filename. So you end up overwriting the file where the last ubered file will remain.</description>
+    </item>
+    <item>
+      <title>Spring LDAP Overview | Baeldung</title>
+      <link>http://MyThinkPond.com/2017/03/14/spring-ldap-overview-baeldung/</link>
+      <pubDate>Tue, 14 Mar 2017 02:26:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/14/spring-ldap-overview-baeldung/</guid>
+      <description>Learn how to use the Spring LDAP APIs to authenticate and search for users, as well as to create and modify users in the directory server.&#xA;Source: Spring LDAP Overview | Baeldung</description>
+    </item>
+    <item>
+      <title>Developing email applications on Windows, targeted for Linux environment - email, mailx, sendmail</title>
+      <link>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</guid>
+      <description>If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.&#xA;Let us begin by understand the problem.&#xA;Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
+    </item>
+    <item>
+      <title>Grails No profile found for name [web] illegalstateexception</title>
+      <link>http://MyThinkPond.com/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</link>
+      <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</guid>
+      <description>Most likely you&amp;rsquo;ve landed on this page because you&amp;rsquo;ve searched for the error in a search engine and it brought you here.&#xA;Symptom: When you run &amp;ldquo;grails&amp;rdquo; under an existing project that you previously had (either on a different PC or from a source-control like GIT or SVN and you&amp;rsquo;ve mistakenly included the &amp;ldquo;build&amp;rdquo; directory).&#xA;The associated error would have been one of the following:&#xA;Grails No profile found for name [web] or java.</description>
+    </item>
+    <item>
+      <title>Gradle Spring Woes: Issues in creating single jar bundle with all dependency jars nested within</title>
+      <link>http://MyThinkPond.com/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</link>
+      <pubDate>Thu, 03 Nov 2016 20:47:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</guid>
+      <description>If you&amp;rsquo;re implementing any projects with Spring and Gradle (for build), as your project grows you may run into this issue. Or you&amp;rsquo;ve landed on this page by searching on Google for &amp;ldquo;Unable to locate Spring NamespaceHandler for XML schema namespace&amp;rdquo; (your actual XML that it&amp;rsquo;s error-ing out may vary).&#xA;Either way, you&amp;rsquo;re in luck! Most likely, you&amp;rsquo;re using the fatjar gradle plugin to create a single JAR for executing as &amp;ldquo;java -jar one-big-bundle.</description>
+    </item>
+    <item>
+      <title>Tomcat 6&#43;: Infamous &#34;SEVERE: Error listenerStart&#34; message - How-To debug this error?</title>
+      <link>http://MyThinkPond.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
+      <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
+      <description>I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.&#xA;SEVERE: Error listenerStart&#xA;You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.</description>
+    </item>
+    <item>
+      <title>Spring Framework Samples and Reference Implementations online in svn</title>
+      <link>http://MyThinkPond.com/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</link>
+      <pubDate>Mon, 19 Apr 2010 14:30:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</guid>
+      <description>Sometimes it&amp;rsquo;s good to look at the svn repository for the reference sample that Spring Framework provides.&#xA;Here&amp;rsquo;s a quick link for that URL:&#xA;https://src.springframework.org/svn/spring-samples/&#xA;You can traverse through it via a HTTP(s) browser or you can download the latest samples via tools like TortiseSVN.&#xA;Here is a list of some of the projects samples that are available today:&#xA;spring-samples - Revision 431: /&#xA;* configuration-basic/ * jpetstore/ * mvc-ajax/ * mvc-basic/ * petcare/ * petclinic/ * petclinic-groovy/ * spring-travel/ * task-basic/ * templates/ * tutorials/ Hopefully this article will be beneficial for someone who is trying to get familiar with Spring Framework.</description>
+    </item>
+  </channel>
+</rss>

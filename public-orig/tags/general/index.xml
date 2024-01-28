@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/general/</link>
+    <description>Recent content in General on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Sep 2017 23:42:33 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Converted Wordpress.com Hosted Blog to Hugo Static Blog :-)</title>
+      <link>http://MyThinkPond.com/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</guid>
+      <description>Summary Thanks to Hugo Static Site generator written in GoLang and Mainroad Theme, I was able to port over my personal blog MyThinkPond as a static generated website.&#xA;Before and After Here is a screenshot of the belore site:&#xA;MyThinkPond under Wordpress hosting&#xA;Here is a screenshot of the belore site:&#xA;MyThinkPond under Wordpress hosting&#xA;I think it&amp;rsquo;s a move in the right direction. Putting me in complete control of the content, images and all artifacts that goes into bundling the site.</description>
+    </item>
+  </channel>
+</rss>

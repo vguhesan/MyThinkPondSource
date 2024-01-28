@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>libsodium on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/libsodium/</link>
+    <description>Recent content in libsodium on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2015 02:02:54 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/libsodium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to configure and install ZeroMQ (libsodium) on CentOS 6.7?</title>
+      <link>http://MyThinkPond.com/2015/09/07/how-to-install-and-configure-zeromq-libsodium-on-centos-6-7/</link>
+      <pubDate>Mon, 07 Sep 2015 02:02:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2015/09/07/how-to-install-and-configure-zeromq-libsodium-on-centos-6-7/</guid>
+      <description>When getting started on ZeroMQ (version 4.2.0 or above) can be quite challenging especially with all the prerequisites. I&amp;rsquo;ve spent a good two days to get the process ironed out. So I&amp;rsquo;m sharing this so that others can avoid the same pitfalls and can have a good head-start with setting up their environment.&#xA;Pitfall #1: Develop for your platform. I&amp;rsquo;m accustomed to developing in Ubuntu 14.04.3 LTE but in this case my deployment environment happens to be CentOS 6.</description>
+    </item>
+  </channel>
+</rss>

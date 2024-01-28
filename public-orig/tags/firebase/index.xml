@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>firebase on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/firebase/</link>
+    <description>Recent content in firebase on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2017 15:50:58 -0500</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>firebase-tools install throws &#39;root does not have permission&#39; error repeatedly</title>
+      <link>http://MyThinkPond.com/post/2017-11-24-firebase-installation-error-root_does_not_have_permission/</link>
+      <pubDate>Fri, 24 Nov 2017 15:50:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-11-24-firebase-installation-error-root_does_not_have_permission/</guid>
+      <description>During installtion of firebase-tools, you see a repeated output about &amp;lsquo;root does not have permission&amp;rsquo; error. This is one way to fix that issue.&#xA;sudo npm install -g firebase-tools Error/Warning&#xA;gyp WARN EACCES user &#34;root&#34; does not have permission to access the dev dir &#34;/usr/local/lib/node_modules/firebase-tools/node_modules/grpc/.node-gyp/8.9.1&#34; gyp WARN EACCES attempting to reinstall using temporary dev dir &#34;/usr/local/lib/node_modules/firebase-tools/node_modules/grpc/.node-gyp&#34; Here is what I did to avoid this:&#xA;sudo mkdir -p /usr/local/lib/node_modules/firebase-tools/node_modules/grpc/.node-gyp/8.9.1/ This creates an empty directory with the path specified then rerun the following:</description>
+    </item>
+  </channel>
+</rss>

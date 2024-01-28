@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/web/</link>
+    <description>Recent content in web on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Nov 2016 13:42:47 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grails No profile found for name [web] illegalstateexception</title>
+      <link>http://MyThinkPond.com/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</link>
+      <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</guid>
+      <description>Most likely you&amp;rsquo;ve landed on this page because you&amp;rsquo;ve searched for the error in a search engine and it brought you here.&#xA;Symptom: When you run &amp;ldquo;grails&amp;rdquo; under an existing project that you previously had (either on a different PC or from a source-control like GIT or SVN and you&amp;rsquo;ve mistakenly included the &amp;ldquo;build&amp;rdquo; directory).&#xA;The associated error would have been one of the following:&#xA;Grails No profile found for name [web] or java.</description>
+    </item>
+  </channel>
+</rss>

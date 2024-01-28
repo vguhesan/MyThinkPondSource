@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows 10 on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/windows-10/</link>
+    <description>Recent content in Windows 10 on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding your Windows-10 Product Key and tips to upgrade your hardware</title>
+      <link>http://MyThinkPond.com/post/2020-04-19-finding-your-windows-10-product-key/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2020-04-19-finding-your-windows-10-product-key/</guid>
+      <description>tl;dr Easiest way to find out your Windows 10 Product Key for reinstallation or reimaging your computer. As an added bonus, I&amp;rsquo;ll talk about two tips on how you can upgrade your computers hardware to give it a second life.&#xA;Lately for adults, &amp;ldquo;work from home&amp;rdquo; (WFH) has become the new norm and with kids attending classes online - having a good, clean setup of your laptop or computer has become a necessity.</description>
+    </item>
+  </channel>
+</rss>

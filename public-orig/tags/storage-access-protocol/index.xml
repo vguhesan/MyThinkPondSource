@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>storage access protocol on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/storage-access-protocol/</link>
+    <description>Recent content in storage access protocol on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2017 19:13:05 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/storage-access-protocol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transmutation of the Storage Administrator : Scott&#39;s Blog</title>
+      <link>http://MyThinkPond.com/2017/03/15/transmutation-of-the-storage-administrator-scotts-blog/</link>
+      <pubDate>Wed, 15 Mar 2017 19:13:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/15/transmutation-of-the-storage-administrator-scotts-blog/</guid>
+      <description>This article discusses the evolution of the storage administrator in the era of cloud storage.&#xA;The job (storage administrator) role is changing, not only is there a need to understand storage devices and host connection technologies that knowledge scope is extending to include networking, operating systems and new storage access protocols (like Object)...IBM Spectrum Scale is the logical next step to help storage administrators expand their offering portfolio and provide additional value to their customers.</description>
+    </item>
+  </channel>
+</rss>

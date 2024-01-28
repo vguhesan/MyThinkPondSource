@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Copy File on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/copy-file/</link>
+    <description>Recent content in Copy File on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/copy-file/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoLang: Reader-Writer implemented via bufio library to copy file</title>
+      <link>http://MyThinkPond.com/post/2020-12-03-golang-reader-writer-copyfile-using-bufio-library/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2020-12-03-golang-reader-writer-copyfile-using-bufio-library/</guid>
+      <description>How to copy a file in small portions into a target file? Let&amp;rsquo;s talk about the why?&#xA;When you copy large files, you want to ensure that you are copying it piece by piece to avoid out-of-memory errors. As a good practice, it&amp;rsquo;s best to consider optimizations during development to avoid edge cases that might creep up in production.&#xA;Imagine a scenario where your copy file has been working flawlessly until one fine day when a 5GB file is thrown at it to be copied from one location to another.</description>
+    </item>
+  </channel>
+</rss>

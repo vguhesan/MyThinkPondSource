@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>configuration on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/configuration/</link>
+    <description>Recent content in configuration on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jun 2016 23:14:21 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bash script to generate config or property file from a template file containing variables</title>
+      <link>http://MyThinkPond.com/2016/06/23/bash-generating-config-or-property-file-from-a-template-file-containing-variables/</link>
+      <pubDate>Thu, 23 Jun 2016 23:14:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/06/23/bash-generating-config-or-property-file-from-a-template-file-containing-variables/</guid>
+      <description>Sometimes we have configuration or properties file (as templates) such as httpd.conf or server.conf where we want to dynamically replace $variables with values before writing the output to a new file.&#xA;Example:&#xA;# httpd.conf.tmpl SetHandler server-status Order deny,allow Deny from all Allow from $MONITOR_IP We want to develop an install script in Bash such that it reads the httpd.conf.tmpl and replaces the $STATUS_URI and $MONITOR_IP with appropriate values (either passed in as script arguments or coded in the bash script) and then write out the resulting output to a new file such as /tmp/httpd.</description>
+    </item>
+    <item>
+      <title>How-To Install mod_python and the compile error - apxs:Error: Command failed with rc=65536</title>
+      <link>http://MyThinkPond.com/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</link>
+      <pubDate>Thu, 29 Dec 2011 03:09:12 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</guid>
+      <description>Below are my steps to installing mod_python under Apache HTTPD in CentOS 6.2.&#xA;Download mod_python-3.3.1.tgz or a later version of mod_python available here: http://archive.apache.org/dist/httpd/modpython/&#xA;[sourcecode] curl -O http://archive.apache.org/dist/httpd/modpython/mod_python-3.3.1.tgz tar zxvf mod_python-3.3.1.tgz cd mod_python-3.3.1 ./configure make [/sourcecode]&#xA;You may encounter the following error at this point: apxs:Error: Command failed with rc=65536&#xA;If so&amp;hellip; no worries&amp;hellip;&#xA;This bug has been addressed here: https://bugzilla.redhat.com/show_bug.cgi?id=465246&#xA;Download the patch and (if you can figure out how to patch like I did, I manually opened the file and examined the contents: ` diff -rNu mod_python-3.</description>
+    </item>
+    <item>
+      <title>Understanding Tomcat Configuration</title>
+      <link>http://MyThinkPond.com/2010/12/22/understanding-tomcat-configuration/</link>
+      <pubDate>Wed, 22 Dec 2010 20:05:20 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/12/22/understanding-tomcat-configuration/</guid>
+      <description>Case #1: When the Tomcat config is this: [sourcecode language=&amp;ldquo;jscript&amp;rdquo;] [/sourcecode] Observe the &amp;ldquo;path&amp;rdquo; element in the &amp;ldquo;Context&amp;rdquo;. Then… http://localhost/index.jsp yields to the “index.jsp” under HelloWorld folder. http://localhost/HelloWorld/index.jsp yields to a “404 Page”.&#xA;Case #2: When the Tomcat setup is this: [sourcecode language=&amp;ldquo;jscript&amp;rdquo;] [/sourcecode]&#xA;Once again observe the &amp;ldquo;path&amp;rdquo; element in the &amp;ldquo;Context&amp;rdquo;. Then… http://localhost/index.jsp yields to a “blank page”. http://localhost/HelloWorld/index.jsp yields to a “blank page”. http://localhost/hw/index.jsp yields to the “index.</description>
+    </item>
+  </channel>
+</rss>

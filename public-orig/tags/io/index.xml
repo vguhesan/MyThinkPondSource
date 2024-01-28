@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IO on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/io/</link>
+    <description>Recent content in IO on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Nov 2012 12:27:22 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simulating Load on a File-System</title>
+      <link>http://MyThinkPond.com/2012/11/14/simulating-load-on-a-file-system/</link>
+      <pubDate>Wed, 14 Nov 2012 12:27:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/11/14/simulating-load-on-a-file-system/</guid>
+      <description>Sometimes you want an easy way to simulate load on a file-system that you are trying to test. Here&amp;rsquo;s a quick and easy way.&#xA;Suppose your mount point you want to perform this IO is &amp;ldquo;/myspecialmount&amp;rdquo;. (Assuming you have plenty of space to test)&#xA;Then the easiest way to load some IO is through the following bash-script:&#xA;[sourcecode language=&amp;ldquo;bash&amp;rdquo;] #!/bin/bash&#xA;while true do echo &amp;ldquo;=== Starting clean-up ====&amp;rdquo; rm -fr /myspecialmount/usr echo &amp;ldquo;=== Starting load ====&amp;rdquo; rsync -avp /usr /myspecialmount done [/sourcecode]</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,302 @@
+body {
+	/*font-family: 'Montserrat', sans-serif;*/
+	/*font-family: 'Roboto', sans-serif;*/
+	/*font-family: 'Raleway', sans-serif;*/
+	/*font-family: 'Oswald', sans-serif;*/
+	/*font-family: 'Lato', sans-serif;*/
+	/*font-family: 'Open Sans', sans-serif;*/
+	font-size: 1rem;
+}
+
+.tablenoborder {
+	border: transparent !important;
+}
+
+.logo > table {
+	border: transparent !important;
+}
+
+.logo > table > tr,td {
+	border: transparent !important;
+}
+
+.logo {
+	padding: 0px !important;
+}
+
+.logo__link {
+	text-transform: capitalize;
+}
+
+.logo__tagline {
+	color: #F3D5D5;
+}
+
+.logo__title {
+	color: #FFFFFF;
+}
+
+.header {
+	background-image: url('/img/common/background1.jpg');
+}
+
+.container {
+	max-width: 100%;
+}
+
+.container--outer {
+    margin: 0px auto !important;
+    box-shadow: 0 0 10px rgba(50, 50, 50, .17);
+}
+
+/*.content {
+	width: 76%;
+}*/
+
+.sidebar {
+	width: 20%;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+a {
+	color: #9c3838;
+}
+
+.post__title a {
+	color: #000000;
+}
+
+.post__title a:hover {
+	color: #ab0000;
+}
+
+
+
+code {
+	white-space: pre-wrap;
+	overflow: auto;
+}
+
+#wrapper {
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+.widget__list {
+	list-style: none;
+}
+
+ol, ul {
+    list-style: inside;
+}
+
+@media screen and (max-width: 800px) {
+	.container {
+		max-width: 98%;
+	}
+
+	.content {
+		width: 65%;
+	}
+
+	.sidebar {
+		width: 32%;
+	}
+
+}
+
+@media screen and (max-width: 768px) {
+	.container {
+		max-width: 98%;
+	}
+
+	.content {
+		width: 98%;
+	}
+
+	.sidebar {
+		width: 98%;
+	}
+
+}
+
+@media screen and (max-width: 620px) {
+	.container {
+		max-width: 98%;
+	}
+
+	.content {
+		width: 98%;
+	}
+
+	.sidebar {
+		width: 98%;
+	}
+
+}
+
+@media screen and (max-width: 320px) {
+	.container {
+		max-width: 98%;
+	}
+
+	.content {
+		width: 98%;
+	}
+
+	.sidebar {
+		width: 98%;
+	}
+
+}
+
+/* code highlight linenumber border */
+/*div.highlight div table tbody tr td:first-child pre {
+	border-right: 1px solid #ebebeb;
+}*/
+/* Add a new line after highlight div tag*/
+/*div.highlight:after {
+	content: '\A';
+	white-space: pre;
+}*/
+
+/* Tags in a blog article - bottom */
+ul.tags__list {
+	list-style: none;
+}
+
+.list__thumbnail img {
+    max-width: 100px !important;
+}
+
+.icon-time, .icon-category {
+    fill: #c4c4c4;
+}
+
+/* Images Styling */
+.imgframe {
+	margin: 40px !important;
+}
+
+.imgframe-right-pad {
+	margin-right: 30px !important;
+}
+
+.imgframe-left-pad {
+	margin-left: 30px !important;
+}
+
+.imgframe-center-pad {
+	margin-left: 30px !important;
+	margin-right: 30px !important;
+	margin-bottom: 30px !important;
+}
+
+.round-img-border > img {
+	border-radius: 8px;
+}
+/* Images Styling */
+
+.emailsignupbox {
+
+    padding: 5px 0;
+    /*margin-bottom: 5px;*/
+    line-height: 1.5;
+    border-top: 1px solid #ebebeb;
+    /*border-bottom: 1px solid #ebebeb;*/
+    background-color: #3d4246;
+
+}
+
+.fa-envelope {
+	color: #e22d30;
+	font-size: 48px;
+}
+
+.inline-email {
+	background-color: #afc4d7 !important;
+}
+
+#mc_embed_signup input.email {
+	width: 200px !important;
+	margin-bottom: 15px !important;
+}
+
+#mc_embed_signup .button {
+	/*margin-top: 10px !important;*/
+	max-width: 200px;
+}
+
+.mtp-align-center {
+	display: block;
+	margin: 1.25rem auto;
+	width: max-content;
+
+}
+
+.content.list__excerpt.post__content.clearfix {
+    margin-left: 120px;
+    width: 80%;
+}
+
+/* Search Widget Restyle */
+#searchwrappertitle {
+	margin-bottom: 0px;
+}
+
+#searchwrapper > form {
+	padding: 0px;
+}
+.widget-search__field {
+	width: 100%;
+}
+
+/* awards */
+.awards {
+	margin: 0px !important;
+	margin-right: 10px !important;
+
+}
+
+div.highlight {
+	box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+	border-radius: 7px;
+	border: 2px solid black;
+}
+
+/*div.highlight:after {
+	content: '\A';
+	white-space: pre;
+}*/
+
+pre {
+	box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+	border-radius: 7px;
+	border: 2px solid black;
+}
+
+@media screen {
+	pre {
+		max-height: 30em;
+		scrollbar-color: dark #272822;
+	}
+}
+
+div.code-toolbar > .toolbar {
+    right: 2.2em !important;
+}
+
+div.widget-getnotified{
+	margin-bottom: 0px !important;
+}
+
+.unsplashcredit {
+	margin-left: 37px;
+	position: relative;
+	top: -29px;
+	font-size: 10px;
+}
+

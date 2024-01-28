@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JQuery on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/jquery/</link>
+    <description>Recent content in JQuery on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2011 23:52:28 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/jquery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Copy to Clipboard - a browser agnostic way to script this functionality</title>
+      <link>http://MyThinkPond.com/2011/10/31/copy-to-clipboard-a-browser-agnostic-way-to-script-this-functionality/</link>
+      <pubDate>Mon, 31 Oct 2011 23:52:28 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/10/31/copy-to-clipboard-a-browser-agnostic-way-to-script-this-functionality/</guid>
+      <description>Have you tried to present some code or sample content for the end-user that you wanted to allow them to easily copy to their clip-board?&#xA;If you use the JQuery Javascript library then you can use the plugin called zClip available here - zClip&#xA;Using zclip you can attach an event to a button or a text-area such that when the event occurs, the content is copied to the clipboard.</description>
+    </item>
+    <item>
+      <title>jQuery Accordian Internet Explorer 6 Issue</title>
+      <link>http://MyThinkPond.com/2010/01/19/jquery-accordian-internet-explorer-6-issue/</link>
+      <pubDate>Tue, 19 Jan 2010 15:22:01 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/01/19/jquery-accordian-internet-explorer-6-issue/</guid>
+      <description>If you are using the Accordian UI from jQuery and your accordion body (the content in div.ui-accordion-content tag) contains anchor tags then you might experience a few glitches in IE6 where the display might not render properly when selected.&#xA;One way to address this issue is the following: Add this to the header&amp;hellip;&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;[/sourcecode]&#xA;This will force a refresh of the content when expanded.&#xA;The other thing that you may not have is a doctype defined in the header.</description>
+    </item>
+  </channel>
+</rss>

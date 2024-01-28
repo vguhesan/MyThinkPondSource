@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac OS X Tips on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/mac-os-x-tips/</link>
+    <description>Recent content in Mac OS X Tips on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Oct 2017 13:22:49 -0400</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/mac-os-x-tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configure Jumbo Packets for all your devices including Windows/Linux/Mac OS X on your network</title>
+      <link>http://MyThinkPond.com/post/2017-10-16-enabling-jumbo-packets-for-your-devices/</link>
+      <pubDate>Mon, 16 Oct 2017 13:22:49 -0400</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-10-16-enabling-jumbo-packets-for-your-devices/</guid>
+      <description>Summary This article focus on how to setup Jumbo packets on all your various devices in your network. This includes Windows 10+, Linux, Mac OS X+.&#xA;What is Jumbo packet or Jumbo Frame? A jumbo frame is an Ethernet frame with a payload greater than the standard maximum transmission unit (MTU) of 1,500 bytes. Jumbo frames are used on local area networks that support at least 1 Gbps and can be as large as 9,000 bytes.</description>
+    </item>
+  </channel>
+</rss>

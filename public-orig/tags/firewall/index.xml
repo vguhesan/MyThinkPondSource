@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>firewall on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/firewall/</link>
+    <description>Recent content in firewall on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Mar 2016 15:42:15 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/firewall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CentOS 7 - How to open ports in firewalld?</title>
+      <link>http://MyThinkPond.com/2016/03/23/centos-7-how-to-open-ports-in-firewalld/</link>
+      <pubDate>Wed, 23 Mar 2016 15:42:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/03/23/centos-7-how-to-open-ports-in-firewalld/</guid>
+      <description>Prior to CentOS 7, &amp;ldquo;iptables&amp;rdquo; and &amp;ldquo;shorewall&amp;rdquo; were the two options avaiable. Since CentOS-7, the default firewall tool is &amp;ldquo;firewalld&amp;rdquo;.&#xA;Here is a short-guide on how to open two ports in the firewalld application:&#xA;firewall-cmd --get-active-zones # Lets open Jetty Web Server port firewall-cmd --zone=public --add-port=8080/tcp --permanent # Lets open some other port 4242 for TCP firewall-cmd --zone=public --add-port=4242/tcp --permanent # Commit changes firewall-cmd --reload firewall-cmd --list-all Cheers.</description>
+    </item>
+  </channel>
+</rss>

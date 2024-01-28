@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHP on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/php/</link>
+    <description>Recent content in PHP on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Oct 2016 18:12:22 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node.js, Python, C/C&#43;&#43;, Ruby, PHP development from a tiny Linux embedded for about $10</title>
+      <link>http://MyThinkPond.com/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</link>
+      <pubDate>Tue, 04 Oct 2016 18:12:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</guid>
+      <description>Came across this tiny IoT embedded micro-controller/computer that runs BusyBox or FreeBSD Linux and can run code written in Node.js, Python, C/C++, Ruby and PHP all at a cost of $5 to $10 with WiFi, 2G/3G, Bluetooth, GPS add-ons for your cloud services. It also has enough GPIO pins to interface with external world and not to mention the I2C and I2S interfaces for talking to other devices and peripherals as well as interfacing for sounds (I2S).</description>
+    </item>
+  </channel>
+</rss>

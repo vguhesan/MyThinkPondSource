@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>run-app on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/run-app/</link>
+    <description>Recent content in run-app on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2014 19:40:57 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/run-app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grails 2.3.5 - grails stop-app - does not stop the app running via run-app</title>
+      <link>http://MyThinkPond.com/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</link>
+      <pubDate>Sun, 02 Feb 2014 19:40:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</guid>
+      <description>If you&amp;rsquo;re using Grails 2.3.X and you&amp;rsquo;re developing, most likely you&amp;rsquo;re running your app like this:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;] grails run-app #in one command-prompt/shell-terminal and grails stop-app #in another command-prompt/shell-terminal [/sourcecode]&#xA;With the latest version of Grails (version 2.3.5), the stop-app say:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;] grails stop-app | Server Stopped&#xA;But nothing happens and the server-process continues to run# [/sourcecode]&#xA;Here&amp;rsquo;s an undocumented fix that can come in handy:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;On terminal/command-prompt #1 Run the way you do today grails run-app</description>
+    </item>
+  </channel>
+</rss>

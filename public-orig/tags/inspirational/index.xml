@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inspirational on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/inspirational/</link>
+    <description>Recent content in Inspirational on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 18:11:50 -0500</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/inspirational/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dear Readers, Happy New Year - 2018</title>
+      <link>http://MyThinkPond.com/post/2018-01-01-happy-new-year-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 18:11:50 -0500</pubDate>
+      <guid>http://MyThinkPond.com/post/2018-01-01-happy-new-year-2018/</guid>
+      <description>For all of my wonderful blog readers out there, I want to say &amp;ldquo;THANK YOU&amp;rdquo;.&#xA;Wishing You All A Happy New Year!&#xA;May your 2018 be the best year ever!</description>
+    </item>
+  </channel>
+</rss>

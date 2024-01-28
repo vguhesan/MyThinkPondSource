@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bash on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/bash/</link>
+    <description>Recent content in Bash on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Mar 2017 19:27:16 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Record Everything You Do In Terminal - OSTechNix</title>
+      <link>http://MyThinkPond.com/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</link>
+      <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</guid>
+      <description>Synopsis:&#xA;script -a my_history mkdir test cd test touch hello_world.txt echo &#39;Hello World&#39; &gt; ./hello_world.txt # This closes the &#34;script -a my_history&#34; file exit Source: How To Record Everything You Do In Terminal - OSTechNix</description>
+    </item>
+    <item>
+      <title>bash script to generate config or property file from a template file containing variables</title>
+      <link>http://MyThinkPond.com/2016/06/23/bash-generating-config-or-property-file-from-a-template-file-containing-variables/</link>
+      <pubDate>Thu, 23 Jun 2016 23:14:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/06/23/bash-generating-config-or-property-file-from-a-template-file-containing-variables/</guid>
+      <description>Sometimes we have configuration or properties file (as templates) such as httpd.conf or server.conf where we want to dynamically replace $variables with values before writing the output to a new file.&#xA;Example:&#xA;# httpd.conf.tmpl SetHandler server-status Order deny,allow Deny from all Allow from $MONITOR_IP We want to develop an install script in Bash such that it reads the httpd.conf.tmpl and replaces the $STATUS_URI and $MONITOR_IP with appropriate values (either passed in as script arguments or coded in the bash script) and then write out the resulting output to a new file such as /tmp/httpd.</description>
+    </item>
+    <item>
+      <title>merging bash ssh session history</title>
+      <link>http://MyThinkPond.com/2016/03/24/merging-bash-ssh-session-history/</link>
+      <pubDate>Thu, 24 Mar 2016 14:56:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/03/24/merging-bash-ssh-session-history/</guid>
+      <description>You may have observed once in a while that when you SSH onto a server and you try to look up a command you ran earlier (maybe the previous day) in the &amp;ldquo;history&amp;rdquo; output but you do not see it. This is because of how a SSH session works! Each time you ssh into a server, it leverages a set of TTY screens to maintain an individual history for that session.</description>
+    </item>
+  </channel>
+</rss>

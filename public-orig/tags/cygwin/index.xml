@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cygwin on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/cygwin/</link>
+    <description>Recent content in cygwin on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/cygwin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remove .DS_Store and ._.DS_Store under Windows</title>
+      <link>http://MyThinkPond.com/post/2022-01-3/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2022-01-3/</guid>
+      <description>What is this article about? When you move from a Mac OSX onto Windows, the file system will contain two files under every directory labeled &amp;ldquo;.DS_Store&amp;rdquo; and &amp;ldquo;._.DS_Store&amp;rdquo;. These files are not useful especially if you&amp;rsquo;re trying to commit code under a Git source control. It can sometime get very annoying and to eliminate this &amp;ldquo;noise&amp;rdquo; from your day to day development, you may want to remove these artifacts from your Windows system.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>offline on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/offline/</link>
+    <description>Recent content in offline on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Oct 2016 18:42:15 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/offline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to package your node.js application for deploying it in an offline environment?</title>
+      <link>http://MyThinkPond.com/2016/10/14/how-to-package-your-node-js-application-for-deploying-it-in-an-offline-environment/</link>
+      <pubDate>Fri, 14 Oct 2016 18:42:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/10/14/how-to-package-your-node-js-application-for-deploying-it-in-an-offline-environment/</guid>
+      <description>Personally speaking, I prefer to have a self-contained bundle with all the artifacts and modules that might be required to deploy an application (not just Node.js application) in Production. In that way, I know exactly the bits that were installed and nothing more and nothing less. It also eliminates the availability of the NPM modules and network connectivity issues, etc. The following procedure shows you how to create a simple &amp;ldquo;Hello World&amp;rdquo; Node.</description>
+    </item>
+  </channel>
+</rss>

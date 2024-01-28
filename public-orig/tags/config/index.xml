@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>config on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/config/</link>
+    <description>Recent content in config on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jun 2016 23:14:21 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/config/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bash script to generate config or property file from a template file containing variables</title>
+      <link>http://MyThinkPond.com/2016/06/23/bash-generating-config-or-property-file-from-a-template-file-containing-variables/</link>
+      <pubDate>Thu, 23 Jun 2016 23:14:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/06/23/bash-generating-config-or-property-file-from-a-template-file-containing-variables/</guid>
+      <description>Sometimes we have configuration or properties file (as templates) such as httpd.conf or server.conf where we want to dynamically replace $variables with values before writing the output to a new file.&#xA;Example:&#xA;# httpd.conf.tmpl SetHandler server-status Order deny,allow Deny from all Allow from $MONITOR_IP We want to develop an install script in Bash such that it reads the httpd.conf.tmpl and replaces the $STATUS_URI and $MONITOR_IP with appropriate values (either passed in as script arguments or coded in the bash script) and then write out the resulting output to a new file such as /tmp/httpd.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript window on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/javascript-window/</link>
+    <description>Recent content in Javascript window on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jan 2011 23:00:44 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/javascript-window/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Importance of named windows and how to close all child windows</title>
+      <link>http://MyThinkPond.com/2011/01/16/importance-of-named-windows-and-how-to-close-all-child-windows/</link>
+      <pubDate>Sun, 16 Jan 2011 23:00:44 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/01/16/importance-of-named-windows-and-how-to-close-all-child-windows/</guid>
+      <description>One of the questions posed by a friend of mine is this.&#xA;In a typical website-application, you spawn a few child windows here and there and because of the nature of the application, you do not have a handle to all the child windows you spawn open... Then how do you close all the child windows that belong to your application when the user logs out of your application or closes the main window with the intent that he/she wants to log out?</description>
+    </item>
+  </channel>
+</rss>

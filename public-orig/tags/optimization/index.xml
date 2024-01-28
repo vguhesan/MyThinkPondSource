@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/optimization/</link>
+    <description>Recent content in Optimization on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jul 2011 11:50:57 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Tools for Source Code Optimization and Analysis</title>
+      <link>http://MyThinkPond.com/2011/07/14/java-tools-for-source-code-optimization-and-analysis/</link>
+      <pubDate>Thu, 14 Jul 2011 11:50:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/07/14/java-tools-for-source-code-optimization-and-analysis/</guid>
+      <description>Below is a list of some tools that can help you examine your Java source code for potential problems:&#xA;1. PMD from http://pmd.sourceforge.net/ License: PMD is licensed under a &amp;ldquo;BSD-style&amp;rdquo; license&#xA;PMD scans Java source code and looks for potential problems like:&#xA;Possible bugs - empty try/catch/finally/switch statements Dead code - unused local variables, parameters and private methods Suboptimal code - wasteful String/StringBuffer usage Overcomplicated expressions - unnecessary if statements, for loops that could be while loops Duplicate code - copied/pasted code means copied/pasted bugs You can download everything from here, and you can get an overview of all the rules at the rulesets index page.</description>
+    </item>
+  </channel>
+</rss>

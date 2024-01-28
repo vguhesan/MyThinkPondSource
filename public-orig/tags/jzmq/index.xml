@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jzmq on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/jzmq/</link>
+    <description>Recent content in jzmq on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jun 2013 03:36:43 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/jzmq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working with zeromq (0mq), Java, JZMQ on a CentOS platform</title>
+      <link>http://MyThinkPond.com/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</link>
+      <pubDate>Tue, 25 Jun 2013 03:36:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</guid>
+      <description>Recently I decided to port some of my development using ZeroMQ onto my CentOS development machine and I ran into some challenges. I&amp;rsquo;m documenting those challenges so that if someone else runs into the same pitfalls I did, they can avoid it.&#xA;In this example today, we will work with the first &amp;ldquo;HelloWorld&amp;rdquo; examples in the ZeroMQ guide found here. I added a few modifications to the sample such as a package name and a try-catch around the Thread and an exception.</description>
+    </item>
+  </channel>
+</rss>

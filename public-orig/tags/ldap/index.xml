@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LDAP on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/ldap/</link>
+    <description>Recent content in LDAP on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Mar 2017 02:26:09 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/ldap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring LDAP Overview | Baeldung</title>
+      <link>http://MyThinkPond.com/2017/03/14/spring-ldap-overview-baeldung/</link>
+      <pubDate>Tue, 14 Mar 2017 02:26:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/14/spring-ldap-overview-baeldung/</guid>
+      <description>Learn how to use the Spring LDAP APIs to authenticate and search for users, as well as to create and modify users in the directory server.&#xA;Source: Spring LDAP Overview | Baeldung</description>
+    </item>
+  </channel>
+</rss>

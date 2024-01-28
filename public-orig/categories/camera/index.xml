@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camera on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/camera/</link>
+    <description>Recent content in Camera on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jan 2019 17:23:34 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/camera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waterproofing Blink Camera Sync Module for outdoors</title>
+      <link>http://MyThinkPond.com/post/waterproofing-blink-camera-sync-module-for-outdoors/</link>
+      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/waterproofing-blink-camera-sync-module-for-outdoors/</guid>
+      <description>I had a requirement where I had WiFi signal across a large farm/garden and I needed to place the Blink camera in various locations. And since the schedule is controlled by the Blink Sync Module, I had to create multiple zones each with it&amp;rsquo;s own Blink Sync module to define an independent schedule for a set of cameras for that zone. This meant that each of my Blink Sync modules needed to be accessible in those zones across the farm.</description>
+    </item>
+  </channel>
+</rss>

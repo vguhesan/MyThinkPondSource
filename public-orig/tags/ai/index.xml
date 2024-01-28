@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/ai/</link>
+    <description>Recent content in AI on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2017 19:01:57 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How AI algorithms could help design new drugs? - Futurity</title>
+      <link>http://MyThinkPond.com/post/2017-04-06-how-ai-algorithms-could-help-design-new-drugs-futurity/</link>
+      <pubDate>Thu, 06 Apr 2017 19:01:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-04-06-how-ai-algorithms-could-help-design-new-drugs-futurity/</guid>
+      <description>A new kind of AI algorithm—designed to work with a small amount of data—may be able to assist in the early stages of drug development. Artificial intelligence doesn’t work all that well in situations where there is very little data, such as drug development. A new technique called one-shot learning, that requires only a small number of data points might be a solution to that low-data problem.&#xA;To make molecular information more digestible, the researchers first represented each molecule in terms of the connections between atoms (what a mathematician would call a graph).</description>
+    </item>
+    <item>
+      <title>The Future of Web Development: Coding as a Service</title>
+      <link>http://MyThinkPond.com/2017/03/12/the-future-of-web-development-coding-as-a-service/</link>
+      <pubDate>Sun, 12 Mar 2017 18:38:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/12/the-future-of-web-development-coding-as-a-service/</guid>
+      <description>The article talks about the comoditization of web development as a service (Coding as a Service - CaaS).&#xA;For the price of two Venti Iced Caramel Macchiatos per month you can run a respectable website with little to no technical experience... Artificial Intelligence will enable more complex combinations of code to be fit together through an automated process... The quantity and quality of customization with AI will be staggering. And for the end user this means it will be at once simpler and cheaper.</description>
+    </item>
+  </channel>
+</rss>

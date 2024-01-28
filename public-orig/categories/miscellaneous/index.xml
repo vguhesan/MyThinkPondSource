@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellaneous on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/miscellaneous/</link>
+    <description>Recent content in Miscellaneous on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2017 23:22:26 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create jaw dropping Data Visualizations on the web with D3.js?</title>
+      <link>http://MyThinkPond.com/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</guid>
+      <description>Story telling using great visualizations.&#xA;Thus article goes into the details of creating great visuals leveraging D3 JavaScript library. It introduces the user into concepts provided by the D3 library.&#xA;Some of the steps includes:&#xA;Refreshing previous concepts of D3.js A glance at advanced concepts: Scales, Axes and Reading data from external sources Building basic charts and code reusability Line Chart Area Chart Chart as a modular structure Case Study Visualizing Game of Thrones Social Network – Force Directed Graph in action!</description>
+    </item>
+    <item>
+      <title>YouTube has a new look and, for the first time, a new logo (repost) </title>
+      <link>http://MyThinkPond.com/2017/08/29/youtube-has-a-new-look-and-for-the-first-time-a-new-logo-repost/</link>
+      <pubDate>Tue, 29 Aug 2017 21:13:51 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/08/29/youtube-has-a-new-look-and-for-the-first-time-a-new-logo-repost/</guid>
+      <description>YouTube has a new look and, for the first time, a new logo (repost)&#xA;You get to see how Google works from a UI perspective https://www.theverge.com/2017/8/29/16216868/new-youtube-logo-redesign-font-color-app-design</description>
+    </item>
+    <item>
+      <title>Create versatile visualizations with D3 and Angular (repost) </title>
+      <link>http://MyThinkPond.com/2017/08/29/create-versatile-visualizations-with-d3-and-angular-repost/</link>
+      <pubDate>Tue, 29 Aug 2017 21:05:58 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/08/29/create-versatile-visualizations-with-d3-and-angular-repost/</guid>
+      <description>Create versatile visualizations with D3 and Angular&#xA;Learn how to combine the D3 data visualization tool and the Angular cross-platform application development platform to create interactive visualizations. https://opensource.com/article/17/8/d3-angular</description>
+    </item>
+  </channel>
+</rss>

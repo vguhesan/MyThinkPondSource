@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>extract images from PDF on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/extract-images-from-pdf/</link>
+    <description>Recent content in extract images from PDF on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Nov 2010 23:08:37 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/extract-images-from-pdf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extract all images in PDF file in a directory (batch extract images)</title>
+      <link>http://MyThinkPond.com/2010/11/28/extract-all-images-in-pdf-file-in-a-directory-batch-extract-images/</link>
+      <pubDate>Sun, 28 Nov 2010 23:08:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/11/28/extract-all-images-in-pdf-file-in-a-directory-batch-extract-images/</guid>
+      <description>Sometimes you need a way to extract all images in a PDF but then you have a directory of files and you need to extract them iteratively.&#xA;Prerequisites:&#xA;Install Cygwin or linux environment with Perl support.&#xA;Install ImageMagick.&#xA;Install GhostScript.&#xA;Afterward run the following script:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;#!/bin/perl&#xA;my $directory = $ARGV[0]; opendir (DIR, $directory) or die $!; while (my $file = readdir(DIR)) { if ($file =~ m/.pdf/) { my $newfile = $file; $newfile =~ s/.</description>
+    </item>
+  </channel>
+</rss>

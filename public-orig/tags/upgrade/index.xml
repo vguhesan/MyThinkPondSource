@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>upgrade on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/upgrade/</link>
+    <description>Recent content in upgrade on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/upgrade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding your Windows-10 Product Key and tips to upgrade your hardware</title>
+      <link>http://MyThinkPond.com/post/2020-04-19-finding-your-windows-10-product-key/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2020-04-19-finding-your-windows-10-product-key/</guid>
+      <description>tl;dr Easiest way to find out your Windows 10 Product Key for reinstallation or reimaging your computer. As an added bonus, I&amp;rsquo;ll talk about two tips on how you can upgrade your computers hardware to give it a second life.&#xA;Lately for adults, &amp;ldquo;work from home&amp;rdquo; (WFH) has become the new norm and with kids attending classes online - having a good, clean setup of your laptop or computer has become a necessity.</description>
+    </item>
+    <item>
+      <title>How to upgrade to Python 2.7 on CentOS</title>
+      <link>http://MyThinkPond.com/2011/12/28/how-to-upgrade-to-python-2-7-on-centos/</link>
+      <pubDate>Wed, 28 Dec 2011 17:58:32 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/12/28/how-to-upgrade-to-python-2-7-on-centos/</guid>
+      <description>If you tried upgrading to Python 2.7 on CentOS, you will quickly find out that the RPM&amp;rsquo;s don&amp;rsquo;t exist for this in the repos. So here&amp;rsquo;s a short summary of what I did to upgrade my Python to 2.7 on CentOS.&#xA;Based on a few Google searches&amp;hellip; I discovered that a few dependent packages are required before you try upgrading to Python 2.7.&#xA;[sourcecode]&#xA;yum -y groupinstall &amp;lsquo;Development Tools&amp;rsquo; yum -y install openssl-devel* ncurses-devel* zlib*.</description>
+    </item>
+  </channel>
+</rss>

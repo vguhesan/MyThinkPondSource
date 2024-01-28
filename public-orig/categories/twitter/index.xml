@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/twitter/</link>
+    <description>Recent content in Twitter on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jul 2010 20:53:26 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>questions and thoughts about twitter</title>
+      <link>http://MyThinkPond.com/2010/07/29/questions-and-thoughts-about-twitter/</link>
+      <pubDate>Thu, 29 Jul 2010 20:53:26 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/07/29/questions-and-thoughts-about-twitter/</guid>
+      <description>I&amp;rsquo;ve been using Twitter for sometime now. And I&amp;rsquo;ve always wondered about the settings in Twitter, especially one particular setting - &amp;ldquo;public vs private&amp;rdquo;.&#xA;Let me first review the setting. If you set your privacy settings to &amp;ldquo;private&amp;rdquo;, then all posts after that time-line will only be available to the followers that you have allowed. And if at some point of time, you decide to toggle it to &amp;ldquo;public&amp;rdquo;, then all posts (even the ones you sent in the past - as private) becomes open to the public.</description>
+    </item>
+  </channel>
+</rss>

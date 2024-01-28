@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>copy on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/copy/</link>
+    <description>Recent content in copy on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2011 23:52:28 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/copy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Copy to Clipboard - a browser agnostic way to script this functionality</title>
+      <link>http://MyThinkPond.com/2011/10/31/copy-to-clipboard-a-browser-agnostic-way-to-script-this-functionality/</link>
+      <pubDate>Mon, 31 Oct 2011 23:52:28 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/10/31/copy-to-clipboard-a-browser-agnostic-way-to-script-this-functionality/</guid>
+      <description>Have you tried to present some code or sample content for the end-user that you wanted to allow them to easily copy to their clip-board?&#xA;If you use the JQuery Javascript library then you can use the plugin called zClip available here - zClip&#xA;Using zclip you can attach an event to a button or a text-area such that when the event occurs, the content is copied to the clipboard.</description>
+    </item>
+  </channel>
+</rss>

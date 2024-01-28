@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Superconductors on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/superconductors/</link>
+    <description>Recent content in Superconductors on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 May 2017 01:28:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/superconductors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIT physicists have found a brand new way to unleash graphene&#39;s superconductive power</title>
+      <link>http://MyThinkPond.com/2017/05/11/mit-physicists-have-found-a-brand-new-way-to-unleash-graphenes-superconductive-power/</link>
+      <pubDate>Thu, 11 May 2017 01:28:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/05/11/mit-physicists-have-found-a-brand-new-way-to-unleash-graphenes-superconductive-power/</guid>
+      <description>Physicists have found a new way to turn &#39;wonder material&#39; graphene into a ridiculously powerful superconductor, capable of shuttling electricity with zero resistance. That&amp;rsquo;s important, because if we could find a way to achieve superconductivity at room temperature, it would lead to vastly more efficient electronic devices, not to mention power lines. Right now, energy companies are losing about 7 percent of their energy as heat as a result of resistance in the grid.</description>
+    </item>
+  </channel>
+</rss>

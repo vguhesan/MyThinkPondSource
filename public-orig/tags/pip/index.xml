@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pip on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/pip/</link>
+    <description>Recent content in pip on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Sep 2016 15:22:59 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/pip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uninstall python eggs that you installed using setup.py</title>
+      <link>http://MyThinkPond.com/2016/09/30/uninstall-python-eggs-that-you-installed-using-setup-py/</link>
+      <pubDate>Fri, 30 Sep 2016 15:22:59 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/09/30/uninstall-python-eggs-that-you-installed-using-setup-py/</guid>
+      <description>In Python, most libraries are available using the pip install process. But for cases, where you are distributing code to be installed in customer sites where you may or may not have a internet connection to the pip libraries, you resort to the legacy setup.py process.&#xA;When you install using the setup.py process, the setup.py copies it&amp;rsquo;s collection of python files to the site-packages folder for your python virtual-environment. On a CentOS, this might be a location under (/usr/lib/python2.</description>
+    </item>
+  </channel>
+</rss>

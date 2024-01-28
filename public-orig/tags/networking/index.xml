@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>networking on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/networking/</link>
+    <description>Recent content in networking on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 May 2017 23:39:48 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Routes - How to use them?</title>
+      <link>http://MyThinkPond.com/post/2017-05-11-how-to-add-route-in-linux/</link>
+      <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-05-11-how-to-add-route-in-linux/</guid>
+      <description>Examples of Route Command and it&amp;rsquo;s usage.&#xA;Source: 7 Linux Route Command Examples (How to Add Route in Linux)&#xA;To learn the fundamentals of Routing, please visit the link below:&#xA;Fundamentals of Routing</description>
+    </item>
+    <item>
+      <title>Transmutation of the Storage Administrator : Scott&#39;s Blog</title>
+      <link>http://MyThinkPond.com/2017/03/15/transmutation-of-the-storage-administrator-scotts-blog/</link>
+      <pubDate>Wed, 15 Mar 2017 19:13:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/15/transmutation-of-the-storage-administrator-scotts-blog/</guid>
+      <description>This article discusses the evolution of the storage administrator in the era of cloud storage.&#xA;The job (storage administrator) role is changing, not only is there a need to understand storage devices and host connection technologies that knowledge scope is extending to include networking, operating systems and new storage access protocols (like Object)...IBM Spectrum Scale is the logical next step to help storage administrators expand their offering portfolio and provide additional value to their customers.</description>
+    </item>
+  </channel>
+</rss>

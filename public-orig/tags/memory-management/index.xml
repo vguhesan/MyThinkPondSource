@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memory Management on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/memory-management/</link>
+    <description>Recent content in Memory Management on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Feb 2017 16:21:23 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/memory-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Going off-heap to improve latency and reduce AWS bill</title>
+      <link>http://MyThinkPond.com/2017/02/16/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</link>
+      <pubDate>Thu, 16 Feb 2017 16:21:23 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/02/16/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</guid>
+      <description>Great read - shows you the power of Java and Chronicle Map.&#xA;Describing how going off-heap with the help of Chronicle Map helped us to get rid of the latency hiccups and cut our Amazon AWS bill in half.&#xA;Source: Going off-heap to improve latency and reduce AWS bill – Plumbr&#xA;Caution: Before you go diving into using the open source version of Chronicle Map, there are some gotchas to be aware of from a features point-of-view.</description>
+    </item>
+  </channel>
+</rss>

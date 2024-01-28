@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Italy on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/italy/</link>
+    <description>Recent content in Italy on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Aug 2014 22:14:56 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/italy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photos from Venice, Italy</title>
+      <link>http://MyThinkPond.com/2014/08/21/photos-from-venice-italy/</link>
+      <pubDate>Thu, 21 Aug 2014 22:14:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/08/21/photos-from-venice-italy/</guid>
+      <description>Here are a few photos I took while in Venice, Italy.</description>
+    </item>
+  </channel>
+</rss>

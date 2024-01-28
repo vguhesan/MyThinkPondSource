@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java MVC on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/java-mvc/</link>
+    <description>Recent content in Java MVC on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Sep 2010 18:50:21 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/java-mvc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maven - GWT - Vaadin - including additional custom jars in a maven project under &#34;\web-inf\lib&#34;</title>
+      <link>http://MyThinkPond.com/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</link>
+      <pubDate>Wed, 15 Sep 2010 18:50:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</guid>
+      <description>With a lot of folks trying Google Web Toolkit (GWT) and\or Vaadin (combined with Maven), one of the problems that they might encounter is this:&#xA;How do I get my custom Vaadin themes or GWT jar files included under my &#34;\web-inf\lib&#34; folder inside the war Here&amp;rsquo;s a link to the such a question in detail.&#xA;The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is going away from what Maven would like you to do.</description>
+    </item>
+  </channel>
+</rss>

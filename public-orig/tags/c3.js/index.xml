@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c3.js on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/c3.js/</link>
+    <description>Recent content in c3.js on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2017 23:22:26 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/c3.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create jaw dropping Data Visualizations on the web with D3.js?</title>
+      <link>http://MyThinkPond.com/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</guid>
+      <description>Story telling using great visualizations.&#xA;Thus article goes into the details of creating great visuals leveraging D3 JavaScript library. It introduces the user into concepts provided by the D3 library.&#xA;Some of the steps includes:&#xA;Refreshing previous concepts of D3.js A glance at advanced concepts: Scales, Axes and Reading data from external sources Building basic charts and code reusability Line Chart Area Chart Chart as a modular structure Case Study Visualizing Game of Thrones Social Network – Force Directed Graph in action!</description>
+    </item>
+  </channel>
+</rss>

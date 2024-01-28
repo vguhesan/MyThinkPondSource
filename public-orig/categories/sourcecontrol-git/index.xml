@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SourceControl - GIT on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/sourcecontrol-git/</link>
+    <description>Recent content in SourceControl - GIT on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Nov 2013 02:16:15 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/sourcecontrol-git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grails 2.X .gitignore file</title>
+      <link>http://MyThinkPond.com/2013/11/17/grails-2-x-gitignore-file/</link>
+      <pubDate>Sun, 17 Nov 2013 02:16:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2013/11/17/grails-2-x-gitignore-file/</guid>
+      <description>With a new Grails 2.X project you run into challenges on which folders to check-in into a GIT repository. You want to remove any non-essential files that Grails can rebuild at run-time. And if you are using either GITHub or BitBucket for your GIT repo&amp;rsquo;s the default .gitignore file created or provided by GITHub is setup for configured for a Grails 1.X project and not a Grails 2.X project.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trending on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/trending/</link>
+    <description>Recent content in Trending on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Sep 2017 00:47:04 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/trending/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Companies Give Back Moment (repost) </title>
+      <link>http://MyThinkPond.com/2017/09/05/tech-companies-give-back-moment-repost/</link>
+      <pubDate>Tue, 05 Sep 2017 00:47:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/09/05/tech-companies-give-back-moment-repost/</guid>
+      <description>We now exist an interesting interstitial moment, one defined by big corporations producing much of the innovation and some of the world’s richest companies – Apple, Amazon, Uber, Facebook – trying to solve big hairy problems. These are the problems that startups would have once solved but because they are so expensive – I’m talking about commercial VR, self-driving trucks, gene editing, and the like – there are no startups capitalized to tackle them.</description>
+    </item>
+    <item>
+      <title>The Future of Web Development: Coding as a Service</title>
+      <link>http://MyThinkPond.com/2017/03/12/the-future-of-web-development-coding-as-a-service/</link>
+      <pubDate>Sun, 12 Mar 2017 18:38:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/12/the-future-of-web-development-coding-as-a-service/</guid>
+      <description>The article talks about the comoditization of web development as a service (Coding as a Service - CaaS).&#xA;For the price of two Venti Iced Caramel Macchiatos per month you can run a respectable website with little to no technical experience... Artificial Intelligence will enable more complex combinations of code to be fit together through an automated process... The quantity and quality of customization with AI will be staggering. And for the end user this means it will be at once simpler and cheaper.</description>
+    </item>
+    <item>
+      <title>Families Can Now Share All Their Google Play Purchases</title>
+      <link>http://MyThinkPond.com/2016/07/28/families-can-now-share-all-their-google-play-purchases/</link>
+      <pubDate>Thu, 28 Jul 2016 02:16:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/07/28/families-can-now-share-all-their-google-play-purchases/</guid>
+      <description>http://fortune.com/2016/07/27/google-play-family-library/</description>
+    </item>
+  </channel>
+</rss>

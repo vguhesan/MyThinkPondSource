@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>layoutBody on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/layoutbody/</link>
+    <description>Recent content in layoutBody on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2014 17:10:04 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/layoutbody/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grails - Adding JavaScript to bottom of page</title>
+      <link>http://MyThinkPond.com/2014/02/02/grails-adding-javascript-bottom-page/</link>
+      <pubDate>Sun, 02 Feb 2014 17:10:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/02/02/grails-adding-javascript-bottom-page/</guid>
+      <description>In Grails using the templating (Sitemesh) if you were to include per-page JavaScript resources then it shows up much earlier in the layout content as part of the &amp;lt;g:layoutBody&amp;gt;&#xA;Here is an example illustrating the problem:&#xA;SamplePage.gsp [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; MyThinkPond.com Custom Page ... Some this page content [/sourcecode]&#xA;and the layout page (layoutPage.gsp) [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; ... Some template (header) content [/sourcecode]&#xA;results in the following page in browser [sourcecode language=&amp;ldquo;html&amp;rdquo;]</description>
+    </item>
+  </channel>
+</rss>

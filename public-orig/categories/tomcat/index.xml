@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomcat on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/tomcat/</link>
+    <description>Recent content in Tomcat on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2011 17:34:46 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/tomcat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Not all Tomcat 6 classloaders must be equal</title>
+      <link>http://MyThinkPond.com/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</link>
+      <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</guid>
+      <description>Today, while doing some Grails development I came across a peculiar issue that perplexed me and I&amp;rsquo;m documenting it for all others to benefit. (Also see my other blog from today for the issue that started this journey).&#xA;Here are my specifications:&#xA;Development Machine&#xA;Windows-7, 64-bit&#xA;java version &amp;ldquo;1.6.0_24&amp;rdquo; Java(TM) SE Runtime Environment (build 1.6.0_24-b07) Java HotSpot(TM) 64-Bit Server VM (build 19.1-b02, mixed mode)&#xA;Grails 1.4.0.M1&#xA;Tomcat - apache-tomcat64-6.0.32&#xA;Local Deployment Server</description>
+    </item>
+    <item>
+      <title>Tomcat 6&#43;: Infamous &#34;SEVERE: Error listenerStart&#34; message - How-To debug this error?</title>
+      <link>http://MyThinkPond.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
+      <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
+      <description>I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.&#xA;SEVERE: Error listenerStart&#xA;You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.</description>
+    </item>
+    <item>
+      <title>Understanding Tomcat Configuration</title>
+      <link>http://MyThinkPond.com/2010/12/22/understanding-tomcat-configuration/</link>
+      <pubDate>Wed, 22 Dec 2010 20:05:20 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/12/22/understanding-tomcat-configuration/</guid>
+      <description>Case #1: When the Tomcat config is this: [sourcecode language=&amp;ldquo;jscript&amp;rdquo;] [/sourcecode] Observe the &amp;ldquo;path&amp;rdquo; element in the &amp;ldquo;Context&amp;rdquo;. Then… http://localhost/index.jsp yields to the “index.jsp” under HelloWorld folder. http://localhost/HelloWorld/index.jsp yields to a “404 Page”.&#xA;Case #2: When the Tomcat setup is this: [sourcecode language=&amp;ldquo;jscript&amp;rdquo;] [/sourcecode]&#xA;Once again observe the &amp;ldquo;path&amp;rdquo; element in the &amp;ldquo;Context&amp;rdquo;. Then… http://localhost/index.jsp yields to a “blank page”. http://localhost/HelloWorld/index.jsp yields to a “blank page”. http://localhost/hw/index.jsp yields to the “index.</description>
+    </item>
+  </channel>
+</rss>

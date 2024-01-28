@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ffmpeg on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/ffmpeg/</link>
+    <description>Recent content in ffmpeg on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2017 02:06:43 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create MP4 video file from Quicktime Mov file on a Mac OS X</title>
+      <link>http://MyThinkPond.com/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</link>
+      <pubDate>Tue, 19 Sep 2017 02:06:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</guid>
+      <description>If you do a screen recording on a Mac, you are most likely using the free Quicktime player that comes with Mac OS X. If you are lucky enough to own a Quicktime Pro then you can simply do an Export &amp;gt; Save-As MP4. For those of you that do not have a Quicktime Pro, then you can use this option.&#xA;brew install ffmpeg # After installation, you can traverse into the directory where you have the .</description>
+    </item>
+  </channel>
+</rss>

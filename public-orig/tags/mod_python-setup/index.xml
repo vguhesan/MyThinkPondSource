@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mod_python setup on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/mod_python-setup/</link>
+    <description>Recent content in mod_python setup on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2011 03:09:12 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/mod_python-setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How-To Install mod_python and the compile error - apxs:Error: Command failed with rc=65536</title>
+      <link>http://MyThinkPond.com/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</link>
+      <pubDate>Thu, 29 Dec 2011 03:09:12 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</guid>
+      <description>Below are my steps to installing mod_python under Apache HTTPD in CentOS 6.2.&#xA;Download mod_python-3.3.1.tgz or a later version of mod_python available here: http://archive.apache.org/dist/httpd/modpython/&#xA;[sourcecode] curl -O http://archive.apache.org/dist/httpd/modpython/mod_python-3.3.1.tgz tar zxvf mod_python-3.3.1.tgz cd mod_python-3.3.1 ./configure make [/sourcecode]&#xA;You may encounter the following error at this point: apxs:Error: Command failed with rc=65536&#xA;If so&amp;hellip; no worries&amp;hellip;&#xA;This bug has been addressed here: https://bugzilla.redhat.com/show_bug.cgi?id=465246&#xA;Download the patch and (if you can figure out how to patch like I did, I manually opened the file and examined the contents: ` diff -rNu mod_python-3.</description>
+    </item>
+  </channel>
+</rss>

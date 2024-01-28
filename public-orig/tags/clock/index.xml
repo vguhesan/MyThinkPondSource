@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clock on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/clock/</link>
+    <description>Recent content in clock on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 16:45:30 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/clock/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to sync your date when you restore a VirtualBox snapshot?</title>
+      <link>http://MyThinkPond.com/2016/11/05/how-to-sync-your-date-when-you-restore-a-virtualbox-snapshot/</link>
+      <pubDate>Sat, 05 Nov 2016 16:45:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/05/how-to-sync-your-date-when-you-restore-a-virtualbox-snapshot/</guid>
+      <description>This article focuses on synchronizing/updating the clock in your guest linux VM after you restore a VirtualBox snapshot.&#xA;When you create a VirtualBox snapshot, it&amp;rsquo;s essentially a photo taken and frozen in time. All bits including the date and time are frozen to that instant. When you restore a snapshot, the Linux guest VM system is restored back to that snapshot including the date and time. This may not be desired all the time especially if the purpose is to restore the configuration and settings to an earlier time but your want to roll forward the clock on the VM to the present instance.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sample index.html on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/sample-index.html/</link>
+    <description>Recent content in sample index.html on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Feb 2012 18:36:56 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/sample-index.html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimal Maintainable HTML5 Page - Template - index.html</title>
+      <link>http://MyThinkPond.com/2012/02/25/minimal-maintainable-html5-page-template-index-html/</link>
+      <pubDate>Sat, 25 Feb 2012 18:36:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/02/25/minimal-maintainable-html5-page-template-index-html/</guid>
+      <description>Sometimes I keep searching for a starter HTML5 &amp;ldquo;hello-world&amp;rdquo; - index.html page. So I thought I&amp;rsquo;d blog about it so that others who need it can also take advantage of it.&#xA;&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=en&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=utf-8&amp;gt; &amp;lt;title&amp;gt;Sample HTML5 index.html from MyThinkPond&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Sample HTML5 index.html from MyThinkPond.wordpress.com&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Feel free to copy and use as needed.&#xA;At some point of time, you&amp;rsquo;re going to need something more than a &amp;lsquo;hello-world&amp;rsquo; and when you cross that road go download the &amp;ldquo;HTML5 Boilerplate&amp;rdquo;.</description>
+    </item>
+  </channel>
+</rss>

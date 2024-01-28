@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac OS X on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/mac-os-x/</link>
+    <description>Recent content in Mac OS X on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2017 02:06:43 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/mac-os-x/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create MP4 video file from Quicktime Mov file on a Mac OS X</title>
+      <link>http://MyThinkPond.com/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</link>
+      <pubDate>Tue, 19 Sep 2017 02:06:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</guid>
+      <description>If you do a screen recording on a Mac, you are most likely using the free Quicktime player that comes with Mac OS X. If you are lucky enough to own a Quicktime Pro then you can simply do an Export &amp;gt; Save-As MP4. For those of you that do not have a Quicktime Pro, then you can use this option.&#xA;brew install ffmpeg # After installation, you can traverse into the directory where you have the .</description>
+    </item>
+    <item>
+      <title>Mac OS X iDRAC7 FileNotFoundException .java/deployment/security/trusted.certs</title>
+      <link>http://MyThinkPond.com/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</link>
+      <pubDate>Thu, 17 Nov 2016 19:15:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</guid>
+      <description>When you connect with a Dell iDRAC virtual console you may encounter the following exception on a Mac OS X&#xA;FileNotFoundException ~/.java/deployment/security/trusted.certs&#xA;Here is a simple fix for this:&#xA;mkdir -p ~/.java/deployment/security cp ~/Library/Application\ Support/Oracle/Java/Deployment/security/trusted.certs ~/.java/deployment/security/ Cheers.</description>
+    </item>
+    <item>
+      <title>Solved: git status failed with code 69 error when opening SourceTree in Mac OS X</title>
+      <link>http://MyThinkPond.com/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</link>
+      <pubDate>Thu, 24 Sep 2015 19:10:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</guid>
+      <description>If you receive the following error when opening SourceTree or other applications installed in your Mac OS X, then here is how you can solve it. Sometimes people make things more cryptic than it needs to be.&#xA;Error encountered &amp;lsquo;git status&amp;rsquo; failed with code 69:&amp;rsquo;&#xA;Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.&#xA;and here is the example of the screenshot:&#xA;Solution:&#xA;What that message is telling you is that you need to open the application XCode on your Mac OS X and since it hasn&amp;rsquo;t run since the last update, you need to accept the new license EULA agreement that&amp;rsquo;s part of the updated XCode.</description>
+    </item>
+  </channel>
+</rss>

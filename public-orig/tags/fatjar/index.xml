@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fatJar on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/fatjar/</link>
+    <description>Recent content in fatJar on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Nov 2016 20:47:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/fatjar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gradle Spring Woes: Issues in creating single jar bundle with all dependency jars nested within</title>
+      <link>http://MyThinkPond.com/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</link>
+      <pubDate>Thu, 03 Nov 2016 20:47:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</guid>
+      <description>If you&amp;rsquo;re implementing any projects with Spring and Gradle (for build), as your project grows you may run into this issue. Or you&amp;rsquo;ve landed on this page by searching on Google for &amp;ldquo;Unable to locate Spring NamespaceHandler for XML schema namespace&amp;rdquo; (your actual XML that it&amp;rsquo;s error-ing out may vary).&#xA;Either way, you&amp;rsquo;re in luck! Most likely, you&amp;rsquo;re using the fatjar gradle plugin to create a single JAR for executing as &amp;ldquo;java -jar one-big-bundle.</description>
+    </item>
+  </channel>
+</rss>

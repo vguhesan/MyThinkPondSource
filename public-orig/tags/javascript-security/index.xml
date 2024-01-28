@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript security on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/javascript-security/</link>
+    <description>Recent content in Javascript security on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Mar 2017 14:07:11 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/javascript-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An insecure mess: How flawed JavaScript is turning web into a hacker&#39;s playground | ZDNet</title>
+      <link>http://MyThinkPond.com/2017/03/13/an-insecure-mess-how-flawed-javascript-is-turning-web-into-a-hackers-playground-zdnet/</link>
+      <pubDate>Mon, 13 Mar 2017 14:07:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/13/an-insecure-mess-how-flawed-javascript-is-turning-web-into-a-hackers-playground-zdnet/</guid>
+      <description>Researchers say tens of thousands of sites are using JavaScript libraries that are years old and contain publicly known vulnerabilities.&#xA;An analysis of over 133,000 websites has found that 37 percent of them have at least one JavaScript library with a known vulnerability. There are no reliable vulnerability databases, no security mailing lists maintained by library vendors, few or no details on security issues in release notes, and often, it is difficult to determine which versions of a library are affected by a specific reported vulnerability.</description>
+    </item>
+  </channel>
+</rss>

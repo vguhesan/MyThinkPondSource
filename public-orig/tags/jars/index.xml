@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jars on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/jars/</link>
+    <description>Recent content in jars on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Oct 2010 18:28:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/jars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add custom jars under &#34;\WEB-INF\lib&#34; in a Maven project</title>
+      <link>http://MyThinkPond.com/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</link>
+      <pubDate>Sat, 02 Oct 2010 18:28:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</guid>
+      <description>The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is not what is recommended by Maven. Maven builds upon consistency and structure and this process goes away from that methodology. In Maven, you can take each of your jars\libraries and add them to your local repository and then include them as needed in your projects. If you want to go the proper route here’s how you do it.</description>
+    </item>
+  </channel>
+</rss>

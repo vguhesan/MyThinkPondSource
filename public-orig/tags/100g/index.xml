@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>100G on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/100g/</link>
+    <description>Recent content in 100G on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Oct 2016 22:49:54 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/100g/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebook&#39;s 100-gigabit switch design is out in the open and promises faster speed</title>
+      <link>http://MyThinkPond.com/2016/10/20/facebooks-100-gigabit-switch-design-is-out-in-the-open-and-promises-faster-speed/</link>
+      <pubDate>Thu, 20 Oct 2016 22:49:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/10/20/facebooks-100-gigabit-switch-design-is-out-in-the-open-and-promises-faster-speed/</guid>
+      <description>Facebook&amp;rsquo;s 100-gigabit switch design is out in the open and promises faster speed&#xA;Wedge 100 specification has been accepted into OCP... upping the speeds to 100Gbps (bits per second). Link to FBOSS code is all open sourced and available on GitHub here.&#xA;You can learn more about it here.</description>
+    </item>
+  </channel>
+</rss>

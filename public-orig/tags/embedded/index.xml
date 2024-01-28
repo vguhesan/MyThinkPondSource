@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embedded on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/embedded/</link>
+    <description>Recent content in embedded on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jan 2019 17:23:34 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/embedded/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waterproofing Blink Camera Sync Module for outdoors</title>
+      <link>http://MyThinkPond.com/post/waterproofing-blink-camera-sync-module-for-outdoors/</link>
+      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/waterproofing-blink-camera-sync-module-for-outdoors/</guid>
+      <description>I had a requirement where I had WiFi signal across a large farm/garden and I needed to place the Blink camera in various locations. And since the schedule is controlled by the Blink Sync Module, I had to create multiple zones each with it&amp;rsquo;s own Blink Sync module to define an independent schedule for a set of cameras for that zone. This meant that each of my Blink Sync modules needed to be accessible in those zones across the farm.</description>
+    </item>
+    <item>
+      <title>Synthetic Sensors Is a Sensor That Could Soon Make Homes Scary-Smart | WIRED</title>
+      <link>http://MyThinkPond.com/2017/05/11/synthetic-sensors-is-a-sensor-that-could-soon-make-homes-scary-smart-wired/</link>
+      <pubDate>Thu, 11 May 2017 23:31:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/05/11/synthetic-sensors-is-a-sensor-that-could-soon-make-homes-scary-smart-wired/</guid>
+      <description>**Synthetic Sensors** : a simple device that plugs into an electrical outlet and connects everything in the room. It can capture all of the the environmental data needed to transform a wide variety of ordinary household objects into smart devices. Plug the module into an electrical outlet and it becomes the eyes and ears of the room, its 10 embedded sensors logging information like sound, humidity, electromagnetic noise, motion, and light (the researchers excluded a camera for privacy reasons).</description>
+    </item>
+    <item>
+      <title>Node.js, Python, C/C&#43;&#43;, Ruby, PHP development from a tiny Linux embedded for about $10</title>
+      <link>http://MyThinkPond.com/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</link>
+      <pubDate>Tue, 04 Oct 2016 18:12:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</guid>
+      <description>Came across this tiny IoT embedded micro-controller/computer that runs BusyBox or FreeBSD Linux and can run code written in Node.js, Python, C/C++, Ruby and PHP all at a cost of $5 to $10 with WiFi, 2G/3G, Bluetooth, GPS add-ons for your cloud services. It also has enough GPIO pins to interface with external world and not to mention the I2C and I2S interfaces for talking to other devices and peripherals as well as interfacing for sounds (I2S).</description>
+    </item>
+  </channel>
+</rss>

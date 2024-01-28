@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JS on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/js/</link>
+    <description>Recent content in JS on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 May 2018 14:37:18 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Great article on Duck Typing in JavaScript</title>
+      <link>http://MyThinkPond.com/post/great-article-on-duck-typing-in-javascript/</link>
+      <pubDate>Wed, 23 May 2018 14:37:18 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/great-article-on-duck-typing-in-javascript/</guid>
+      <description>Found a great article that explains what duck typing is and how it is used in JavaScript. Author makes it very simple to understand with examples.&#xA;A style of typing in which an object&amp;rsquo;s methods and properties determine the valid semantics, rather than it&amp;rsquo;s inheritance from a particular class or implementation of an explicit interface.&#xA;You can click on the link below to be redirected to that article.&#xA;Duck Typing in JavaScript</description>
+    </item>
+  </channel>
+</rss>

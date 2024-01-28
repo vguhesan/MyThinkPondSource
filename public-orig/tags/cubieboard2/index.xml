@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cubieboard2 on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/cubieboard2/</link>
+    <description>Recent content in Cubieboard2 on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Nov 2013 20:43:57 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/cubieboard2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cubieboard2 with ARM AllWinner Processor - A20 finally arrived</title>
+      <link>http://MyThinkPond.com/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</link>
+      <pubDate>Sun, 03 Nov 2013 20:43:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</guid>
+      <description>Cubieboard2 with ARM AllWinner Processor - A20 finally arrived. Pretty excited about building my ARM Linux embedded system.&#xA;Learn more about Cubieboard here</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/programming/</link>
+    <description>Recent content in Programming on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2017 13:28:10 -0500</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Framework - Application Context - three ways to get to the application context</title>
+      <link>http://MyThinkPond.com/post/2017-11-24-spring-framework-three-ways-to-application-context/</link>
+      <pubDate>Fri, 24 Nov 2017 13:28:10 -0500</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-11-24-spring-framework-three-ways-to-application-context/</guid>
+      <description>This article shows you three different ways how to get to the Spring Framework Application Context in your code.&#xA;Summary (This is a repost of an older article I wrote in 2010). In searching Google for &amp;ldquo;Spring ApplicationContextAware&amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.</description>
+    </item>
+    <item>
+      <title>Quantum Computing Demands a Whole New Kind of Programmer</title>
+      <link>http://MyThinkPond.com/2017/05/11/quantum-computing-demands-a-whole-new-kind-of-programmer/</link>
+      <pubDate>Thu, 11 May 2017 01:35:19 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/05/11/quantum-computing-demands-a-whole-new-kind-of-programmer/</guid>
+      <description>[![](/img/2017/05/quantum-computing-whole-new-kind-of-programmer-1-1068x601.jpg)](https://singularityhub.com/2017/05/09/quantum-computing-demands-a-whole-new-kind-of-programmer/)Quantum computers finally seem to be coming of age with promises of “quantum supremacy” by the end of the year. But there’s a problem—very few people know how to work them. The bold claim of achieving &#34;quantum supremacy&#34; came on the back of Google unveiling a new quantum chip design. The hyperbolic phrase essentially means building a quantum device that can perform a calculation impossible for any conventional computer. The technology has a major challenge to overcome.</description>
+    </item>
+    <item>
+      <title>Javascript: Embrace Arrow Functions</title>
+      <link>http://MyThinkPond.com/post/2017-05-03-javascript-embrace-arrow-functions/</link>
+      <pubDate>Wed, 03 May 2017 19:23:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-05-03-javascript-embrace-arrow-functions/</guid>
+      <description>Great article on JavaScript currying and arrow functions.&#xA;Here is an example of a function in Javascript:&#xA;const secret = function (msg) { return function () { return msg; }; }; The same function as currying or arrow function:&#xA;const secret = msg =&amp;gt; () =&amp;gt; msg; To learn more about the basics, visit the link below. Source: Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions</description>
+    </item>
+    <item>
+      <title>Elements of JavaScript Style – JavaScript Scene – Medium</title>
+      <link>http://MyThinkPond.com/post/2017-05-03-elements-of-javascript-style-javascript-scene-medium/</link>
+      <pubDate>Wed, 03 May 2017 19:07:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-05-03-elements-of-javascript-style-javascript-scene-medium/</guid>
+      <description>Great article focusing on Javascript style. Provides some good examples of JavaScript coding styles, practices, and things to avoid.&#xA;The examples includes:&#xA;Make the function the unit of composition. One job for each function. Omit needless code. Use active voice. Avoid a succession of loose statements. Keep related code together. Put statements and expressions in positive form. Use parallel code for parallel concepts. Source: Elements of JavaScript Style – JavaScript Scene – Medium</description>
+    </item>
+    <item>
+      <title>uvloop - Python replacement for asyncio event loop</title>
+      <link>http://MyThinkPond.com/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</link>
+      <pubDate>Sat, 01 Apr 2017 16:26:27 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</guid>
+      <description>uvloop is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.&#xA;Benefits: uvloop makes asyncio 2-4x faster.&#xA;Cons: uvloop is available from PyPI but it requires Python 3.5. (The reason for this is asyncio was introduced in Python 3.4 and above.) Unless your project is based on Python 3.4+ - you may not be able to leverage this library.</description>
+    </item>
+    <item>
+      <title>A URL Shortener Service using Go, Iris and Bolt – Medium</title>
+      <link>http://MyThinkPond.com/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</link>
+      <pubDate>Thu, 16 Mar 2017 00:49:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</guid>
+      <description>Go (cross-platform language/compiler)&#xA;Iris (web framework in Go) + Bolt (embedded key-value DB) = one powerful combination Read more at&#xA;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf</description>
+    </item>
+    <item>
+      <title>Friday humor with languages</title>
+      <link>http://MyThinkPond.com/2016/09/30/friday-humor-with-languages/</link>
+      <pubDate>Fri, 30 Sep 2016 18:25:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/09/30/friday-humor-with-languages/</guid>
+      <description>I found this on the internet made me laugh!</description>
+    </item>
+    <item>
+      <title>Python pycharm - configuring remote interpreters from Windows to Linux</title>
+      <link>http://MyThinkPond.com/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</link>
+      <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</guid>
+      <description>If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features here.&#xA;But as I started to tinker with the &amp;ldquo;remote interpreter&amp;rdquo; feature - I stumbled upon some challenges and I thought I&amp;rsquo;d document them for other PyCharm users who might benefit from this blog entry.</description>
+    </item>
+    <item>
+      <title>How to extract public key from certificate?</title>
+      <link>http://MyThinkPond.com/2011/02/15/how-to-extract-public-key-from-certificate/</link>
+      <pubDate>Tue, 15 Feb 2011 18:28:07 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/02/15/how-to-extract-public-key-from-certificate/</guid>
+      <description>How to extract public key from certificate?&#xA;Recently I had to extract the public key from a certificate. Each time I do this I end up looking up the man pages for openssl and so I thought I&amp;rsquo;d blog it for myself and for others to use when needed.&#xA;$ openssl x509 -inform pem -in certificate.pem -pubkey -noout &amp;gt; publickey.pem&#xA;Enjoy</description>
+    </item>
+    <item>
+      <title>Extract all images in PDF file in a directory (batch extract images)</title>
+      <link>http://MyThinkPond.com/2010/11/28/extract-all-images-in-pdf-file-in-a-directory-batch-extract-images/</link>
+      <pubDate>Sun, 28 Nov 2010 23:08:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/11/28/extract-all-images-in-pdf-file-in-a-directory-batch-extract-images/</guid>
+      <description>Sometimes you need a way to extract all images in a PDF but then you have a directory of files and you need to extract them iteratively.&#xA;Prerequisites:&#xA;Install Cygwin or linux environment with Perl support.&#xA;Install ImageMagick.&#xA;Install GhostScript.&#xA;Afterward run the following script:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;#!/bin/perl&#xA;my $directory = $ARGV[0]; opendir (DIR, $directory) or die $!; while (my $file = readdir(DIR)) { if ($file =~ m/.pdf/) { my $newfile = $file; $newfile =~ s/.</description>
+    </item>
+    <item>
+      <title>Spring Framework Samples and Reference Implementations online in svn</title>
+      <link>http://MyThinkPond.com/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</link>
+      <pubDate>Mon, 19 Apr 2010 14:30:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</guid>
+      <description>Sometimes it&amp;rsquo;s good to look at the svn repository for the reference sample that Spring Framework provides.&#xA;Here&amp;rsquo;s a quick link for that URL:&#xA;https://src.springframework.org/svn/spring-samples/&#xA;You can traverse through it via a HTTP(s) browser or you can download the latest samples via tools like TortiseSVN.&#xA;Here is a list of some of the projects samples that are available today:&#xA;spring-samples - Revision 431: /&#xA;* configuration-basic/ * jpetstore/ * mvc-ajax/ * mvc-basic/ * petcare/ * petclinic/ * petclinic-groovy/ * spring-travel/ * task-basic/ * templates/ * tutorials/ Hopefully this article will be beneficial for someone who is trying to get familiar with Spring Framework.</description>
+    </item>
+    <item>
+      <title>Java 6 Gems: Spash Screen for your application</title>
+      <link>http://MyThinkPond.com/2010/04/12/java-6-gems-spash-screen-for-your-application/</link>
+      <pubDate>Mon, 12 Apr 2010 16:19:55 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/04/12/java-6-gems-spash-screen-for-your-application/</guid>
+      <description>In my coverage of all the new features that are part of Java SE 6, there is a new gem added that makes the user experience very clean and concise when you bring up a web-start or applet or desktop based Java application. Namely, the splash screen.&#xA;When you load up a native application, it&amp;rsquo;s very traditional to display a &amp;ldquo;splash screen&amp;rdquo; with the company logo and branding of the particular product.</description>
+    </item>
+    <item>
+      <title>Finding the balance for your open source skills with .NET</title>
+      <link>http://MyThinkPond.com/2010/04/08/finding-the-balance-for-your-open-source-skills-with-net/</link>
+      <pubDate>Thu, 08 Apr 2010 18:07:06 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/04/08/finding-the-balance-for-your-open-source-skills-with-net/</guid>
+      <description>I have been a strong supporter of Open Source technologies including Java, Python, Scala, Ruby and Perl for many, many years. But in order to be a strong Enterprise Architect, it&amp;rsquo;s best to also understand the various other technologies (some proprietary) to gain a broader-balanced view of technology and whats out there. And in this ever changing world of technology - knowing the various options you have can make the difference between being nimble and creative to an implementation that bites the dust.</description>
+    </item>
+    <item>
+      <title>Java 6 Gems: Scripting Framework to support Rhino Javascript and Groovy (natively)</title>
+      <link>http://MyThinkPond.com/2010/04/06/java-6-gems-scripting-framework-to-support-rhino-javascript-and-groovy-natively/</link>
+      <pubDate>Tue, 06 Apr 2010 20:15:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/04/06/java-6-gems-scripting-framework-to-support-rhino-javascript-and-groovy-natively/</guid>
+      <description>What is it? With Java 6 there is a new addition (package: javax.script) that allows you to work with scripting languages like Javascript (using Rhino) and Groovy. Although there is built in support for adding scripting engines like Groovy, PHP, Perl, etc - what&amp;rsquo;s bundled in this release is Mozilla&amp;rsquo;s Rhino Javascript Engine.&#xA;Why embed a scripting language? Most scripting languages out there are dynamically typed. Meaning, your code does not need to know what type of value you will be storing in a particular field at compile time.</description>
+    </item>
+    <item>
+      <title>Speeding up your load time for your Java applets and webstart applications</title>
+      <link>http://MyThinkPond.com/2010/03/31/speeding-up-your-load-time-for-your-java-applets-and-webstart-applications/</link>
+      <pubDate>Wed, 31 Mar 2010 21:39:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/03/31/speeding-up-your-load-time-for-your-java-applets-and-webstart-applications/</guid>
+      <description>Today we are going to look at a new feature available in Java 5 and above that can speed up your load time of your jar&amp;rsquo;s within your applets and web start (provided you have a web server that&amp;rsquo;s hosting the jar that&amp;rsquo;s HTTP/1.1 compatible server).&#xA;Let&amp;rsquo;s first take a look at what happens on the back-end:&#xA;In a typical applet (same applies to a web-start application), you have a src/source tag that points to a JAR file like this:</description>
+    </item>
+    <item>
+      <title>Spring Framework - Application Context - three ways to get to the application context</title>
+      <link>http://MyThinkPond.com/post/2010-03-22-spring-application-context/</link>
+      <pubDate>Mon, 22 Mar 2010 17:09:21 -0400</pubDate>
+      <guid>http://MyThinkPond.com/post/2010-03-22-spring-application-context/</guid>
+      <description>Summary This article shows you three different ways how to get to the Spring Framework Application Context in your code. test</description>
+    </item>
+  </channel>
+</rss>

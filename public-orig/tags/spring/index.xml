@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/spring/</link>
+    <description>Recent content in Spring on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Apr 2018 16:55:46 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>spring.schemas and spring.handlers when creating Uber-Jar</title>
+      <link>http://MyThinkPond.com/post/2018-04-08-spring.schemas-and-spring.handlers-when-creating-uber-jar/</link>
+      <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2018-04-08-spring.schemas-and-spring.handlers-when-creating-uber-jar/</guid>
+      <description>When creating an uber-jar with all dependencies in one single-jar file, each of the spring dependency jar may contain schema and handlers that have the same name but different content. When you combine them into creating a single uber-jar, the uber-library will perform an overwrite since each of the Spring files for schema and handlers are the exact filename. So you end up overwriting the file where the last ubered file will remain.</description>
+    </item>
+    <item>
+      <title>Spring Framework - Application Context - three ways to get to the application context</title>
+      <link>http://MyThinkPond.com/post/2017-11-24-spring-framework-three-ways-to-application-context/</link>
+      <pubDate>Fri, 24 Nov 2017 13:28:10 -0500</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-11-24-spring-framework-three-ways-to-application-context/</guid>
+      <description>This article shows you three different ways how to get to the Spring Framework Application Context in your code.&#xA;Summary (This is a repost of an older article I wrote in 2010). In searching Google for &amp;ldquo;Spring ApplicationContextAware&amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.</description>
+    </item>
+    <item>
+      <title>GWT and Spring Integration - java.net.InetAddress is a restricted class</title>
+      <link>http://MyThinkPond.com/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</link>
+      <pubDate>Mon, 13 Sep 2010 02:05:51 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</guid>
+      <description>When trying to integrate both Spring and GWT, one might encounter the following error in the Spring Eclipse IDE:&#xA;&amp;ldquo;java.net.InetAddress is a restricted class&amp;rdquo;. The problem happens when you try to use Spring configuration for your database. In my case, I was using Spring to update data back to a H2 database.&#xA;Well, here&amp;rsquo;s one way to deal with this issue. Disable the &amp;ldquo;Google App Engine&amp;rdquo;. Yes, based on my research, if you&amp;rsquo;re using GWT, you can disable Google App Engine and still continue your development with GWT.</description>
+    </item>
+    <item>
+      <title>Spring Framework - Application Context - three ways to get to the application context</title>
+      <link>http://MyThinkPond.com/post/2010-03-22-spring-application-context/</link>
+      <pubDate>Mon, 22 Mar 2010 17:09:21 -0400</pubDate>
+      <guid>http://MyThinkPond.com/post/2010-03-22-spring-application-context/</guid>
+      <description>Summary This article shows you three different ways how to get to the Spring Framework Application Context in your code. test</description>
+    </item>
+  </channel>
+</rss>

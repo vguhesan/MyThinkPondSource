@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API Management on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/api-management/</link>
+    <description>Recent content in API Management on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Mar 2017 14:21:54 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/api-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where API Management Is Headed in 2017 - DZone Integration</title>
+      <link>http://MyThinkPond.com/2017/03/13/where-api-management-is-headed-in-2017-dzone-integration/</link>
+      <pubDate>Mon, 13 Mar 2017 14:21:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/13/where-api-management-is-headed-in-2017-dzone-integration/</guid>
+      <description>In terms of API management in 2017, analysts are scrambling to catch up. Full lifecycle API management, security, and orchestration must be top considerations.&#xA;Source: Where API Management Is Headed in 2017 - DZone Integration</description>
+    </item>
+  </channel>
+</rss>

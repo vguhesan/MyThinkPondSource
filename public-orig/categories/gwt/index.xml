@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GWT on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/gwt/</link>
+    <description>Recent content in GWT on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2011 17:10:55 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/gwt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tomcat 6&#43;: Infamous &#34;SEVERE: Error listenerStart&#34; message - How-To debug this error?</title>
+      <link>http://MyThinkPond.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
+      <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
+      <description>I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.&#xA;SEVERE: Error listenerStart&#xA;You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.</description>
+    </item>
+    <item>
+      <title>Maven - GWT - Vaadin - including additional custom jars in a maven project under &#34;\web-inf\lib&#34;</title>
+      <link>http://MyThinkPond.com/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</link>
+      <pubDate>Wed, 15 Sep 2010 18:50:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</guid>
+      <description>With a lot of folks trying Google Web Toolkit (GWT) and\or Vaadin (combined with Maven), one of the problems that they might encounter is this:&#xA;How do I get my custom Vaadin themes or GWT jar files included under my &#34;\web-inf\lib&#34; folder inside the war Here&amp;rsquo;s a link to the such a question in detail.&#xA;The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is going away from what Maven would like you to do.</description>
+    </item>
+    <item>
+      <title>GWT and Spring Integration - java.net.InetAddress is a restricted class</title>
+      <link>http://MyThinkPond.com/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</link>
+      <pubDate>Mon, 13 Sep 2010 02:05:51 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</guid>
+      <description>When trying to integrate both Spring and GWT, one might encounter the following error in the Spring Eclipse IDE:&#xA;&amp;ldquo;java.net.InetAddress is a restricted class&amp;rdquo;. The problem happens when you try to use Spring configuration for your database. In my case, I was using Spring to update data back to a H2 database.&#xA;Well, here&amp;rsquo;s one way to deal with this issue. Disable the &amp;ldquo;Google App Engine&amp;rdquo;. Yes, based on my research, if you&amp;rsquo;re using GWT, you can disable Google App Engine and still continue your development with GWT.</description>
+    </item>
+  </channel>
+</rss>

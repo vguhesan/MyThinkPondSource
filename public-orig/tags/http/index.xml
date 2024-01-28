@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>http on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/http/</link>
+    <description>Recent content in http on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2011 16:37:56 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grails - Groovy - Alternative to HttpBuilder - adding headers to your HTTP request</title>
+      <link>http://MyThinkPond.com/2011/10/24/grails-groovy-alternative-to-httpbuilder-adding-headers-to-your-http-request/</link>
+      <pubDate>Mon, 24 Oct 2011 16:37:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/10/24/grails-groovy-alternative-to-httpbuilder-adding-headers-to-your-http-request/</guid>
+      <description>Developing with Grails and Groovy can be a blessing and and pain all at the same time. The development moves at a rapid rate but when you decide to include libraries that depend on other libraries, your pain starts to build up. For example, when you include the module &amp;ldquo;HttpBuilder&amp;quot;in your project you may run into issues with Xerces and xml-apis, especially when you attempt to deploy the WAR file under Tomcat.</description>
+    </item>
+  </channel>
+</rss>

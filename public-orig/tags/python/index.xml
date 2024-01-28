@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/python/</link>
+    <description>Recent content in Python on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Tips: On Getting Started, Unit Testing and Code Coverage</title>
+      <link>http://MyThinkPond.com/post/2020-06-02-python-tips-on-unit-testing-and-code-coverage/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2020-06-02-python-tips-on-unit-testing-and-code-coverage/</guid>
+      <description>tl;dr Here is a collection of useful Python tips, a starter &amp;ldquo;Hello World&amp;rdquo; Python template for both web (using Flask) and stand-alone script. And additional tips in writing effective Python code, getting started, Unit Tests and using the Coverage tool to improve code.&#xA;Photo by Fabian Grohs on Unsplash&#xA;Getting Started - Introducing &amp;ldquo;Python Hello World&amp;rdquo; Template Sometimes when we need to get started in Python, we need an easy &amp;ldquo;Hello World&amp;rdquo; template that gets us started with all the basics including unit test and coverage reports.</description>
+    </item>
+    <item>
+      <title>Python humanize time-interval without Arrow or Humanize libraries</title>
+      <link>http://MyThinkPond.com/post/2020-05-26-python-humanize-time-interval-without-external-libraries/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2020-05-26-python-humanize-time-interval-without-external-libraries/</guid>
+      <description>tl;dr Sometimes when we need to debug functions in Python, we need a way to write some quick timer code to capture the time-delta and to compute the time it took for the function to execute. This article shows you a quick and easy way to humanize a time-interval/time-delta without bringing in additional dependencies or libraries like Arrow or Humanize.&#xA;Elapsed Time: 2 Days, 5 Hours, 7 Minutes, 13 Seconds Yucel Moral (@yucelmoran) at Unsplash</description>
+    </item>
+    <item>
+      <title>uvloop - Python replacement for asyncio event loop</title>
+      <link>http://MyThinkPond.com/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</link>
+      <pubDate>Sat, 01 Apr 2017 16:26:27 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</guid>
+      <description>uvloop is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.&#xA;Benefits: uvloop makes asyncio 2-4x faster.&#xA;Cons: uvloop is available from PyPI but it requires Python 3.5. (The reason for this is asyncio was introduced in Python 3.4 and above.) Unless your project is based on Python 3.4+ - you may not be able to leverage this library.</description>
+    </item>
+    <item>
+      <title>Node.js, Python, C/C&#43;&#43;, Ruby, PHP development from a tiny Linux embedded for about $10</title>
+      <link>http://MyThinkPond.com/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</link>
+      <pubDate>Tue, 04 Oct 2016 18:12:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</guid>
+      <description>Came across this tiny IoT embedded micro-controller/computer that runs BusyBox or FreeBSD Linux and can run code written in Node.js, Python, C/C++, Ruby and PHP all at a cost of $5 to $10 with WiFi, 2G/3G, Bluetooth, GPS add-ons for your cloud services. It also has enough GPIO pins to interface with external world and not to mention the I2C and I2S interfaces for talking to other devices and peripherals as well as interfacing for sounds (I2S).</description>
+    </item>
+  </channel>
+</rss>

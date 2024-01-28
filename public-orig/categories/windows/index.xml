@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/windows/</link>
+    <description>Recent content in Windows on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remove .DS_Store and ._.DS_Store under Windows</title>
+      <link>http://MyThinkPond.com/post/2022-01-3/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2022-01-3/</guid>
+      <description>What is this article about? When you move from a Mac OSX onto Windows, the file system will contain two files under every directory labeled &amp;ldquo;.DS_Store&amp;rdquo; and &amp;ldquo;._.DS_Store&amp;rdquo;. These files are not useful especially if you&amp;rsquo;re trying to commit code under a Git source control. It can sometime get very annoying and to eliminate this &amp;ldquo;noise&amp;rdquo; from your day to day development, you may want to remove these artifacts from your Windows system.</description>
+    </item>
+    <item>
+      <title>**fix** VirtualBox installer fails on Windows 11 (program compatibility issue)</title>
+      <link>http://MyThinkPond.com/post/2022-01-2/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2022-01-2/</guid>
+      <description>What is this article about? When you try to install VirtualBox v.6.1.30 on Windows 11, you will see the following error:&#xA;This app can&#39;t run on this device: This app can&amp;rsquo;t run because it causes security performance issue on Windows. A new version may be available. Check with your software provider for an updated version that runs on this version of Windows.&#xA;It will further prevent you from executing the installer.</description>
+    </item>
+    <item>
+      <title>Developing email applications on Windows, targeted for Linux environment - email, mailx, sendmail</title>
+      <link>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</guid>
+      <description>If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.&#xA;Let us begin by understand the problem.&#xA;Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
+    </item>
+  </channel>
+</rss>

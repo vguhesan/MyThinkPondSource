@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yum on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/yum/</link>
+    <description>Recent content in yum on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Dec 2011 16:43:03 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/yum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to list the package contents of a yum install?</title>
+      <link>http://MyThinkPond.com/2011/12/25/how-to-list-the-package-contents-of-a-yum-install/</link>
+      <pubDate>Sun, 25 Dec 2011 16:43:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/12/25/how-to-list-the-package-contents-of-a-yum-install/</guid>
+      <description>Sometimes you need to see what&amp;rsquo;s installed as part of a package via yum. To see the package contents you can use a utility that&amp;rsquo;s available on the RHEL/CentOS.&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;$repoquery &amp;ndash;list packagename&#xA;[/sourcecode]&#xA;If you do not have this utility available, you can install it by using this command&#xA;[sourcecode]&#xA;$yum install yum-utils&#xA;[/sourcecode]&#xA;Here is a sample output from looking at the package contents of Apache httpd.</description>
+    </item>
+  </channel>
+</rss>

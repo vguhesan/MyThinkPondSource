@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Computers on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/quantum-computers/</link>
+    <description>Recent content in Quantum Computers on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 May 2017 01:31:47 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/quantum-computers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nanofridge could keep quantum computers cool enough to calculate</title>
+      <link>http://MyThinkPond.com/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</link>
+      <pubDate>Thu, 11 May 2017 01:31:47 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</guid>
+      <description>Quantum computers need to be kept cool, just like regular computers, but an ordinary fan won’t cut it. A nanofridge that sorts electrons by temperature just might keep it cool enough to allow quantum compute.&#xA;Classical computers require built-in fans and other ways to dissipate heat, and quantum computers are no different. Instead of working with bits of information that can be either 0 or 1, as in a classical machine, a quantum computer relies on “qubits”, which can be in both states simultaneously – called a superposition – thanks to the quirks of quantum mechanics.</description>
+    </item>
+  </channel>
+</rss>

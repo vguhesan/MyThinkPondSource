@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>link on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/link/</link>
+    <description>Recent content in link on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Nov 2009 16:33:38 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/link/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Opening a link in a PDF document in a new window</title>
+      <link>http://MyThinkPond.com/2009/11/04/opening-a-link-in-a-pdf-document-in-a-new-window/</link>
+      <pubDate>Wed, 04 Nov 2009 16:33:38 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2009/11/04/opening-a-link-in-a-pdf-document-in-a-new-window/</guid>
+      <description>Open Link In PDF In New Window&#xA;Sometimes you like to link out to other URL&amp;rsquo;s or other PDF&amp;rsquo;s from within a PDF document. And you will notice that this replaces the existing HTML frame (if you had served the original PDF from a website) or window with the new document making it hard to navigate. In these cases, you would prefer to open the link in the PDF onto it&amp;rsquo;s own new window.</description>
+    </item>
+  </channel>
+</rss>

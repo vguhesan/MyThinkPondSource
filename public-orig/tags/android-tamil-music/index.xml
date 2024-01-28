@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android Tamil Music on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/android-tamil-music/</link>
+    <description>Recent content in Android Tamil Music on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Jul 2010 18:45:35 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/android-tamil-music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android Phone Tamil Music</title>
+      <link>http://MyThinkPond.com/2010/07/05/android-tamil-music/</link>
+      <pubDate>Mon, 05 Jul 2010 18:45:35 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/07/05/android-tamil-music/</guid>
+      <description>If you or someone owns an Android based phone such as Nexus One, HTC Droid, or HTC Incredible and would like to listen to some Tamil music streams. I&amp;rsquo;ve setup a server that streams live 24x7 latest tamil music.&#xA;[After posting it I&amp;rsquo;ve had comments about some usability issues by using the default MP3 player in Nexus One. So I&amp;rsquo;m revising the steps.]&#xA;Under Android Market Place, search for an application &amp;ldquo;A Online Radio&amp;rdquo;.</description>
+    </item>
+  </channel>
+</rss>

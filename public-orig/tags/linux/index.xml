@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/linux/</link>
+    <description>Recent content in Linux on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Oct 2017 13:22:49 -0400</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configure Jumbo Packets for all your devices including Windows/Linux/Mac OS X on your network</title>
+      <link>http://MyThinkPond.com/post/2017-10-16-enabling-jumbo-packets-for-your-devices/</link>
+      <pubDate>Mon, 16 Oct 2017 13:22:49 -0400</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-10-16-enabling-jumbo-packets-for-your-devices/</guid>
+      <description>Summary This article focus on how to setup Jumbo packets on all your various devices in your network. This includes Windows 10+, Linux, Mac OS X+.&#xA;What is Jumbo packet or Jumbo Frame? A jumbo frame is an Ethernet frame with a payload greater than the standard maximum transmission unit (MTU) of 1,500 bytes. Jumbo frames are used on local area networks that support at least 1 Gbps and can be as large as 9,000 bytes.</description>
+    </item>
+    <item>
+      <title>Linux Routes - How to use them?</title>
+      <link>http://MyThinkPond.com/post/2017-05-11-how-to-add-route-in-linux/</link>
+      <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-05-11-how-to-add-route-in-linux/</guid>
+      <description>Examples of Route Command and it&amp;rsquo;s usage.&#xA;Source: 7 Linux Route Command Examples (How to Add Route in Linux)&#xA;To learn the fundamentals of Routing, please visit the link below:&#xA;Fundamentals of Routing</description>
+    </item>
+    <item>
+      <title>Working with zeromq (0mq), Java, JZMQ on a CentOS platform</title>
+      <link>http://MyThinkPond.com/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</link>
+      <pubDate>Tue, 25 Jun 2013 03:36:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</guid>
+      <description>Recently I decided to port some of my development using ZeroMQ onto my CentOS development machine and I ran into some challenges. I&amp;rsquo;m documenting those challenges so that if someone else runs into the same pitfalls I did, they can avoid it.&#xA;In this example today, we will work with the first &amp;ldquo;HelloWorld&amp;rdquo; examples in the ZeroMQ guide found here. I added a few modifications to the sample such as a package name and a try-catch around the Thread and an exception.</description>
+    </item>
+    <item>
+      <title>Python pycharm - configuring remote interpreters from Windows to Linux</title>
+      <link>http://MyThinkPond.com/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</link>
+      <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</guid>
+      <description>If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features here.&#xA;But as I started to tinker with the &amp;ldquo;remote interpreter&amp;rdquo; feature - I stumbled upon some challenges and I thought I&amp;rsquo;d document them for other PyCharm users who might benefit from this blog entry.</description>
+    </item>
+  </channel>
+</rss>

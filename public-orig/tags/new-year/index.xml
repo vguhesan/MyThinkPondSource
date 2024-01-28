@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Year on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/new-year/</link>
+    <description>Recent content in New Year on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2015 17:05:18 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/new-year/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wishing everyone a Happy New Year</title>
+      <link>http://MyThinkPond.com/2015/12/31/wishing-everyone-a-happy-new-year/</link>
+      <pubDate>Thu, 31 Dec 2015 17:05:18 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2015/12/31/wishing-everyone-a-happy-new-year/</guid>
+      <description>Wishing everyone a Happy New Year. Please feel free to copy the banner and use it on your site or share with others!</description>
+    </item>
+  </channel>
+</rss>

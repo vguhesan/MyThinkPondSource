@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iris on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/iris/</link>
+    <description>Recent content in Iris on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Mar 2017 00:49:33 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/iris/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A URL Shortener Service using Go, Iris and Bolt – Medium</title>
+      <link>http://MyThinkPond.com/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</link>
+      <pubDate>Thu, 16 Mar 2017 00:49:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</guid>
+      <description>Go (cross-platform language/compiler)&#xA;Iris (web framework in Go) + Bolt (embedded key-value DB) = one powerful combination Read more at&#xA;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firefox on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/firefox/</link>
+    <description>Recent content in Firefox on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Nov 2012 19:26:39 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cross-Browser Testing for WebSockets</title>
+      <link>http://MyThinkPond.com/2012/11/13/cross-browser-testing-for-websockets/</link>
+      <pubDate>Tue, 13 Nov 2012 19:26:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/11/13/cross-browser-testing-for-websockets/</guid>
+      <description>The traditional way to test for websockets is this:&#xA;[sourcecode] function WebSocketTest() { if (&amp;ldquo;WebSocket&amp;rdquo; in window) { alert(&amp;ldquo;Browser supports websocket&amp;rdquo;); } else { alert(&amp;ldquo;Browser does not support websocket&amp;rdquo;); } } &amp;hellip; Run WebSocket test [/sourcecode]&#xA;Although the above example will be technically correct for modern browsers it is important to consider some of the &amp;ldquo;experimental&amp;rdquo; implementation of this feature in earlier FireFox (Mozilla) browsers.&#xA;In FireFox (Mozilla), experimental features (until they graduate) gets added with a prefix of &amp;ldquo;Moz&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>How-To: Turn off Firefox browser cache during development</title>
+      <link>http://MyThinkPond.com/2011/06/22/how-to-turn-off-firefox-browser-cache-during-development/</link>
+      <pubDate>Wed, 22 Jun 2011 14:13:36 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/06/22/how-to-turn-off-firefox-browser-cache-during-development/</guid>
+      <description>Sometimes (when your are developing) you may want to force fetching all content fresh all the time including images, resources such as style sheet etc. To facilitate this you can do the following:&#xA;Open a new window or tab in Firefox.&#xA;Type about:config in the address bar.&#xA;Search for &amp;ldquo;cache&amp;rdquo; in the search bar and look for network.http.use-cache in the filtered results.&#xA;Double-click it will toggle it from &amp;ldquo;true&amp;rdquo; to &amp;ldquo;false&amp;rdquo;.</description>
+    </item>
+  </channel>
+</rss>

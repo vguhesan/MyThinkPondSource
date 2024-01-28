@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opentsdb on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/opentsdb/</link>
+    <description>Recent content in opentsdb on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Mar 2016 15:00:37 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/opentsdb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to configure OpenTSDB (or any process) as a systemd service in CentOS 7?</title>
+      <link>http://MyThinkPond.com/2016/03/23/how-to-configure-opentsdb-or-any-process-as-a-service-in-centos-7/</link>
+      <pubDate>Wed, 23 Mar 2016 15:00:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/03/23/how-to-configure-opentsdb-or-any-process-as-a-service-in-centos-7/</guid>
+      <description>CentOS 7 uses Systemd for managing services (prior to CentOS 7 it was using upstart-init.d to manage the services).&#xA;Step-1: Create CentOS 7 Service file: vim /usr/lib/systemd/system/opentsdb.service&#xA;[Unit] Description=OpenTSDB Service After=network.target hbase.service [Service] Type=forking PrivateTmp=yes ExecStart=/usr/share/opentsdb/etc/init.d/opentsdb start ExecStop=/usr/share/opentsdb/etc/init.d/opentsdb stop Restart=on-abort [Install] WantedBy=multi-user.target Step-2: Let&amp;rsquo;s test the start and stop of this new OpenTSDB service&#xA;$ sudo systemctl start opentsdb # If it starts up good, you should see the website when you goto http://&amp;amp;amp;lt;servername&amp;amp;amp;gt;:4242/ ps -leaf | grep &amp;amp;amp;quot;tsdb&amp;amp;amp;quot; # shows you something similar then you can add it as a service to auto-start sudo systemctl enable opentsdb Step-3: (optional) Reboot node and make sure that the service starts up accordingly after a reboot.</description>
+    </item>
+  </channel>
+</rss>

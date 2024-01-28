@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WaitUntilPort on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/waituntilport/</link>
+    <description>Recent content in WaitUntilPort on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jul 2016 16:03:02 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/waituntilport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WaitUntilPortOpens() - How to wait until process A runs and binds to a port before spawning process B?</title>
+      <link>http://MyThinkPond.com/2016/07/08/waituntilportopens-how-to-wait-until-process-a-runs-and-binds-to-a-port-before-spawning-process-b/</link>
+      <pubDate>Fri, 08 Jul 2016 16:03:02 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/07/08/waituntilportopens-how-to-wait-until-process-a-runs-and-binds-to-a-port-before-spawning-process-b/</guid>
+      <description>Sometimes we have situations where you need to wait until one application is loaded that may bind to a certain port before kicking off a second application that may depend on that port. This process is typically described as &amp;ldquo;Wait-Until-Port-Opens&amp;rdquo; (or it could be the reverse - where you want to wait until a port closes).&#xA;Here are some use-cases for this method or script:&#xA;You have a Java web application (Jetty, Tomcat, WildFly, etc) that listens on port 8080 and you want your Nginx or Apache HTTPd server to start as a proxy-server once that back-end web server is bound to port 8080.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spring.handlers on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/spring.handlers/</link>
+    <description>Recent content in spring.handlers on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Apr 2018 16:55:46 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/spring.handlers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>spring.schemas and spring.handlers when creating Uber-Jar</title>
+      <link>http://MyThinkPond.com/post/2018-04-08-spring.schemas-and-spring.handlers-when-creating-uber-jar/</link>
+      <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2018-04-08-spring.schemas-and-spring.handlers-when-creating-uber-jar/</guid>
+      <description>When creating an uber-jar with all dependencies in one single-jar file, each of the spring dependency jar may contain schema and handlers that have the same name but different content. When you combine them into creating a single uber-jar, the uber-library will perform an overwrite since each of the Spring files for schema and handlers are the exact filename. So you end up overwriting the file where the last ubered file will remain.</description>
+    </item>
+    <item>
+      <title>Gradle Spring Woes: Issues in creating single jar bundle with all dependency jars nested within</title>
+      <link>http://MyThinkPond.com/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</link>
+      <pubDate>Thu, 03 Nov 2016 20:47:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</guid>
+      <description>If you&amp;rsquo;re implementing any projects with Spring and Gradle (for build), as your project grows you may run into this issue. Or you&amp;rsquo;ve landed on this page by searching on Google for &amp;ldquo;Unable to locate Spring NamespaceHandler for XML schema namespace&amp;rdquo; (your actual XML that it&amp;rsquo;s error-ing out may vary).&#xA;Either way, you&amp;rsquo;re in luck! Most likely, you&amp;rsquo;re using the fatjar gradle plugin to create a single JAR for executing as &amp;ldquo;java -jar one-big-bundle.</description>
+    </item>
+  </channel>
+</rss>

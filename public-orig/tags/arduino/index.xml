@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arduino on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/arduino/</link>
+    <description>Recent content in Arduino on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Jun 2014 02:51:11 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World with SparkCore</title>
+      <link>http://MyThinkPond.com/2014/06/18/hello-world-with-sparkcore/</link>
+      <pubDate>Wed, 18 Jun 2014 02:51:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/06/18/hello-world-with-sparkcore/</guid>
+      <description>Finally got my SparkCore, an Arduino built with on-board WiFi (no need for a Arduino WiFi shield). This version is a different take on the &amp;ldquo;Internet of Things&amp;rdquo; and &amp;ldquo;Build internet-connected hardware&amp;rdquo;&#xA;Here&amp;rsquo;s a picture of the Spark connected to the WiFi running my first HelloWorld app downloaded directly from the Spark IDE to the core.&#xA;Looking forward to building some designs around it! To learn more about Arduino and SparkCore visit their corresponding sites.</description>
+    </item>
+  </channel>
+</rss>

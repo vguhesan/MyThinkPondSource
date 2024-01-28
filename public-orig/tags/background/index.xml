@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>background on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/background/</link>
+    <description>Recent content in background on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Mar 2016 14:45:14 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/background/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixing vim editor for dark backgrounds so comments are not dark blue</title>
+      <link>http://MyThinkPond.com/2016/03/15/fixing-vim-editor-for-dark-backgrounds-so-comments-are-not-dark-blue/</link>
+      <pubDate>Tue, 15 Mar 2016 14:45:14 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/03/15/fixing-vim-editor-for-dark-backgrounds-so-comments-are-not-dark-blue/</guid>
+      <description>Here is a simple command that can fix your vim editor for dark backgrounds so that your comments are not showing up in dark blue (unreadable).&#xA;Example screenshot:&#xA;The temporary fix is to run the following command in the vim editor:&#xA;:set background=dark instead of&#xA;:set background=light The permanent fix for this is to add the command inside $HOME/.vimrc file&#xA;set background=dark Please note that when you&amp;rsquo;re adding the property into the .</description>
+    </item>
+  </channel>
+</rss>

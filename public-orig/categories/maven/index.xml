@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maven on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/maven/</link>
+    <description>Recent content in Maven on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Apr 2018 16:55:46 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/maven/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>spring.schemas and spring.handlers when creating Uber-Jar</title>
+      <link>http://MyThinkPond.com/post/2018-04-08-spring.schemas-and-spring.handlers-when-creating-uber-jar/</link>
+      <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2018-04-08-spring.schemas-and-spring.handlers-when-creating-uber-jar/</guid>
+      <description>When creating an uber-jar with all dependencies in one single-jar file, each of the spring dependency jar may contain schema and handlers that have the same name but different content. When you combine them into creating a single uber-jar, the uber-library will perform an overwrite since each of the Spring files for schema and handlers are the exact filename. So you end up overwriting the file where the last ubered file will remain.</description>
+    </item>
+    <item>
+      <title>Add custom jars under &#34;\WEB-INF\lib&#34; in a Maven project</title>
+      <link>http://MyThinkPond.com/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</link>
+      <pubDate>Sat, 02 Oct 2010 18:28:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</guid>
+      <description>The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is not what is recommended by Maven. Maven builds upon consistency and structure and this process goes away from that methodology. In Maven, you can take each of your jars\libraries and add them to your local repository and then include them as needed in your projects. If you want to go the proper route here’s how you do it.</description>
+    </item>
+    <item>
+      <title>Maven - GWT - Vaadin - including additional custom jars in a maven project under &#34;\web-inf\lib&#34;</title>
+      <link>http://MyThinkPond.com/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</link>
+      <pubDate>Wed, 15 Sep 2010 18:50:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</guid>
+      <description>With a lot of folks trying Google Web Toolkit (GWT) and\or Vaadin (combined with Maven), one of the problems that they might encounter is this:&#xA;How do I get my custom Vaadin themes or GWT jar files included under my &#34;\web-inf\lib&#34; folder inside the war Here&amp;rsquo;s a link to the such a question in detail.&#xA;The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is going away from what Maven would like you to do.</description>
+    </item>
+  </channel>
+</rss>

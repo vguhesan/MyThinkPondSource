@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YAML on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/yaml/</link>
+    <description>Recent content in YAML on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/yaml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convert JSON file to YAML using JQ</title>
+      <link>http://MyThinkPond.com/post/2022-11-08/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2022-11-08/</guid>
+      <description>What is this article about? When you are working on the web or with DevOps or GitOps, you will have cases where you want to transform a JSON file to YAML. This article walks you though converting the JSON document to YAML using the &amp;ldquo;jq&amp;rdquo; tool.&#xA;Official YAML Spec Official JSON Spec JQ Tool (jq is like &amp;lsquo;sed&amp;rsquo; for JSON data) Why YAML (over JSON)? Here are a few reasons why developers prefer YAML over JSON:</description>
+    </item>
+  </channel>
+</rss>

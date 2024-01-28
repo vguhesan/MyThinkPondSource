@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedded Systems on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/embedded-systems/</link>
+    <description>Recent content in Embedded Systems on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Mar 2017 02:41:52 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a HiFi and audiophonic system using Raspberry pi</title>
+      <link>http://MyThinkPond.com/2017/03/24/create-a-hifi-and-audiophonic-system-using-raspberry-pi/</link>
+      <pubDate>Fri, 24 Mar 2017 02:41:52 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/24/create-a-hifi-and-audiophonic-system-using-raspberry-pi/</guid>
+      <description>Create a HiFi and audiophonic system using Raspberry pi https://plus.google.com/+AudiophonicsFr-audio/posts/cbW5L9tkfRL?_utm_source=1-2-2</description>
+    </item>
+    <item>
+      <title>Node.js, Python, C/C&#43;&#43;, Ruby, PHP development from a tiny Linux embedded for about $10</title>
+      <link>http://MyThinkPond.com/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</link>
+      <pubDate>Tue, 04 Oct 2016 18:12:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</guid>
+      <description>Came across this tiny IoT embedded micro-controller/computer that runs BusyBox or FreeBSD Linux and can run code written in Node.js, Python, C/C++, Ruby and PHP all at a cost of $5 to $10 with WiFi, 2G/3G, Bluetooth, GPS add-ons for your cloud services. It also has enough GPIO pins to interface with external world and not to mention the I2C and I2S interfaces for talking to other devices and peripherals as well as interfacing for sounds (I2S).</description>
+    </item>
+    <item>
+      <title>Forget Software—Now Hackers Are Exploiting Physics | WIRED</title>
+      <link>http://MyThinkPond.com/2016/09/03/forget-software-now-hackers-are-exploiting-physics-wired/</link>
+      <pubDate>Sat, 03 Sep 2016 21:05:01 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/09/03/forget-software-now-hackers-are-exploiting-physics-wired/</guid>
+      <description>[Forget Software—Now Hackers Are Exploiting Physics | WIRED] is good,have a look at it!&#xA;targeting the actual electricity that comprises bits of data in computer memory. Technique is called &#39;RowHammer&#39;. The trick works by running a program on the target computer, which repeatedly overwrites a certain row of transistors in its DRAM flash memory, “hammering” it until a rare glitch occurs: Electric charge leaks from the hammered row of transistors into an adjacent row.</description>
+    </item>
+    <item>
+      <title>Philips SlimStyle 60W LED bulb teardown</title>
+      <link>http://MyThinkPond.com/2014/09/29/philips-slimstyle-60w-led-bulb-teardown/</link>
+      <pubDate>Mon, 29 Sep 2014 01:25:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/09/29/philips-slimstyle-60w-led-bulb-teardown/</guid>
+      <description>While I was visiting Home Depot, I saw a Philips SlimStyle 60W LED bulb on clearance for two-dollars. I could not resist buying it for a tear-down to see how it&amp;rsquo;s built. I always wondered how they convert the 120VAC to a regulated DC voltage with high-current feed for lighting up those LED&amp;rsquo;s. So here is the first version of the tear-down showing you what&amp;rsquo;s inside the bulb. I will blog more about the current and voltage at the LED junction on a subsequent blog.</description>
+    </item>
+    <item>
+      <title>Hello World with SparkCore</title>
+      <link>http://MyThinkPond.com/2014/06/18/hello-world-with-sparkcore/</link>
+      <pubDate>Wed, 18 Jun 2014 02:51:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/06/18/hello-world-with-sparkcore/</guid>
+      <description>Finally got my SparkCore, an Arduino built with on-board WiFi (no need for a Arduino WiFi shield). This version is a different take on the &amp;ldquo;Internet of Things&amp;rdquo; and &amp;ldquo;Build internet-connected hardware&amp;rdquo;&#xA;Here&amp;rsquo;s a picture of the Spark connected to the WiFi running my first HelloWorld app downloaded directly from the Spark IDE to the core.&#xA;Looking forward to building some designs around it! To learn more about Arduino and SparkCore visit their corresponding sites.</description>
+    </item>
+    <item>
+      <title>Cubieboard2 with ARM AllWinner Processor - A20 finally arrived</title>
+      <link>http://MyThinkPond.com/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</link>
+      <pubDate>Sun, 03 Nov 2013 20:43:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</guid>
+      <description>Cubieboard2 with ARM AllWinner Processor - A20 finally arrived. Pretty excited about building my ARM Linux embedded system.&#xA;Learn more about Cubieboard here</description>
+    </item>
+  </channel>
+</rss>

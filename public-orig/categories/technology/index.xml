@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/technology/</link>
+    <description>Recent content in Technology on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2017 19:01:57 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How AI algorithms could help design new drugs? - Futurity</title>
+      <link>http://MyThinkPond.com/post/2017-04-06-how-ai-algorithms-could-help-design-new-drugs-futurity/</link>
+      <pubDate>Thu, 06 Apr 2017 19:01:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-04-06-how-ai-algorithms-could-help-design-new-drugs-futurity/</guid>
+      <description>A new kind of AI algorithm—designed to work with a small amount of data—may be able to assist in the early stages of drug development. Artificial intelligence doesn’t work all that well in situations where there is very little data, such as drug development. A new technique called one-shot learning, that requires only a small number of data points might be a solution to that low-data problem.&#xA;To make molecular information more digestible, the researchers first represented each molecule in terms of the connections between atoms (what a mathematician would call a graph).</description>
+    </item>
+    <item>
+      <title>The Future of Web Development: Coding as a Service</title>
+      <link>http://MyThinkPond.com/2017/03/12/the-future-of-web-development-coding-as-a-service/</link>
+      <pubDate>Sun, 12 Mar 2017 18:38:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/12/the-future-of-web-development-coding-as-a-service/</guid>
+      <description>The article talks about the comoditization of web development as a service (Coding as a Service - CaaS).&#xA;For the price of two Venti Iced Caramel Macchiatos per month you can run a respectable website with little to no technical experience... Artificial Intelligence will enable more complex combinations of code to be fit together through an automated process... The quantity and quality of customization with AI will be staggering. And for the end user this means it will be at once simpler and cheaper.</description>
+    </item>
+    <item>
+      <title>India&#39;s Isro launches 104 satellites in a single mission to create world record</title>
+      <link>http://MyThinkPond.com/2017/02/19/isro-launches-104-satellites-in-a-single-mission-to-create-world-record/</link>
+      <pubDate>Sun, 19 Feb 2017 02:25:41 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/02/19/isro-launches-104-satellites-in-a-single-mission-to-create-world-record/</guid>
+      <description>India&amp;rsquo;s Isro’s [] PSLV-C37 in a single payload, included the Cartosat-2 series and 103 co-passenger satellites, together weighing over 650kg&#xA;Great achievement especially considering only three of the 103 satellites belonged to India making this mission one of the most business sense launch of this century! Kudos to India!&#xA;Read more about it at the link below.&#xA;Source: Isro launches 104 satellites in a single mission to create world record - Livemint</description>
+    </item>
+    <item>
+      <title>Materials science: How to keep cool without costing the Earth</title>
+      <link>http://MyThinkPond.com/2017/02/16/materials-science-how-to-keep-cool-without-costing-the-earth-the-economist/</link>
+      <pubDate>Thu, 16 Feb 2017 18:49:41 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/02/16/materials-science-how-to-keep-cool-without-costing-the-earth-the-economist/</guid>
+      <description>The new film works by a process called radiative cooling. This takes advantage of that fact that Earth’s atmosphere allows certain wavelengths of heat-carrying infrared radiation to escape into space unimpeded. Convert unwanted heat into infrared of the correct wavelength, then, and you can dump it into the cosmos with no come back. &amp;hellip;their film, placed atop an average American house, would be enough to keep the internal temperature at 20°C on a day when it was 37°C outside.</description>
+    </item>
+    <item>
+      <title>What is Blockchain Technology? A Step-by-Step Guide For Beginners</title>
+      <link>http://MyThinkPond.com/2017/01/02/what-is-blockchain-technology-a-step-by-step-guide-for-beginners/</link>
+      <pubDate>Mon, 02 Jan 2017 01:17:07 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/01/02/what-is-blockchain-technology-a-step-by-step-guide-for-beginners/</guid>
+      <description>Blockchain technology is not a technology solely for Bitcoin but rather a creative way to keep a digital ledger of economic transactions. This technology can be applied in a variety of fields such that the chain cannot be owned by a single entity and has no single point of failure. It provides a backbone with transparency and incorruptibility. Imagine a world where every transaction, whether it is a real-estate property transaction or a work-contract or an acknowledgement receipt of a email or an acceptance of work or payment or a medication delivery system releasing a medication into a patients blood-stream can be recorded such that it is indisputable and irrevocable.</description>
+    </item>
+    <item>
+      <title>Facebook&#39;s 100-gigabit switch design is out in the open and promises faster speed</title>
+      <link>http://MyThinkPond.com/2016/10/20/facebooks-100-gigabit-switch-design-is-out-in-the-open-and-promises-faster-speed/</link>
+      <pubDate>Thu, 20 Oct 2016 22:49:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/10/20/facebooks-100-gigabit-switch-design-is-out-in-the-open-and-promises-faster-speed/</guid>
+      <description>Facebook&amp;rsquo;s 100-gigabit switch design is out in the open and promises faster speed&#xA;Wedge 100 specification has been accepted into OCP... upping the speeds to 100Gbps (bits per second). Link to FBOSS code is all open sourced and available on GitHub here.&#xA;You can learn more about it here.</description>
+    </item>
+    <item>
+      <title>New &#39;Superman&#39; crystals can store data for billions of years</title>
+      <link>http://MyThinkPond.com/2016/06/13/new-superman-crystals-can-store-data-for-billions-of-years/</link>
+      <pubDate>Mon, 13 Jun 2016 14:54:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/06/13/new-superman-crystals-can-store-data-for-billions-of-years/</guid>
+      <description>New &amp;lsquo;Superman&amp;rsquo; crystals can store data for billions of years&#xA;http://money.cnn.com/2016/02/17/technology/5d-data-storage-memory-crystals/index.html?iid=surge-story-summary</description>
+    </item>
+    <item>
+      <title>Intel&#39;s miracle chip could make your gadgets 1,000 times faster</title>
+      <link>http://MyThinkPond.com/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</link>
+      <pubDate>Mon, 13 Jun 2016 14:52:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</guid>
+      <description>Intel and Micron say they have a new computer chip that will make your gadgets significantly faster, more durable and able to store way more data.&#xA;http://money.cnn.com/2015/07/29/technology/intel-3d-xpoint-chip/index.html?iid=EL</description>
+    </item>
+    <item>
+      <title>First Alert Carbon Monoxide Alarm - tear-down</title>
+      <link>http://MyThinkPond.com/2016/01/04/first-alert-carbon-monoxide-alarm-tear-down/</link>
+      <pubDate>Mon, 04 Jan 2016 23:37:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/01/04/first-alert-carbon-monoxide-alarm-tear-down/</guid>
+      <description>One of my First Alert Carbon Monoxide Alarm&amp;rsquo;s expired. This gave me an opportunity to look inside and see what&amp;rsquo;s inside this little gadget.&#xA;Here is a picture of the tear-down for those who are interested:&#xA;First Alert - Single Station Carbon Monoxide Alarm - model #: CO614&#xA;The specification for the carbon-monoxide sensor used in this model can be found here.&#xA;Here is a list of alternative carbon-monoxide sensors from Figaro.</description>
+    </item>
+    <item>
+      <title>Philips SlimStyle 60W LED bulb teardown</title>
+      <link>http://MyThinkPond.com/2014/09/29/philips-slimstyle-60w-led-bulb-teardown/</link>
+      <pubDate>Mon, 29 Sep 2014 01:25:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/09/29/philips-slimstyle-60w-led-bulb-teardown/</guid>
+      <description>While I was visiting Home Depot, I saw a Philips SlimStyle 60W LED bulb on clearance for two-dollars. I could not resist buying it for a tear-down to see how it&amp;rsquo;s built. I always wondered how they convert the 120VAC to a regulated DC voltage with high-current feed for lighting up those LED&amp;rsquo;s. So here is the first version of the tear-down showing you what&amp;rsquo;s inside the bulb. I will blog more about the current and voltage at the LED junction on a subsequent blog.</description>
+    </item>
+    <item>
+      <title>Cubieboard2 with ARM AllWinner Processor - A20 finally arrived</title>
+      <link>http://MyThinkPond.com/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</link>
+      <pubDate>Sun, 03 Nov 2013 20:43:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</guid>
+      <description>Cubieboard2 with ARM AllWinner Processor - A20 finally arrived. Pretty excited about building my ARM Linux embedded system.&#xA;Learn more about Cubieboard here</description>
+    </item>
+    <item>
+      <title>Python pycharm - configuring remote interpreters from Windows to Linux</title>
+      <link>http://MyThinkPond.com/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</link>
+      <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</guid>
+      <description>If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features here.&#xA;But as I started to tinker with the &amp;ldquo;remote interpreter&amp;rdquo; feature - I stumbled upon some challenges and I thought I&amp;rsquo;d document them for other PyCharm users who might benefit from this blog entry.</description>
+    </item>
+    <item>
+      <title>Neat little tool for your browser toolkit - GrabNZip.com</title>
+      <link>http://MyThinkPond.com/2009/11/25/neat-little-tool-for-your-browser-toolkit-grabnzip-com/</link>
+      <pubDate>Wed, 25 Nov 2009 16:06:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2009/11/25/neat-little-tool-for-your-browser-toolkit-grabnzip-com/</guid>
+      <description>Found a neat little browser download helper tool. It&amp;rsquo;s one that I&amp;rsquo;ll be using and it&amp;rsquo;s definitely a tool to add to your browser toolkit bookmarks.&#xA;Ever been in a situation where you wanted to download a file at the office but the particular extension is not allowed at the company. Well, this tool might help you in those situations. It&amp;rsquo;s called Grab-N-Zip (http://www.GrabNZip.com)&#xA;You enter your URL to the file that you are trying to &amp;ldquo;grab&amp;rdquo; from the internet.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PostgreSQL on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/postgresql/</link>
+    <description>Recent content in PostgreSQL on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2019 21:04:14 -0400</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Handling PostgreSQL TimeScale Hyper-table Column Changes Efficiently</title>
+      <link>http://MyThinkPond.com/post/2019-09-05-handling-postgresql-timescale-hypertable-column-changes/</link>
+      <pubDate>Thu, 05 Sep 2019 21:04:14 -0400</pubDate>
+      <guid>http://MyThinkPond.com/post/2019-09-05-handling-postgresql-timescale-hypertable-column-changes/</guid>
+      <description>tl;dr This article shows you how to efficiently alter column data-types that leverages PostgreSQL TimeScale hyper-tables.&#xA;Driving home from a long day of work, I see the beautiful sky and so I pull over to the side of the road to snap this picture. What a glorious sunset! But then you get back into your car and reality kicks in! :-) I was once again reminded of today&amp;rsquo;s challenges. (It&amp;rsquo;s funny how your mind works).</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistics on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/statistics/</link>
+    <description>Recent content in statistics on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Sep 2019 23:33:31 -0400</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Recommendation: The Cartoon Guide To Statistics</title>
+      <link>http://MyThinkPond.com/post/2019-09-07-book-the-cartoon-guide-to-statistics/</link>
+      <pubDate>Sat, 07 Sep 2019 23:33:31 -0400</pubDate>
+      <guid>http://MyThinkPond.com/post/2019-09-07-book-the-cartoon-guide-to-statistics/</guid>
+      <description>tl;dr Book Review: The Cartoon Guide To Statistics by Larry Gonick &amp;amp; Woollcott Smith&#xA;I&amp;rsquo;ve been working with big data over a decade. I&amp;rsquo;ve dealt with system and monitoring solutions that puts out over a million IoT sensor data every few minutes. Streaming them, storing them, analyzing them and finding ways to slice and dice that data has always been interesting to me. And this has built my career the past 15 years.</description>
+    </item>
+  </channel>
+</rss>

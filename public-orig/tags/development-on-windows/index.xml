@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on windows on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/development-on-windows/</link>
+    <description>Recent content in development on windows on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Dec 2016 01:53:04 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/development-on-windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Developing email applications on Windows, targeted for Linux environment - email, mailx, sendmail</title>
+      <link>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</guid>
+      <description>If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.&#xA;Let us begin by understand the problem.&#xA;Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
+    </item>
+  </channel>
+</rss>

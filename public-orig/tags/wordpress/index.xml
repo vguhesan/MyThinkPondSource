@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/wordpress/</link>
+    <description>Recent content in Wordpress on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Sep 2017 23:42:33 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Converted Wordpress.com Hosted Blog to Hugo Static Blog :-)</title>
+      <link>http://MyThinkPond.com/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</guid>
+      <description>Summary Thanks to Hugo Static Site generator written in GoLang and Mainroad Theme, I was able to port over my personal blog MyThinkPond as a static generated website.&#xA;Before and After Here is a screenshot of the belore site:&#xA;MyThinkPond under Wordpress hosting&#xA;Here is a screenshot of the belore site:&#xA;MyThinkPond under Wordpress hosting&#xA;I think it&amp;rsquo;s a move in the right direction. Putting me in complete control of the content, images and all artifacts that goes into bundling the site.</description>
+    </item>
+    <item>
+      <title>Wordpress Export Import Site Escaped Character Challenges - &#34; </title>
+      <link>http://MyThinkPond.com/2012/10/30/wordpress-export-import-site-escaped-character-chellenges/</link>
+      <pubDate>Tue, 30 Oct 2012 18:15:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/10/30/wordpress-export-import-site-escaped-character-chellenges/</guid>
+      <description>When you export a Wordpress site and import the site into a new Wordpress site you will notice that a few HTML entities that are not allowed in an XML output got escaped. In simple terms, you will see a lot of &amp;quot; and if you use a Mac OSx system, your will see - “ and ” displayed as content in your blog pages.&#xA;Well here&amp;rsquo;s a way to correct them.</description>
+    </item>
+  </channel>
+</rss>

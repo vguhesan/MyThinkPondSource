@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bootstrap on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/bootstrap/</link>
+    <description>Recent content in bootstrap on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jun 2016 20:58:17 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two static website generators explored - Hugo &amp; Jekyll</title>
+      <link>http://MyThinkPond.com/2016/06/05/two-static-website-generators-explored-hugo-jekyll/</link>
+      <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/06/05/two-static-website-generators-explored-hugo-jekyll/</guid>
+      <description>Today I had to quickly assemble a wiki/blog website for our family temple back in India. At first, I considered doing my traditional option to leverage Wordpress (this blog MyThinkPond.com uses Wordpress). Then I thought of all the complexities of setting up a MySQL database, creating and registering the site with WP Jetpack, etc. I wanted something quick, easy to maintain and something that I can hand over to someone else for maintaining.</description>
+    </item>
+  </channel>
+</rss>

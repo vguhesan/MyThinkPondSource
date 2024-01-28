@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intelliJ on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/intellij/</link>
+    <description>Recent content in intelliJ on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2011 18:42:58 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/intellij/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IntelliJ - Live Template - main() method generation</title>
+      <link>http://MyThinkPond.com/2011/04/27/intellij-live-template-main-method-generation/</link>
+      <pubDate>Wed, 27 Apr 2011 18:42:58 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/04/27/intellij-live-template-main-method-generation/</guid>
+      <description>IntelliJ - Live Template - main() method generation&#xA;Type &amp;ldquo;psvm&amp;rdquo; Ctrl+J will generate the main method.&#xA;Why &amp;ldquo;psvm&amp;rdquo;? &amp;ldquo;public static void main&amp;rdquo;&#xA;;-)</description>
+    </item>
+    <item>
+      <title>First Date with IntelliJ Community Edition and Scala</title>
+      <link>http://MyThinkPond.com/2009/11/04/first-date-with-intellij-community-edition-and-scala/</link>
+      <pubDate>Wed, 04 Nov 2009 17:20:52 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2009/11/04/first-date-with-intellij-community-edition-and-scala/</guid>
+      <description>Downloaded the Community Edition of IntelliJ a few days ago. Although most J2EE features are not available in the community edition, one of the features that did like was the Scala Plugin.&#xA;After I downloaded it and added the scala plug-in, I was very impressed with the tool. I have been using Eclipse (a little Netbeans) for most of my Java development and although I have tried the scala plugin that&amp;rsquo;s available for Eclipse, I wasn&amp;rsquo;t all that impressed.</description>
+    </item>
+  </channel>
+</rss>

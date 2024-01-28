@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Node.js on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/node.js/</link>
+    <description>Recent content in Node.js on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Oct 2016 18:42:15 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to package your node.js application for deploying it in an offline environment?</title>
+      <link>http://MyThinkPond.com/2016/10/14/how-to-package-your-node-js-application-for-deploying-it-in-an-offline-environment/</link>
+      <pubDate>Fri, 14 Oct 2016 18:42:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/10/14/how-to-package-your-node-js-application-for-deploying-it-in-an-offline-environment/</guid>
+      <description>Personally speaking, I prefer to have a self-contained bundle with all the artifacts and modules that might be required to deploy an application (not just Node.js application) in Production. In that way, I know exactly the bits that were installed and nothing more and nothing less. It also eliminates the availability of the NPM modules and network connectivity issues, etc. The following procedure shows you how to create a simple &amp;ldquo;Hello World&amp;rdquo; Node.</description>
+    </item>
+    <item>
+      <title>Node.js, Python, C/C&#43;&#43;, Ruby, PHP development from a tiny Linux embedded for about $10</title>
+      <link>http://MyThinkPond.com/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</link>
+      <pubDate>Tue, 04 Oct 2016 18:12:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</guid>
+      <description>Came across this tiny IoT embedded micro-controller/computer that runs BusyBox or FreeBSD Linux and can run code written in Node.js, Python, C/C++, Ruby and PHP all at a cost of $5 to $10 with WiFi, 2G/3G, Bluetooth, GPS add-ons for your cloud services. It also has enough GPIO pins to interface with external world and not to mention the I2C and I2S interfaces for talking to other devices and peripherals as well as interfacing for sounds (I2S).</description>
+    </item>
+    <item>
+      <title>Getting started with vertx (vert.io) – an alternative to node.js</title>
+      <link>http://MyThinkPond.com/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</link>
+      <pubDate>Thu, 15 Nov 2012 23:31:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</guid>
+      <description>Article Getting started with vertx (vert.io) – an alternative to node.js - has been posted on the new website at:&#xA;http://www.mythinkpond.com/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</description>
+    </item>
+    <item>
+      <title>Getting started with vertx (vert.io) - an alternative to node.js</title>
+      <link>http://MyThinkPond.com/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</link>
+      <pubDate>Thu, 15 Nov 2012 18:12:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</guid>
+      <description>Lately there has been a lot of synergy and publicity around node.js (especially if you want to utilize the robust features of a JavaScript language on the server-side). If you are not familiar with this, I would suggest you look at the following link:&#xA;Node.js - Event-driven I/O server-side JavaScript environment based on V8.&#xA;If you are a Java developer and as you try out the examples, you will notice how this will be a great addition into your infrastructure.</description>
+    </item>
+  </channel>
+</rss>

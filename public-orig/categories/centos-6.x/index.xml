@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CentOS 6.X on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/centos-6.x/</link>
+    <description>Recent content in CentOS 6.X on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Mar 2017 19:29:22 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/centos-6.x/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Set Up a TFTP Server on Linux | Linux.com</title>
+      <link>http://MyThinkPond.com/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</link>
+      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</guid>
+      <description>Most users are familiar with FTP, but if you want to kickstart Red Hat installs, PXE boot systems, auto-provision VoIP phones or unbrick a Linux-based router, you want a Trivial File Transfer Protocol (TFTP) server. Setting one up on Linux is easy, and a perfect project to take on over the weekend.&#xA;Source: Weekend Project: Set Up a TFTP Server on Linux | Linux.com | The source for Linux information</description>
+    </item>
+    <item>
+      <title>How To Record Everything You Do In Terminal - OSTechNix</title>
+      <link>http://MyThinkPond.com/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</link>
+      <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</guid>
+      <description>Synopsis:&#xA;script -a my_history mkdir test cd test touch hello_world.txt echo &#39;Hello World&#39; &gt; ./hello_world.txt # This closes the &#34;script -a my_history&#34; file exit Source: How To Record Everything You Do In Terminal - OSTechNix</description>
+    </item>
+    <item>
+      <title>Developing email applications on Windows, targeted for Linux environment - email, mailx, sendmail</title>
+      <link>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</guid>
+      <description>If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.&#xA;Let us begin by understand the problem.&#xA;Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
+    </item>
+    <item>
+      <title>CentOS 6.8 &amp; 7 - Change Timezone</title>
+      <link>http://MyThinkPond.com/2016/11/06/centos-6-8-7-change-timezone/</link>
+      <pubDate>Sun, 06 Nov 2016 14:38:38 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/06/centos-6-8-7-change-timezone/</guid>
+      <description>Here is a cheat sheet on changing the timezone in a linux system (CentOS 6.8 or 7):&#xA;# Remove the current timezone file rm /etc/localtime # Create a symbolic link to the new timezone you want # ls -la /usr/share/zoneinfo/ # ls -la /usr/share/zoneinfo/US/ # For GMT ln -s /usr/share/zoneinfo/GMT /etc/localtime # For EST ln -s /usr/share/zoneinfo/EST /etc/localtime # For UTC ln -s /usr/share/zoneinfo/UTC /etc/localtime # For GMT ln -s /usr/share/zoneinfo/GMT /etc/localtime # For New York (Eastern) ln -s /usr/share/zoneinfo/US/Eastern /etc/localtime # For Central ln -s /usr/share/zoneinfo/US/Central /etc/localtime # For Mountain time ln -s /usr/share/zoneinfo/US/Mountain /etc/localtime # For Pacific time ln -s /usr/share/zoneinfo/US/Pacific /etc/localtime # Set Date and Time (as needed) # MMDDHHmmYYYY date 072522172010 hwclock --systohc # If you&#39;re using NTPD Service # CentOS 6.</description>
+    </item>
+    <item>
+      <title>How to sync your date when you restore a VirtualBox snapshot?</title>
+      <link>http://MyThinkPond.com/2016/11/05/how-to-sync-your-date-when-you-restore-a-virtualbox-snapshot/</link>
+      <pubDate>Sat, 05 Nov 2016 16:45:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/05/how-to-sync-your-date-when-you-restore-a-virtualbox-snapshot/</guid>
+      <description>This article focuses on synchronizing/updating the clock in your guest linux VM after you restore a VirtualBox snapshot.&#xA;When you create a VirtualBox snapshot, it&amp;rsquo;s essentially a photo taken and frozen in time. All bits including the date and time are frozen to that instant. When you restore a snapshot, the Linux guest VM system is restored back to that snapshot including the date and time. This may not be desired all the time especially if the purpose is to restore the configuration and settings to an earlier time but your want to roll forward the clock on the VM to the present instance.</description>
+    </item>
+    <item>
+      <title>Two useful links comparing CentOS 6.X&#39;s - SysV-Init vs CentOS 7.X - SystemD - init systems</title>
+      <link>http://MyThinkPond.com/2016/07/19/two-useful-links-comparing-centos-6-xs-sysv-init-vs-centos-7-x-systemd-init-systems/</link>
+      <pubDate>Tue, 19 Jul 2016 13:00:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/07/19/two-useful-links-comparing-centos-6-xs-sysv-init-vs-centos-7-x-systemd-init-systems/</guid>
+      <description>In CentOS 6.8, the init system that brings up all the services (link autoexec files in Windows) was called SysV- Init. This has been the foundation for ages as long I&amp;rsquo;ve been using CentOS. But in the latest release of CentOS (CentOS 7+) the init engine has been moved to a more favorable engine labeled SystemD. SystemD is the init engine behind Ubuntu, Fedora, Red Hat and CentOS. So the standardization is good for the Linux community but moving from CentOS 6.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/javascript/</link>
+    <description>Recent content in Javascript on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 May 2018 14:37:18 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Great article on Duck Typing in JavaScript</title>
+      <link>http://MyThinkPond.com/post/great-article-on-duck-typing-in-javascript/</link>
+      <pubDate>Wed, 23 May 2018 14:37:18 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/great-article-on-duck-typing-in-javascript/</guid>
+      <description>Found a great article that explains what duck typing is and how it is used in JavaScript. Author makes it very simple to understand with examples.&#xA;A style of typing in which an object&amp;rsquo;s methods and properties determine the valid semantics, rather than it&amp;rsquo;s inheritance from a particular class or implementation of an explicit interface.&#xA;You can click on the link below to be redirected to that article.&#xA;Duck Typing in JavaScript</description>
+    </item>
+    <item>
+      <title>How to create jaw dropping Data Visualizations on the web with D3.js?</title>
+      <link>http://MyThinkPond.com/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</guid>
+      <description>Story telling using great visualizations.&#xA;Thus article goes into the details of creating great visuals leveraging D3 JavaScript library. It introduces the user into concepts provided by the D3 library.&#xA;Some of the steps includes:&#xA;Refreshing previous concepts of D3.js A glance at advanced concepts: Scales, Axes and Reading data from external sources Building basic charts and code reusability Line Chart Area Chart Chart as a modular structure Case Study Visualizing Game of Thrones Social Network – Force Directed Graph in action!</description>
+    </item>
+    <item>
+      <title>Javascript: Embrace Arrow Functions</title>
+      <link>http://MyThinkPond.com/post/2017-05-03-javascript-embrace-arrow-functions/</link>
+      <pubDate>Wed, 03 May 2017 19:23:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-05-03-javascript-embrace-arrow-functions/</guid>
+      <description>Great article on JavaScript currying and arrow functions.&#xA;Here is an example of a function in Javascript:&#xA;const secret = function (msg) { return function () { return msg; }; }; The same function as currying or arrow function:&#xA;const secret = msg =&amp;gt; () =&amp;gt; msg; To learn more about the basics, visit the link below. Source: Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions</description>
+    </item>
+    <item>
+      <title>Elements of JavaScript Style – JavaScript Scene – Medium</title>
+      <link>http://MyThinkPond.com/post/2017-05-03-elements-of-javascript-style-javascript-scene-medium/</link>
+      <pubDate>Wed, 03 May 2017 19:07:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-05-03-elements-of-javascript-style-javascript-scene-medium/</guid>
+      <description>Great article focusing on Javascript style. Provides some good examples of JavaScript coding styles, practices, and things to avoid.&#xA;The examples includes:&#xA;Make the function the unit of composition. One job for each function. Omit needless code. Use active voice. Avoid a succession of loose statements. Keep related code together. Put statements and expressions in positive form. Use parallel code for parallel concepts. Source: Elements of JavaScript Style – JavaScript Scene – Medium</description>
+    </item>
+    <item>
+      <title>Angular Modules vs ES6 Modules - DZone Web Dev</title>
+      <link>http://MyThinkPond.com/2017/03/13/angular-modules-vs-es6-modules-dzone-web-dev/</link>
+      <pubDate>Mon, 13 Mar 2017 14:19:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/13/angular-modules-vs-es6-modules-dzone-web-dev/</guid>
+      <description>In this post, you&amp;rsquo;ll find a quick tutorial explaining the difference between Angular Module and ESG Modules, and how to best use each of these platforms.&#xA;Here is a quick summary:&#xA;ES6 Module Example:&#xA;import { sqrt } from &#39;math-utils&#39;; const addition = (val1, val2) =&amp;gt; val1 + val2; const subtraction = (val1, val2) =&amp;gt; val1 - val2; const multiplication = (val1, val2) =&amp;gt; val1 * val2; const calculateSquareRoot = (val) =&amp;gt; sqrt(val); export { addition, multiplication } Angular Module Example:</description>
+    </item>
+    <item>
+      <title>An insecure mess: How flawed JavaScript is turning web into a hacker&#39;s playground | ZDNet</title>
+      <link>http://MyThinkPond.com/2017/03/13/an-insecure-mess-how-flawed-javascript-is-turning-web-into-a-hackers-playground-zdnet/</link>
+      <pubDate>Mon, 13 Mar 2017 14:07:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/13/an-insecure-mess-how-flawed-javascript-is-turning-web-into-a-hackers-playground-zdnet/</guid>
+      <description>Researchers say tens of thousands of sites are using JavaScript libraries that are years old and contain publicly known vulnerabilities.&#xA;An analysis of over 133,000 websites has found that 37 percent of them have at least one JavaScript library with a known vulnerability. There are no reliable vulnerability databases, no security mailing lists maintained by library vendors, few or no details on security issues in release notes, and often, it is difficult to determine which versions of a library are affected by a specific reported vulnerability.</description>
+    </item>
+    <item>
+      <title>How to package your node.js application for deploying it in an offline environment?</title>
+      <link>http://MyThinkPond.com/2016/10/14/how-to-package-your-node-js-application-for-deploying-it-in-an-offline-environment/</link>
+      <pubDate>Fri, 14 Oct 2016 18:42:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/10/14/how-to-package-your-node-js-application-for-deploying-it-in-an-offline-environment/</guid>
+      <description>Personally speaking, I prefer to have a self-contained bundle with all the artifacts and modules that might be required to deploy an application (not just Node.js application) in Production. In that way, I know exactly the bits that were installed and nothing more and nothing less. It also eliminates the availability of the NPM modules and network connectivity issues, etc. The following procedure shows you how to create a simple &amp;ldquo;Hello World&amp;rdquo; Node.</description>
+    </item>
+    <item>
+      <title>Copy to Clipboard - a browser agnostic way to script this functionality</title>
+      <link>http://MyThinkPond.com/2011/10/31/copy-to-clipboard-a-browser-agnostic-way-to-script-this-functionality/</link>
+      <pubDate>Mon, 31 Oct 2011 23:52:28 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/10/31/copy-to-clipboard-a-browser-agnostic-way-to-script-this-functionality/</guid>
+      <description>Have you tried to present some code or sample content for the end-user that you wanted to allow them to easily copy to their clip-board?&#xA;If you use the JQuery Javascript library then you can use the plugin called zClip available here - zClip&#xA;Using zclip you can attach an event to a button or a text-area such that when the event occurs, the content is copied to the clipboard.</description>
+    </item>
+    <item>
+      <title>Importance of named windows and how to close all child windows</title>
+      <link>http://MyThinkPond.com/2011/01/16/importance-of-named-windows-and-how-to-close-all-child-windows/</link>
+      <pubDate>Sun, 16 Jan 2011 23:00:44 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/01/16/importance-of-named-windows-and-how-to-close-all-child-windows/</guid>
+      <description>One of the questions posed by a friend of mine is this.&#xA;In a typical website-application, you spawn a few child windows here and there and because of the nature of the application, you do not have a handle to all the child windows you spawn open... Then how do you close all the child windows that belong to your application when the user logs out of your application or closes the main window with the intent that he/she wants to log out?</description>
+    </item>
+    <item>
+      <title>jQuery Accordian Internet Explorer 6 Issue</title>
+      <link>http://MyThinkPond.com/2010/01/19/jquery-accordian-internet-explorer-6-issue/</link>
+      <pubDate>Tue, 19 Jan 2010 15:22:01 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/01/19/jquery-accordian-internet-explorer-6-issue/</guid>
+      <description>If you are using the Accordian UI from jQuery and your accordion body (the content in div.ui-accordion-content tag) contains anchor tags then you might experience a few glitches in IE6 where the display might not render properly when selected.&#xA;One way to address this issue is the following: Add this to the header&amp;hellip;&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;[/sourcecode]&#xA;This will force a refresh of the content when expanded.&#xA;The other thing that you may not have is a doctype defined in the header.</description>
+    </item>
+  </channel>
+</rss>

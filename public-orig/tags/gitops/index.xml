@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitOps on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/gitops/</link>
+    <description>Recent content in GitOps on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/gitops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps/GitOps: DevOps95 Columbia 2020 : Kubernetes : Getting Started</title>
+      <link>http://MyThinkPond.com/post/2020-06-14-devops-95-kubernetes-getting-started/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2020-06-14-devops-95-kubernetes-getting-started/</guid>
+      <description>Design by - Venkatt Guhesan&#xA;DevOps/GitOps: DevOps95 / DevOps Columbia / 2020 DevOps Days (DevOpsDays.org) is a global phenomenon going on each year. This year due to COVID-19 lock down, the event was hosted online and in partnership with various meet-ups in the I-95 (interstate 95) corridor. The idea of a DevOps95 grew out of the series of towns and suburbs connecting on the interstate I-95 route on East-Coast. It is an one-day virtual meet-up (on Zoom) where industry leaders from GitOps and DevOps shared their knowledge with others.</description>
+    </item>
+  </channel>
+</rss>

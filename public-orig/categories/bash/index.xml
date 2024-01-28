@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bash on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/bash/</link>
+    <description>Recent content in Bash on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Mar 2017 19:29:22 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/bash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Set Up a TFTP Server on Linux | Linux.com</title>
+      <link>http://MyThinkPond.com/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</link>
+      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</guid>
+      <description>Most users are familiar with FTP, but if you want to kickstart Red Hat installs, PXE boot systems, auto-provision VoIP phones or unbrick a Linux-based router, you want a Trivial File Transfer Protocol (TFTP) server. Setting one up on Linux is easy, and a perfect project to take on over the weekend.&#xA;Source: Weekend Project: Set Up a TFTP Server on Linux | Linux.com | The source for Linux information</description>
+    </item>
+    <item>
+      <title>Developing email applications on Windows, targeted for Linux environment - email, mailx, sendmail</title>
+      <link>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</guid>
+      <description>If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.&#xA;Let us begin by understand the problem.&#xA;Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
+    </item>
+    <item>
+      <title>WaitUntilPortOpens() - How to wait until process A runs and binds to a port before spawning process B?</title>
+      <link>http://MyThinkPond.com/2016/07/08/waituntilportopens-how-to-wait-until-process-a-runs-and-binds-to-a-port-before-spawning-process-b/</link>
+      <pubDate>Fri, 08 Jul 2016 16:03:02 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/07/08/waituntilportopens-how-to-wait-until-process-a-runs-and-binds-to-a-port-before-spawning-process-b/</guid>
+      <description>Sometimes we have situations where you need to wait until one application is loaded that may bind to a certain port before kicking off a second application that may depend on that port. This process is typically described as &amp;ldquo;Wait-Until-Port-Opens&amp;rdquo; (or it could be the reverse - where you want to wait until a port closes).&#xA;Here are some use-cases for this method or script:&#xA;You have a Java web application (Jetty, Tomcat, WildFly, etc) that listens on port 8080 and you want your Nginx or Apache HTTPd server to start as a proxy-server once that back-end web server is bound to port 8080.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,3575 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/</link>
+    <description>Recent content in Tags on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HM750A1000</title>
+      <link>http://MyThinkPond.com/tags/hm750a1000/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/hm750a1000/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Honeywell</title>
+      <link>http://MyThinkPond.com/tags/honeywell/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/honeywell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humidifier</title>
+      <link>http://MyThinkPond.com/tags/humidifier/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/humidifier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JSON</title>
+      <link>http://MyThinkPond.com/tags/json/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/json/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>YAML</title>
+      <link>http://MyThinkPond.com/tags/yaml/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/yaml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cygwin</title>
+      <link>http://MyThinkPond.com/tags/cygwin/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/cygwin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>http://MyThinkPond.com/tags/windows/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hyper-v</title>
+      <link>http://MyThinkPond.com/tags/hyper-v/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/hyper-v/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VirtualBox</title>
+      <link>http://MyThinkPond.com/tags/virtualbox/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/virtualbox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows 11</title>
+      <link>http://MyThinkPond.com/tags/windows-11/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/windows-11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>time</title>
+      <link>http://MyThinkPond.com/tags/time/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/time/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>time mgt</title>
+      <link>http://MyThinkPond.com/tags/time-mgt/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/time-mgt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Copy File</title>
+      <link>http://MyThinkPond.com/tags/copy-file/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/copy-file/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GoLang</title>
+      <link>http://MyThinkPond.com/tags/golang/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Containers</title>
+      <link>http://MyThinkPond.com/tags/containers/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/containers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>http://MyThinkPond.com/tags/devops/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://MyThinkPond.com/tags/docker/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitOps</title>
+      <link>http://MyThinkPond.com/tags/gitops/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/gitops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>http://MyThinkPond.com/tags/kubernetes/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>minikube</title>
+      <link>http://MyThinkPond.com/tags/minikube/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/minikube/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>openkube</title>
+      <link>http://MyThinkPond.com/tags/openkube/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/openkube/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code Coverage</title>
+      <link>http://MyThinkPond.com/tags/code-coverage/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/code-coverage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coverage</title>
+      <link>http://MyThinkPond.com/tags/coverage/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/coverage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://MyThinkPond.com/tags/python/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unit Testing</title>
+      <link>http://MyThinkPond.com/tags/unit-testing/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/unit-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UnitTesting</title>
+      <link>http://MyThinkPond.com/tags/unittesting/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/unittesting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arrow</title>
+      <link>http://MyThinkPond.com/tags/arrow/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/arrow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DateTime</title>
+      <link>http://MyThinkPond.com/tags/datetime/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/datetime/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humanize</title>
+      <link>http://MyThinkPond.com/tags/humanize/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/humanize/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interval</title>
+      <link>http://MyThinkPond.com/tags/interval/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/interval/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>time difference</title>
+      <link>http://MyThinkPond.com/tags/time-difference/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/time-difference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>timedelta</title>
+      <link>http://MyThinkPond.com/tags/timedelta/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/timedelta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>License</title>
+      <link>http://MyThinkPond.com/tags/license/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/license/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Product Key</title>
+      <link>http://MyThinkPond.com/tags/product-key/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/product-key/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System Support</title>
+      <link>http://MyThinkPond.com/tags/system-support/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/system-support/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>upgrade</title>
+      <link>http://MyThinkPond.com/tags/upgrade/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/upgrade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows 10</title>
+      <link>http://MyThinkPond.com/tags/windows-10/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/windows-10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows 10 Product Key</title>
+      <link>http://MyThinkPond.com/tags/windows-10-product-key/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/windows-10-product-key/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>COVID-19</title>
+      <link>http://MyThinkPond.com/tags/covid-19/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jump-start America</title>
+      <link>http://MyThinkPond.com/tags/jump-start-america/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/jump-start-america/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jump-start the World</title>
+      <link>http://MyThinkPond.com/tags/jump-start-the-world/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/jump-start-the-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>rebuilding America</title>
+      <link>http://MyThinkPond.com/tags/rebuilding-america/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/rebuilding-america/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>rebuilding the world</title>
+      <link>http://MyThinkPond.com/tags/rebuilding-the-world/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/rebuilding-the-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>recovery</title>
+      <link>http://MyThinkPond.com/tags/recovery/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/recovery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>book</title>
+      <link>http://MyThinkPond.com/tags/book/</link>
+      <pubDate>Sat, 07 Sep 2019 23:33:31 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cartoon</title>
+      <link>http://MyThinkPond.com/tags/cartoon/</link>
+      <pubDate>Sat, 07 Sep 2019 23:33:31 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/cartoon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>statistics</title>
+      <link>http://MyThinkPond.com/tags/statistics/</link>
+      <pubDate>Sat, 07 Sep 2019 23:33:31 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/statistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cote</title>
+      <link>http://MyThinkPond.com/tags/cote/</link>
+      <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/cote/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GraalVM</title>
+      <link>http://MyThinkPond.com/tags/graalvm/</link>
+      <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/graalvm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>J2EE</title>
+      <link>http://MyThinkPond.com/tags/j2ee/</link>
+      <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/j2ee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://MyThinkPond.com/tags/java/</link>
+      <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microservices</title>
+      <link>http://MyThinkPond.com/tags/microservices/</link>
+      <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/microservices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Molecular.js</title>
+      <link>http://MyThinkPond.com/tags/molecular.js/</link>
+      <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/molecular.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node</title>
+      <link>http://MyThinkPond.com/tags/node/</link>
+      <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring Boot</title>
+      <link>http://MyThinkPond.com/tags/spring-boot/</link>
+      <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/spring-boot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ALTER</title>
+      <link>http://MyThinkPond.com/tags/alter/</link>
+      <pubDate>Thu, 05 Sep 2019 21:04:14 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/alter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hypertable</title>
+      <link>http://MyThinkPond.com/tags/hypertable/</link>
+      <pubDate>Thu, 05 Sep 2019 21:04:14 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/hypertable/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PostgreSQL</title>
+      <link>http://MyThinkPond.com/tags/postgresql/</link>
+      <pubDate>Thu, 05 Sep 2019 21:04:14 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>time-series</title>
+      <link>http://MyThinkPond.com/tags/time-series/</link>
+      <pubDate>Thu, 05 Sep 2019 21:04:14 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/time-series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TimeScale</title>
+      <link>http://MyThinkPond.com/tags/timescale/</link>
+      <pubDate>Thu, 05 Sep 2019 21:04:14 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/timescale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blink</title>
+      <link>http://MyThinkPond.com/tags/blink/</link>
+      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/blink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blink Sync</title>
+      <link>http://MyThinkPond.com/tags/blink-sync/</link>
+      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/blink-sync/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Camera</title>
+      <link>http://MyThinkPond.com/tags/camera/</link>
+      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/camera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>embedded</title>
+      <link>http://MyThinkPond.com/tags/embedded/</link>
+      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/embedded/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>http://MyThinkPond.com/tags/hardware/</link>
+      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sync</title>
+      <link>http://MyThinkPond.com/tags/sync/</link>
+      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/sync/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>water-proof</title>
+      <link>http://MyThinkPond.com/tags/water-proof/</link>
+      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/water-proof/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>http://MyThinkPond.com/tags/javascript/</link>
+      <pubDate>Wed, 23 May 2018 14:37:18 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JS</title>
+      <link>http://MyThinkPond.com/tags/js/</link>
+      <pubDate>Wed, 23 May 2018 14:37:18 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>jar</title>
+      <link>http://MyThinkPond.com/tags/jar/</link>
+      <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/jar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>maven</title>
+      <link>http://MyThinkPond.com/tags/maven/</link>
+      <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/maven/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>maven-shade-plugin</title>
+      <link>http://MyThinkPond.com/tags/maven-shade-plugin/</link>
+      <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/maven-shade-plugin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring</title>
+      <link>http://MyThinkPond.com/tags/spring/</link>
+      <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/spring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>spring.handlers</title>
+      <link>http://MyThinkPond.com/tags/spring.handlers/</link>
+      <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/spring.handlers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>spring.schemas</title>
+      <link>http://MyThinkPond.com/tags/spring.schemas/</link>
+      <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/spring.schemas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>uber</title>
+      <link>http://MyThinkPond.com/tags/uber/</link>
+      <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/uber/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>uber-jar</title>
+      <link>http://MyThinkPond.com/tags/uber-jar/</link>
+      <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/uber-jar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>health</title>
+      <link>http://MyThinkPond.com/tags/health/</link>
+      <pubDate>Wed, 10 Jan 2018 16:47:34 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misc</title>
+      <link>http://MyThinkPond.com/tags/misc/</link>
+      <pubDate>Tue, 02 Jan 2018 17:14:16 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/misc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reset</title>
+      <link>http://MyThinkPond.com/tags/reset/</link>
+      <pubDate>Tue, 02 Jan 2018 17:14:16 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/reset/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reset Service Reminder Message</title>
+      <link>http://MyThinkPond.com/tags/reset-service-reminder-message/</link>
+      <pubDate>Tue, 02 Jan 2018 17:14:16 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/reset-service-reminder-message/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>S60</title>
+      <link>http://MyThinkPond.com/tags/s60/</link>
+      <pubDate>Tue, 02 Jan 2018 17:14:16 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/s60/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Service Reminder Message</title>
+      <link>http://MyThinkPond.com/tags/service-reminder-message/</link>
+      <pubDate>Tue, 02 Jan 2018 17:14:16 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/service-reminder-message/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Volvo</title>
+      <link>http://MyThinkPond.com/tags/volvo/</link>
+      <pubDate>Tue, 02 Jan 2018 17:14:16 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/volvo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2018</title>
+      <link>http://MyThinkPond.com/tags/2018/</link>
+      <pubDate>Mon, 01 Jan 2018 18:11:50 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/2018/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Happy New Year</title>
+      <link>http://MyThinkPond.com/tags/happy-new-year/</link>
+      <pubDate>Mon, 01 Jan 2018 18:11:50 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/happy-new-year/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inspirational</title>
+      <link>http://MyThinkPond.com/tags/inspirational/</link>
+      <pubDate>Mon, 01 Jan 2018 18:11:50 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/inspirational/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>In-The-News</title>
+      <link>http://MyThinkPond.com/tags/in-the-news/</link>
+      <pubDate>Tue, 28 Nov 2017 18:22:13 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/in-the-news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Innovation</title>
+      <link>http://MyThinkPond.com/tags/innovation/</link>
+      <pubDate>Tue, 28 Nov 2017 18:22:13 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/innovation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inspiration</title>
+      <link>http://MyThinkPond.com/tags/inspiration/</link>
+      <pubDate>Tue, 28 Nov 2017 18:22:13 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Appreciate Life</title>
+      <link>http://MyThinkPond.com/tags/appreciate-life/</link>
+      <pubDate>Sat, 25 Nov 2017 10:09:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/appreciate-life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desire</title>
+      <link>http://MyThinkPond.com/tags/desire/</link>
+      <pubDate>Sat, 25 Nov 2017 10:09:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/desire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Determination</title>
+      <link>http://MyThinkPond.com/tags/determination/</link>
+      <pubDate>Sat, 25 Nov 2017 10:09:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/determination/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Happy Thanksgiving</title>
+      <link>http://MyThinkPond.com/tags/happy-thanksgiving/</link>
+      <pubDate>Sat, 25 Nov 2017 10:09:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/happy-thanksgiving/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life in third world country</title>
+      <link>http://MyThinkPond.com/tags/life-in-third-world-country/</link>
+      <pubDate>Sat, 25 Nov 2017 10:09:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/life-in-third-world-country/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>One mans struggle to rise above poverty</title>
+      <link>http://MyThinkPond.com/tags/one-mans-struggle-to-rise-above-poverty/</link>
+      <pubDate>Sat, 25 Nov 2017 10:09:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/one-mans-struggle-to-rise-above-poverty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>random kindness</title>
+      <link>http://MyThinkPond.com/tags/random-kindness/</link>
+      <pubDate>Sat, 25 Nov 2017 10:09:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/random-kindness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strength</title>
+      <link>http://MyThinkPond.com/tags/strength/</link>
+      <pubDate>Sat, 25 Nov 2017 10:09:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/strength/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>firebase</title>
+      <link>http://MyThinkPond.com/tags/firebase/</link>
+      <pubDate>Fri, 24 Nov 2017 15:50:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/firebase/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>firebase-tools</title>
+      <link>http://MyThinkPond.com/tags/firebase-tools/</link>
+      <pubDate>Fri, 24 Nov 2017 15:50:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/firebase-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>installation</title>
+      <link>http://MyThinkPond.com/tags/installation/</link>
+      <pubDate>Fri, 24 Nov 2017 15:50:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/installation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>npm</title>
+      <link>http://MyThinkPond.com/tags/npm/</link>
+      <pubDate>Fri, 24 Nov 2017 15:50:58 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/npm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>application context</title>
+      <link>http://MyThinkPond.com/tags/application-context/</link>
+      <pubDate>Fri, 24 Nov 2017 13:28:10 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/application-context/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>applicationContext</title>
+      <link>http://MyThinkPond.com/tags/applicationcontext/</link>
+      <pubDate>Fri, 24 Nov 2017 13:28:10 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/applicationcontext/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Context</title>
+      <link>http://MyThinkPond.com/tags/context/</link>
+      <pubDate>Fri, 24 Nov 2017 13:28:10 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/context/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring Framework</title>
+      <link>http://MyThinkPond.com/tags/spring-framework/</link>
+      <pubDate>Fri, 24 Nov 2017 13:28:10 -0500</pubDate>
+      <guid>http://MyThinkPond.com/tags/spring-framework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jumbo</title>
+      <link>http://MyThinkPond.com/tags/jumbo/</link>
+      <pubDate>Mon, 16 Oct 2017 13:22:49 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/jumbo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jumbo Packets</title>
+      <link>http://MyThinkPond.com/tags/jumbo-packets/</link>
+      <pubDate>Mon, 16 Oct 2017 13:22:49 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/jumbo-packets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://MyThinkPond.com/tags/linux/</link>
+      <pubDate>Mon, 16 Oct 2017 13:22:49 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mac OS X</title>
+      <link>http://MyThinkPond.com/tags/mac-os-x/</link>
+      <pubDate>Mon, 16 Oct 2017 13:22:49 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/mac-os-x/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>packet size</title>
+      <link>http://MyThinkPond.com/tags/packet-size/</link>
+      <pubDate>Mon, 16 Oct 2017 13:22:49 -0400</pubDate>
+      <guid>http://MyThinkPond.com/tags/packet-size/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://MyThinkPond.com/tags/blog/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>http://MyThinkPond.com/tags/design/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>http://MyThinkPond.com/tags/general/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://MyThinkPond.com/tags/hugo/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress</title>
+      <link>http://MyThinkPond.com/tags/wordpress/</link>
+      <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>performance</title>
+      <link>http://MyThinkPond.com/tags/performance/</link>
+      <pubDate>Wed, 20 Sep 2017 22:21:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>productivity</title>
+      <link>http://MyThinkPond.com/tags/productivity/</link>
+      <pubDate>Wed, 20 Sep 2017 22:21:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>self-improvement</title>
+      <link>http://MyThinkPond.com/tags/self-improvement/</link>
+      <pubDate>Wed, 20 Sep 2017 22:21:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/self-improvement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ffmpeg</title>
+      <link>http://MyThinkPond.com/tags/ffmpeg/</link>
+      <pubDate>Tue, 19 Sep 2017 02:06:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ffmpeg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mac</title>
+      <link>http://MyThinkPond.com/tags/mac/</link>
+      <pubDate>Tue, 19 Sep 2017 02:06:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/mac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OS X</title>
+      <link>http://MyThinkPond.com/tags/os-x/</link>
+      <pubDate>Tue, 19 Sep 2017 02:06:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/os-x/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>osx</title>
+      <link>http://MyThinkPond.com/tags/osx/</link>
+      <pubDate>Tue, 19 Sep 2017 02:06:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/osx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>c3.js</title>
+      <link>http://MyThinkPond.com/tags/c3.js/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/c3.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>d3</title>
+      <link>http://MyThinkPond.com/tags/d3/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/d3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>d3.js</title>
+      <link>http://MyThinkPond.com/tags/d3.js/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/d3.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>great story telling</title>
+      <link>http://MyThinkPond.com/tags/great-story-telling/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/great-story-telling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>visualization</title>
+      <link>http://MyThinkPond.com/tags/visualization/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>visuals</title>
+      <link>http://MyThinkPond.com/tags/visuals/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/visuals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graphic Design</title>
+      <link>http://MyThinkPond.com/tags/graphic-design/</link>
+      <pubDate>Tue, 29 Aug 2017 21:13:51 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/graphic-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logo</title>
+      <link>http://MyThinkPond.com/tags/logo/</link>
+      <pubDate>Tue, 29 Aug 2017 21:13:51 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/logo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>YouTube</title>
+      <link>http://MyThinkPond.com/tags/youtube/</link>
+      <pubDate>Tue, 29 Aug 2017 21:13:51 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/youtube/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>fonts</title>
+      <link>http://MyThinkPond.com/tags/fonts/</link>
+      <pubDate>Tue, 04 Jul 2017 16:20:29 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/fonts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>parametric fonts</title>
+      <link>http://MyThinkPond.com/tags/parametric-fonts/</link>
+      <pubDate>Tue, 04 Jul 2017 16:20:29 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/parametric-fonts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>responsive font</title>
+      <link>http://MyThinkPond.com/tags/responsive-font/</link>
+      <pubDate>Tue, 04 Jul 2017 16:20:29 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/responsive-font/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>networking</title>
+      <link>http://MyThinkPond.com/tags/networking/</link>
+      <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>route</title>
+      <link>http://MyThinkPond.com/tags/route/</link>
+      <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/route/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Particle</title>
+      <link>http://MyThinkPond.com/tags/particle/</link>
+      <pubDate>Thu, 11 May 2017 23:31:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/particle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photon</title>
+      <link>http://MyThinkPond.com/tags/photon/</link>
+      <pubDate>Thu, 11 May 2017 23:31:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/photon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sensor</title>
+      <link>http://MyThinkPond.com/tags/sensor/</link>
+      <pubDate>Thu, 11 May 2017 23:31:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/sensor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ancient</title>
+      <link>http://MyThinkPond.com/tags/ancient/</link>
+      <pubDate>Thu, 11 May 2017 01:41:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ancient/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artic</title>
+      <link>http://MyThinkPond.com/tags/artic/</link>
+      <pubDate>Thu, 11 May 2017 01:41:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/artic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Melting</title>
+      <link>http://MyThinkPond.com/tags/melting/</link>
+      <pubDate>Thu, 11 May 2017 01:41:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/melting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virus</title>
+      <link>http://MyThinkPond.com/tags/virus/</link>
+      <pubDate>Thu, 11 May 2017 01:41:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/virus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atomic Structure</title>
+      <link>http://MyThinkPond.com/tags/atomic-structure/</link>
+      <pubDate>Thu, 11 May 2017 01:37:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/atomic-structure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://MyThinkPond.com/tags/education/</link>
+      <pubDate>Thu, 11 May 2017 01:37:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nuclear Physics</title>
+      <link>http://MyThinkPond.com/tags/nuclear-physics/</link>
+      <pubDate>Thu, 11 May 2017 01:37:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/nuclear-physics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>qbit prgrammer</title>
+      <link>http://MyThinkPond.com/tags/qbit-prgrammer/</link>
+      <pubDate>Thu, 11 May 2017 01:35:19 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/qbit-prgrammer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum</title>
+      <link>http://MyThinkPond.com/tags/quantum/</link>
+      <pubDate>Thu, 11 May 2017 01:35:19 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/quantum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum Programmer</title>
+      <link>http://MyThinkPond.com/tags/quantum-programmer/</link>
+      <pubDate>Thu, 11 May 2017 01:35:19 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/quantum-programmer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keeping Cool</title>
+      <link>http://MyThinkPond.com/tags/keeping-cool/</link>
+      <pubDate>Thu, 11 May 2017 01:31:47 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/keeping-cool/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nanofridge</title>
+      <link>http://MyThinkPond.com/tags/nanofridge/</link>
+      <pubDate>Thu, 11 May 2017 01:31:47 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/nanofridge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum Computers</title>
+      <link>http://MyThinkPond.com/tags/quantum-computers/</link>
+      <pubDate>Thu, 11 May 2017 01:31:47 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/quantum-computers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graphine</title>
+      <link>http://MyThinkPond.com/tags/graphine/</link>
+      <pubDate>Thu, 11 May 2017 01:28:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/graphine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT</title>
+      <link>http://MyThinkPond.com/tags/mit/</link>
+      <pubDate>Thu, 11 May 2017 01:28:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/mit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Superconductors</title>
+      <link>http://MyThinkPond.com/tags/superconductors/</link>
+      <pubDate>Thu, 11 May 2017 01:28:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/superconductors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Earth</title>
+      <link>http://MyThinkPond.com/tags/earth/</link>
+      <pubDate>Thu, 11 May 2017 01:23:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/earth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jupiter</title>
+      <link>http://MyThinkPond.com/tags/jupiter/</link>
+      <pubDate>Thu, 11 May 2017 01:23:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/jupiter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>similarities</title>
+      <link>http://MyThinkPond.com/tags/similarities/</link>
+      <pubDate>Thu, 11 May 2017 01:23:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/similarities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time Crystals</title>
+      <link>http://MyThinkPond.com/tags/time-crystals/</link>
+      <pubDate>Thu, 11 May 2017 01:20:13 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/time-crystals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UMCP</title>
+      <link>http://MyThinkPond.com/tags/umcp/</link>
+      <pubDate>Thu, 11 May 2017 01:20:13 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/umcp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>University of Maryland</title>
+      <link>http://MyThinkPond.com/tags/university-of-maryland/</link>
+      <pubDate>Thu, 11 May 2017 01:20:13 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/university-of-maryland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arrow Functions</title>
+      <link>http://MyThinkPond.com/tags/arrow-functions/</link>
+      <pubDate>Wed, 03 May 2017 19:23:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/arrow-functions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Development</title>
+      <link>http://MyThinkPond.com/tags/software-development/</link>
+      <pubDate>Wed, 03 May 2017 19:23:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/software-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cancer</title>
+      <link>http://MyThinkPond.com/tags/cancer/</link>
+      <pubDate>Fri, 28 Apr 2017 21:39:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/cancer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DNA</title>
+      <link>http://MyThinkPond.com/tags/dna/</link>
+      <pubDate>Fri, 28 Apr 2017 21:39:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/dna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stem cells</title>
+      <link>http://MyThinkPond.com/tags/stem-cells/</link>
+      <pubDate>Fri, 28 Apr 2017 21:39:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/stem-cells/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>simulation</title>
+      <link>http://MyThinkPond.com/tags/simulation/</link>
+      <pubDate>Mon, 24 Apr 2017 15:27:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/simulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VR</title>
+      <link>http://MyThinkPond.com/tags/vr/</link>
+      <pubDate>Mon, 24 Apr 2017 15:27:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/vr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>American History</title>
+      <link>http://MyThinkPond.com/tags/american-history/</link>
+      <pubDate>Sat, 22 Apr 2017 22:53:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/american-history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>spin</title>
+      <link>http://MyThinkPond.com/tags/spin/</link>
+      <pubDate>Thu, 20 Apr 2017 16:04:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/spin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>http://MyThinkPond.com/tags/ai/</link>
+      <pubDate>Thu, 06 Apr 2017 19:01:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://MyThinkPond.com/tags/artificial-intelligence/</link>
+      <pubDate>Thu, 06 Apr 2017 19:01:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>One-Shot</title>
+      <link>http://MyThinkPond.com/tags/one-shot/</link>
+      <pubDate>Thu, 06 Apr 2017 19:01:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/one-shot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>One-Shot Learning</title>
+      <link>http://MyThinkPond.com/tags/one-shot-learning/</link>
+      <pubDate>Thu, 06 Apr 2017 19:01:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/one-shot-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>technology</title>
+      <link>http://MyThinkPond.com/tags/technology/</link>
+      <pubDate>Thu, 06 Apr 2017 19:01:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://MyThinkPond.com/tags/programming/</link>
+      <pubDate>Sat, 01 Apr 2017 16:26:27 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>uvloop</title>
+      <link>http://MyThinkPond.com/tags/uvloop/</link>
+      <pubDate>Sat, 01 Apr 2017 16:26:27 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/uvloop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>astrocytes</title>
+      <link>http://MyThinkPond.com/tags/astrocytes/</link>
+      <pubDate>Tue, 28 Mar 2017 00:33:52 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/astrocytes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>amplifier</title>
+      <link>http://MyThinkPond.com/tags/amplifier/</link>
+      <pubDate>Fri, 24 Mar 2017 02:41:52 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/amplifier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>audiophonic</title>
+      <link>http://MyThinkPond.com/tags/audiophonic/</link>
+      <pubDate>Fri, 24 Mar 2017 02:41:52 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/audiophonic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Disk Capacity</title>
+      <link>http://MyThinkPond.com/tags/disk-capacity/</link>
+      <pubDate>Thu, 16 Mar 2017 14:38:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/disk-capacity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Disk Growth Rate</title>
+      <link>http://MyThinkPond.com/tags/disk-growth-rate/</link>
+      <pubDate>Thu, 16 Mar 2017 14:38:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/disk-growth-rate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predict when full</title>
+      <link>http://MyThinkPond.com/tags/predict-when-full/</link>
+      <pubDate>Thu, 16 Mar 2017 14:38:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/predict-when-full/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ftrace</title>
+      <link>http://MyThinkPond.com/tags/ftrace/</link>
+      <pubDate>Thu, 16 Mar 2017 01:19:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ftrace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>gdb</title>
+      <link>http://MyThinkPond.com/tags/gdb/</link>
+      <pubDate>Thu, 16 Mar 2017 01:19:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/gdb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kernel debugging</title>
+      <link>http://MyThinkPond.com/tags/kernel-debugging/</link>
+      <pubDate>Thu, 16 Mar 2017 01:19:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/kernel-debugging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bolt</title>
+      <link>http://MyThinkPond.com/tags/bolt/</link>
+      <pubDate>Thu, 16 Mar 2017 00:49:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/bolt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iris</title>
+      <link>http://MyThinkPond.com/tags/iris/</link>
+      <pubDate>Thu, 16 Mar 2017 00:49:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/iris/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evolution of a Storage Administrator</title>
+      <link>http://MyThinkPond.com/tags/evolution-of-a-storage-administrator/</link>
+      <pubDate>Wed, 15 Mar 2017 19:13:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/evolution-of-a-storage-administrator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>host connection</title>
+      <link>http://MyThinkPond.com/tags/host-connection/</link>
+      <pubDate>Wed, 15 Mar 2017 19:13:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/host-connection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IBM Spectrum Scale</title>
+      <link>http://MyThinkPond.com/tags/ibm-spectrum-scale/</link>
+      <pubDate>Wed, 15 Mar 2017 19:13:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ibm-spectrum-scale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Object Storage</title>
+      <link>http://MyThinkPond.com/tags/object-storage/</link>
+      <pubDate>Wed, 15 Mar 2017 19:13:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/object-storage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Operating Systems</title>
+      <link>http://MyThinkPond.com/tags/operating-systems/</link>
+      <pubDate>Wed, 15 Mar 2017 19:13:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/operating-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>storage access protocol</title>
+      <link>http://MyThinkPond.com/tags/storage-access-protocol/</link>
+      <pubDate>Wed, 15 Mar 2017 19:13:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/storage-access-protocol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Storage Administrator</title>
+      <link>http://MyThinkPond.com/tags/storage-administrator/</link>
+      <pubDate>Wed, 15 Mar 2017 19:13:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/storage-administrator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>storage devices</title>
+      <link>http://MyThinkPond.com/tags/storage-devices/</link>
+      <pubDate>Wed, 15 Mar 2017 19:13:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/storage-devices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apache</title>
+      <link>http://MyThinkPond.com/tags/apache/</link>
+      <pubDate>Tue, 14 Mar 2017 02:26:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/apache/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apache OpenLDAP</title>
+      <link>http://MyThinkPond.com/tags/apache-openldap/</link>
+      <pubDate>Tue, 14 Mar 2017 02:26:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/apache-openldap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LDAP</title>
+      <link>http://MyThinkPond.com/tags/ldap/</link>
+      <pubDate>Tue, 14 Mar 2017 02:26:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ldap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenLDAP</title>
+      <link>http://MyThinkPond.com/tags/openldap/</link>
+      <pubDate>Tue, 14 Mar 2017 02:26:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/openldap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>boot</title>
+      <link>http://MyThinkPond.com/tags/boot/</link>
+      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/boot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pxe</title>
+      <link>http://MyThinkPond.com/tags/pxe/</link>
+      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/pxe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tftp</title>
+      <link>http://MyThinkPond.com/tags/tftp/</link>
+      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/tftp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bash</title>
+      <link>http://MyThinkPond.com/tags/bash/</link>
+      <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/bash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>history</title>
+      <link>http://MyThinkPond.com/tags/history/</link>
+      <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>record commands in ssh</title>
+      <link>http://MyThinkPond.com/tags/record-commands-in-ssh/</link>
+      <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/record-commands-in-ssh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ssh</title>
+      <link>http://MyThinkPond.com/tags/ssh/</link>
+      <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ssh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>terminal</title>
+      <link>http://MyThinkPond.com/tags/terminal/</link>
+      <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/terminal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>API Management</title>
+      <link>http://MyThinkPond.com/tags/api-management/</link>
+      <pubDate>Mon, 13 Mar 2017 14:21:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/api-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>differences</title>
+      <link>http://MyThinkPond.com/tags/differences/</link>
+      <pubDate>Mon, 13 Mar 2017 14:19:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/differences/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Module</title>
+      <link>http://MyThinkPond.com/tags/module/</link>
+      <pubDate>Mon, 13 Mar 2017 14:19:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/module/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Password</title>
+      <link>http://MyThinkPond.com/tags/password/</link>
+      <pubDate>Mon, 13 Mar 2017 14:10:41 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/password/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hack</title>
+      <link>http://MyThinkPond.com/tags/hack/</link>
+      <pubDate>Mon, 13 Mar 2017 14:07:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/hack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript security</title>
+      <link>http://MyThinkPond.com/tags/javascript-security/</link>
+      <pubDate>Mon, 13 Mar 2017 14:07:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/javascript-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vulnerability</title>
+      <link>http://MyThinkPond.com/tags/vulnerability/</link>
+      <pubDate>Mon, 13 Mar 2017 14:07:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/vulnerability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CaaS</title>
+      <link>http://MyThinkPond.com/tags/caas/</link>
+      <pubDate>Sun, 12 Mar 2017 18:38:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/caas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding As A Service</title>
+      <link>http://MyThinkPond.com/tags/coding-as-a-service/</link>
+      <pubDate>Sun, 12 Mar 2017 18:38:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/coding-as-a-service/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Materials Science</title>
+      <link>http://MyThinkPond.com/tags/materials-science/</link>
+      <pubDate>Thu, 16 Feb 2017 18:49:41 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/materials-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radiative-cooling</title>
+      <link>http://MyThinkPond.com/tags/radiative-cooling/</link>
+      <pubDate>Thu, 16 Feb 2017 18:49:41 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/radiative-cooling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chronicle</title>
+      <link>http://MyThinkPond.com/tags/chronicle/</link>
+      <pubDate>Thu, 16 Feb 2017 16:21:23 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/chronicle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Memory Management</title>
+      <link>http://MyThinkPond.com/tags/memory-management/</link>
+      <pubDate>Thu, 16 Feb 2017 16:21:23 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/memory-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Off Heap</title>
+      <link>http://MyThinkPond.com/tags/off-heap/</link>
+      <pubDate>Thu, 16 Feb 2017 16:21:23 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/off-heap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>bitcoin</title>
+      <link>http://MyThinkPond.com/tags/bitcoin/</link>
+      <pubDate>Mon, 02 Jan 2017 01:17:07 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/bitcoin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>blockchain</title>
+      <link>http://MyThinkPond.com/tags/blockchain/</link>
+      <pubDate>Mon, 02 Jan 2017 01:17:07 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>incorruptibility</title>
+      <link>http://MyThinkPond.com/tags/incorruptibility/</link>
+      <pubDate>Mon, 02 Jan 2017 01:17:07 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/incorruptibility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>transparency</title>
+      <link>http://MyThinkPond.com/tags/transparency/</link>
+      <pubDate>Mon, 02 Jan 2017 01:17:07 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/transparency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Happy New Year 2017</title>
+      <link>http://MyThinkPond.com/tags/happy-new-year-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 15:11:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/happy-new-year-2017/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>development on windows</title>
+      <link>http://MyThinkPond.com/tags/development-on-windows/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/development-on-windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>email</title>
+      <link>http://MyThinkPond.com/tags/email/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/email/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java mail</title>
+      <link>http://MyThinkPond.com/tags/java-mail/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/java-mail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mailx</title>
+      <link>http://MyThinkPond.com/tags/mailx/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/mailx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sendmail</title>
+      <link>http://MyThinkPond.com/tags/sendmail/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/sendmail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMTP</title>
+      <link>http://MyThinkPond.com/tags/smtp/</link>
+      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/smtp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>arp</title>
+      <link>http://MyThinkPond.com/tags/arp/</link>
+      <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/arp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ipconfig</title>
+      <link>http://MyThinkPond.com/tags/ipconfig/</link>
+      <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ipconfig/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>iptunnel</title>
+      <link>http://MyThinkPond.com/tags/iptunnel/</link>
+      <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/iptunnel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>iwconfig</title>
+      <link>http://MyThinkPond.com/tags/iwconfig/</link>
+      <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/iwconfig/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>missing</title>
+      <link>http://MyThinkPond.com/tags/missing/</link>
+      <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/missing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>nameif</title>
+      <link>http://MyThinkPond.com/tags/nameif/</link>
+      <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/nameif/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Net-Tools</title>
+      <link>http://MyThinkPond.com/tags/net-tools/</link>
+      <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/net-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>netstat</title>
+      <link>http://MyThinkPond.com/tags/netstat/</link>
+      <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/netstat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>where are the network tools?</title>
+      <link>http://MyThinkPond.com/tags/where-are-the-network-tools/</link>
+      <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/where-are-the-network-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grails Profile</title>
+      <link>http://MyThinkPond.com/tags/grails-profile/</link>
+      <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/grails-profile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IllegalStateException</title>
+      <link>http://MyThinkPond.com/tags/illegalstateexception/</link>
+      <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/illegalstateexception/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>No profile found</title>
+      <link>http://MyThinkPond.com/tags/no-profile-found/</link>
+      <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/no-profile-found/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>web</title>
+      <link>http://MyThinkPond.com/tags/web/</link>
+      <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FileNotFoundException</title>
+      <link>http://MyThinkPond.com/tags/filenotfoundexception/</link>
+      <pubDate>Thu, 17 Nov 2016 19:15:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/filenotfoundexception/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>iDRAC7</title>
+      <link>http://MyThinkPond.com/tags/idrac7/</link>
+      <pubDate>Thu, 17 Nov 2016 19:15:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/idrac7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>trusted.certs</title>
+      <link>http://MyThinkPond.com/tags/trusted.certs/</link>
+      <pubDate>Thu, 17 Nov 2016 19:15:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/trusted.certs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CentOS</title>
+      <link>http://MyThinkPond.com/tags/centos/</link>
+      <pubDate>Sun, 06 Nov 2016 14:38:38 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/centos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>centos 6.8</title>
+      <link>http://MyThinkPond.com/tags/centos-6.8/</link>
+      <pubDate>Sun, 06 Nov 2016 14:38:38 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/centos-6.8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CentOS 7</title>
+      <link>http://MyThinkPond.com/tags/centos-7/</link>
+      <pubDate>Sun, 06 Nov 2016 14:38:38 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/centos-7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>change timezone</title>
+      <link>http://MyThinkPond.com/tags/change-timezone/</link>
+      <pubDate>Sun, 06 Nov 2016 14:38:38 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/change-timezone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>timezone</title>
+      <link>http://MyThinkPond.com/tags/timezone/</link>
+      <pubDate>Sun, 06 Nov 2016 14:38:38 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/timezone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>clock</title>
+      <link>http://MyThinkPond.com/tags/clock/</link>
+      <pubDate>Sat, 05 Nov 2016 16:45:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/clock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>date</title>
+      <link>http://MyThinkPond.com/tags/date/</link>
+      <pubDate>Sat, 05 Nov 2016 16:45:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/date/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hypervisor</title>
+      <link>http://MyThinkPond.com/tags/hypervisor/</link>
+      <pubDate>Sat, 05 Nov 2016 16:45:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/hypervisor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ntp</title>
+      <link>http://MyThinkPond.com/tags/ntp/</link>
+      <pubDate>Sat, 05 Nov 2016 16:45:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ntp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bill Gates</title>
+      <link>http://MyThinkPond.com/tags/bill-gates/</link>
+      <pubDate>Sat, 05 Nov 2016 14:46:31 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/bill-gates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>foreign-aid</title>
+      <link>http://MyThinkPond.com/tags/foreign-aid/</link>
+      <pubDate>Sat, 05 Nov 2016 14:46:31 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/foreign-aid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>human progress</title>
+      <link>http://MyThinkPond.com/tags/human-progress/</link>
+      <pubDate>Sat, 05 Nov 2016 14:46:31 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/human-progress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Malaria</title>
+      <link>http://MyThinkPond.com/tags/malaria/</link>
+      <pubDate>Sat, 05 Nov 2016 14:46:31 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/malaria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>fatJar</title>
+      <link>http://MyThinkPond.com/tags/fatjar/</link>
+      <pubDate>Thu, 03 Nov 2016 20:47:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/fatjar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>shadowJar</title>
+      <link>http://MyThinkPond.com/tags/shadowjar/</link>
+      <pubDate>Thu, 03 Nov 2016 20:47:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/shadowjar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>100G</title>
+      <link>http://MyThinkPond.com/tags/100g/</link>
+      <pubDate>Thu, 20 Oct 2016 22:49:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/100g/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>100Gbps</title>
+      <link>http://MyThinkPond.com/tags/100gbps/</link>
+      <pubDate>Thu, 20 Oct 2016 22:49:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/100gbps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Faster Networks</title>
+      <link>http://MyThinkPond.com/tags/faster-networks/</link>
+      <pubDate>Thu, 20 Oct 2016 22:49:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/faster-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Basilica</title>
+      <link>http://MyThinkPond.com/tags/basilica/</link>
+      <pubDate>Fri, 14 Oct 2016 20:54:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/basilica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>divine</title>
+      <link>http://MyThinkPond.com/tags/divine/</link>
+      <pubDate>Fri, 14 Oct 2016 20:54:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/divine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>National Shrine</title>
+      <link>http://MyThinkPond.com/tags/national-shrine/</link>
+      <pubDate>Fri, 14 Oct 2016 20:54:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/national-shrine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node.js</title>
+      <link>http://MyThinkPond.com/tags/node.js/</link>
+      <pubDate>Fri, 14 Oct 2016 18:42:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/node.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>offline</title>
+      <link>http://MyThinkPond.com/tags/offline/</link>
+      <pubDate>Fri, 14 Oct 2016 18:42:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/offline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pack dependencies</title>
+      <link>http://MyThinkPond.com/tags/pack-dependencies/</link>
+      <pubDate>Fri, 14 Oct 2016 18:42:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/pack-dependencies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BusyBox</title>
+      <link>http://MyThinkPond.com/tags/busybox/</link>
+      <pubDate>Tue, 04 Oct 2016 18:12:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/busybox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FreeBSD</title>
+      <link>http://MyThinkPond.com/tags/freebsd/</link>
+      <pubDate>Tue, 04 Oct 2016 18:12:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/freebsd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PHP</title>
+      <link>http://MyThinkPond.com/tags/php/</link>
+      <pubDate>Tue, 04 Oct 2016 18:12:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/php/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orioles</title>
+      <link>http://MyThinkPond.com/tags/orioles/</link>
+      <pubDate>Mon, 03 Oct 2016 14:05:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/orioles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yankees</title>
+      <link>http://MyThinkPond.com/tags/yankees/</link>
+      <pubDate>Mon, 03 Oct 2016 14:05:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/yankees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>joke</title>
+      <link>http://MyThinkPond.com/tags/joke/</link>
+      <pubDate>Fri, 30 Sep 2016 18:25:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/joke/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>laugh</title>
+      <link>http://MyThinkPond.com/tags/laugh/</link>
+      <pubDate>Fri, 30 Sep 2016 18:25:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/laugh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>programming languages compared</title>
+      <link>http://MyThinkPond.com/tags/programming-languages-compared/</link>
+      <pubDate>Fri, 30 Sep 2016 18:25:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/programming-languages-compared/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pip</title>
+      <link>http://MyThinkPond.com/tags/pip/</link>
+      <pubDate>Fri, 30 Sep 2016 15:22:59 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/pip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>setup.py</title>
+      <link>http://MyThinkPond.com/tags/setup.py/</link>
+      <pubDate>Fri, 30 Sep 2016 15:22:59 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/setup.py/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>uninstall</title>
+      <link>http://MyThinkPond.com/tags/uninstall/</link>
+      <pubDate>Fri, 30 Sep 2016 15:22:59 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/uninstall/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>camping</title>
+      <link>http://MyThinkPond.com/tags/camping/</link>
+      <pubDate>Mon, 08 Aug 2016 13:10:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/camping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Family</title>
+      <link>http://MyThinkPond.com/tags/family/</link>
+      <pubDate>Mon, 08 Aug 2016 13:10:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/family/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rocky Gap</title>
+      <link>http://MyThinkPond.com/tags/rocky-gap/</link>
+      <pubDate>Mon, 08 Aug 2016 13:10:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/rocky-gap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>State Park</title>
+      <link>http://MyThinkPond.com/tags/state-park/</link>
+      <pubDate>Mon, 08 Aug 2016 13:10:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/state-park/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>basement walk-down drain</title>
+      <link>http://MyThinkPond.com/tags/basement-walk-down-drain/</link>
+      <pubDate>Sun, 07 Aug 2016 21:21:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/basement-walk-down-drain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>basement walk-up drain</title>
+      <link>http://MyThinkPond.com/tags/basement-walk-up-drain/</link>
+      <pubDate>Sun, 07 Aug 2016 21:21:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/basement-walk-up-drain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>drain</title>
+      <link>http://MyThinkPond.com/tags/drain/</link>
+      <pubDate>Sun, 07 Aug 2016 21:21:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/drain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ellicott City</title>
+      <link>http://MyThinkPond.com/tags/ellicott-city/</link>
+      <pubDate>Sun, 07 Aug 2016 21:21:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ellicott-city/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>flooding</title>
+      <link>http://MyThinkPond.com/tags/flooding/</link>
+      <pubDate>Sun, 07 Aug 2016 21:21:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/flooding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>gutter-guard</title>
+      <link>http://MyThinkPond.com/tags/gutter-guard/</link>
+      <pubDate>Sun, 07 Aug 2016 21:21:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/gutter-guard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CentOS 6</title>
+      <link>http://MyThinkPond.com/tags/centos-6/</link>
+      <pubDate>Tue, 19 Jul 2016 13:00:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/centos-6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cheatsheet</title>
+      <link>http://MyThinkPond.com/tags/cheatsheet/</link>
+      <pubDate>Tue, 19 Jul 2016 13:00:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/cheatsheet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SystemD</title>
+      <link>http://MyThinkPond.com/tags/systemd/</link>
+      <pubDate>Tue, 19 Jul 2016 13:00:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/systemd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SysV</title>
+      <link>http://MyThinkPond.com/tags/sysv/</link>
+      <pubDate>Tue, 19 Jul 2016 13:00:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/sysv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SysV-Init</title>
+      <link>http://MyThinkPond.com/tags/sysv-init/</link>
+      <pubDate>Tue, 19 Jul 2016 13:00:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/sysv-init/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Port Bind</title>
+      <link>http://MyThinkPond.com/tags/port-bind/</link>
+      <pubDate>Fri, 08 Jul 2016 16:03:02 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/port-bind/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wait Until Port</title>
+      <link>http://MyThinkPond.com/tags/wait-until-port/</link>
+      <pubDate>Fri, 08 Jul 2016 16:03:02 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/wait-until-port/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WaitUntilPort</title>
+      <link>http://MyThinkPond.com/tags/waituntilport/</link>
+      <pubDate>Fri, 08 Jul 2016 16:03:02 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/waituntilport/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>config</title>
+      <link>http://MyThinkPond.com/tags/config/</link>
+      <pubDate>Thu, 23 Jun 2016 23:14:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/config/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>configuration</title>
+      <link>http://MyThinkPond.com/tags/configuration/</link>
+      <pubDate>Thu, 23 Jun 2016 23:14:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/configuration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>property</title>
+      <link>http://MyThinkPond.com/tags/property/</link>
+      <pubDate>Thu, 23 Jun 2016 23:14:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/property/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Template</title>
+      <link>http://MyThinkPond.com/tags/template/</link>
+      <pubDate>Thu, 23 Jun 2016 23:14:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/template/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>variable</title>
+      <link>http://MyThinkPond.com/tags/variable/</link>
+      <pubDate>Thu, 23 Jun 2016 23:14:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/variable/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>gas</title>
+      <link>http://MyThinkPond.com/tags/gas/</link>
+      <pubDate>Sat, 18 Jun 2016 17:57:06 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/gas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>liquid</title>
+      <link>http://MyThinkPond.com/tags/liquid/</link>
+      <pubDate>Sat, 18 Jun 2016 17:57:06 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/liquid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>solid</title>
+      <link>http://MyThinkPond.com/tags/solid/</link>
+      <pubDate>Sat, 18 Jun 2016 17:57:06 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/solid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tunneling</title>
+      <link>http://MyThinkPond.com/tags/tunneling/</link>
+      <pubDate>Sat, 18 Jun 2016 17:57:06 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/tunneling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Water states</title>
+      <link>http://MyThinkPond.com/tags/water-states/</link>
+      <pubDate>Sat, 18 Jun 2016 17:57:06 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/water-states/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hybrid Motors</title>
+      <link>http://MyThinkPond.com/tags/hybrid-motors/</link>
+      <pubDate>Sat, 18 Jun 2016 17:36:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/hybrid-motors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liquid Fuel and Electric Hybrid</title>
+      <link>http://MyThinkPond.com/tags/liquid-fuel-and-electric-hybrid/</link>
+      <pubDate>Sat, 18 Jun 2016 17:36:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/liquid-fuel-and-electric-hybrid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Range Extender</title>
+      <link>http://MyThinkPond.com/tags/range-extender/</link>
+      <pubDate>Sat, 18 Jun 2016 17:36:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/range-extender/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Net Neutralitity</title>
+      <link>http://MyThinkPond.com/tags/net-neutralitity/</link>
+      <pubDate>Tue, 14 Jun 2016 15:36:28 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/net-neutralitity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>paid prioritization</title>
+      <link>http://MyThinkPond.com/tags/paid-prioritization/</link>
+      <pubDate>Tue, 14 Jun 2016 15:36:28 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/paid-prioritization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Storage</title>
+      <link>http://MyThinkPond.com/tags/storage/</link>
+      <pubDate>Mon, 13 Jun 2016 14:54:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/storage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Disk</title>
+      <link>http://MyThinkPond.com/tags/disk/</link>
+      <pubDate>Mon, 13 Jun 2016 14:52:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/disk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>bootstrap</title>
+      <link>http://MyThinkPond.com/tags/bootstrap/</link>
+      <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>bootswatch</title>
+      <link>http://MyThinkPond.com/tags/bootswatch/</link>
+      <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/bootswatch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>disqus</title>
+      <link>http://MyThinkPond.com/tags/disqus/</link>
+      <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/disqus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>generate static blig</title>
+      <link>http://MyThinkPond.com/tags/generate-static-blig/</link>
+      <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/generate-static-blig/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>generate static wiki</title>
+      <link>http://MyThinkPond.com/tags/generate-static-wiki/</link>
+      <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/generate-static-wiki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hugo-bootswatch</title>
+      <link>http://MyThinkPond.com/tags/hugo-bootswatch/</link>
+      <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/hugo-bootswatch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>markdown</title>
+      <link>http://MyThinkPond.com/tags/markdown/</link>
+      <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static blog</title>
+      <link>http://MyThinkPond.com/tags/static-blog/</link>
+      <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/static-blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filesystem</title>
+      <link>http://MyThinkPond.com/tags/filesystem/</link>
+      <pubDate>Thu, 02 Jun 2016 17:43:45 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/filesystem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>zfs</title>
+      <link>http://MyThinkPond.com/tags/zfs/</link>
+      <pubDate>Thu, 02 Jun 2016 17:43:45 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/zfs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>healing</title>
+      <link>http://MyThinkPond.com/tags/healing/</link>
+      <pubDate>Wed, 01 Jun 2016 18:33:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/healing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>acquisition</title>
+      <link>http://MyThinkPond.com/tags/acquisition/</link>
+      <pubDate>Wed, 01 Jun 2016 18:23:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/acquisition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Egypt</title>
+      <link>http://MyThinkPond.com/tags/egypt/</link>
+      <pubDate>Thu, 24 Mar 2016 16:32:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/egypt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Great Belzoni</title>
+      <link>http://MyThinkPond.com/tags/great-belzoni/</link>
+      <pubDate>Thu, 24 Mar 2016 16:32:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/great-belzoni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Howard Carter</title>
+      <link>http://MyThinkPond.com/tags/howard-carter/</link>
+      <pubDate>Thu, 24 Mar 2016 16:32:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/howard-carter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Narrative</title>
+      <link>http://MyThinkPond.com/tags/narrative/</link>
+      <pubDate>Thu, 24 Mar 2016 16:32:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/narrative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nile</title>
+      <link>http://MyThinkPond.com/tags/nile/</link>
+      <pubDate>Thu, 24 Mar 2016 16:32:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/nile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nubia</title>
+      <link>http://MyThinkPond.com/tags/nubia/</link>
+      <pubDate>Thu, 24 Mar 2016 16:32:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/nubia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pharaoh Ramses</title>
+      <link>http://MyThinkPond.com/tags/pharaoh-ramses/</link>
+      <pubDate>Thu, 24 Mar 2016 16:32:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/pharaoh-ramses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>firewall</title>
+      <link>http://MyThinkPond.com/tags/firewall/</link>
+      <pubDate>Wed, 23 Mar 2016 15:42:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/firewall/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Firewalld</title>
+      <link>http://MyThinkPond.com/tags/firewalld/</link>
+      <pubDate>Wed, 23 Mar 2016 15:42:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/firewalld/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>open ports</title>
+      <link>http://MyThinkPond.com/tags/open-ports/</link>
+      <pubDate>Wed, 23 Mar 2016 15:42:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/open-ports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>opentsdb</title>
+      <link>http://MyThinkPond.com/tags/opentsdb/</link>
+      <pubDate>Wed, 23 Mar 2016 15:00:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/opentsdb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>serviced</title>
+      <link>http://MyThinkPond.com/tags/serviced/</link>
+      <pubDate>Wed, 23 Mar 2016 15:00:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/serviced/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>background</title>
+      <link>http://MyThinkPond.com/tags/background/</link>
+      <pubDate>Tue, 15 Mar 2016 14:45:14 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/background/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>vim</title>
+      <link>http://MyThinkPond.com/tags/vim/</link>
+      <pubDate>Tue, 15 Mar 2016 14:45:14 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/vim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BigData</title>
+      <link>http://MyThinkPond.com/tags/bigdata/</link>
+      <pubDate>Mon, 14 Mar 2016 19:34:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/bigdata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cassandra</title>
+      <link>http://MyThinkPond.com/tags/cassandra/</link>
+      <pubDate>Mon, 14 Mar 2016 19:34:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/cassandra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KairosDB</title>
+      <link>http://MyThinkPond.com/tags/kairosdb/</link>
+      <pubDate>Mon, 14 Mar 2016 19:34:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/kairosdb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>.gitignore</title>
+      <link>http://MyThinkPond.com/tags/.gitignore/</link>
+      <pubDate>Tue, 26 Jan 2016 01:05:42 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/.gitignore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GIT</title>
+      <link>http://MyThinkPond.com/tags/git/</link>
+      <pubDate>Tue, 26 Jan 2016 01:05:42 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>http://MyThinkPond.com/tags/go/</link>
+      <pubDate>Tue, 26 Jan 2016 01:05:42 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Revel</title>
+      <link>http://MyThinkPond.com/tags/revel/</link>
+      <pubDate>Tue, 26 Jan 2016 01:05:42 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/revel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alarm</title>
+      <link>http://MyThinkPond.com/tags/alarm/</link>
+      <pubDate>Mon, 04 Jan 2016 23:37:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/alarm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Carbon Monoxide</title>
+      <link>http://MyThinkPond.com/tags/carbon-monoxide/</link>
+      <pubDate>Mon, 04 Jan 2016 23:37:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/carbon-monoxide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CO614</title>
+      <link>http://MyThinkPond.com/tags/co614/</link>
+      <pubDate>Mon, 04 Jan 2016 23:37:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/co614/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Alert</title>
+      <link>http://MyThinkPond.com/tags/first-alert/</link>
+      <pubDate>Mon, 04 Jan 2016 23:37:50 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/first-alert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Year</title>
+      <link>http://MyThinkPond.com/tags/new-year/</link>
+      <pubDate>Thu, 31 Dec 2015 17:05:18 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/new-year/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#ChennaiRains</title>
+      <link>http://MyThinkPond.com/tags/#chennairains/</link>
+      <pubDate>Thu, 03 Dec 2015 18:59:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/#chennairains/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#ChennaiRainsHelp</title>
+      <link>http://MyThinkPond.com/tags/#chennairainshelp/</link>
+      <pubDate>Thu, 03 Dec 2015 18:59:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/#chennairainshelp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#ChennaiRescue</title>
+      <link>http://MyThinkPond.com/tags/#chennairescue/</link>
+      <pubDate>Thu, 03 Dec 2015 18:59:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/#chennairescue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#ChennaiVolunteer</title>
+      <link>http://MyThinkPond.com/tags/#chennaivolunteer/</link>
+      <pubDate>Thu, 03 Dec 2015 18:59:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/#chennaivolunteer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#MealsForChennai</title>
+      <link>http://MyThinkPond.com/tags/#mealsforchennai/</link>
+      <pubDate>Thu, 03 Dec 2015 18:59:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/#mealsforchennai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#NDTVFeverFMChennai</title>
+      <link>http://MyThinkPond.com/tags/#ndtvfeverfmchennai/</link>
+      <pubDate>Thu, 03 Dec 2015 18:59:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/#ndtvfeverfmchennai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#FreshBladeFeeling</title>
+      <link>http://MyThinkPond.com/tags/#freshbladefeeling/</link>
+      <pubDate>Wed, 23 Sep 2015 14:35:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/#freshbladefeeling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Harry&#39;s</title>
+      <link>http://MyThinkPond.com/tags/harrys/</link>
+      <pubDate>Wed, 23 Sep 2015 14:35:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/harrys/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Improving the world</title>
+      <link>http://MyThinkPond.com/tags/improving-the-world/</link>
+      <pubDate>Wed, 23 Sep 2015 14:35:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/improving-the-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>libsodium</title>
+      <link>http://MyThinkPond.com/tags/libsodium/</link>
+      <pubDate>Mon, 07 Sep 2015 02:02:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/libsodium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>undefined reference</title>
+      <link>http://MyThinkPond.com/tags/undefined-reference/</link>
+      <pubDate>Mon, 07 Sep 2015 02:02:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/undefined-reference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>zeromq</title>
+      <link>http://MyThinkPond.com/tags/zeromq/</link>
+      <pubDate>Mon, 07 Sep 2015 02:02:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/zeromq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cannot run C compiled programs</title>
+      <link>http://MyThinkPond.com/tags/cannot-run-c-compiled-programs/</link>
+      <pubDate>Mon, 07 Sep 2015 01:11:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/cannot-run-c-compiled-programs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#AgeOfLight</title>
+      <link>http://MyThinkPond.com/tags/#ageoflight/</link>
+      <pubDate>Thu, 27 Aug 2015 17:29:45 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/#ageoflight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Age of Light</title>
+      <link>http://MyThinkPond.com/tags/age-of-light/</link>
+      <pubDate>Thu, 27 Aug 2015 17:29:45 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/age-of-light/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>copper wires</title>
+      <link>http://MyThinkPond.com/tags/copper-wires/</link>
+      <pubDate>Thu, 27 Aug 2015 17:29:45 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/copper-wires/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graphene</title>
+      <link>http://MyThinkPond.com/tags/graphene/</link>
+      <pubDate>Thu, 27 Aug 2015 17:29:45 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/graphene/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manufacturing Graphene</title>
+      <link>http://MyThinkPond.com/tags/manufacturing-graphene/</link>
+      <pubDate>Thu, 27 Aug 2015 17:29:45 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/manufacturing-graphene/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Centennial Park</title>
+      <link>http://MyThinkPond.com/tags/centennial-park/</link>
+      <pubDate>Tue, 04 Aug 2015 19:17:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/centennial-park/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hiking</title>
+      <link>http://MyThinkPond.com/tags/hiking/</link>
+      <pubDate>Tue, 04 Aug 2015 19:17:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/hiking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travels India</title>
+      <link>http://MyThinkPond.com/tags/travels-india/</link>
+      <pubDate>Thu, 09 Jul 2015 15:50:51 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/travels-india/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lugern</title>
+      <link>http://MyThinkPond.com/tags/lugern/</link>
+      <pubDate>Thu, 09 Jul 2015 15:36:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/lugern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Switzerland</title>
+      <link>http://MyThinkPond.com/tags/switzerland/</link>
+      <pubDate>Thu, 09 Jul 2015 15:36:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/switzerland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AC-DC Circuits</title>
+      <link>http://MyThinkPond.com/tags/ac-dc-circuits/</link>
+      <pubDate>Mon, 29 Sep 2014 01:25:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ac-dc-circuits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AC2DC</title>
+      <link>http://MyThinkPond.com/tags/ac2dc/</link>
+      <pubDate>Mon, 29 Sep 2014 01:25:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ac2dc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electronics</title>
+      <link>http://MyThinkPond.com/tags/electronics/</link>
+      <pubDate>Mon, 29 Sep 2014 01:25:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/electronics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IC</title>
+      <link>http://MyThinkPond.com/tags/ic/</link>
+      <pubDate>Mon, 29 Sep 2014 01:25:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LED Driver Circuit</title>
+      <link>http://MyThinkPond.com/tags/led-driver-circuit/</link>
+      <pubDate>Mon, 29 Sep 2014 01:25:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/led-driver-circuit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philips SlimStyle LED 60W bulb</title>
+      <link>http://MyThinkPond.com/tags/philips-slimstyle-led-60w-bulb/</link>
+      <pubDate>Mon, 29 Sep 2014 01:25:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/philips-slimstyle-led-60w-bulb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>teardown</title>
+      <link>http://MyThinkPond.com/tags/teardown/</link>
+      <pubDate>Mon, 29 Sep 2014 01:25:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/teardown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Museum</title>
+      <link>http://MyThinkPond.com/tags/museum/</link>
+      <pubDate>Wed, 27 Aug 2014 02:08:08 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/museum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Piazza</title>
+      <link>http://MyThinkPond.com/tags/piazza/</link>
+      <pubDate>Wed, 27 Aug 2014 02:08:08 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/piazza/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Piazza San Marco</title>
+      <link>http://MyThinkPond.com/tags/piazza-san-marco/</link>
+      <pubDate>Wed, 27 Aug 2014 02:08:08 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/piazza-san-marco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Venice Italy</title>
+      <link>http://MyThinkPond.com/tags/venice-italy/</link>
+      <pubDate>Wed, 27 Aug 2014 02:08:08 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/venice-italy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Italy</title>
+      <link>http://MyThinkPond.com/tags/italy/</link>
+      <pubDate>Thu, 21 Aug 2014 22:14:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/italy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>travels</title>
+      <link>http://MyThinkPond.com/tags/travels/</link>
+      <pubDate>Thu, 21 Aug 2014 22:14:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/travels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Venice</title>
+      <link>http://MyThinkPond.com/tags/venice/</link>
+      <pubDate>Thu, 21 Aug 2014 22:14:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/venice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Greece</title>
+      <link>http://MyThinkPond.com/tags/greece/</link>
+      <pubDate>Wed, 20 Aug 2014 21:42:24 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/greece/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>photos</title>
+      <link>http://MyThinkPond.com/tags/photos/</link>
+      <pubDate>Wed, 20 Aug 2014 21:42:24 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/photos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Santorini</title>
+      <link>http://MyThinkPond.com/tags/santorini/</link>
+      <pubDate>Wed, 20 Aug 2014 21:42:24 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/santorini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arduino</title>
+      <link>http://MyThinkPond.com/tags/arduino/</link>
+      <pubDate>Wed, 18 Jun 2014 02:51:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/arduino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>spark.io</title>
+      <link>http://MyThinkPond.com/tags/spark.io/</link>
+      <pubDate>Wed, 18 Jun 2014 02:51:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/spark.io/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SparkCore</title>
+      <link>http://MyThinkPond.com/tags/sparkcore/</link>
+      <pubDate>Wed, 18 Jun 2014 02:51:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/sparkcore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WiFi</title>
+      <link>http://MyThinkPond.com/tags/wifi/</link>
+      <pubDate>Wed, 18 Jun 2014 02:51:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/wifi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>run-app</title>
+      <link>http://MyThinkPond.com/tags/run-app/</link>
+      <pubDate>Sun, 02 Feb 2014 19:40:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/run-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>stop-app</title>
+      <link>http://MyThinkPond.com/tags/stop-app/</link>
+      <pubDate>Sun, 02 Feb 2014 19:40:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/stop-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>layoutBody</title>
+      <link>http://MyThinkPond.com/tags/layoutbody/</link>
+      <pubDate>Sun, 02 Feb 2014 17:10:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/layoutbody/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cubieboard2</title>
+      <link>http://MyThinkPond.com/tags/cubieboard2/</link>
+      <pubDate>Sun, 03 Nov 2013 20:43:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/cubieboard2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Embedded Linux</title>
+      <link>http://MyThinkPond.com/tags/embedded-linux/</link>
+      <pubDate>Sun, 03 Nov 2013 20:43:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/embedded-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>client-server</title>
+      <link>http://MyThinkPond.com/tags/client-server/</link>
+      <pubDate>Tue, 25 Jun 2013 03:36:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/client-server/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>example</title>
+      <link>http://MyThinkPond.com/tags/example/</link>
+      <pubDate>Tue, 25 Jun 2013 03:36:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>jzmq</title>
+      <link>http://MyThinkPond.com/tags/jzmq/</link>
+      <pubDate>Tue, 25 Jun 2013 03:36:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/jzmq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Async Programming</title>
+      <link>http://MyThinkPond.com/tags/async-programming/</link>
+      <pubDate>Thu, 15 Nov 2012 23:31:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/async-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vert.io</title>
+      <link>http://MyThinkPond.com/tags/vert.io/</link>
+      <pubDate>Thu, 15 Nov 2012 18:12:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/vert.io/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vertx.io</title>
+      <link>http://MyThinkPond.com/tags/vertx.io/</link>
+      <pubDate>Thu, 15 Nov 2012 18:12:15 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/vertx.io/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>benchmark</title>
+      <link>http://MyThinkPond.com/tags/benchmark/</link>
+      <pubDate>Wed, 14 Nov 2012 12:27:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>create load</title>
+      <link>http://MyThinkPond.com/tags/create-load/</link>
+      <pubDate>Wed, 14 Nov 2012 12:27:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/create-load/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IO</title>
+      <link>http://MyThinkPond.com/tags/io/</link>
+      <pubDate>Wed, 14 Nov 2012 12:27:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/io/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>load-testing</title>
+      <link>http://MyThinkPond.com/tags/load-testing/</link>
+      <pubDate>Wed, 14 Nov 2012 12:27:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/load-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>test IO</title>
+      <link>http://MyThinkPond.com/tags/test-io/</link>
+      <pubDate>Wed, 14 Nov 2012 12:27:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/test-io/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>browser support</title>
+      <link>http://MyThinkPond.com/tags/browser-support/</link>
+      <pubDate>Tue, 13 Nov 2012 19:26:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/browser-support/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Firefox</title>
+      <link>http://MyThinkPond.com/tags/firefox/</link>
+      <pubDate>Tue, 13 Nov 2012 19:26:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/firefox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mozilla</title>
+      <link>http://MyThinkPond.com/tags/mozilla/</link>
+      <pubDate>Tue, 13 Nov 2012 19:26:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/mozilla/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>websockets</title>
+      <link>http://MyThinkPond.com/tags/websockets/</link>
+      <pubDate>Tue, 13 Nov 2012 19:26:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/websockets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Export</title>
+      <link>http://MyThinkPond.com/tags/export/</link>
+      <pubDate>Tue, 30 Oct 2012 18:15:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/export/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Import</title>
+      <link>http://MyThinkPond.com/tags/import/</link>
+      <pubDate>Tue, 30 Oct 2012 18:15:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/import/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Import Blog</title>
+      <link>http://MyThinkPond.com/tags/import-blog/</link>
+      <pubDate>Tue, 30 Oct 2012 18:15:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/import-blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>quot</title>
+      <link>http://MyThinkPond.com/tags/quot/</link>
+      <pubDate>Tue, 30 Oct 2012 18:15:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/quot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android App</title>
+      <link>http://MyThinkPond.com/tags/android-app/</link>
+      <pubDate>Thu, 25 Oct 2012 20:49:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/android-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>iPhone App</title>
+      <link>http://MyThinkPond.com/tags/iphone-app/</link>
+      <pubDate>Thu, 25 Oct 2012 20:49:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/iphone-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Whitelines</title>
+      <link>http://MyThinkPond.com/tags/whitelines/</link>
+      <pubDate>Thu, 25 Oct 2012 20:49:10 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/whitelines/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>enterprise-it</title>
+      <link>http://MyThinkPond.com/tags/enterprise-it/</link>
+      <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/enterprise-it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IDE</title>
+      <link>http://MyThinkPond.com/tags/ide/</link>
+      <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/ide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>remote interpreter</title>
+      <link>http://MyThinkPond.com/tags/remote-interpreter/</link>
+      <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/remote-interpreter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>remote interpreters</title>
+      <link>http://MyThinkPond.com/tags/remote-interpreters/</link>
+      <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/remote-interpreters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>software</title>
+      <link>http://MyThinkPond.com/tags/software/</link>
+      <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtual Box</title>
+      <link>http://MyThinkPond.com/tags/virtual-box/</link>
+      <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/virtual-box/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>css</title>
+      <link>http://MyThinkPond.com/tags/css/</link>
+      <pubDate>Thu, 01 Mar 2012 17:53:35 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>django</title>
+      <link>http://MyThinkPond.com/tags/django/</link>
+      <pubDate>Thu, 01 Mar 2012 17:53:35 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/django/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>images</title>
+      <link>http://MyThinkPond.com/tags/images/</link>
+      <pubDate>Thu, 01 Mar 2012 17:53:35 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/images/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>static resources</title>
+      <link>http://MyThinkPond.com/tags/static-resources/</link>
+      <pubDate>Thu, 01 Mar 2012 17:53:35 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/static-resources/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://MyThinkPond.com/tags/hello-world/</link>
+      <pubDate>Sat, 25 Feb 2012 18:36:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/hello-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>index.html template</title>
+      <link>http://MyThinkPond.com/tags/index.html-template/</link>
+      <pubDate>Sat, 25 Feb 2012 18:36:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/index.html-template/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sample index.html</title>
+      <link>http://MyThinkPond.com/tags/sample-index.html/</link>
+      <pubDate>Sat, 25 Feb 2012 18:36:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/sample-index.html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mod_python setup</title>
+      <link>http://MyThinkPond.com/tags/mod_python-setup/</link>
+      <pubDate>Thu, 29 Dec 2011 03:09:12 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/mod_python-setup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>python 2.7</title>
+      <link>http://MyThinkPond.com/tags/python-2.7/</link>
+      <pubDate>Wed, 28 Dec 2011 17:58:32 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/python-2.7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>package</title>
+      <link>http://MyThinkPond.com/tags/package/</link>
+      <pubDate>Sun, 25 Dec 2011 16:43:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/package/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RHEL</title>
+      <link>http://MyThinkPond.com/tags/rhel/</link>
+      <pubDate>Sun, 25 Dec 2011 16:43:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/rhel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>yum</title>
+      <link>http://MyThinkPond.com/tags/yum/</link>
+      <pubDate>Sun, 25 Dec 2011 16:43:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/yum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>clipboard</title>
+      <link>http://MyThinkPond.com/tags/clipboard/</link>
+      <pubDate>Mon, 31 Oct 2011 23:52:28 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/clipboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>copy</title>
+      <link>http://MyThinkPond.com/tags/copy/</link>
+      <pubDate>Mon, 31 Oct 2011 23:52:28 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/copy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>copy to clipboard</title>
+      <link>http://MyThinkPond.com/tags/copy-to-clipboard/</link>
+      <pubDate>Mon, 31 Oct 2011 23:52:28 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/copy-to-clipboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>zClip</title>
+      <link>http://MyThinkPond.com/tags/zclip/</link>
+      <pubDate>Mon, 31 Oct 2011 23:52:28 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/zclip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>zeroClipboard</title>
+      <link>http://MyThinkPond.com/tags/zeroclipboard/</link>
+      <pubDate>Mon, 31 Oct 2011 23:52:28 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/zeroclipboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>http</title>
+      <link>http://MyThinkPond.com/tags/http/</link>
+      <pubDate>Mon, 24 Oct 2011 16:37:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/http/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>set headers</title>
+      <link>http://MyThinkPond.com/tags/set-headers/</link>
+      <pubDate>Mon, 24 Oct 2011 16:37:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/set-headers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>URL</title>
+      <link>http://MyThinkPond.com/tags/url/</link>
+      <pubDate>Mon, 24 Oct 2011 16:37:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/url/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>H2</title>
+      <link>http://MyThinkPond.com/tags/h2/</link>
+      <pubDate>Sun, 28 Aug 2011 22:14:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/h2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>H2 Database</title>
+      <link>http://MyThinkPond.com/tags/h2-database/</link>
+      <pubDate>Sun, 28 Aug 2011 22:14:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/h2-database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pomodoro Technique</title>
+      <link>http://MyThinkPond.com/tags/pomodoro-technique/</link>
+      <pubDate>Thu, 14 Jul 2011 12:43:51 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/pomodoro-technique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>http://MyThinkPond.com/tags/optimization/</link>
+      <pubDate>Thu, 14 Jul 2011 11:50:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Source Code Analysis</title>
+      <link>http://MyThinkPond.com/tags/source-code-analysis/</link>
+      <pubDate>Thu, 14 Jul 2011 11:50:57 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/source-code-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>class loader</title>
+      <link>http://MyThinkPond.com/tags/class-loader/</link>
+      <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/class-loader/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>class loading</title>
+      <link>http://MyThinkPond.com/tags/class-loading/</link>
+      <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/class-loading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ClassNotFoundException</title>
+      <link>http://MyThinkPond.com/tags/classnotfoundexception/</link>
+      <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/classnotfoundexception/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Log4jConfigListener</title>
+      <link>http://MyThinkPond.com/tags/log4jconfiglistener/</link>
+      <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/log4jconfiglistener/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Error listnerStart</title>
+      <link>http://MyThinkPond.com/tags/error-listnerstart/</link>
+      <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/error-listnerstart/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>exception</title>
+      <link>http://MyThinkPond.com/tags/exception/</link>
+      <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/exception/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>listenerStart</title>
+      <link>http://MyThinkPond.com/tags/listenerstart/</link>
+      <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/listenerstart/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>severe</title>
+      <link>http://MyThinkPond.com/tags/severe/</link>
+      <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/severe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Batch execution</title>
+      <link>http://MyThinkPond.com/tags/batch-execution/</link>
+      <pubDate>Sat, 25 Jun 2011 03:56:13 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/batch-execution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DOS</title>
+      <link>http://MyThinkPond.com/tags/dos/</link>
+      <pubDate>Sat, 25 Jun 2011 03:56:13 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/dos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scripting Tip</title>
+      <link>http://MyThinkPond.com/tags/scripting-tip/</link>
+      <pubDate>Sat, 25 Jun 2011 03:56:13 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/scripting-tip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>work directory</title>
+      <link>http://MyThinkPond.com/tags/work-directory/</link>
+      <pubDate>Fri, 10 Jun 2011 21:14:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/work-directory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>intelliJ</title>
+      <link>http://MyThinkPond.com/tags/intellij/</link>
+      <pubDate>Wed, 27 Apr 2011 18:42:58 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/intellij/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>intelliJ serialVersionUID</title>
+      <link>http://MyThinkPond.com/tags/intellij-serialversionuid/</link>
+      <pubDate>Fri, 18 Feb 2011 16:37:46 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/intellij-serialversionuid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>child windows</title>
+      <link>http://MyThinkPond.com/tags/child-windows/</link>
+      <pubDate>Sun, 16 Jan 2011 23:00:44 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/child-windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>close child windows</title>
+      <link>http://MyThinkPond.com/tags/close-child-windows/</link>
+      <pubDate>Sun, 16 Jan 2011 23:00:44 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/close-child-windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>close windows</title>
+      <link>http://MyThinkPond.com/tags/close-windows/</link>
+      <pubDate>Sun, 16 Jan 2011 23:00:44 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/close-windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript window</title>
+      <link>http://MyThinkPond.com/tags/javascript-window/</link>
+      <pubDate>Sun, 16 Jan 2011 23:00:44 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/javascript-window/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>window.open</title>
+      <link>http://MyThinkPond.com/tags/window.open/</link>
+      <pubDate>Sun, 16 Jan 2011 23:00:44 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/window.open/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>extract images from PDF</title>
+      <link>http://MyThinkPond.com/tags/extract-images-from-pdf/</link>
+      <pubDate>Sun, 28 Nov 2010 23:08:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/extract-images-from-pdf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>perl</title>
+      <link>http://MyThinkPond.com/tags/perl/</link>
+      <pubDate>Sun, 28 Nov 2010 23:08:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/perl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>script</title>
+      <link>http://MyThinkPond.com/tags/script/</link>
+      <pubDate>Sun, 28 Nov 2010 23:08:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/script/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>jars</title>
+      <link>http://MyThinkPond.com/tags/jars/</link>
+      <pubDate>Sat, 02 Oct 2010 18:28:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/jars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java MVC</title>
+      <link>http://MyThinkPond.com/tags/java-mvc/</link>
+      <pubDate>Wed, 15 Sep 2010 18:50:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/java-mvc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mvn</title>
+      <link>http://MyThinkPond.com/tags/mvn/</link>
+      <pubDate>Wed, 15 Sep 2010 18:50:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/mvn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inspirational Message</title>
+      <link>http://MyThinkPond.com/tags/inspirational-message/</link>
+      <pubDate>Thu, 08 Jul 2010 15:02:31 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/inspirational-message/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paradox of our time</title>
+      <link>http://MyThinkPond.com/tags/paradox-of-our-time/</link>
+      <pubDate>Thu, 08 Jul 2010 15:02:31 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/paradox-of-our-time/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>words of wisdom</title>
+      <link>http://MyThinkPond.com/tags/words-of-wisdom/</link>
+      <pubDate>Thu, 08 Jul 2010 15:02:31 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/words-of-wisdom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android</title>
+      <link>http://MyThinkPond.com/tags/android/</link>
+      <pubDate>Mon, 05 Jul 2010 18:45:35 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android Tamil Music</title>
+      <link>http://MyThinkPond.com/tags/android-tamil-music/</link>
+      <pubDate>Mon, 05 Jul 2010 18:45:35 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/android-tamil-music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Listen to Tamil Music in an Andriod Phone</title>
+      <link>http://MyThinkPond.com/tags/listen-to-tamil-music-in-an-andriod-phone/</link>
+      <pubDate>Mon, 05 Jul 2010 18:45:35 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/listen-to-tamil-music-in-an-andriod-phone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tamil</title>
+      <link>http://MyThinkPond.com/tags/tamil/</link>
+      <pubDate>Mon, 05 Jul 2010 18:45:35 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/tamil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>javax.servlet</title>
+      <link>http://MyThinkPond.com/tags/javax.servlet/</link>
+      <pubDate>Thu, 20 May 2010 15:40:45 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/javax.servlet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>servlet.jar</title>
+      <link>http://MyThinkPond.com/tags/servlet.jar/</link>
+      <pubDate>Thu, 20 May 2010 15:40:45 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/servlet.jar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Weblogic</title>
+      <link>http://MyThinkPond.com/tags/weblogic/</link>
+      <pubDate>Thu, 20 May 2010 15:40:45 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/weblogic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apache Jackrabbit</title>
+      <link>http://MyThinkPond.com/tags/apache-jackrabbit/</link>
+      <pubDate>Wed, 21 Apr 2010 13:09:27 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/apache-jackrabbit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SyntaxHighlighter</title>
+      <link>http://MyThinkPond.com/tags/syntaxhighlighter/</link>
+      <pubDate>Wed, 21 Apr 2010 13:09:27 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/syntaxhighlighter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>samples</title>
+      <link>http://MyThinkPond.com/tags/samples/</link>
+      <pubDate>Mon, 19 Apr 2010 14:30:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/samples/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wicket</title>
+      <link>http://MyThinkPond.com/tags/wicket/</link>
+      <pubDate>Tue, 09 Mar 2010 20:02:55 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/wicket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java CMS</title>
+      <link>http://MyThinkPond.com/tags/java-cms/</link>
+      <pubDate>Tue, 09 Mar 2010 04:37:11 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/java-cms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Context Path</title>
+      <link>http://MyThinkPond.com/tags/context-path/</link>
+      <pubDate>Thu, 05 Nov 2009 17:31:07 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/context-path/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>contextPath</title>
+      <link>http://MyThinkPond.com/tags/contextpath/</link>
+      <pubDate>Thu, 05 Nov 2009 17:31:07 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/contextpath/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acrobat</title>
+      <link>http://MyThinkPond.com/tags/acrobat/</link>
+      <pubDate>Wed, 04 Nov 2009 16:33:38 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/acrobat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>link</title>
+      <link>http://MyThinkPond.com/tags/link/</link>
+      <pubDate>Wed, 04 Nov 2009 16:33:38 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/link/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>open links in windows</title>
+      <link>http://MyThinkPond.com/tags/open-links-in-windows/</link>
+      <pubDate>Wed, 04 Nov 2009 16:33:38 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/open-links-in-windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PDF</title>
+      <link>http://MyThinkPond.com/tags/pdf/</link>
+      <pubDate>Wed, 04 Nov 2009 16:33:38 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/pdf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C/C&#43;&#43;</title>
+      <link>http://MyThinkPond.com/tags/c/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/c/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terminate batch job (Y/N)?</title>
+      <link>http://MyThinkPond.com/tags/terminate-batch-job-y/n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/terminate-batch-job-y/n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xcode/iOS license</title>
+      <link>http://MyThinkPond.com/tags/xcode/ios-license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/tags/xcode/ios-license/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

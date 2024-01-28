@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheatsheet on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/cheatsheet/</link>
+    <description>Recent content in Cheatsheet on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jul 2016 13:00:56 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two useful links comparing CentOS 6.X&#39;s - SysV-Init vs CentOS 7.X - SystemD - init systems</title>
+      <link>http://MyThinkPond.com/2016/07/19/two-useful-links-comparing-centos-6-xs-sysv-init-vs-centos-7-x-systemd-init-systems/</link>
+      <pubDate>Tue, 19 Jul 2016 13:00:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/07/19/two-useful-links-comparing-centos-6-xs-sysv-init-vs-centos-7-x-systemd-init-systems/</guid>
+      <description>In CentOS 6.8, the init system that brings up all the services (link autoexec files in Windows) was called SysV- Init. This has been the foundation for ages as long I&amp;rsquo;ve been using CentOS. But in the latest release of CentOS (CentOS 7+) the init engine has been moved to a more favorable engine labeled SystemD. SystemD is the init engine behind Ubuntu, Fedora, Red Hat and CentOS. So the standardization is good for the Linux community but moving from CentOS 6.</description>
+    </item>
+  </channel>
+</rss>

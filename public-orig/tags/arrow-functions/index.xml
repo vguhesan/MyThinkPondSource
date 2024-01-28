@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arrow Functions on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/arrow-functions/</link>
+    <description>Recent content in Arrow Functions on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 May 2017 19:23:37 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/arrow-functions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript: Embrace Arrow Functions</title>
+      <link>http://MyThinkPond.com/post/2017-05-03-javascript-embrace-arrow-functions/</link>
+      <pubDate>Wed, 03 May 2017 19:23:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-05-03-javascript-embrace-arrow-functions/</guid>
+      <description>Great article on JavaScript currying and arrow functions.&#xA;Here is an example of a function in Javascript:&#xA;const secret = function (msg) { return function () { return msg; }; }; The same function as currying or arrow function:&#xA;const secret = msg =&amp;gt; () =&amp;gt; msg; To learn more about the basics, visit the link below. Source: Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions</description>
+    </item>
+    <item>
+      <title>Elements of JavaScript Style – JavaScript Scene – Medium</title>
+      <link>http://MyThinkPond.com/post/2017-05-03-elements-of-javascript-style-javascript-scene-medium/</link>
+      <pubDate>Wed, 03 May 2017 19:07:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-05-03-elements-of-javascript-style-javascript-scene-medium/</guid>
+      <description>Great article focusing on Javascript style. Provides some good examples of JavaScript coding styles, practices, and things to avoid.&#xA;The examples includes:&#xA;Make the function the unit of composition. One job for each function. Omit needless code. Use active voice. Avoid a succession of loose statements. Keep related code together. Put statements and expressions in positive form. Use parallel code for parallel concepts. Source: Elements of JavaScript Style – JavaScript Scene – Medium</description>
+    </item>
+  </channel>
+</rss>

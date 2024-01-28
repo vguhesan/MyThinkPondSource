@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ssh on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/ssh/</link>
+    <description>Recent content in ssh on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Mar 2017 19:27:16 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Record Everything You Do In Terminal - OSTechNix</title>
+      <link>http://MyThinkPond.com/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</link>
+      <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</guid>
+      <description>Synopsis:&#xA;script -a my_history mkdir test cd test touch hello_world.txt echo &#39;Hello World&#39; &gt; ./hello_world.txt # This closes the &#34;script -a my_history&#34; file exit Source: How To Record Everything You Do In Terminal - OSTechNix</description>
+    </item>
+  </channel>
+</rss>

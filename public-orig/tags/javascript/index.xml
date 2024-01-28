@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/javascript/</link>
+    <description>Recent content in Javascript on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 May 2018 14:37:18 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Great article on Duck Typing in JavaScript</title>
+      <link>http://MyThinkPond.com/post/great-article-on-duck-typing-in-javascript/</link>
+      <pubDate>Wed, 23 May 2018 14:37:18 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/great-article-on-duck-typing-in-javascript/</guid>
+      <description>Found a great article that explains what duck typing is and how it is used in JavaScript. Author makes it very simple to understand with examples.&#xA;A style of typing in which an object&amp;rsquo;s methods and properties determine the valid semantics, rather than it&amp;rsquo;s inheritance from a particular class or implementation of an explicit interface.&#xA;You can click on the link below to be redirected to that article.&#xA;Duck Typing in JavaScript</description>
+    </item>
+    <item>
+      <title>Javascript: Embrace Arrow Functions</title>
+      <link>http://MyThinkPond.com/post/2017-05-03-javascript-embrace-arrow-functions/</link>
+      <pubDate>Wed, 03 May 2017 19:23:37 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-05-03-javascript-embrace-arrow-functions/</guid>
+      <description>Great article on JavaScript currying and arrow functions.&#xA;Here is an example of a function in Javascript:&#xA;const secret = function (msg) { return function () { return msg; }; }; The same function as currying or arrow function:&#xA;const secret = msg =&amp;gt; () =&amp;gt; msg; To learn more about the basics, visit the link below. Source: Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions</description>
+    </item>
+    <item>
+      <title>Elements of JavaScript Style – JavaScript Scene – Medium</title>
+      <link>http://MyThinkPond.com/post/2017-05-03-elements-of-javascript-style-javascript-scene-medium/</link>
+      <pubDate>Wed, 03 May 2017 19:07:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-05-03-elements-of-javascript-style-javascript-scene-medium/</guid>
+      <description>Great article focusing on Javascript style. Provides some good examples of JavaScript coding styles, practices, and things to avoid.&#xA;The examples includes:&#xA;Make the function the unit of composition. One job for each function. Omit needless code. Use active voice. Avoid a succession of loose statements. Keep related code together. Put statements and expressions in positive form. Use parallel code for parallel concepts. Source: Elements of JavaScript Style – JavaScript Scene – Medium</description>
+    </item>
+    <item>
+      <title>Grails - Adding JavaScript to bottom of page</title>
+      <link>http://MyThinkPond.com/2014/02/02/grails-adding-javascript-bottom-page/</link>
+      <pubDate>Sun, 02 Feb 2014 17:10:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/02/02/grails-adding-javascript-bottom-page/</guid>
+      <description>In Grails using the templating (Sitemesh) if you were to include per-page JavaScript resources then it shows up much earlier in the layout content as part of the &amp;lt;g:layoutBody&amp;gt;&#xA;Here is an example illustrating the problem:&#xA;SamplePage.gsp [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; MyThinkPond.com Custom Page ... Some this page content [/sourcecode]&#xA;and the layout page (layoutPage.gsp) [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; ... Some template (header) content [/sourcecode]&#xA;results in the following page in browser [sourcecode language=&amp;ldquo;html&amp;rdquo;]</description>
+    </item>
+  </channel>
+</rss>

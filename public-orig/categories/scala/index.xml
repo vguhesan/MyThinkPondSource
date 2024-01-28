@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scala on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/scala/</link>
+    <description>Recent content in Scala on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2009 15:51:05 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/scala/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scala compile message - Class file or Jar is broken</title>
+      <link>http://MyThinkPond.com/2009/11/16/scala-compile-message-class-file-or-jar-is-broken/</link>
+      <pubDate>Mon, 16 Nov 2009 15:51:05 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2009/11/16/scala-compile-message-class-file-or-jar-is-broken/</guid>
+      <description>Sometimes when compiling my Scala code, the compiler output may need a little bit of help in sorting out what&amp;rsquo;s the real issue.&#xA;For example, when I compiled today I received the following error:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;[scalac] error: error while loading DefaultHttpClient, class file &amp;lsquo;C:\A_OpenSource\WicketNotesApp\lib\httpclient-4.0.jar(org/apache/http/impl/client/DefaultHttpClient.class)&amp;rsquo; is broken [scalac] (class net.jcip.annotations.ThreadSafe not found.)&#xA;[scalac] error: error while loading AbstractHttpClient, class file &amp;lsquo;C:\A_OpenSource\WicketNotesApp\lib\httpclient-4.0.jar(org/apache/http/impl/client/AbstractHttpClient.class)&amp;rsquo; is broken [scalac] (class net.jcip.annotations.ThreadSafe not found.)&#xA;[/sourcecode]&#xA;And my instinct tells me to focus on the jar file or the class file and in this case, &amp;ldquo;DefaultHttpClient.</description>
+    </item>
+    <item>
+      <title>Forwarding to a URL from Wicket</title>
+      <link>http://MyThinkPond.com/2009/11/13/forwarding-to-a-url-from-wicket/</link>
+      <pubDate>Fri, 13 Nov 2009 18:21:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2009/11/13/forwarding-to-a-url-from-wicket/</guid>
+      <description>Sometimes we need to forward to a servlet or resource that&amp;rsquo;s outside of Wicket such as a servlet. Here&amp;rsquo;s how:&#xA;Modify your web.xml to define your servlet as well as your Wicket application &amp;ldquo;ignorePaths&amp;rdquo; init-param: [sourcecode language=&amp;ldquo;xml&amp;rdquo;]&#xA;&lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34;?&gt; &lt;!DOCTYPE web-app PUBLIC &#34;-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN&#34; &#34;http://java.sun.com/dtd/web-app_2_3.dtd&#34;&gt; Wicket Example MyApplication org.apache.wicket.protocol.http.WicketFilter applicationClassName com.gu.MyApplication wicket.configuration deployment ignorePaths images/,s/ MyApplication /* SomeServlet com.gu.SomeServlet SomeServlet /s/koolkat.do [/sourcecode] The first observation is that Wicket is running as a Filter and not a Servlet.</description>
+    </item>
+    <item>
+      <title>ContextPath in Apache Wicket</title>
+      <link>http://MyThinkPond.com/2009/11/05/contextpath-in-apache-wicket/</link>
+      <pubDate>Thu, 05 Nov 2009 17:31:07 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2009/11/05/contextpath-in-apache-wicket/</guid>
+      <description>One of the first things I found as I was getting familiar with Wicket is how do you point to resources that are part of a page. Well I did some digging around to find out so I&amp;rsquo;m documenting it here for others who might be facing the same challenges as they discover Apache Wicket.&#xA;Problem: You have pages in Wicket that are HTML with &amp;ldquo;Wicket&amp;rdquo; tags. But then you might want to point to resources such as CSS style sheets or JavaScript that&amp;rsquo;s part of a page.</description>
+    </item>
+    <item>
+      <title>First Date with IntelliJ Community Edition and Scala</title>
+      <link>http://MyThinkPond.com/2009/11/04/first-date-with-intellij-community-edition-and-scala/</link>
+      <pubDate>Wed, 04 Nov 2009 17:20:52 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2009/11/04/first-date-with-intellij-community-edition-and-scala/</guid>
+      <description>Downloaded the Community Edition of IntelliJ a few days ago. Although most J2EE features are not available in the community edition, one of the features that did like was the Scala Plugin.&#xA;After I downloaded it and added the scala plug-in, I was very impressed with the tool. I have been using Eclipse (a little Netbeans) for most of my Java development and although I have tried the scala plugin that&amp;rsquo;s available for Eclipse, I wasn&amp;rsquo;t all that impressed.</description>
+    </item>
+  </channel>
+</rss>

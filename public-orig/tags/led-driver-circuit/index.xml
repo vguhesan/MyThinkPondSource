@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LED Driver Circuit on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/led-driver-circuit/</link>
+    <description>Recent content in LED Driver Circuit on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Sep 2014 01:25:33 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/led-driver-circuit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philips SlimStyle 60W LED bulb teardown</title>
+      <link>http://MyThinkPond.com/2014/09/29/philips-slimstyle-60w-led-bulb-teardown/</link>
+      <pubDate>Mon, 29 Sep 2014 01:25:33 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/09/29/philips-slimstyle-60w-led-bulb-teardown/</guid>
+      <description>While I was visiting Home Depot, I saw a Philips SlimStyle 60W LED bulb on clearance for two-dollars. I could not resist buying it for a tear-down to see how it&amp;rsquo;s built. I always wondered how they convert the 120VAC to a regulated DC voltage with high-current feed for lighting up those LED&amp;rsquo;s. So here is the first version of the tear-down showing you what&amp;rsquo;s inside the bulb. I will blog more about the current and voltage at the LED junction on a subsequent blog.</description>
+    </item>
+  </channel>
+</rss>

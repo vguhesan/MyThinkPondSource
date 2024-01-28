@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DateTime on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/datetime/</link>
+    <description>Recent content in DateTime on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/datetime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python humanize time-interval without Arrow or Humanize libraries</title>
+      <link>http://MyThinkPond.com/post/2020-05-26-python-humanize-time-interval-without-external-libraries/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2020-05-26-python-humanize-time-interval-without-external-libraries/</guid>
+      <description>tl;dr Sometimes when we need to debug functions in Python, we need a way to write some quick timer code to capture the time-delta and to compute the time it took for the function to execute. This article shows you a quick and easy way to humanize a time-interval/time-delta without bringing in additional dependencies or libraries like Arrow or Humanize.&#xA;Elapsed Time: 2 Days, 5 Hours, 7 Minutes, 13 Seconds Yucel Moral (@yucelmoran) at Unsplash</description>
+    </item>
+  </channel>
+</rss>

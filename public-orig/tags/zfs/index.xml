@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zfs on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/zfs/</link>
+    <description>Recent content in zfs on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jun 2016 17:43:45 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/zfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZFS: Finding Its Way to a Linux Near You?</title>
+      <link>http://MyThinkPond.com/2016/06/02/zfs-finding-its-way-to-a-linux-near-you/</link>
+      <pubDate>Thu, 02 Jun 2016 17:43:45 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/06/02/zfs-finding-its-way-to-a-linux-near-you/</guid>
+      <description>Article published on Linux Journal, June 2016&#xA;http://www.linuxjournal.com/content/zfs-finding-its-way-linux-near-you</description>
+    </item>
+  </channel>
+</rss>

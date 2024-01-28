@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scripting on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/scripting/</link>
+    <description>Recent content in Scripting on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Mar 2017 19:29:22 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/scripting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Set Up a TFTP Server on Linux | Linux.com</title>
+      <link>http://MyThinkPond.com/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</link>
+      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</guid>
+      <description>Most users are familiar with FTP, but if you want to kickstart Red Hat installs, PXE boot systems, auto-provision VoIP phones or unbrick a Linux-based router, you want a Trivial File Transfer Protocol (TFTP) server. Setting one up on Linux is easy, and a perfect project to take on over the weekend.&#xA;Source: Weekend Project: Set Up a TFTP Server on Linux | Linux.com | The source for Linux information</description>
+    </item>
+    <item>
+      <title>How To Record Everything You Do In Terminal - OSTechNix</title>
+      <link>http://MyThinkPond.com/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</link>
+      <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</guid>
+      <description>Synopsis:&#xA;script -a my_history mkdir test cd test touch hello_world.txt echo &#39;Hello World&#39; &gt; ./hello_world.txt # This closes the &#34;script -a my_history&#34; file exit Source: How To Record Everything You Do In Terminal - OSTechNix</description>
+    </item>
+    <item>
+      <title>The Future of Web Development: Coding as a Service</title>
+      <link>http://MyThinkPond.com/2017/03/12/the-future-of-web-development-coding-as-a-service/</link>
+      <pubDate>Sun, 12 Mar 2017 18:38:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/12/the-future-of-web-development-coding-as-a-service/</guid>
+      <description>The article talks about the comoditization of web development as a service (Coding as a Service - CaaS).&#xA;For the price of two Venti Iced Caramel Macchiatos per month you can run a respectable website with little to no technical experience... Artificial Intelligence will enable more complex combinations of code to be fit together through an automated process... The quantity and quality of customization with AI will be staggering. And for the end user this means it will be at once simpler and cheaper.</description>
+    </item>
+    <item>
+      <title>Tired of &#34;Terminate batch job (Y/N)?&#34;, try this</title>
+      <link>http://MyThinkPond.com/2011/06/25/tired-of-terminate-batch-job-yn-try-this/</link>
+      <pubDate>Sat, 25 Jun 2011 03:56:13 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/06/25/tired-of-terminate-batch-job-yn-try-this/</guid>
+      <description>When you invoke a batch file or most applications in a command-prompt and when you wish to close the application by doing a CTRL+C, you get the annoying &amp;ldquo;Terminate batch job (Y/N)?&amp;rdquo; prompt. And in most cases, even if you type a &amp;ldquo;n&amp;rdquo;, it still kills the application. Example is the Tomcat startup. To avoid this, try this:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;YourScript.cmd &amp;lt; Nul&#xA;[/sourcecode]&#xA;This should no longer ask you with the annoying prompt &amp;ldquo;Terminate batch job (Y/N)?</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DOS on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/dos/</link>
+    <description>Recent content in DOS on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jun 2011 03:56:13 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/dos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tired of &#34;Terminate batch job (Y/N)?&#34;, try this</title>
+      <link>http://MyThinkPond.com/2011/06/25/tired-of-terminate-batch-job-yn-try-this/</link>
+      <pubDate>Sat, 25 Jun 2011 03:56:13 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/06/25/tired-of-terminate-batch-job-yn-try-this/</guid>
+      <description>When you invoke a batch file or most applications in a command-prompt and when you wish to close the application by doing a CTRL+C, you get the annoying &amp;ldquo;Terminate batch job (Y/N)?&amp;rdquo; prompt. And in most cases, even if you type a &amp;ldquo;n&amp;rdquo;, it still kills the application. Example is the Tomcat startup. To avoid this, try this:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;YourScript.cmd &amp;lt; Nul&#xA;[/sourcecode]&#xA;This should no longer ask you with the annoying prompt &amp;ldquo;Terminate batch job (Y/N)?</description>
+    </item>
+  </channel>
+</rss>

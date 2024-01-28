@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>css on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/css/</link>
+    <description>Recent content in css on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Mar 2012 17:53:35 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configure static resources in Django - Python</title>
+      <link>http://MyThinkPond.com/2012/03/01/configure-static-resources-in-django-python/</link>
+      <pubDate>Thu, 01 Mar 2012 17:53:35 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/03/01/configure-static-resources-in-django-python/</guid>
+      <description>Working on a Django project, one of the first things that one would encounter is configuring Django for static resources such as &amp;ldquo;css&amp;rdquo;, &amp;ldquo;images&amp;rdquo;, &amp;ldquo;jpeg&amp;rdquo; and &amp;ldquo;js&amp;rdquo;. In looking at the &amp;ldquo;StaticResources&amp;rdquo; link that&amp;rsquo;s part of the Django documentation, it&amp;rsquo;s a bit cryptic for someone who&amp;rsquo;s starting out in Django and Python. So here&amp;rsquo;s a step-by-step on two ways to configure your static-resources in a Django project.&#xA;This method is described in the Django documentation and is probably the preferred approach.</description>
+    </item>
+  </channel>
+</rss>

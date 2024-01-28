@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular.js on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/molecular.js/</link>
+    <description>Recent content in Molecular.js on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Sep 2019 23:53:36 -0400</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/molecular.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Microservices</title>
+      <link>http://MyThinkPond.com/post/2019-09-06-understanding_microservices/</link>
+      <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
+      <guid>http://MyThinkPond.com/post/2019-09-06-understanding_microservices/</guid>
+      <description>tl;dr Understanding how we got here and the problem that it solves will help understand what Microservices is all about.&#xA;A few months back, I gave a presentation at Leidos Cloud User Group on the topic of &amp;ldquo;Understanding Microservices&amp;rdquo;. To my astonishment, we had about 123 folks that attended the presentation. I felt that it&amp;rsquo;s best that I share this knowledge with the world. I have also created a short (and sweet) implementation of Microservices using JavaScript Cote.</description>
+    </item>
+  </channel>
+</rss>

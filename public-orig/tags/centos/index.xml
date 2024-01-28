@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CentOS on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/centos/</link>
+    <description>Recent content in CentOS on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2016 14:38:38 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/centos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CentOS 6.8 &amp; 7 - Change Timezone</title>
+      <link>http://MyThinkPond.com/2016/11/06/centos-6-8-7-change-timezone/</link>
+      <pubDate>Sun, 06 Nov 2016 14:38:38 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/06/centos-6-8-7-change-timezone/</guid>
+      <description>Here is a cheat sheet on changing the timezone in a linux system (CentOS 6.8 or 7):&#xA;# Remove the current timezone file rm /etc/localtime # Create a symbolic link to the new timezone you want # ls -la /usr/share/zoneinfo/ # ls -la /usr/share/zoneinfo/US/ # For GMT ln -s /usr/share/zoneinfo/GMT /etc/localtime # For EST ln -s /usr/share/zoneinfo/EST /etc/localtime # For UTC ln -s /usr/share/zoneinfo/UTC /etc/localtime # For GMT ln -s /usr/share/zoneinfo/GMT /etc/localtime # For New York (Eastern) ln -s /usr/share/zoneinfo/US/Eastern /etc/localtime # For Central ln -s /usr/share/zoneinfo/US/Central /etc/localtime # For Mountain time ln -s /usr/share/zoneinfo/US/Mountain /etc/localtime # For Pacific time ln -s /usr/share/zoneinfo/US/Pacific /etc/localtime # Set Date and Time (as needed) # MMDDHHmmYYYY date 072522172010 hwclock --systohc # If you&#39;re using NTPD Service # CentOS 6.</description>
+    </item>
+    <item>
+      <title>How to sync your date when you restore a VirtualBox snapshot?</title>
+      <link>http://MyThinkPond.com/2016/11/05/how-to-sync-your-date-when-you-restore-a-virtualbox-snapshot/</link>
+      <pubDate>Sat, 05 Nov 2016 16:45:30 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/11/05/how-to-sync-your-date-when-you-restore-a-virtualbox-snapshot/</guid>
+      <description>This article focuses on synchronizing/updating the clock in your guest linux VM after you restore a VirtualBox snapshot.&#xA;When you create a VirtualBox snapshot, it&amp;rsquo;s essentially a photo taken and frozen in time. All bits including the date and time are frozen to that instant. When you restore a snapshot, the Linux guest VM system is restored back to that snapshot including the date and time. This may not be desired all the time especially if the purpose is to restore the configuration and settings to an earlier time but your want to roll forward the clock on the VM to the present instance.</description>
+    </item>
+    <item>
+      <title>How to configure and install ZeroMQ (libsodium) on CentOS 6.7?</title>
+      <link>http://MyThinkPond.com/2015/09/07/how-to-install-and-configure-zeromq-libsodium-on-centos-6-7/</link>
+      <pubDate>Mon, 07 Sep 2015 02:02:54 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2015/09/07/how-to-install-and-configure-zeromq-libsodium-on-centos-6-7/</guid>
+      <description>When getting started on ZeroMQ (version 4.2.0 or above) can be quite challenging especially with all the prerequisites. I&amp;rsquo;ve spent a good two days to get the process ironed out. So I&amp;rsquo;m sharing this so that others can avoid the same pitfalls and can have a good head-start with setting up their environment.&#xA;Pitfall #1: Develop for your platform. I&amp;rsquo;m accustomed to developing in Ubuntu 14.04.3 LTE but in this case my deployment environment happens to be CentOS 6.</description>
+    </item>
+    <item>
+      <title>Working with zeromq (0mq), Java, JZMQ on a CentOS platform</title>
+      <link>http://MyThinkPond.com/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</link>
+      <pubDate>Tue, 25 Jun 2013 03:36:43 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</guid>
+      <description>Recently I decided to port some of my development using ZeroMQ onto my CentOS development machine and I ran into some challenges. I&amp;rsquo;m documenting those challenges so that if someone else runs into the same pitfalls I did, they can avoid it.&#xA;In this example today, we will work with the first &amp;ldquo;HelloWorld&amp;rdquo; examples in the ZeroMQ guide found here. I added a few modifications to the sample such as a package name and a try-catch around the Thread and an exception.</description>
+    </item>
+    <item>
+      <title>Python pycharm - configuring remote interpreters from Windows to Linux</title>
+      <link>http://MyThinkPond.com/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</link>
+      <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</guid>
+      <description>If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features here.&#xA;But as I started to tinker with the &amp;ldquo;remote interpreter&amp;rdquo; feature - I stumbled upon some challenges and I thought I&amp;rsquo;d document them for other PyCharm users who might benefit from this blog entry.</description>
+    </item>
+    <item>
+      <title>How to upgrade to Python 2.7 on CentOS</title>
+      <link>http://MyThinkPond.com/2011/12/28/how-to-upgrade-to-python-2-7-on-centos/</link>
+      <pubDate>Wed, 28 Dec 2011 17:58:32 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/12/28/how-to-upgrade-to-python-2-7-on-centos/</guid>
+      <description>If you tried upgrading to Python 2.7 on CentOS, you will quickly find out that the RPM&amp;rsquo;s don&amp;rsquo;t exist for this in the repos. So here&amp;rsquo;s a short summary of what I did to upgrade my Python to 2.7 on CentOS.&#xA;Based on a few Google searches&amp;hellip; I discovered that a few dependent packages are required before you try upgrading to Python 2.7.&#xA;[sourcecode]&#xA;yum -y groupinstall &amp;lsquo;Development Tools&amp;rsquo; yum -y install openssl-devel* ncurses-devel* zlib*.</description>
+    </item>
+    <item>
+      <title>How to list the package contents of a yum install?</title>
+      <link>http://MyThinkPond.com/2011/12/25/how-to-list-the-package-contents-of-a-yum-install/</link>
+      <pubDate>Sun, 25 Dec 2011 16:43:03 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/12/25/how-to-list-the-package-contents-of-a-yum-install/</guid>
+      <description>Sometimes you need to see what&amp;rsquo;s installed as part of a package via yum. To see the package contents you can use a utility that&amp;rsquo;s available on the RHEL/CentOS.&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;$repoquery &amp;ndash;list packagename&#xA;[/sourcecode]&#xA;If you do not have this utility available, you can install it by using this command&#xA;[sourcecode]&#xA;$yum install yum-utils&#xA;[/sourcecode]&#xA;Here is a sample output from looking at the package contents of Apache httpd.</description>
+    </item>
+  </channel>
+</rss>

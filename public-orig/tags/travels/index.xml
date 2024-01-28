@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>travels on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/travels/</link>
+    <description>Recent content in travels on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Aug 2014 22:14:56 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/travels/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photos from Venice, Italy</title>
+      <link>http://MyThinkPond.com/2014/08/21/photos-from-venice-italy/</link>
+      <pubDate>Thu, 21 Aug 2014 22:14:56 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/08/21/photos-from-venice-italy/</guid>
+      <description>Here are a few photos I took while in Venice, Italy.</description>
+    </item>
+    <item>
+      <title>Beautiful Island of Santorini, Greece</title>
+      <link>http://MyThinkPond.com/2014/08/20/beautiful-island-of-santorini-greece/</link>
+      <pubDate>Wed, 20 Aug 2014 21:42:24 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/08/20/beautiful-island-of-santorini-greece/</guid>
+      <description>Here are a few photographs I took on a clear sunny day in the island of Santorini, Greece.&#xA;Beautiful city carved out of a violent burst of volcano - shows the greatness of humanity and what we can overcome with endurance and strength!</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weblogic on MyThinkPond</title>
+    <link>http://MyThinkPond.com/categories/weblogic/</link>
+    <description>Recent content in Weblogic on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Sep 2010 18:08:52 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/categories/weblogic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weblogic 10.3 Heap Size (does not allow 3072mb)</title>
+      <link>http://MyThinkPond.com/2010/09/21/weblogic-10-3-heap-size-does-not-allow-3072mb/</link>
+      <pubDate>Tue, 21 Sep 2010 18:08:52 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/09/21/weblogic-10-3-heap-size-does-not-allow-3072mb/</guid>
+      <description>Has anyone experienced a similar issue? In tuning Weblogic 10.3 R27.6.0-50 for Windows, we were trying various values for the heap size.&#xA;Startup jRockit options:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;] -Xms1024m -Xmx1024m [/sourcecode]&#xA;We were setting both values to the same.&#xA;1024m = worked 2048m = worked 3072m = did not work 4096m = worked&#xA;Did anyone experience a similar problem in allocating? Is there something special about 3072MB?&#xA;Update from Sept. 28th, 2010: When we tried this additional property in the start-up parameter the 3GB option works: -XxcompressedRefs=0</description>
+    </item>
+    <item>
+      <title>Weblogic 10.3 - Using clear passwords while in production mode</title>
+      <link>http://MyThinkPond.com/2010/07/23/weblogic-10-3-using-clear-passwords-while-in-production-mode/</link>
+      <pubDate>Fri, 23 Jul 2010 20:39:34 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/07/23/weblogic-10-3-using-clear-passwords-while-in-production-mode/</guid>
+      <description>In Weblogic, (on your development server or workstation), you might want to run it in &amp;ldquo;production mode&amp;rdquo; but you don&amp;rsquo;t want to go through and encrypt all the database passwords in the JDBC files for your development database servers.&#xA;Well, this article shows you how. Before you do this, make sure you are NOT doing this in a production environment. By doing this in a real-production environment, you may be compromising the security of your production infrastructure.</description>
+    </item>
+  </channel>
+</rss>

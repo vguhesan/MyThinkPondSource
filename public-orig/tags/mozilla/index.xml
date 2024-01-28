@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mozilla on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/mozilla/</link>
+    <description>Recent content in mozilla on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Nov 2012 19:26:39 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/mozilla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cross-Browser Testing for WebSockets</title>
+      <link>http://MyThinkPond.com/2012/11/13/cross-browser-testing-for-websockets/</link>
+      <pubDate>Tue, 13 Nov 2012 19:26:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/11/13/cross-browser-testing-for-websockets/</guid>
+      <description>The traditional way to test for websockets is this:&#xA;[sourcecode] function WebSocketTest() { if (&amp;ldquo;WebSocket&amp;rdquo; in window) { alert(&amp;ldquo;Browser supports websocket&amp;rdquo;); } else { alert(&amp;ldquo;Browser does not support websocket&amp;rdquo;); } } &amp;hellip; Run WebSocket test [/sourcecode]&#xA;Although the above example will be technically correct for modern browsers it is important to consider some of the &amp;ldquo;experimental&amp;rdquo; implementation of this feature in earlier FireFox (Mozilla) browsers.&#xA;In FireFox (Mozilla), experimental features (until they graduate) gets added with a prefix of &amp;ldquo;Moz&amp;rdquo;.</description>
+    </item>
+  </channel>
+</rss>

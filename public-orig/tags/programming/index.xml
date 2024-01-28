@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/programming/</link>
+    <description>Recent content in Programming on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2017 16:26:27 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>uvloop - Python replacement for asyncio event loop</title>
+      <link>http://MyThinkPond.com/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</link>
+      <pubDate>Sat, 01 Apr 2017 16:26:27 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</guid>
+      <description>uvloop is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.&#xA;Benefits: uvloop makes asyncio 2-4x faster.&#xA;Cons: uvloop is available from PyPI but it requires Python 3.5. (The reason for this is asyncio was introduced in Python 3.4 and above.) Unless your project is based on Python 3.4+ - you may not be able to leverage this library.</description>
+    </item>
+    <item>
+      <title>Your password is probably useless, says coding guru Jeff Atwood. Here&#39;s why | ZDNet</title>
+      <link>http://MyThinkPond.com/2017/03/13/your-password-is-probably-useless-says-coding-guru-jeff-atwood-heres-why-zdnet/</link>
+      <pubDate>Mon, 13 Mar 2017 14:10:41 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2017/03/13/your-password-is-probably-useless-says-coding-guru-jeff-atwood-heres-why-zdnet/</guid>
+      <description>The best way to improve passwords is to think like the user and stop creating bad password-composition rules, Stack Overflow founder Jeff Atwood tells developers.&#xA;Source: Your password is probably useless, says coding guru Jeff Atwood. Here&amp;rsquo;s why | ZDNet</description>
+    </item>
+  </channel>
+</rss>

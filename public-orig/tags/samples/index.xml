@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>samples on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/samples/</link>
+    <description>Recent content in samples on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Apr 2010 14:30:39 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/samples/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Framework Samples and Reference Implementations online in svn</title>
+      <link>http://MyThinkPond.com/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</link>
+      <pubDate>Mon, 19 Apr 2010 14:30:39 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</guid>
+      <description>Sometimes it&amp;rsquo;s good to look at the svn repository for the reference sample that Spring Framework provides.&#xA;Here&amp;rsquo;s a quick link for that URL:&#xA;https://src.springframework.org/svn/spring-samples/&#xA;You can traverse through it via a HTTP(s) browser or you can download the latest samples via tools like TortiseSVN.&#xA;Here is a list of some of the projects samples that are available today:&#xA;spring-samples - Revision 431: /&#xA;* configuration-basic/ * jpetstore/ * mvc-ajax/ * mvc-basic/ * petcare/ * petclinic/ * petclinic-groovy/ * spring-travel/ * task-basic/ * templates/ * tutorials/ Hopefully this article will be beneficial for someone who is trying to get familiar with Spring Framework.</description>
+    </item>
+  </channel>
+</rss>

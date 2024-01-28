@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows 11 on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/windows-11/</link>
+    <description>Recent content in Windows 11 on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/windows-11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>**fix** VirtualBox installer fails on Windows 11 (program compatibility issue)</title>
+      <link>http://MyThinkPond.com/post/2022-01-2/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2022-01-2/</guid>
+      <description>What is this article about? When you try to install VirtualBox v.6.1.30 on Windows 11, you will see the following error:&#xA;This app can&#39;t run on this device: This app can&amp;rsquo;t run because it causes security performance issue on Windows. A new version may be available. Check with your software provider for an updated version that runs on this version of Windows.&#xA;It will further prevent you from executing the installer.</description>
+    </item>
+  </channel>
+</rss>

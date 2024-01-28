@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Template on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/template/</link>
+    <description>Recent content in Template on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jun 2016 23:14:21 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/template/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bash script to generate config or property file from a template file containing variables</title>
+      <link>http://MyThinkPond.com/2016/06/23/bash-generating-config-or-property-file-from-a-template-file-containing-variables/</link>
+      <pubDate>Thu, 23 Jun 2016 23:14:21 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2016/06/23/bash-generating-config-or-property-file-from-a-template-file-containing-variables/</guid>
+      <description>Sometimes we have configuration or properties file (as templates) such as httpd.conf or server.conf where we want to dynamically replace $variables with values before writing the output to a new file.&#xA;Example:&#xA;# httpd.conf.tmpl SetHandler server-status Order deny,allow Deny from all Allow from $MONITOR_IP We want to develop an install script in Bash such that it reads the httpd.conf.tmpl and replaces the $STATUS_URI and $MONITOR_IP with appropriate values (either passed in as script arguments or coded in the bash script) and then write out the resulting output to a new file such as /tmp/httpd.</description>
+    </item>
+    <item>
+      <title>Grails - Adding JavaScript to bottom of page</title>
+      <link>http://MyThinkPond.com/2014/02/02/grails-adding-javascript-bottom-page/</link>
+      <pubDate>Sun, 02 Feb 2014 17:10:04 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2014/02/02/grails-adding-javascript-bottom-page/</guid>
+      <description>In Grails using the templating (Sitemesh) if you were to include per-page JavaScript resources then it shows up much earlier in the layout content as part of the &amp;lt;g:layoutBody&amp;gt;&#xA;Here is an example illustrating the problem:&#xA;SamplePage.gsp [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; MyThinkPond.com Custom Page ... Some this page content [/sourcecode]&#xA;and the layout page (layoutPage.gsp) [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; ... Some template (header) content [/sourcecode]&#xA;results in the following page in browser [sourcecode language=&amp;ldquo;html&amp;rdquo;]</description>
+    </item>
+  </channel>
+</rss>

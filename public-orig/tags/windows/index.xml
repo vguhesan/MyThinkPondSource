@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/windows/</link>
+    <description>Recent content in Windows on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remove .DS_Store and ._.DS_Store under Windows</title>
+      <link>http://MyThinkPond.com/post/2022-01-3/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://MyThinkPond.com/post/2022-01-3/</guid>
+      <description>What is this article about? When you move from a Mac OSX onto Windows, the file system will contain two files under every directory labeled &amp;ldquo;.DS_Store&amp;rdquo; and &amp;ldquo;._.DS_Store&amp;rdquo;. These files are not useful especially if you&amp;rsquo;re trying to commit code under a Git source control. It can sometime get very annoying and to eliminate this &amp;ldquo;noise&amp;rdquo; from your day to day development, you may want to remove these artifacts from your Windows system.</description>
+    </item>
+    <item>
+      <title>Configure Jumbo Packets for all your devices including Windows/Linux/Mac OS X on your network</title>
+      <link>http://MyThinkPond.com/post/2017-10-16-enabling-jumbo-packets-for-your-devices/</link>
+      <pubDate>Mon, 16 Oct 2017 13:22:49 -0400</pubDate>
+      <guid>http://MyThinkPond.com/post/2017-10-16-enabling-jumbo-packets-for-your-devices/</guid>
+      <description>Summary This article focus on how to setup Jumbo packets on all your various devices in your network. This includes Windows 10+, Linux, Mac OS X+.&#xA;What is Jumbo packet or Jumbo Frame? A jumbo frame is an Ethernet frame with a payload greater than the standard maximum transmission unit (MTU) of 1,500 bytes. Jumbo frames are used on local area networks that support at least 1 Gbps and can be as large as 9,000 bytes.</description>
+    </item>
+    <item>
+      <title>Python pycharm - configuring remote interpreters from Windows to Linux</title>
+      <link>http://MyThinkPond.com/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</link>
+      <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</guid>
+      <description>If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features here.&#xA;But as I started to tinker with the &amp;ldquo;remote interpreter&amp;rdquo; feature - I stumbled upon some challenges and I thought I&amp;rsquo;d document them for other PyCharm users who might benefit from this blog entry.</description>
+    </item>
+  </channel>
+</rss>

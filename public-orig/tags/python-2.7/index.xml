@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python 2.7 on MyThinkPond</title>
+    <link>http://MyThinkPond.com/tags/python-2.7/</link>
+    <description>Recent content in python 2.7 on MyThinkPond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Dec 2011 17:58:32 +0000</lastBuildDate>
+    <atom:link href="http://MyThinkPond.com/tags/python-2.7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to upgrade to Python 2.7 on CentOS</title>
+      <link>http://MyThinkPond.com/2011/12/28/how-to-upgrade-to-python-2-7-on-centos/</link>
+      <pubDate>Wed, 28 Dec 2011 17:58:32 +0000</pubDate>
+      <guid>http://MyThinkPond.com/2011/12/28/how-to-upgrade-to-python-2-7-on-centos/</guid>
+      <description>If you tried upgrading to Python 2.7 on CentOS, you will quickly find out that the RPM&amp;rsquo;s don&amp;rsquo;t exist for this in the repos. So here&amp;rsquo;s a short summary of what I did to upgrade my Python to 2.7 on CentOS.&#xA;Based on a few Google searches&amp;hellip; I discovered that a few dependent packages are required before you try upgrading to Python 2.7.&#xA;[sourcecode]&#xA;yum -y groupinstall &amp;lsquo;Development Tools&amp;rsquo; yum -y install openssl-devel* ncurses-devel* zlib*.</description>
+    </item>
+  </channel>
+</rss>
